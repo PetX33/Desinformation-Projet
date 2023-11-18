@@ -14,6 +14,13 @@ else
 	exit
 fi
 
+# Vérifier si ggrep est disponible, sinon utiliser grep
+if command -v ggrep > /dev/null; then
+    GREP_CMD="ggrep"
+else
+    GREP_CMD="grep"
+fi
+
 fichier_urls=$1
 fichier_tableau=$2
 
@@ -42,7 +49,7 @@ do
 	code=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
 	
 	# récupération de l'encodage
-	charset=$(curl -s -I -L -w "%{content_type}" $URL | ggrep -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+	charset=$(curl -s -I -L -w "%{content_type}" $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 
 	 # Déterminer le résultat en fonction du code de réponse HTTP
 	if [ "$code" -eq 200 ]; then
