@@ -195,9 +195,9 @@ Most viewed
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43038-5260TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43038-5260TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43038-5260TMP.html#navigation
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49503-2395TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49503-2395TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49503-2395TMP.html#navigation
    4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
    5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
    6. https://jobs.theguardian.com/
@@ -354,7 +354,7 @@ References
  157. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
  158. https://advertising.theguardian.com/
  159. https://jobs.theguardian.com/
- 160. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43038-5260TMP.html#top
+ 160. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49503-2395TMP.html#top
 
    Hidden links:
  162. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_fb

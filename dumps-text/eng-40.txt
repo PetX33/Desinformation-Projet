@@ -237,9 +237,9 @@ Most viewed
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43095-5362TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43095-5362TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43095-5362TMP.html#navigation
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49572-2030TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49572-2030TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49572-2030TMP.html#navigation
    4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
    5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
    6. https://jobs.theguardian.com/
@@ -355,7 +355,7 @@ References
  116. https://apnews.com/article/2022-midterm-elections-russia-ukraine-campaigns-presidential-ea913f2b3b818651a9db1327adaa330a
  117. https://www.nytimes.com/2022/10/25/us/politics/ohio-robocalls-wohl-burkman-guilty.html#:~:text=Wohl used a voice broadcasting,or went to voice mail.
  118. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358982
- 119. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43095-5362TMP.html#EmailSignup-skip-link-18
+ 119. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49572-2030TMP.html#EmailSignup-skip-link-18
  120. https://www.theguardian.com/help/privacy-policy
  121. https://policies.google.com/privacy
  122. https://policies.google.com/terms
@@ -404,7 +404,7 @@ References
  165. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
  166. https://advertising.theguardian.com/
  167. https://jobs.theguardian.com/
- 168. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43095-5362TMP.html#top
+ 168. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49572-2030TMP.html#top
 
    Hidden links:
  170. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2023%2Fjul%2F19%2Fai-generated-disinformation-us-elections%3FCMP%3Dshare_btn_fb

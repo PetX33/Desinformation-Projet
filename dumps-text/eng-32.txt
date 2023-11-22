@@ -191,13 +191,13 @@ References
    Visible links:
    1. nyt://article/ad0e8fd2-6d6a-51fe-a311-fab3fd0eb56d
    2. https://www.nytimes.com/svc/oembed/json/?url=https://www.nytimes.com/2023/09/28/technology/china-disinformation-us-state-department.html
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42942-283TMP.html#site-content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42942-283TMP.html#site-index
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49388-4018TMP.html#site-content
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49388-4018TMP.html#site-index
    5. https://www.nytimes.com/section/technology
    6. https://www.nytimes.com/section/todayspaper
    7. file:///section/technology
-   8. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42942-283TMP.html#after-top
-   9. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42942-283TMP.html#after-sponsor
+   8. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49388-4018TMP.html#after-top
+   9. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49388-4018TMP.html#after-sponsor
   10. https://www.nytimes.com/by/steven-lee-myers
   11. https://www.nytimes.com/by/steven-lee-myers
   12. https://www.state.gov/gec-special-report-how-the-peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/
@@ -210,7 +210,7 @@ References
   19. https://www.parsintl.com/publication/the-new-york-times/
   20. https://www.nytimes.com/section/todayspaper
   21. https://www.nytimes.com/subscriptions/Multiproduct/lp8HYKU.html?campaignId=48JQY
-  22. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42942-283TMP.html#after-bottom
+  22. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49388-4018TMP.html#after-bottom
   23. https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
   24. https://www.nytco.com/
   25. https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us

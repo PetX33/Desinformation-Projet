@@ -210,9 +210,9 @@ Most viewed
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43077-2913TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43077-2913TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43077-2913TMP.html#navigation
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49549-502TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49549-502TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49549-502TMP.html#navigation
    4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
    5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
    6. https://jobs.theguardian.com/
@@ -323,7 +323,7 @@ References
  111. https://digital-strategy.ec.europa.eu/en/news/code-practice-disinformation-new-reports-available-transparency-centre
  112. https://www.theguardian.com/technology/internet
  113. https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts
- 114. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43077-2913TMP.html#EmailSignup-skip-link-18
+ 114. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49549-502TMP.html#EmailSignup-skip-link-18
  115. https://www.theguardian.com/help/privacy-policy
  116. https://policies.google.com/privacy
  117. https://policies.google.com/terms
@@ -370,7 +370,7 @@ References
  158. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
  159. https://advertising.theguardian.com/
  160. https://jobs.theguardian.com/
- 161. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43077-2913TMP.html#top
+ 161. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49549-502TMP.html#top
 
    Hidden links:
  163. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Fsep%2F26%2Feu-warns-elon-musk-that-twitter-x-must-comply-with-fake-news-laws%3FCMP%3Dshare_btn_fb

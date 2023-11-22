@@ -98,8 +98,8 @@ More on this story
 Top Stories
 
        Israel and Hamas agree to pause fighting for release of 50 hostages
-            1 hour ago
-            8 hours ago
+            13 minutes ago
+            9 hours ago
 
 Features
 
@@ -149,7 +149,7 @@ References
    1. https://www.bbc.co.uk/news/technology-67157733
    2. https://www.bbc.com/news/technology-67157733
    3. https://www.bbc.com/
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42476-6460TMP.html#main-heading
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#main-heading
    5. https://www.bbc.co.uk/accessibility/
    6. https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/technology-67157733
    7. https://www.bbc.com/
@@ -159,8 +159,8 @@ References
   11. https://www.bbc.com/reel
   12. https://www.bbc.com/worklife
   13. https://www.bbc.com/travel
-  14. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42476-6460TMP.html#chameleon-global-navigation-more-menu
-  15. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42476-6460TMP.html#chameleon-global-navigation-more-menu
+  14. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#chameleon-global-navigation-more-menu
+  15. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#chameleon-global-navigation-more-menu
   16. https://www.bbc.co.uk/search?d=NEWS_GNL
   17. https://www.bbc.com/
   18. https://www.bbc.com/news
@@ -175,9 +175,9 @@ References
   27. https://www.bbc.co.uk/schedules/p00fzl9m
   28. https://www.bbc.com/weather
   29. https://www.bbc.co.uk/sounds
-  30. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42476-6460TMP.html#more-menu-button
+  30. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#more-menu-button
   31. file:///news
-  32. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42476-6460TMP.html#product-navigation-menu
+  32. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#product-navigation-menu
   33. file:///news
   34. file:///news/topics/c2vdnvdg6xxt
   35. file:///news/world-60525350
@@ -188,7 +188,7 @@ References
   40. file:///news/business
   41. file:///news/technology
   42. file:///news/science_and_environment
-  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42476-6460TMP.html#product-navigation-more-menu
+  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#product-navigation-more-menu
   44. file:///news/entertainment_and_arts
   45. file:///news/health
   46. file:///news/world_radio_and_tv
@@ -225,11 +225,11 @@ References
   77. file:///news/technology-67485561
   78. file:///news/world-asia-china-67483202
   79. file:///news/world-us-canada-67446806
-  80. file:///news/technology-67492753
-  81. file:///news/world-europe-67487777
-  82. file:///news/world-us-canada-67477560
-  83. file:///news/entertainment-arts-67494368
-  84. file:///news/uk-67492559
+  80. file:///news/world-europe-67487777
+  81. file:///news/entertainment-arts-67494368
+  82. file:///news/uk-67492559
+  83. file:///news/technology-67492753
+  84. file:///news/world-us-canada-67477560
   85. file:///news/world-us-canada-67489861
   86. https://www.bbc.co.uk/news/10628994
   87. https://www.bbc.co.uk/news/help-50068132

@@ -349,8 +349,8 @@ References
    7. https://dialogo-americas.com/wp-json/wp/v2/posts/86768
    8. https://dialogo-americas.com/wp-json/oembed/1.0/embed?url=https://dialogo-americas.com/articles/russian-propaganda-and-disinformation/
    9. https://dialogo-americas.com/wp-json/oembed/1.0/embed?url=https://dialogo-americas.com/articles/russian-propaganda-and-disinformation/&format=xml
-  10. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42373-7091TMP.html#primary
-  11. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42373-7091TMP.html
+  10. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48690-9284TMP.html#primary
+  11. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48690-9284TMP.html
   12. https://dialogo-americas.com/es/articles/propaganda-y-desinformacion-rusas/
   13. https://dialogo-americas.com/pt-br/articles/propaganda-e-desinformacao-russas/
   14. https://dialogo-americas.com/
@@ -395,7 +395,7 @@ References
   52. http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdialogo-americas.com%2Farticles%2Frussian-propaganda-and-disinformation%2F
   53. https://twitter.com/share?url=https%3A%2F%2Fdialogo-americas.com%2Farticles%2Frussian-propaganda-and-disinformation%2F&text=Russian+Propaganda+and+Disinformation
   54. https://www.linkedin.com/shareArticle?mini=true&title=Russian+Propaganda+and+Disinformation&url=https%3A%2F%2Fdialogo-americas.com%2Farticles%2Frussian-propaganda-and-disinformation%2F
-  55. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42373-7091TMP.html
+  55. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48690-9284TMP.html
   56. https://web.whatsapp.com/send?text=https%3A%2F%2Fdialogo-americas.com%2Farticles%2Frussian-propaganda-and-disinformation%2F
   57. https://dialogo-americas.com/articles/china-seeks-to-increase-international-disinformation/
   58. https://dialogo-americas.com/articles/guatemala-beefs-up-its-border-with-mexico-against-drug-trafficking-cartels/
@@ -404,4 +404,4 @@ References
   61. https://twitter.com/dialogo_eng
   62. https://www.youtube.com/channel/UCz6I6rbA-ycPACNJE5wCDkQ
   63. https://www.instagram.com/dialogo_magazine_EN/
-  64. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42373-7091TMP.html#scroll-top
+  64. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48690-9284TMP.html#scroll-top

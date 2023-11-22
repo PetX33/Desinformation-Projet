@@ -247,9 +247,9 @@ References
  113. javascript:void(0);
  114. javascript:void(0);
  115. javascript:void(0);
- 116. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42727-2077TMP.html
- 117. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42727-2077TMP.html
- 118. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42727-2077TMP.html
+ 116. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49130-1514TMP.html
+ 117. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49130-1514TMP.html
+ 118. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49130-1514TMP.html
  119. https://www.facebook.com/msnbc
  120. https://www.instagram.com/msnbc
  121. https://www.twitter.com/msnbc

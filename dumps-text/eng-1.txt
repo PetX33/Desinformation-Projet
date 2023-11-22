@@ -2,15 +2,11 @@
 
 Video
 
-
 Live
-
 
 Shows
 
-
 Election 2024
-
 
 538
 
@@ -51,7 +47,7 @@ before election
    beware of a disinformation campaign after some people got fake messages
    saying that the ruling party was offering free funerals for pensioners.
 
-   The country is facing a crucial national [7]election on Sunday, and the
+   The country is facing a crucial national election on Sunday, and the
    fake messages and the warnings come as cyber experts have warned of the
    risks of disinformation.
 
@@ -90,20 +86,20 @@ before election
 
 Top Stories
 
-US hits Iran-backed militants with 4th round of airstrikes
-
-
 US retaliates against Iran-backed militants after ballistic missile strike
 
 
-At least 3 dead, 3 believed to be missing following landslide in Alaska:
-Officials
+US hits Iran-backed militants with 4th round of airstrikes
+
+
+Sam Altman ouster spotlights rift over extinction threat posed by AI
 
 
 Thanksgiving storm live updates: Severe weather threatens travel
 
 
-Sam Altman ouster spotlights rift over extinction threat posed by AI
+At least 3 dead, 3 believed to be missing following landslide in Alaska:
+Officials
 
 
 ABC News Live
@@ -111,33 +107,12 @@ ABC News Live
    ABC News Live
 
    24/7 coverage of breaking news and live events
-
-References
-
-   Visible links:
-   1. file:///Video
-   2. file:///Live
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42332-6673TMP.html
-   4. file:///elections
-   5. file:///538
-   6. https://www.hulu.com/network/abc-news-2662d112-7114-4c6b-96fd-cb9e68a27eee?cmp=18043&utm_campaign=OO_ABCNews_NavButton_OnChannel_Hulu&utm_medium=Display&utm_source=OO_ABCNews
-   7. https://abcnews.go.com/alerts/Elections
-   8. file:///
-   9. http://disneyprivacycenter.com/
-  10. https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/
-  11. https://disneyprivacycenter.com/kids-privacy-policy/english/
-  12. https://preferences-mgr.truste.com/?type=abcnews&affiliateId=11
-  13. https://www.nielsen.com/digitalprivacy
-  14. https://disneytermsofuse.com/
-  15. https://privacy.thewaltdisneycompany.com/en/dnssmpi/
-  16. https://abcnews.go.com/contact
-
-   Hidden links:
-  18. file://localhost/
-  19. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42332-6673TMP.html
-  20. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42332-6673TMP.html
-  21. https://abcnews.go.com/Politics/us-hits-iran-backed-militants-fourth-round-retaliatory/story?id=105081095
-  22. https://abcnews.go.com/Politics/us-gunship-strikes-back-iran-linked-militants-injured/story?id=105070277
-  23. https://abcnews.go.com/US/alaska-wrangell-landslide/story?id=105076719
-  24. https://abcnews.go.com/US/live-updates/thanksgiving-travel-weather/?id=105057519
-  25. https://abcnews.go.com/Business/sam-altman-ouster-spotlights-rift-extinction-threat-posed/story?id=105061174
+   ABC News Network
+   Privacy Policy
+   Your US State Privacy Rights
+   Children's Online Privacy Policy
+   Interest-Based Ads
+   About Nielsen Measurement
+   Terms of Use
+   Do Not Sell or Share My Personal Information
+   Contact Us

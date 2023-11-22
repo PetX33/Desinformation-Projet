@@ -150,9 +150,9 @@ Most viewed
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43058-6922TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43058-6922TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43058-6922TMP.html#navigation
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49525-4441TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49525-4441TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49525-4441TMP.html#navigation
    4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
    5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
    6. https://jobs.theguardian.com/
@@ -312,7 +312,7 @@ References
  160. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
  161. https://advertising.theguardian.com/
  162. https://jobs.theguardian.com/
- 163. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43058-6922TMP.html#top
+ 163. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49525-4441TMP.html#top
 
    Hidden links:
  165. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F15%2Ftiktok-says-it-has-acted-to-curb-disinformation-amid-israel-hamas-war%3FCMP%3Dshare_btn_fb

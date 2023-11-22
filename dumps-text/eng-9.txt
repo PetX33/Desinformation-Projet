@@ -262,7 +262,7 @@ Globe Ideas
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42494-1836TMP.html#main
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48839-1727TMP.html#main
    2. https://www.bostonglobe.com/globe-today/?p1=BGMenu_Sections
    3. file:///nation/special-reports/coronavirus/?p1=BGMenu_Sections
    4. file:///metro/?p1=BGMenu_Sections
@@ -418,11 +418,11 @@ References
  153. https://www.bostonglobe.com/?p1=BGHeader_Logo
  154. https://www.facebook.com/sharer/sharer.php?u=https://www.bostonglobe.com/2023/10/26/opinion/israel-gaza-qatar-hamas-hostage-release-negotiations/?event=event25&title=Qatar%20is%20the%20key%20to%20peace%20in%20postwar%20Gaza
  155. https://twitter.com/intent/tweet?text=Qatar%20is%20the%20key%20to%20peace%20in%20postwar%20Gaza&url=https%3A%2F%2Fwww.bostonglobe.com%2F2023%2F10%2F26%2Fopinion%2Fisrael-gaza-qatar-hamas-hostage-release-negotiations%2F%3Fevent%3Devent25&via=BostonGlobe
- 156. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42494-1836TMP.html#bgmp-comments
+ 156. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48839-1727TMP.html#bgmp-comments
  157. https://pages.bostonglobe.com/login/?p1=BGHeader_LogIn
  158. https://www.facebook.com/sharer/sharer.php?u=https://www.bostonglobe.com/2023/10/26/opinion/israel-gaza-qatar-hamas-hostage-release-negotiations/?event=event25
  159. https://twitter.com/intent/tweet?text=Qatar%20is%20the%20key%20to%20peace%20in%20postwar%20Gaza&url=https%3A%2F%2Fwww.bostonglobe.com%2F2023%2F10%2F26%2Fopinion%2Fisrael-gaza-qatar-hamas-hostage-release-negotiations%2F%3Fevent%3Devent25&via=BostonGlobe
- 160. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42494-1836TMP.html#bgmp-comments
+ 160. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48839-1727TMP.html#bgmp-comments
  161. file://localhost/2020/04/27/opinion/put-public-health-over-profits/
  162. https://twitter.com/GlobeOpinion
  163. https://www.facebook.com/GlobeOpinion/

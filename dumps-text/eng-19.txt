@@ -237,7 +237,7 @@ References
    3. https://www.jta.org/wp-json/oembed/1.0/embed?url=https://www.jta.org/2023/10/23/israel/fearing-denial-and-disinformation-israel-shows-journalists-raw-footage-of-hamas-attacks
    4. https://www.jta.org/wp-json/oembed/1.0/embed?url=https://www.jta.org/2023/10/23/israel/fearing-denial-and-disinformation-israel-shows-journalists-raw-footage-of-hamas-attacks&format=xml
    5. https://www.googletagmanager.com/ns.html?id=http://GTM-TKZ5V3
-   6. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42691-4445TMP.html#content
+   6. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49082-9669TMP.html#content
    7. https://www.jta.org/support
    8. https://www.jta.org/
    9. https://www.jta.org/category/united-states
@@ -257,7 +257,7 @@ References
   23. https://www.jta.org/category/video
   24. file:///jewniverse
   25. https://www.jta.org/series/teen-fellowship
-  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42691-4445TMP.html
+  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49082-9669TMP.html
   27. https://www.jta.org/category/united-states
   28. https://www.jta.org/category/israel
   29. https://www.jta.org/category/global
@@ -275,7 +275,7 @@ References
   41. https://www.jta.org/category/video
   42. file:///jewniverse
   43. https://www.jta.org/series/teen-fellowship
-  44. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42691-4445TMP.html
+  44. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49082-9669TMP.html
   45. https://www.jta.org/about-us
   46. https://www.jta.org/support
   47. https://www.jta.org/

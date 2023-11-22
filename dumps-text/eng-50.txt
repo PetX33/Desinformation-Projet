@@ -292,9 +292,9 @@ References
    Visible links:
    1. file:///api/
    2. https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43286-5556TMP.html#content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43286-5556TMP.html#navigation
-   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43286-5556TMP.html#txtHeaderSearch
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49797-8040TMP.html#content
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49797-8040TMP.html#navigation
+   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49797-8040TMP.html#txtHeaderSearch
    6. file:///p/6195.html
    7. file:///usa
    8. file:///all-about-america
@@ -314,8 +314,8 @@ References
   22. https://www.voanews.com/programs/tv
   23. file:///navigation/allsites
   24. file:///
-  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43286-5556TMP.html
-  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43286-5556TMP.html
+  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49797-8040TMP.html
+  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49797-8040TMP.html
   27. file:///z/5818
   28. file:///author/liam-scott/p_rvy
   29. file:///a/study-exxon-mobil-accurately-predicted-warming-since-1970s-/6916612.html
@@ -333,7 +333,7 @@ References
   41. https://projects.voanews.com/press-freedom/afghanistan/media-under-taliban/
   42. https://projects.voanews.com/press-freedom/mexico/mechanism-protecting-mexican-journalists.html
   43. file:///z/6885
-  44. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43286-5556TMP.html#page
+  44. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49797-8040TMP.html#page
   45. file:///z/599
   46. file:///immigration
   47. file:///all-about-america

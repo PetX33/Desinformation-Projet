@@ -216,9 +216,9 @@ Most viewed
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43133-6427TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43133-6427TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43133-6427TMP.html#navigation
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49619-4215TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49619-4215TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49619-4215TMP.html#navigation
    4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
    5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
    6. https://jobs.theguardian.com/
@@ -334,7 +334,7 @@ References
  116. https://www.theguardian.com/us-news/2023/jul/05/biden-social-media-injunction-lawsuit
  117. https://www.propublica.org/article/jim-jordan-disinformation-subpoena-universities
  118. https://www.washingtonpost.com/technology/2023/06/06/disinformation-researchers-congress-jim-jordan/
- 119. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43133-6427TMP.html#EmailSignup-skip-link-15
+ 119. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49619-4215TMP.html#EmailSignup-skip-link-15
  120. https://www.theguardian.com/help/privacy-policy
  121. https://policies.google.com/privacy
  122. https://policies.google.com/terms
@@ -390,7 +390,7 @@ References
  172. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
  173. https://advertising.theguardian.com/
  174. https://jobs.theguardian.com/
- 175. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43133-6427TMP.html#top
+ 175. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49619-4215TMP.html#top
 
    Hidden links:
  177. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Fjul%2F10%2Frepublicans-fuel-the-disinformation-wars%3FCMP%3Dshare_btn_fb

@@ -116,15 +116,6 @@ Israel & Hamas At War
 
 More from CBS News
 
-Babies from Gaza make it to Egypt as 2nd hospital reportedly encircled
-
-Elon Musk says X will donate ad, subscription revenue tied to Gaza war
-
-Elon Musk's X sues Media Matters as advertisers flee over report on hate
-groups
-
-Israeli government approves deal for hostage release, short cease-fire
-
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
 
 
@@ -150,7 +141,7 @@ References
    9. https://www.cbsnews.com/streaming/
   10. file:///moneywatch/managing-your-money/
   11. file:///newsletters/?ftag=CNM-00-10abb3f
-  12. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+  12. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
   13. file:///us/
   14. file:///world/
   15. file:///politics/
@@ -172,7 +163,7 @@ References
   31. https://www.cbsnews.com/news/celeste-maloy-wins-utah-special-election-congress-435th-seat-republican/
   32. https://www.cbsnews.com/news/philadelphia-shooting-6th-street-allegheny-avenue-crime/
   33. https://www.cbsnews.com/news/rosalynn-carter-flags-flown-half-staff-saturday-biden-says/
-  34. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+  34. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
   35. file:///cbs-mornings/
   36. file:///evening-news/
   37. file:///60-minutes/
@@ -191,7 +182,7 @@ References
   50. file:///the-dish/
   51. file:///here-comes-the-sun/
   52. file:///person-to-person/
-  53. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+  53. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
   54. https://www.cbsnews.com/live/
   55. https://www.cbsnews.com/baltimore/live/
   56. https://www.cbsnews.com/sanfrancisco/live/
@@ -210,7 +201,7 @@ References
   69. https://www.cbsnews.com/live/cbs-sports-hq/
   70. https://www.cbsnews.com/live/inside-edition/
   71. https://www.cbsnews.com/live/mixible/
-  72. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+  72. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
   73. https://www.cbsnews.com/baltimore/
   74. https://www.cbsnews.com/sanfrancisco/
   75. https://www.cbsnews.com/boston/
@@ -225,7 +216,7 @@ References
   84. https://www.cbsnews.com/pittsburgh/
   85. https://www.cbsnews.com/sacramento/
   86. https://www.cbsnews.com/texas/
-  87. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+  87. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
   88. file:///
   89. file:///video/
   90. file:///pictures/
@@ -242,7 +233,7 @@ References
  101. https://www.paramountplus.com/shows/news/?ftag=PPM-06-10ahi1b
  102. https://pages.beamery.com/paramount/page/cbsnewsstations
  103. file:///video/playlist/davos-interviews-2023/
- 104. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html#search-form:
+ 104. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html#search-form:
  105. file:///search/
  106. https://www.cbsnews.com/cbs-mornings-saturday?ftag=CNM-16-10abg0d
  107. file:///cbs-mornings/saturday
@@ -270,7 +261,7 @@ References
  129. https://instagram.com/jolingkent/
  130. https://www.viacomcbsprivacy.com/policy
  131. https://privacy.paramount.com/en/policy#additional-information-us-states
- 132. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+ 132. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
  133. https://www.cbsinteractive.com/legal/cbsi/terms-of-use
  134. https://www.cbscorporation.com/
  135. https://www.cbsinteractive.com/advertising
@@ -285,13 +276,13 @@ References
  144. https://instagram.com/cbsnews/
  145. https://www.youtube.com/CBSNews
  146. file:///app/?ftag=CNM-16-10abd6g&url=https://www.cbsnews.com/news/israel-social-media-disinformation-spreads-amid-war/
- 147. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html#app
+ 147. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html#app
 
    Hidden links:
- 149. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html#site-header:84
- 150. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html#x
+ 149. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html#site-header:74
+ 150. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html#x
  151. https://www.cbsnews.com/
- 152. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42575-7235TMP.html
+ 152. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
  153. file://localhost/live/
  154. file://localhost/live/
  155. http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fisrael-social-media-disinformation-spreads-amid-war%2F
@@ -299,7 +290,3 @@ References
  157. https://share.flipboard.com/bookmarklet/popout?v=2&utm_source=www.cbsnews.com&utm_medium=article-share&utm_campaign=tools&title=Social%20media%20disinformation%20spreads%20amid%20war%20in%20Israel&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fisrael-social-media-disinformation-spreads-amid-war%2F
  158. https://www.cbsnews.com/user/login/?ifmsgr=true&page=/news/israel-social-media-disinformation-spreads-amid-war/
  159. https://www.cbsnews.com/user/registration/?ifmsgr=true
- 160. https://www.cbsnews.com/sacramento/news/israel-hamas-war-gaza-al-shifa-hospital-indonesian-hospital-babies-egypt/?intcid=CNR-01-0623
- 161. https://www.cbsnews.com/news/elon-musk-x-corp-donate-ad-subscription-revenue-gaza-war-israel/?intcid=CNR-01-0623
- 162. https://www.cbsnews.com/philadelphia/news/elon-musk-x-twitter-sues-media-matters-ads-hate-groups/?intcid=CNR-01-0623
- 163. https://www.cbsnews.com/detroit/news/israel-hamas-war-hostages-cease-fire-agreement-netanyahu-cabinet-meeting/?intcid=CNR-01-0623

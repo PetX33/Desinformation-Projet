@@ -203,10 +203,10 @@ References
   16. https://edition.cnn.com/live-tv
   17. file:///account/settings
   18. file:///account/my-news?iid=fw_var-nav
-  19. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+  19. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
   20. file:///account/settings
   21. file:///account/my-news?iid=fw_var-nav
-  22. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+  22. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
   23. https://edition.cnn.com/live-tv
   24. https://edition.cnn.com/audio
   25. https://us.cnn.com/?hpt=header_edition-picker
@@ -330,7 +330,7 @@ References
  143. https://www.cnn.com/markets/stocks/GOOGL
  144. file:///account/settings
  145. file:///account/my-news?iid=fw_var-nav
- 146. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+ 146. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
  147. https://edition.cnn.com/live-tv
  148. https://edition.cnn.com/audio
  149. https://edition.cnn.com/world
@@ -429,7 +429,7 @@ References
  242. https://edition.cnn.com/live-tv
  243. file:///account/settings
  244. file:///account/my-news?iid=fw_var-nav
- 245. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+ 245. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
  246. https://edition.cnn.com/terms
  247. https://edition.cnn.com/privacy
  248. https://warnermediaprivacy.com/policycenter/b2c/WMNS
@@ -439,11 +439,11 @@ References
  252. https://edition.cnn.com/transcripts
 
    Hidden links:
- 254. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html#maincontent
+ 254. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html#maincontent
  255. https://edition.cnn.com/
  256. https://edition.cnn.com/business
- 257. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
- 258. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+ 257. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
+ 258. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
  259. https://facebook.com/cnnbusiness
  260. https://twitter.com/cnnbusiness
  261. https://instagram.com/cnnbusiness
@@ -458,12 +458,12 @@ References
  270. file://localhost/videos/tech/2023/11/21/exp-tsr-todd-openai-ceo-altman-fired.cnn
  271. file://localhost/videos/business/2023/11/21/elon-musk-brody-lawsuit-osullivan-pkg-ac-360-vpx.cnn
  272. file://localhost/videos/tech/2023/11/20/lead-webb-openai-ceo-fired.cnn
- 273. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+ 273. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
  274. https://edition.cnn.com/
  275. https://edition.cnn.com/business
  276. https://facebook.com/cnnbusiness
  277. https://twitter.com/cnnbusiness
  278. https://youtube.com/user/CNN
  279. https://instagram.com/cnnbusiness
- 280. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
- 281. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42396-6442TMP.html
+ 280. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
+ 281. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html

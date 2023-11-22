@@ -225,18 +225,18 @@ Detroit Fireworks
 
 Trending
 
-   Detroit Police investigate two separate, unrelated double shootings on
-   Saturday
-   Detroit Police investigate two separate, unrelated double shootings on
-   Saturday
+   Fire breaks out at Stellantis North America in Auburn Hills
+   Fire breaks out at Stellantis North America in Auburn Hills
 
-[166]Detroit Police investigate two separate, unrelated double shootings on
-Saturday
+[166]Fire breaks out at Stellantis North America in Auburn Hills
 
-   Police: 18-year-old passenger killed in high-speed Grosse Pointe crash
-   Police: 18-year-old passenger killed in high-speed Grosse Pointe crash
+   Detroit Casino Council ratifies agreement with Hollywood & MotorCity;
+   strike continues at MGM
+   Detroit Casino Council ratifies agreement with Hollywood & MotorCity;
+   strike continues at MGM
 
-[167]Police: 18-year-old passenger killed in high-speed Grosse Pointe crash
+[167]Detroit Casino Council ratifies agreement with Hollywood & MotorCity;
+strike continues at MGM
 
    House for sale in Oak Park targeted by appliance thieves amid growing
    trend
@@ -246,18 +246,18 @@ Saturday
 [168]House for sale in Oak Park targeted by appliance thieves amid growing
 trend
 
-   18 people detained in Detroit during human trafficking investigation
-   18 people detained in Detroit during human trafficking investigation
+   Convicted felon caught with stolen handgun, methamphetamine during
+   traffic stop
+   Convicted felon caught with stolen handgun, methamphetamine during
+   traffic stop
 
-[169]18 people detained in Detroit during human trafficking investigation
+[169]Convicted felon caught with stolen handgun, methamphetamine during
+traffic stop
 
-   'He's a sick person': Metro Detroit trusted coach's well-known secret
-   exposed
-   'He's a sick person': Metro Detroit trusted coach's well-known secret
-   exposed
+   Traverse City Man caught with methamphetamine during traffic stop
+   Traverse City Man caught with methamphetamine during traffic stop
 
-[170]'He's a sick person': Metro Detroit trusted coach's well-known secret
-exposed
+[170]Traverse City Man caught with methamphetamine during traffic stop
 
 
 [171]News
@@ -373,10 +373,10 @@ References
   67. file:///email
   68. file:///contests
   69. file:///money-saver
-  70. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
+  70. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
   71. file:///live
-  72. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
-  73. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
+  72. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+  73. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
   74. file:///news
   75. file:///local-news
   76. file:///national-news
@@ -458,22 +458,22 @@ References
  152. file:///person/k/derek-kevra
  153. file:///tag/technology/inside-ai
  154. http://www.fox2detroit.com/
- 155. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 156. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 157. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 158. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 159. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 160. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
+ 155. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 156. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 157. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 158. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 159. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 160. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
  161. file:///video/1240457
  162. file:///video/1240469
  163. file:///video/1240445
  164. file:///video/1240477
  165. file:///video/1240471
- 166. file:///news/detroit-police-investigate-two-separate-unrelated-double-shootings-on-saturday
- 167. file:///news/police-18-year-old-passenger-killed-in-high-speed-grosse-pointe-crash
+ 166. file:///news/fire-breaks-out-at-stellantis-north-america-in-auburn-hills
+ 167. file:///news/detroit-casino-council-ratifies-agreement-with-hollywood-strike-continues-at-mgm
  168. file:///news/house-for-sale-in-oak-park-targeted-by-appliance-thieves-amid-growing-trend
- 169. file:///news/18-people-detained-in-detroit-during-msp-human-trafficking-investigation
- 170. file:///news/hes-a-sick-person-metro-detroit-trusted-coachs-well-known-secret-exposed
+ 169. file:///news/convicted-felon-caught-with-stolen-handgun-methamphetamine-during-traffic-stop
+ 170. file:///news/traverse-city-man-caught-with-methamphetamine-during-traffic-stop
  171. file:///news
  172. file:///local-news
  173. file:///national-news
@@ -566,17 +566,17 @@ References
  260. https://publicfiles.fcc.gov/tv-profile/wjbk/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/f689363c-a368-971f-eac7-0e6551c1065c
 
    Hidden links:
- 262. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 263. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
+ 262. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 263. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
  264. file://localhost/video/1240457
  265. file://localhost/video/1240469
  266. file://localhost/video/1240445
  267. file://localhost/video/1240477
  268. file://localhost/video/1240471
- 269. file://localhost/news/detroit-police-investigate-two-separate-unrelated-double-shootings-on-saturday
- 270. file://localhost/news/police-18-year-old-passenger-killed-in-high-speed-grosse-pointe-crash
+ 269. file://localhost/news/fire-breaks-out-at-stellantis-north-america-in-auburn-hills
+ 270. file://localhost/news/detroit-casino-council-ratifies-agreement-with-hollywood-strike-continues-at-mgm
  271. file://localhost/news/house-for-sale-in-oak-park-targeted-by-appliance-thieves-amid-growing-trend
- 272. file://localhost/news/18-people-detained-in-detroit-during-msp-human-trafficking-investigation
- 273. file://localhost/news/hes-a-sick-person-metro-detroit-trusted-coachs-well-known-secret-exposed
- 274. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
- 275. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42596-3440TMP.html
+ 272. file://localhost/news/convicted-felon-caught-with-stolen-handgun-methamphetamine-during-traffic-stop
+ 273. file://localhost/news/traverse-city-man-caught-with-methamphetamine-during-traffic-stop
+ 274. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html
+ 275. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48960-8061TMP.html

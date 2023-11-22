@@ -242,11 +242,11 @@ References
   16. https://www.foxnews.com/lifestyle
   17. https://www.foxnews.com/video
   18. https://www.foxnews.com/category/tech/artificial-intelligence
-  19. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
-  20. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
-  21. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
+  19. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
+  20. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
+  21. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
   22. https://www.foxnews.com/video/5614615980001
-  23. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
+  23. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
   24. https://www.foxnews.com/us
   25. https://www.foxnews.com/category/us/crime
   26. https://www.foxnews.com/category/us/military
@@ -365,12 +365,12 @@ References
  139. https://www.foxnews.com/category/media
  140. https://www.foxnews.com/person/k/lindsay-kornick
  141. https://www.foxnews.com/
- 142. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
- 143. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
- 144. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
+ 142. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
+ 143. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
+ 144. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
  145. file:///media/barack-obama-lectures-widespread-disinformation-world-press-freedom-day-truth-matters.print
- 146. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
- 147. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
+ 146. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
+ 147. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
  148. http://video.foxnews.com/v/6326701697112
  149. https://www.foxnews.com/video/6326701697112
  150. https://www.foxnews.com/category/person/barack-obama
@@ -379,8 +379,8 @@ References
  153. https://www.foxnews.com/media/journalists-reject-objectivity-outmoded-failed-concept-world-view-middle-aged-white-men
  154. https://www.foxnews.com/politics/report-obama-administration-brings-chilling-effect-on-journalism
  155. https://www.foxnews.com/download
- 156. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
- 157. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
+ 156. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
+ 157. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html
  158. https://www.foxnews.com/us
  159. https://www.foxnews.com/category/us/crime
  160. https://www.foxnews.com/category/us/military
@@ -505,4 +505,4 @@ References
  279. https://lipperalpha.refinitiv.com/
 
    Hidden links:
- 281. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42614-2699TMP.html
+ 281. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48987-5712TMP.html

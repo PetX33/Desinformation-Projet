@@ -95,7 +95,7 @@ References
    Visible links:
    1. https://www.aljazeera.com/xml/rss/all.xml
    2. https://www.googletagmanager.com/ns.html?id=GTM-MJWQ5L2
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42453-1572TMP.html#main-content-area
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48786-4573TMP.html#main-content-area
    4. file:///news/
    5. file:///middle-east/
    6. file:///africa/
@@ -149,7 +149,7 @@ References
   54. file:///eu-eea-regulatory/
   55. https://privacy.aljazeera.net/
   56. https://privacy.aljazeera.net/cookie/
-  57. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42453-1572TMP.html#cookiesPreferences
+  57. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48786-4573TMP.html#cookiesPreferences
   58. https://www.aljazeera.com/sitemap
   59. file:///community-rules-guidelines/
   60. https://careers.aljazeera.net/

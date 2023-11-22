@@ -21,11 +21,23 @@ else
     GREP_CMD="grep"
 fi
 
+#lang=$1
 fichier_urls=$1
 fichier_tableau=$2
 
 basename=$(basename -s .txt $fichier_urls)
 lineno=1
+
+if [[ $lang == 'zh' ]]
+then
+	mot="虚假信息"
+elif [[ $lang == 'en' ]]
+then
+ 	mot="([Dd]isinformation)"
+elif [[ $lang == 'fr' ]]
+then
+	mot="([Dd]ésinformation])"
+fi
 
 echo "<html>
 	<head>
@@ -39,7 +51,7 @@ echo "<html>
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: auto\">
-			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
+			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">compte</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
 
 while read -r URL;
@@ -77,10 +89,10 @@ do
 
 		if [[ $charset == 'UTF-8' ]]
 		then
-			dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -dump -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×]/d" | sed -E "/   \[/d" | sed -E "/^IFRAME/d")
+			dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×]/d" | sed -E "/   \[/d" | sed -E "/^IFRAME/d")
 		else
 			# charset=$(curl $URL | urchardet)
-			dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin -dump -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×]/d" | sed -E "/   \[/d" | sed -E "/^IFRAME/d")
+			dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×]/d" | sed -E "/   \[/d" | sed -E "/^IFRAME/d")
 		fi
 	else
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
@@ -92,7 +104,12 @@ do
 
 	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
 
-	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td></tr>" >> "$fichier_tableau"
+
+	compte=$(grep -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
+
+	grep -C 3 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
+	
+	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$basename-$lineno.txt\">contexte</a></td></tr>" >> "$fichier_tableau"
 
 	((lineno++));
 done < "$fichier_urls"

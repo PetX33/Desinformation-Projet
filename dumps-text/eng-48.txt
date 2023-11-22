@@ -282,9 +282,9 @@ References
    Visible links:
    1. file:///api/
    2. https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43250-9817TMP.html#content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43250-9817TMP.html#navigation
-   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43250-9817TMP.html#txtHeaderSearch
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49753-3576TMP.html#content
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49753-3576TMP.html#navigation
+   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49753-3576TMP.html#txtHeaderSearch
    6. file:///p/6195.html
    7. file:///usa
    8. file:///all-about-america
@@ -304,8 +304,8 @@ References
   22. https://www.voanews.com/programs/tv
   23. file:///navigation/allsites
   24. file:///
-  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43250-9817TMP.html
-  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43250-9817TMP.html
+  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49753-3576TMP.html
+  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49753-3576TMP.html
   27. file:///z/6715
   28. file:///author/jeff-seldin/mtqqr
   29. file:///a/covid-19-pandemic_us-pushes-back-against-russian-chinese-iranian-coronavirus-disinformation/6186541.html
@@ -325,7 +325,7 @@ References
   43. file:///a/australian-leader-criticizes-chinese-after-dangerous-military-encounter/7363732.html
   44. https://projects.voanews.com/china/global-footprint/
   45. file:///z/6885
-  46. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43250-9817TMP.html#page
+  46. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49753-3576TMP.html#page
   47. file:///z/599
   48. file:///immigration
   49. file:///all-about-america

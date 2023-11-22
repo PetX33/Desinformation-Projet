@@ -214,14 +214,14 @@ References
    2. https://www.nytimes.com/es/2023/10/30/espanol/rusia-ucrania-desinformacion.html
    3. nyt://article/e850d721-af7f-5eec-9c1a-0a99710601c0
    4. https://www.nytimes.com/svc/oembed/json/?url=https://www.nytimes.com/2023/10/26/technology/russian-disinformation-us-state-department-campaign.html
-   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42978-2699TMP.html#site-content
-   6. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42978-2699TMP.html#site-index
+   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49435-6223TMP.html#site-content
+   6. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49435-6223TMP.html#site-index
    7. https://www.nytimes.com/section/technology
    8. https://www.nytimes.com/section/todayspaper
    9. file:///section/technology
   10. file:///2023/10/26/technology/russian-disinformation-us-state-department-campaign.html
-  11. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42978-2699TMP.html#after-top
-  12. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42978-2699TMP.html#after-sponsor
+  11. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49435-6223TMP.html#after-top
+  12. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49435-6223TMP.html#after-sponsor
   13. file:///2023/10/26/technology/russian-disinformation-us-state-department-campaign.html
   14. https://www.nytimes.com/by/steven-lee-myers
   15. https://www.nytimes.com/by/steven-lee-myers
@@ -239,7 +239,7 @@ References
   27. https://www.nytimes.com/subscriptions/Multiproduct/lp8HYKU.html?campaignId=48JQY
   28. file:///2023/10/26/technology/russian-disinformation-us-state-department-campaign.html
   29. file:///2023/10/26/technology/russian-disinformation-us-state-department-campaign.html
-  30. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42978-2699TMP.html#after-bottom
+  30. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49435-6223TMP.html#after-bottom
   31. https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
   32. https://www.nytco.com/
   33. https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us

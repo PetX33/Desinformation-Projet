@@ -200,9 +200,9 @@ References
    Visible links:
    1. file:///api/
    2. https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43227-788TMP.html#content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43227-788TMP.html#navigation
-   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43227-788TMP.html#txtHeaderSearch
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49731-8835TMP.html#content
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49731-8835TMP.html#navigation
+   5. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49731-8835TMP.html#txtHeaderSearch
    6. file:///p/6195.html
    7. file:///usa
    8. file:///all-about-america
@@ -222,8 +222,8 @@ References
   22. https://www.voanews.com/programs/tv
   23. file:///navigation/allsites
   24. file:///
-  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43227-788TMP.html
-  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43227-788TMP.html
+  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49731-8835TMP.html
+  26. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49731-8835TMP.html
   27. file:///z/5818
   28. file:///author/liam-scott/p_rvy
   29. file:///a/israel-pounds-gaza-with-more-airstrikes-/7304453.html
@@ -240,7 +240,7 @@ References
   40. https://projects.voanews.com/press-freedom/afghanistan/media-under-taliban/
   41. https://projects.voanews.com/press-freedom/mexico/mechanism-protecting-mexican-journalists.html
   42. file:///z/6885
-  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43227-788TMP.html#page
+  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49731-8835TMP.html#page
   44. file:///z/599
   45. file:///immigration
   46. file:///all-about-america

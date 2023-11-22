@@ -417,10 +417,10 @@ References
    1. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/feed/
    2. https://www.bu.edu/wp-json/oembed/1.0/embed?url=https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/
    3. https://www.bu.edu/wp-json/oembed/1.0/embed?url=https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/&format=xml
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#main
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#main
    5. https://www.bu.edu/
    6. file:///publications
-   7. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comments
+   7. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comments
    8. https://www.bu.edu/today/author/molly-callahan/
    9. https://www.bu.edu/cphs/
   10. https://www.npr.org/2023/10/18/1206795861/heres-the-available-evidence-of-what-happened-at-al-ahli-arab-hospital-in-gaza
@@ -437,8 +437,8 @@ References
   21. https://www.bu.edu/brink/tag/global/
   22. https://www.bu.edu/brink/tag/international-relations/
   23. https://www.bu.edu/brink/tag/public-policy/
-  24. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comments
-  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comments
+  24. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comments
+  25. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comments
   26. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/?share=twitter
   27. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/?share=facebook
   28. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/?share=reddit
@@ -447,28 +447,28 @@ References
   31. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#print
   32. https://www.bu.edu/today/author/molly-callahan/
   33. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716204
-  34. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716204
+  34. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716204
   35. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716204
   36. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716215
-  37. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716215
+  37. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716215
   38. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716215
   39. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716230
-  40. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716230
+  40. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716230
   41. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716230
   42. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716218
-  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716218
+  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716218
   44. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716218
   45. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716231
-  46. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716231
+  46. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716231
   47. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716231
   48. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716295
-  49. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716295
+  49. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716295
   50. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716295
   51. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716416
-  52. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716416
+  52. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716416
   53. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716416
   54. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716613
-  55. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comment-7716613
+  55. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comment-7716613
   56. https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/#comment-7716613
   57. file:///articles/2023/israel-hamas-war-misinformation/#respond
   58. http://www.bu.edu/tech/web/departments/wordpress/management/comment-guidelines/
@@ -512,8 +512,8 @@ References
   96. http://www.bu.edu/
   97. http://www.bu.edu/policies/non-handbook-version-equal-opp-affirm-action/
   98. file://www.googletagmanager.com/ns.html?id=GTM-WRNV877
-  99. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#cancel
- 100. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42515-7386TMP.html#comments
+  99. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#cancel
+ 100. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48865-407TMP.html#comments
 
    Hidden links:
  102. https://www.bu.edu/bostonia/

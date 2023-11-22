@@ -315,7 +315,7 @@ References
    Visible links:
    1. https://rsf.org/fr/de-twitter-à-x-elon-musk-achevé-sa-mue-de-défenseur-de-la-liberté-d-expression-en-champion-de-la
    2. https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42435-5781TMP.html#main-content
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48764-5285TMP.html#main-content
    4. https://rsf.org/en/index
    5. https://rsf.org/en/barometer
    6. file:///en/country/angola
@@ -560,7 +560,7 @@ References
  245. https://www.facebook.com/sharer/sharer.php?u=https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
  246. https://twitter.com/intent/tweet?text=From+Twitter+to+X,+Elon+Musk’s+transformation+from+free+speech+defender+to+champion+of+disinformation+https://rsf.org/s/93906
  247. https://www.linkedin.com/sharing/share-offsite/?url=https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
- 248. file:///cdn-cgi/l/email-protection#16294563747c7375622b5064797b3642617f62627364366279364e3a36537a7978365b63657df4968f653662647778657079647b77627f7978367064797b36706473733665667373757e36727370737872736436627936757e777b667f797836797036727f657f787079647b77627f797830777b662d7479726f2b7e626266652c3939646570387964713973783962617f626273643b6e3b737a79783b7b63657d3b653b62647778657079647b77627f79783b706473733b65667373757e3b72737073787273643b757e777b667f79783b727f657f787079647b77627f7978
+ 248. file:///cdn-cgi/l/email-protection#221d715740484741561f64504d4f0276554b5656475002564d027a0e02674e4d4c026f575149c0a2bb51025650434c51444d504f43564b4d4c0244504d4f02445047470251524747414a02464744474c46475002564d02414a434f524b4d4c024d4402464b514b4c444d504f43564b4d4c04434f5219404d465b1f4a56565251180d0d5051440c4d50450d474c0d56554b565647500f5a0f474e4d4c0f4f5751490f510f5650434c51444d504f43564b4d4c0f445047470f51524747414a0f464744474c4647500f414a434f524b4d4c0f464b514b4c444d504f43564b4d4c
  249. https://rsf.org/en/twitter-s-equating-public-media-state-media-dangerous
  250. https://rsf.org/en/musktwitter-establish-democratic-control-it-s-too-late
  251. https://rsf.org/en/rsf-calls-ban-paid-identity-verification-privileges-social-media

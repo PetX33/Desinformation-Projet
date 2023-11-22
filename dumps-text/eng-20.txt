@@ -311,7 +311,7 @@ References
   80. https://www.latimes.com/environment
   81. https://www.latimes.com/lifestyle/image
   82. https://www.latimes.com/opinion
-  83. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42709-1297TMP.html
+  83. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49104-4595TMP.html
   84. https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=navigation_bar&utm_campaign=bestcovery
   85. https://www.latimes.com/coupon-codes
   86. https://www.latimes.com/games
@@ -320,7 +320,7 @@ References
   89. https://www.latimes.com/people/david-g-savage
   90. https://www.facebook.com/dialog/share?app_id=134435029966155&display=popup&href=https://www.latimes.com/politics/story/2023-10-20/supreme-court-biden-republican-social-media-covid-disinformation
   91. https://twitter.com/intent/tweet?url=https://www.latimes.com/politics/story/2023-10-20/supreme-court-biden-republican-social-media-covid-disinformation&text=Supreme Court will decide Biden-GOP clash over social media and COVID disinformation
-  92. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42709-1297TMP.html
+  92. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49104-4595TMP.html
   93. https://www.facebook.com/dialog/share?app_id=134435029966155&display=popup&href=https://www.latimes.com/politics/story/2023-10-20/supreme-court-biden-republican-social-media-covid-disinformation
   94. https://twitter.com/intent/tweet?url=https://www.latimes.com/politics/story/2023-10-20/supreme-court-biden-republican-social-media-covid-disinformation&text=Supreme Court will decide Biden-GOP clash over social media and COVID disinformation
   95. https://www.linkedin.com/shareArticle?url=https://www.latimes.com/politics/story/2023-10-20/supreme-court-biden-republican-social-media-covid-disinformation&mini=true&title=Supreme Court will decide Biden-GOP clash over social media and COVID disinformation&summary=Supreme Court to decide if the Biden White House erred in its efforts to fight disinformation on social media about COVID-19.&source=Los Angeles Times

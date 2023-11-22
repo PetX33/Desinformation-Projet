@@ -261,9 +261,9 @@ Most viewed
 References
 
    Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43016-1994TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43016-1994TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43016-1994TMP.html#navigation
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#navigation
    4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
    5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
    6. https://jobs.theguardian.com/
@@ -392,7 +392,7 @@ References
  129. https://www.spectator.com.au/2023/06/labors-censorship-bill-a-threat-to-democracy/
  130. https://www.theguardian.com/australia-news/2023/aug/05/australian-christian-lobby-social-posts-labor-misinformation-campaign
  131. https://www.liberal.org.au/latest-news/2023/08/01/labors-shocker-misinformation-bill-should-be-torn
- 132. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43016-1994TMP.html#EmailSignup-skip-link-25
+ 132. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#EmailSignup-skip-link-25
  133. https://www.theguardian.com/help/privacy-policy
  134. https://policies.google.com/privacy
  135. https://policies.google.com/terms
@@ -447,7 +447,7 @@ References
  184. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
  185. https://advertising.theguardian.com/
  186. https://jobs.theguardian.com/
- 187. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43016-1994TMP.html#top
+ 187. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#top
 
    Hidden links:
  189. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_fb

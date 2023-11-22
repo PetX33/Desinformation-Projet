@@ -282,7 +282,7 @@ References
    1. https://nypost.com/wp-json/wp/v2/article/29280037
    2. https://nypost.com/wp-json/oembed/1.0/embed?url=https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/
    3. https://nypost.com/wp-json/oembed/1.0/embed?url=https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/&format=xml
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html#search-results
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html#search-results
    5. https://nypost.com/news/
    6. https://nypost.com/metro/
    7. https://pagesix.com/
@@ -323,7 +323,7 @@ References
   42. https://nypost.com/video/
   43. https://nypost.com/photos/
   44. https://nypost.com/web-stories/
-  45. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+  45. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
   46. https://nypost.pressreader.com/new-york-post/?utm_hamburger=todays_paper
   47. https://nypost.com/covers/?utm_hamburger=todays_paper
   48. https://nypost.com/columnists/
@@ -332,7 +332,7 @@ References
   51. https://nypost.com/odds/
   52. https://nypost.com/podcasts/
   53. file:///careers/
-  54. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+  54. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
   55. https://email.nypost.com/
   56. https://shop.nypost.com/
   57. https://subscribe.nypost.com/
@@ -346,10 +346,10 @@ References
   65. https://flipboard.com/
   66. whatsapp://send?text=Dozens of FBI sources gave ‘criminal information’ on Bidens that DOJ tried to discredit as 'foreign disinformation': Grassley https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/?utm_source=whatsapp_sitebuttons&utm_medium=site buttons&utm_campaign=site buttons
   67. mailto:?subject=[Shared Post] Dozens of FBI sources gave ‘criminal information’ on Bidens that DOJ tried to discredit as 'foreign disinformation': Grassley&body=https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/?utm_source=email_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons&share=email
-  68. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+  68. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
   69. https://nypost.com/author/vnavanyp/
   70. https://nypost.com/author/vnavanyp/feed/
-  71. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+  71. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
   72. https://nypost.com/tag/joe-biden/
   73. https://nypost.com/2023/11/22/news/irs-delays-implementing-600-reporting-rule-for-venmo-paypal-payments/
   74. https://nypost.com/2023/11/21/opinion/make-a-birthday-wish-joe-biden-youll-need-it-with-these-awful-approval-poll-numbers/
@@ -365,14 +365,14 @@ References
   84. https://nypost.com/2023/08/22/joe-bidens-ukraine-defense-falls-apart/
   85. https://nypost.com/2023/08/22/state-department-was-impressed-with-ex-prosecutor-biden-pressured-ukraine-to-fire-report/
   86. https://nypost.com/2023/07/20/biden-bribe-file-released-burisma-chief-said-both-joe-and-hunter-involved/
-  87. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
-  88. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+  87. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
+  88. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
   89. https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/?share=facebook
   90. https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/?share=twitter
   91. https://flipboard.com/
   92. whatsapp://send?text=Dozens of FBI sources gave ‘criminal information’ on Bidens that DOJ tried to discredit as 'foreign disinformation': Grassley https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/?utm_source=whatsapp_sitebuttons&utm_medium=site buttons&utm_campaign=site buttons
   93. mailto:?subject=[Shared Post] Dozens of FBI sources gave ‘criminal information’ on Bidens that DOJ tried to discredit as 'foreign disinformation': Grassley&body=https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/?utm_source=email_sitebuttons&utm_medium=site%20buttons&utm_campaign=site%20buttons&share=email
-  94. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+  94. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
   95. https://nypost.com/tag/chuck-grassley/
   96. https://nypost.com/tag/fbi/
   97. https://nypost.com/tag/hunter-biden/
@@ -408,7 +408,7 @@ References
  127. https://www.linkedin.com/company/new-york-post
  128. https://email.nypost.com/
  129. https://www.youtube.com/nypost
- 130. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 130. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  131. https://nypost.com/news/
  132. https://nypost.com/metro/
  133. https://nypost.com/sports/
@@ -436,36 +436,36 @@ References
  155. https://nypost.com/games/
  156. file:///columnists/
  157. file:///classifieds/
- 158. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 158. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  159. file:///account/subscribe/
  160. file:///sports-plus/
  161. file:///account/settings/
- 162. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 162. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  163. https://email.nypost.com/
  164. https://nypost.com/rssfeeds/
  165. https://shop.nypost.com/
- 166. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 166. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  167. https://subscribe.nypost.com/
  168. https://my.nypost.com/
  169. https://nypost.com/home-delivery/
- 170. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 170. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  171. https://nypost.com/about-new-york-post/
  172. https://nypost.com/customer-service/
  173. https://nypost.com/app-help/
  174. https://nypost.com/community-guidelines/
- 175. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 175. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  176. https://nypost.com/tips/
  177. https://nypost.com/contact/
  178. https://nypost.com/contact/
  179. https://info.wrightsmedia.com/new-york-post-licensing
  180. file:///careers/
  181. https://nypost.com/vulnerability-disclosure-program/
- 182. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 182. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  183. https://itunes.apple.com/us/app/new-york-post-iphone-edition/id410094240?mt=8
  184. https://itunes.apple.com/us/app/new-york-post-ipad-edition/id378590820?mt=8
  185. https://play.google.com/store/apps/details?id=br.com.golmobile.nypost&hl=en
  186. https://play.google.com/store/apps/details?id=com.nypost.tablet&hl=en
- 187. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L42417-5569TMP.html
+ 187. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48740-1206TMP.html
  188. https://nypostadmanager.com/
  189. https://advertising.nypost.com/
  190. https://advertising.nypost.com/#contact

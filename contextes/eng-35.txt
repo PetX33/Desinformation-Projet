@@ -1,0 +1,7 @@
+
+   Visible links:
+   1. nyt://article/e906aa84-f5ed-5ce0-9758-52c41a0ce53b
+   2. https://www.nytimes.com/svc/oembed/json/?url=https://www.nytimes.com/article/israel-attacks-video-disinformation.html
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49457-9574TMP.html#site-content
+   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49457-9574TMP.html#site-index
+   5. https://www.nytimes.com/section/world/middleeast
