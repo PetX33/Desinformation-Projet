@@ -39,7 +39,7 @@ echo "<html>
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: auto\">
-			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff\">URL</th><th style=\" color: #ffffff\">encodage</th></thead>" >> "$fichier_tableau"
+			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
 
 while read -r URL;
@@ -69,8 +69,30 @@ do
 	# pour transformer les 'utf-8' en 'UTF-8' :
 	charset=$(echo $charset | tr "[a-z]" "[A-Z]")
 
-	
-	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> "$fichier_tableau"
+	if [[ $code -eq 200 ]]
+	then
+		aspiration=$(curl $URL)
+
+		echo $aspiration
+
+		if [[ $charset == 'UTF-8' ]]
+		then
+			dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -dump -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×]/d" | sed -E "/   \[/d" | sed -E "/^IFRAME/d")
+		else
+			# charset=$(curl $URL | urchardet)
+			dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin -dump -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×]/d" | sed -E "/   \[/d" | sed -E "/^IFRAME/d")
+		fi
+	else
+		echo -e "\tcode différent de 200 utilisation d'un dump vide"
+		dump=""
+		charset=""
+	fi
+
+	echo "$aspiration" > "../aspirations/$basename-$lineno.html"
+
+	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
+
+	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td></tr>" >> "$fichier_tableau"
 
 	((lineno++));
 done < "$fichier_urls"

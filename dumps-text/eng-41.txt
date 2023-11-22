@@ -1,0 +1,635 @@
+   igative+journalism%2CHacking%2CSocial+media%2CMedia%2CInternet%2CWorld+
+   news%2CDigital+media] [1]Skip to main content[2]Skip to
+   navigation[3]Skip to navigation
+
+   Europe edition [ ]
+
+
+   ShowMoreShow More
+       google-search
+       Search
+
+
+
+
+
+
+
+
+
+
+   Tal Hanan
+   Tal Hanan has always denied any wrongdoing. Composite: Guardian
+   Design/Haaretz/The Marker/Radio France
+   Tal Hanan has always denied any wrongdoing. Composite: Guardian
+   Design/Haaretz/The Marker/Radio France
+   This article is more than 9 months old
+
+Revealed: the hacking and disinformation team meddling in elections
+
+   This article is more than 9 months old
+       media profiles
+       elections
+
+
+   Wed 15 Feb 2023 05.00 CETLast modified on Thu 16 Feb 2023 01.12 CET
+
+   A team of Israeli contractors who claim to have manipulated more than
+   30 elections around the world using hacking, sabotage and automated
+   disinformation on social media has been [115]exposed in a new
+   investigation.
+
+   The unit is run by Tal Hanan, a 50-year-old former Israeli special
+   forces operative who now works privately using the pseudonym “Jorge”,
+   and appears to have been working under the radar in elections in
+   various countries for more than two decades.
+
+   He is being unmasked by an international consortium of journalists.
+   Hanan and his unit, which uses the codename “Team Jorge”, have been
+   exposed by undercover footage and documents leaked to the Guardian.
+
+   Hanan did not respond to detailed questions about Team Jorge’s
+   activities and methods but said: “I deny any wrongdoing.”
+   distort reality – video
+   00:05:19
+   'Team Jorge' unmasked: the secret disinformation team who distort
+   reality – video
+
+   The investigation reveals extraordinary details about how
+   disinformation is being weaponised by Team Jorge, which runs a private
+   service offering to covertly meddle in elections without a trace. The
+   group also works for corporate clients.
+
+   Hanan told the undercover reporters that his services, which others
+   describe as “black ops”, were available to intelligence agencies,
+   political campaigns and private companies that wanted to secretly
+   manipulate public opinion. He said they had been used across Africa,
+   South and Central America, the US and Europe.
+   ‘Aims’: the software for hire that can control 30,000 fake online
+   profiles
+   Read more
+
+   One of Team Jorge’s key services is a sophisticated software package,
+   Advanced Impact Media Solutions, or Aims. It controls a vast army of
+   thousands of fake social media profiles on Twitter, LinkedIn, Facebook,
+   Telegram, Gmail, Instagram and YouTube. Some avatars even have Amazon
+   accounts with [116]credit cards, bitcoin wallets and Airbnb accounts.
+
+   The consortium of journalists that investigated Team Jorge includes
+   reporters from 30 outlets including Le Monde, Der Spiegel and El País.
+   The project, part of a wider investigation into the disinformation
+   industry, has been coordinated by Forbidden Stories, a French nonprofit
+   whose mission is to pursue the work of assassinated, threatened or
+   jailed reporters.
+   Quick Guide
+
+About this investigative series
+
+   Show
+
+   The Guardian and Observer have partnered with an international
+   consortium of reporters to investigate global disinformation. Our
+   project, [117]Disinfo black ops, is exposing how false information is
+   deliberately spread by powerful states and private operatives who sell
+   their covert services to political campaigns, companies and wealthy
+   individuals. It also reveals how inconvenient truths can be erased from
+   the internet by those who are rich enough to pay. The investigation is
+   part of Story killers, a collaboration led by Forbidden Stories, a
+   French nonprofit whose mission is to pursue the work of assassinated,
+   threatened or jailed reporters.
+
+   The eight-month investigation was inspired by the work of Gauri
+   Lankesh, a 55-year-old journalist who was shot dead outside her
+   Bengaluru home in 2017. Hours before she was murdered, Lankesh had been
+   putting the finishing touches on an article called In the Age of False
+   News, which examined how so-called lie factories online were spreading
+   disinformation in India. In the final line of the article, which was
+   published after her death, Lankesh wrote: “I want to salute all those
+   who expose fake news. I wish there were more of them.”
+
+   The Story killers consortium includes more than 100 journalists from 30
+   media outlets including Haaretz, Le Monde, Radio France, Der Spiegel,
+   Paper Trail Media, Die Zeit, TheMarker and the OCCRP. [118]Read more
+   about this project.
+
+   Investigative journalism like this is vital for our democracy. Please
+   consider [119]supporting it today.
+   Was this helpful?
+   Thank you for your feedback.
+
+   The undercover footage was filmed by three reporters, who approached
+   Team Jorge posing as prospective clients.
+
+   In more than six hours of secretly recorded meetings, Hanan and his
+   team spoke of how they could gather intelligence on rivals, including
+   by using hacking techniques to access Gmail and Telegram accounts. They
+   boasted of planting material in legitimate news outlets, which are then
+   amplified by the Aims bot-management software.
+
+   Much of their strategy appeared to revolve around disrupting or
+   sabotaging rival campaigns: the team even claimed to have sent a sex
+   toy delivered via Amazon to the home of a politician, with the aim of
+   giving his wife the false impression he was having an affair.
+
+   The methods and techniques described by Team Jorge raise new challenges
+   for big tech platforms, which have for years struggled to prevent
+   nefarious actors spreading falsehoods or breaching the security on
+   their platforms. Evidence of a global private market in disinformation
+   aimed at elections will also ring alarm bells for democracies around
+   the world.
+   Tal Hanan.
+   Tal Hanan and his colleagues met reporters at an office in Modi’in,
+   about 20 miles outside Tel Aviv. Photograph: Haaretz/TheMarker/Radio
+   France
+   most secure communications, use SecureDrop or see our guide.
+
+   The Team Jorge revelations could cause embarrassment for Israel, which
+   has come under growing diplomatic pressure in recent years over its
+   export of cyber-weaponry that undermines democracy and human rights.
+
+   Hanan appears to have run at least some of his disinformation
+   operations through an Israeli company, Demoman International, which is
+   registered on a website run by the Israeli Ministry of Defense to
+   promote defence exports. The Israeli MoD did not respond to requests
+   for comment.
+
+The undercover footage
+
+   Given their expertise in subterfuge, it is perhaps surprising that
+   Hanan and his colleagues allowed themselves to be exposed by undercover
+   reporters. Journalists using conventional methods have struggled to
+   shed light on the disinformation industry, which is at pains to avoid
+   detection.
+
+   The secretly filmed meetings, which took place between July and
+   December 2022, therefore provide a rare window into the mechanics of
+   disinformation for hire.
+
+   Three journalists – from Radio France, Haaretz and TheMarker –
+   approached Team Jorge pretending to be consultants working on behalf of
+   a politically unstable African country that wanted help delaying an
+   election.
+
+   The encounters with Hanan and his colleagues took place via video calls
+   and an in-person meeting in Team Jorge’s base, an unmarked office in an
+   industrial park in Modi’in, 20 miles outside Tel Aviv.
+
+   Hanan described his team as “graduates of government agencies”, with
+   expertise in finance, social media and campaigns, as well as
+   “psychological warfare”, operating from six offices around the world.
+   Four of Hanan’s colleagues attended the meetings, including his
+   brother, Zohar Hanan, who was described as the chief executive of the
+   group.
+
+   In his initial pitch to the potential clients, Hanan claimed: “We are
+   now involved in one election in Africa … We have a team in Greece and a
+   team in [the] Emirates … You follow the leads. [We have completed] 33
+   presidential-level campaigns, 27 of which were successful.” Later, he
+   said he was involved in two “major projects” in the US but claimed not
+   to engage directly in US politics.
+
+   It was not possible to verify all of Team Jorge’s claims in the
+   undercover meetings, and Hanan may have been embellishing them in order
+   to secure a lucrative deal with prospective clients. For example, it
+   appears Hanan may have inflated his fees when discussing the cost of
+   his services.
+
+   Team Jorge told the reporters they would accept payments in a variety
+   of currencies, including cryptocurrencies such as bitcoin, or cash. He
+   said he would charge between €6m and €15m for interference in
+   elections.
+   Quick Guide
+
+The undercover footage
+
+   Show
+
+   What is this undercover footage?
+
+   Disinformation operatives work under the radar. To find out more about
+   'Team Jorge', an Israel-based unit selling hacking and social media
+   manipulation services, three journalists went undercover. They posed as
+   consultants, working on behalf of a client in a politically unstable
+   African country who wanted to delay a forthcoming election. The
+   reporters secretly filmed several meetings with the group's leader, Tal
+   Hanan, who uses the alias 'Jorge', and his associates between July 2022
+   and December 2022.
+
+   Who is in the footage?
+
+   The footage captures Hanan, as well as his brother, Zohar Hanan, and
+   other associates of Team Jorge. Faces of reporters have been blurred.
+   The meetings took place on video calls, when Hanan and his colleagues
+   gave slideshow demonstrations of their services, and in person, at Team
+   Jorge's office in an industrial park 20 miles outside Tel Aviv.
+
+   Who did the secret filming?
+
+   It was secretly filmed by three reporters from media outlets working in
+   a consortium investigating disinformation: Gur Megiddo (TheMarker),
+   Frédéric Métézeau (Radio France) and Omer Benjakob (Haaretz). The video
+   was then shared with more than 25 other media outlets in the
+   consortium, including the Guardian and Observer. While the Guardian and
+   Observer were not involved in the undercover filming, they are
+   publishing the material because of the strong public interest
+   justifications for doing so.
+
+   What is Team Jorge's response?
+
+   Tal Hanan did not provide a detailed response to questions from the
+   Guardian. He said: 'To be clear, I do deny any wrongdoing.'
+   Was this helpful?
+   Thank you for your feedback.
+
+   However, emails leaked to the Guardian show Hanan quoting more modest
+   fees. One suggests that in 2015 he asked for $160,000 from the now
+   defunct British consultancy Cambridge Analytica for involvement in an
+   eight-week campaign in a Latin American country.
+
+   In 2017 Hanan again pitched to work for Cambridge Analytica, this time
+   in Kenya, but was rejected by the consultancy, which said
+   “$400,000-$600,000 per month, and substantially more for crisis
+   response” was more than its clients would pay.
+
+   There is no evidence that either of those campaigns went ahead. Other
+   leaked documents, however, reveal that when Team Jorge worked covertly
+   on the Nigerian presidential race in 2015 it did so alongside Cambridge
+   Analytica.
+
+   Alexander Nix, who was the chief executive of Cambridge Analytica,
+   declined to comment in detail but added: “Your purported understanding
+   is disputed.”
+
+   Team Jorge also sent Nix’s political consultancy a video showcasing an
+   early iteration of the social media disinformation software it now
+   markets as Aims. Hanan said in an email that the tool, which enabled
+   users to create up to 5,000 bots to deliver “mass messages” and
+   “propaganda”, had been used in 17 elections.
+
+   “It’s our own developed Semi-Auto Avatar creation and network
+   deployment system,” he said, adding that it could be used in any
+   language and was being sold as a service, although the software could
+   be bought “if the price is right”.
+
+   Team Jorge’s bot-management software appears to have grown
+   significantly by 2022, according to what Hanan told the undercover
+   reporters. He said it controlled a multinational army of more than
+   30,000 avatars, complete with digital backstories that stretch back
+   years.
+
+   Demonstrating the Aims interface, Hanan scrolled through dozens of
+   avatars, and showed how fake profiles could be created in an instant,
+   using tabs to choose nationality and gender and then matching profile
+   pictures to names.
+
+   “This is Spanish, Russian, you see Asians, Muslims. Let’s make a
+   candidate together,” he told the undercover reporters, before settling
+   on one image of a white woman. “Sophia Wilde, I like the name. British.
+   Already she has email, date birth, everything.”
+
+   Hanan was coy when asked where the photos for his avatars came from.
+   However, the Guardian and its partners have discovered several
+   instances in which images have been harvested from the social media
+   accounts of real people. The photo of “Sophia Wilde”, for instance,
+   appears to have been stolen from a Russian social media account
+   belonging to a woman who lives in Leeds.
+
+   The Guardian and its reporting partners tracked Aims-linked bot
+   activity across the internet. It was behind fake social media
+   campaigns, mostly involving commercial disputes, in about 20 countries
+   including the UK, US, Canada, Germany, Switzerland, Mexico, Senegal,
+   India and the United Arab Emirates.
+
+   This week Meta, the owner of Facebook, took down Aims-linked bots on
+   its platform after reporters shared a sample of the fake accounts with
+   the company. On Tuesday, a Meta spokesperson connected the Aims bots to
+   others that were linked in 2019 to another, now-defunct Israeli firm
+   which it banned from the platform.
+
+   “This latest activity is an attempt by some of the same individuals to
+   come back and we removed them for violating our policies,” the
+   spokesperson said. “The group’s latest activity appears to have centred
+   around running fake petitions on the internet or seeding fabricated
+   stories in mainstream media outlets.”
+
+   In addition to Aims, Hanan told reporters about his “blogger machine” –
+   an automated system for creating websites that the Aims-controlled
+   social media profiles could then use to spread fake news stories across
+   the internet. “After you’ve created credibility, what do you do? Then
+   you can manipulate,” he said.
+
+‘I will show you how safe Telegram is’
+
+   No less alarming were Hanan’s demonstrations of his team’s hacking
+   capabilities, in which he showed the reporters how he could penetrate
+   Telegram and Gmail accounts. In one case, he brought up on screen the
+   Gmail account of a man described as the “assistant of an important guy”
+   in the general election in Kenya, which was days away.
+
+   “Today if someone has a Gmail, it means they have much more than just
+   email,” Hanan said as he clicked through the target’s emails, draft
+   folders, contacts and drives. He then showed how he claimed to be able
+   to access accounts on Telegram, an encrypted messaging app.
+   Tal Hanan.
+   Tal Hanan. Photograph: Source: Haaretz/TheMarker/Radio France
+
+   One of the Telegram accounts he claimed to penetrate belonged to a
+   person in Indonesia, while the other two appeared to belong to Kenyans
+   involved in the ongoing general election, and close to the then
+   candidate William Ruto, who ended up winning the presidency.
+
+   “I know in some countries they believe Telegram is safe. I will show
+   you how safe it is,” he said, before showing a screen in which he
+   appeared to scroll through the Telegram contacts of one Kenyan
+   strategist who was working for Ruto at the time.
+
+   Hanan then demonstrated how access to Telegram could be manipulated to
+   sow mischief.
+
+   Typing the words “hello how are you dear”, Hanan appeared to send a
+   message from the Kenyan strategist’s account to one of their contacts.
+   “I’m not just watching,” Hanan boasted, before explaining how
+   manipulating the messaging app to send messages could be used to create
+   chaos in a rival’s election campaign.
+
+   “One of the biggest thing is to put sticks between the right people,
+   you understand,” he said. “And I can write him what I think about his
+   wife, or what I think about his last speech, or I can tell him that I
+   promised him to be my next chief of staff, OK?”
+
+   Hanan then showed how – once the message had been read – he could
+   “delete” it to cover his tracks. But when Hanan repeated that trick,
+   hacking into the Telegram account of the second close adviser to Ruto,
+   he made a mistake.
+
+   After sending an innocuous Telegram message consisting only of the
+   number “11” to one of the hacking victim’s contacts, he failed to
+   properly delete it.
+   Team Jorge demonstration of live infiltration of Telegram. Screenshot
+   showing message
+   Hanan sent a Telegram message consisting only of the number 11 to one
+   of the hacking victim’s contacts. Photograph: Haaretz/TheMarker/Radio
+   France
+
+   A reporter in the consortium was later able to track down the recipient
+   of that message and was granted permission to check the person’s phone.
+   The “11” message was still visible on their Telegram account, providing
+   evidence that Team Jorge’s infiltration of the account was genuine.
+
+   Hanan suggested to the undercover reporters that some of his hacking
+   methods exploited vulnerabilities in the global signalling telecoms
+   system, SS7, which for decades has been regarded by experts as a weak
+   spot in the telecoms network.
+
+   Google, which runs the Gmail service, declined to comment. Telegram
+   said “the problem of SS7 vulnerabilities” was widely known and “not
+   unique to Telegram”. They added: “Accounts on any massively popular
+   social media network or messaging app can be vulnerable to hacking or
+   impersonation unless users follow security recommendations and take
+   proper precautions to keep their accounts secure.”
+
+   Hanan did not respond to detailed requests for comment, claiming that
+   he needed “approval” from an unspecified authority before doing so.
+   However, he added: “To be clear, I deny any wrongdoing.”
+
+   Zohar Hanan, his brother and business partner, added: “I have been
+   working all my life according to the law!”
+   Explore more on these topics
+
+
+
+More on this story
+
+
+More on this story
+
+
+BFMTV host Rachid M’Barki sacked over influence claims linked to ‘Team Jorge’
+       23 Feb 2023
+
+Disinfo black ops: exposing the companies and states spreading false
+information
+       15 Feb 2023
+
+How undercover reporters caught ‘Team Jorge’ disinformation operatives on
+camera
+       15 Feb 2023
+
+‘Aims’: the software for hire that can control 30,000 fake online profiles
+       15 Feb 2023
+
+Revealed: the US adviser who tried to swing Nigeria’s 2015 election
+       18 Feb 2023
+
+The Spanish firm that uses dubious methods to ‘erase your past’ from the
+internet
+       17 Feb 2023
+
+Dark arts of politics: how ‘Team Jorge’ and Cambridge Analytica meddled in
+Nigerian election
+       16 Feb 2023
+
+Political aides hacked by ‘Team Jorge’ in run-up to Kenyan election
+       15 Feb 2023
+
+Most viewed
+
+Most viewed
+
+
+
+   Original reporting and incisive analysis, direct from the Guardian
+   every morning
+
+
+
+   rights reserved. (dcr)
+
+References
+
+   Visible links:
+   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43113-914TMP.html#maincontent
+   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43113-914TMP.html#navigation
+   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43113-914TMP.html#navigation
+   4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
+   5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
+   6. https://jobs.theguardian.com/
+   7. https://www.google.co.uk/advanced_search?q=site:www.theguardian.com
+   8. file:///preference/edition/eur
+   9. file:///preference/edition/uk
+  10. file:///preference/edition/us
+  11. file:///preference/edition/au
+  12. file:///preference/edition/int
+  13. file:///
+  14. file:///
+  15. file:///commentisfree
+  16. file:///sport
+  17. file:///culture
+  18. file:///lifeandstyle
+  19. file:///
+  20. file:///world
+  21. file:///uk-news
+  22. file:///environment/climate-crisis
+  23. file:///world/ukraine
+  24. file:///environment
+  25. file:///science
+  26. file:///global-development
+  27. file:///football
+  28. file:///technology
+  29. file:///business
+  30. file:///obituaries
+  31. file:///commentisfree
+  32. file:///profile/editorial
+  33. file:///index/contributors
+  34. file:///tone/cartoons
+  35. file:///type/video+tone/comment
+  36. file:///tone/letters
+  37. file:///sport
+  38. file:///football
+  39. file:///sport/cricket
+  40. file:///sport/rugby-union
+  41. file:///sport/tennis
+  42. file:///sport/cycling
+  43. file:///sport/formulaone
+  44. file:///sport/golf
+  45. file:///sport/us-sport
+  46. file:///culture
+  47. file:///books
+  48. file:///music
+  49. file:///tv-and-radio
+  50. file:///artanddesign
+  51. file:///film
+  52. file:///games
+  53. file:///music/classicalmusicandopera
+  54. file:///stage
+  55. file:///lifeandstyle
+  56. file:///fashion
+  57. file:///food
+  58. file:///tone/recipes
+  59. file:///lifeandstyle/love-and-sex
+  60. file:///lifeandstyle/health-and-wellbeing
+  61. file:///lifeandstyle/home-and-garden
+  62. file:///lifeandstyle/women
+  63. file:///lifeandstyle/men
+  64. file:///lifeandstyle/family
+  65. file:///travel
+  66. file:///money
+  67. https://support.theguardian.com/?INTCMP=side_menu_support&acquisitionData={"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_HEADER","componentId":"side_menu_support"}
+  68. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
+  69. file:///preference/edition/uk
+  70. file:///preference/edition/us
+  71. file:///preference/edition/au
+  72. file:///preference/edition/int
+  73. https://jobs.theguardian.com/
+  74. https://holidays.theguardian.com/?INTCMP=holidays_int_web_newheader
+  75. https://theguardian.newspapers.com/
+  76. https://puzzles.theguardian.com/download
+  77. https://licensing.theguardian.com/
+  78. https://app.adjust.com/16xt6hai
+  79. file:///video
+  80. file:///podcasts
+  81. file:///inpictures
+  82. file:///email-newsletters
+  83. file:///theguardian
+  84. https://www.theguardian.com/membership
+  85. file:///observer
+  86. https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_Int
+  87. file:///crosswords
+  88. https://www.wordiply.com/
+  89. file:///theguardian/series/corrections-and-clarifications
+  90. https://www.facebook.com/theguardian
+  91. https://twitter.com/guardian
+  92. https://jobs.theguardian.com/
+  93. https://holidays.theguardian.com/?INTCMP=holidays_int_web_newheader
+  94. https://theguardian.newspapers.com/
+  95. https://puzzles.theguardian.com/download
+  96. https://licensing.theguardian.com/
+  97. file:///world
+  98. file:///world/europe-news
+  99. file:///us-news
+ 100. file:///world/americas
+ 101. file:///world/asia
+ 102. file:///australia-news
+ 103. file:///world/middleeast
+ 104. file:///world/africa
+ 105. file:///inequality
+ 106. file:///global-development
+ 107. https://www.theguardian.com/world/series/disinfo-black-ops
+ 108. https://www.theguardian.com/technology/technology
+ 109. https://www.theguardian.com/world/series/disinfo-black-ops
+ 110. file://www.theguardian.com/profile/stephanie-kirchgaessner
+ 111. file://www.theguardian.com/profile/manisha-ganguly
+ 112. file://www.theguardian.com/profile/david-pegg
+ 113. file://www.theguardian.com/profile/carolecadwalladr
+ 114. file://www.theguardian.com/profile/jasonburke
+ 115. https://www.theguardian.com/world/series/disinfo-black-ops
+ 116. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
+ 117. https://www.theguardian.com/world/series/disinfo-black-ops
+ 118. https://www.theguardian.com/world/series/disinfo-black-ops
+ 119. https://support.theguardian.com/contribute?acquisitionData={"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_EDITORIAL_LINK","componentId":"HYDRA_ARTICLE_EMBED_150223","campaignCode":"HYDRA_ARTICLE_EMBED_150223"}&INTCMP=HYDRA_ARTICLE_EMBED_150223
+ 120. https://interactive.guim.co.uk/embed/from-tool/generic/index.html?vertical=News&opinion-tint=false&title=Get in touch&description=Do you have information about Tal Hanan or ’Team Jorge’? For the most secure communications, use <a style="color:#ab0613" href="https://www.theguardian.com/securedrop">SecureDrop</a> or see <a style="color:#ab0613" href="https://www.theguardian.com/help/ng-interactive/2017/mar/17/contact-the-guardian-securely">our guide</a>.&link=false
+ 121. file:///technology/technology
+ 122. file:///world/series/disinfo-black-ops
+ 123. file:///media/investigative-journalism
+ 124. file:///technology/hacking
+ 125. file:///media/social-media
+ 126. file:///technology/internet
+ 127. file:///media/digital-media
+ 128. file:///tone/news
+ 129. https://syndication.theguardian.com/automation/?url=https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan&type=article&internalpagecode=world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan
+ 130. file:///world
+ 131. file:///world/europe-news
+ 132. file:///us-news
+ 133. file:///world/americas
+ 134. file:///world/asia
+ 135. file:///australia-news
+ 136. file:///world/middleeast
+ 137. file:///world/africa
+ 138. file:///inequality
+ 139. file:///global-development
+ 140. file:///
+ 141. file:///commentisfree
+ 142. file:///sport
+ 143. file:///culture
+ 144. file:///lifeandstyle
+ 145. https://www.theguardian.com/global/2022/sep/20/sign-up-for-the-first-edition-newsletter-our-free-news-email
+ 146. file:///help
+ 147. file:///info/complaints-and-corrections
+ 148. https://www.theguardian.com/securedrop
+ 149. https://workforus.theguardian.com/
+ 150. file:///info/privacy
+ 151. file:///info/cookies
+ 152. file:///help/terms-of-service
+ 153. file:///help/contact-us
+ 154. file:///index/subjects/a
+ 155. file:///index/contributors
+ 156. https://theguardian.newspapers.com/
+ 157. https://www.facebook.com/theguardian
+ 158. https://www.youtube.com/user/TheGuardian
+ 159. https://www.instagram.com/guardian
+ 160. https://www.linkedin.com/company/theguardian
+ 161. https://twitter.com/guardian
+ 162. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
+ 163. https://advertising.theguardian.com/
+ 164. https://jobs.theguardian.com/
+ 165. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L43113-914TMP.html#top
+
+   Hidden links:
+ 167. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_fb
+ 168. https://twitter.com/intent/tweet?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_tw
+ 169. mailto:?subject=Revealed%3A%20the%20hacking%20and%20disinformation%20team%20meddling%20in%20elections&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_link
+ 170. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
+ 171. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_fb
+ 172. https://twitter.com/intent/tweet?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_tw
+ 173. mailto:?subject=Revealed%3A%20the%20hacking%20and%20disinformation%20team%20meddling%20in%20elections&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_link
+ 174. http://www.linkedin.com/shareArticle?=title=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&mini=true&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3F
+ 175. whatsapp://send/?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections+https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_wa
+ 176. fb-messenger://share/?link=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_me&app_id=180444840287
+ 177. https://www.theguardian.com/world/2023/feb/23/bfmtv-host-rachid-mbarki-sacked-in-influence-probe
+ 178. https://www.theguardian.com/world/2023/feb/15/disinfo-black-ops-exposing-the-companies-and-states-spreading-false-information
+ 179. https://www.theguardian.com/world/2023/feb/15/disinformation-hacking-operative-team-jorge-tal-hanan
+ 180. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
+ 181. https://www.theguardian.com/world/2023/feb/18/cambridge-analytica-staff-leaked-emails-team-jorge-nigeria-election-sam-patten-tal-hanan
+ 182. https://www.theguardian.com/world/2023/feb/17/spanish-firm-erase-past-internet-eliminalia-web
+ 183. https://www.theguardian.com/world/2023/feb/16/team-jorge-and-cambridge-analytica-meddled-in-nigeria-election-emails-reveal
+ 184. https://www.theguardian.com/world/2023/feb/15/political-aides-hacked-by-team-jorge-in-run-up-to-kenyan-election
