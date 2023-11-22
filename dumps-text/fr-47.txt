@@ -1,9 +1,13 @@
 
-   IFRAME: [4]//www.googletagmanager.com/ns.html?id=GTM-NG4RXS
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-NG4RXS
 
+   RubriquesLa chaînePodcasts
+   Mon compteS'identifierS'abonnerJournal
 
-   📍 Ma ville  Actualité  [16]DéclicLa sélection  [17]Faits diversSport
-   Loisirs  Services  Étudiant  Annonces
+   RechercherLa chaînePodcasts
+   JournalS'identifierMon compte
+   📍 Ma ville  Actualité  DéclicLa sélection  Faits diversSport  Loisirs
+   Services  Étudiant  Annonces
    (*)
 
 
@@ -46,6 +50,7 @@ Désinformation : la Commission européenne ne lancera plus de campagne de
 publicité sur X
 
     Lecture 1 min
+   Accueil Sud Ouest Éco Réseaux sociaux
    Désinformation : la Commission européenne ne lancera plus de campagne
    de publicité sur X L’exécutif européen a ouvert en octobre une enquête
    pour la diffusion présumée de « fausses informations » sur le réseau
@@ -67,7 +72,8 @@ publicité sur X
    porte-parole, Johannes Bahrke.
    Sur le même sujet
 
-   X (ex-Twitter)
+   Désinformation : la commission européenne ouvre une enquête visant X
+   (ex-Twitter)
    Désinformation : la commission européenne ouvre une enquête visant X
    (ex-Twitter)
    Il s’agit de la première procédure lancée dans le cadre de la nouvelle
@@ -83,8 +89,8 @@ publicité sur X
 
 Une ancienne polémique impliquée
 
-   L’exécutif européen a ouvert en octobre une [104]enquête visant ce
-   réseau social pour la diffusion présumée de « fausses informations »,
+   L’exécutif européen a ouvert en octobre une enquête visant ce réseau
+   social pour la diffusion présumée de « fausses informations »,
    « contenus violents et à caractère terroriste » et « discours de
    haine » dans le contexte de la guerre entre Israël et le Hamas. Cette
    démarche s’inscrit dans le cadre de l’application de la nouvelle
@@ -92,7 +98,8 @@ Une ancienne polémique impliquée
    renforcées aux plateformes.
    Sur le même sujet
 
-   réseau social X ce vendredi 27 octobre ?
+   Désinformation : qu’est-ce que le #NoTwitterDay, qui vise le réseau
+   social X ce vendredi 27 octobre ?
    Désinformation : qu’est-ce que le #NoTwitterDay, qui vise le réseau
    social X ce vendredi 27 octobre ?
    Un collectif de spécialistes de la désinformation, inquiets de
@@ -122,6 +129,7 @@ Une ancienne polémique impliquée
    Sur le même sujet
 
    Le réseau social X lance deux nouveaux abonnements mensuels
+   Le réseau social X lance deux nouveaux abonnements mensuels
    Les utilisateurs peuvent désormais choisir entre trois formules :
    Basic, Premium et Premium +, respectivement à 3, 8 et 16 dollars par
    mois
@@ -135,12 +143,24 @@ LES DERNIÈRES VIDÉOS
    Sur Web, Tablette et Mobile
 
 
+   Abonné papier ? Activez votre accès S'abonner à partir de 1€ Mon espace
+   premium
 
    Toutes les rubriques
+   Fermer
+   Mon compte
+   Déconnexion
+   Mon compte
+   Déconnexion
+   Devenez premium
+   Connexion
+   Devenez premium
+   Communes
 
 
    Chaînes TV
 
+   Actualité & Services
 
 
    Formats spéciaux
@@ -165,252 +185,15 @@ Vous avez choisi de refuser les cookies
    fonctionnalités gratuites que propose notre site.
    À tout moment, vous pouvez modifier vos choix via le bouton “cookies”
    en bas de page.
+   Accepter les cookies ou S'abonner
 
    Répondre
    Pour réagir à cet article, remplissez le champ ci-dessous. Vous pouvez
-   également, consulter notre [223]charte des commentaires.
+   également, consulter notre charte des commentaires.
    Auteur
+   Lire les règles de modération de sudouest.fr
 
 
    Signaler un commentaire
    Merci de nous décrire précisément ce qui vous paraît illégal dans ce
    message.
-
-
-Références
-
-   Liens visibles :
-   1. android-app://com.sudouest.android/comsudouest/article/17498858
-   2. ios-app://419143234/comsudouest/article/17498858
-   3. https://www.sudouest.fr/rss.xml
-   4. file://www.googletagmanager.com/ns.html?id=GTM-NG4RXS
-   5. file:///tmp/lynxXXXXz3iLOY/L12214-9052TMP.html
-   6. https://www.sudouest.fr/lachainetv7/
-   7. https://profil.sudouest.fr/account/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
-   8. https://profil.sudouest.fr/login/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
-   9. https://abonnement.sudouest.fr/
-  10. https://profil.sudouest.fr/telechargement/
-  11. file:///tmp/lynxXXXXz3iLOY/L12214-9052TMP.html
-  12. https://www.sudouest.fr/lachainetv7/
-  13. https://profil.sudouest.fr/telechargement/
-  14. https://profil.sudouest.fr/login/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
-  15. https://profil.sudouest.fr/account/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
-  16. https://www.sudouest.fr/environnement/declic/
-  17. https://www.sudouest.fr/faits-divers/
-  18. file:///communes/
-  19. file:///lot-et-garonne/agen/
-  20. file:///charente/angouleme/
-  21. file:///gironde/arcachon/
-  22. file:///pyrenees-atlantiques/bayonne/
-  23. file:///dordogne/bergerac/
-  24. file:///pyrenees-atlantiques/biarritz/
-  25. file:///gironde/bordeaux/
-  26. file:///landes/dax/
-  27. file:///gironde/langon/
-  28. file:///charente-maritime/la-rochelle/carte/
-  29. file:///gironde/libourne/
-  30. file:///lot-et-garonne/marmande/
-  31. file:///gironde/lesparre-medoc/
-  32. file:///landes/mont-de-marsan/
-  33. file:///pyrenees-atlantiques/oloron-sainte-marie/
-  34. file:///pyrenees-atlantiques/orthez/
-  35. file:///pyrenees-atlantiques/pau/
-  36. file:///dordogne/perigueux/
-  37. file:///charente-maritime/rochefort/carte/
-  38. file:///charente-maritime/royan/carte/
-  39. file:///charente-maritime/saintes/carte/
-  40. file:///pyrenees-atlantiques/saint-jean-de-luz/
-  41. file:///lot-et-garonne/villeneuve-sur-lot/
-  42. file:///international/
-  43. file:///politique/
-  44. file:///economie/
-  45. file:///environnement/
-  46. file:///sante/
-  47. file:///societe/
-  48. file:///selection-du-jour/
-  49. file:///edition-du-soir/
-  50. file:///premium/
-  51. file:///bonne-humeur/
-  52. file:///redaction/insolite/
-  53. file:///redaction/le-vrai-du-faux/
-  54. file:///sport/
-  55. file:///sport/football/
-  56. file:///sport/rugby/
-  57. https://raffut-rugby.fr/
-  58. file:///sport/cyclisme/
-  59. file:///sport/tennis/
-  60. file:///sport/basket/
-  61. file:///sport/surf/
-  62. file:///sport/sports-mecaniques/
-  63. file:///sport/hockey-sur-glace/
-  64. file:///sport/resultats/
-  65. file:///sport/jeux-olympiques/
-  66. file:///culture/
-  67. https://www.diverto.tv/?utm_source=sud_ouest&utm_medium=menu&utm_campaign=gso/
-  68. file:///gastronomie/
-  69. file:///redaction/le-cercle-sud-ouest-des-idees/
-  70. file:///culture/programmes-tv/
-  71. https://www.diverto.tv/programme-tv?utm_source=sud_ouest&utm_medium=menu&utm_campaign=gso
-  72. file:///tourisme/
-  73. file:///vin/
-  74. file:///economie/auto-moto/
-  75. file:///archives/
-  76. https://leclub.sudouest.fr/
-  77. file:///jeux/
-  78. file:///horoscope/
-  79. file:///evenements/
-  80. https://billetterie.sudouest.fr/
-  81. file:///guide-shopping/
-  82. file:///contenu-partenaire/
-  83. https://boutique.sudouest.fr/
-  84. file:///etudiant/
-  85. file:///etudiant/lycee/
-  86. file:///etudiant/examens/
-  87. file:///etudiant/lycee/parcoursup/
-  88. file:///etudiant/etudes-superieures/
-  89. file:///etudiant/etudes-superieures/trouver-votre-ecole/
-  90. https://examens.sudouest.fr/resultats-bac
-  91. https://examens.sudouest.fr/resultats-brevet
-  92. file:///culture/programmes-tv/serie/
-  93. https://carnet.sudouest.fr/
-  94. https://emploi.sudouest.fr/
-  95. https://www.bienici.com/sudouest?referrer=sudouest
-  96. file:///annonces-legales/
-  97. file:///
-  98. file:///economie/
-  99. file:///economie/reseaux-sociaux/
- 100. file:///tmp/lynxXXXXz3iLOY/L12214-9052TMP.html#comments-block
- 101. https://abonnement.sudouest.fr/
- 102. file:///economie/reseaux-sociaux/desinformation-la-commission-europeenne-ouvre-une-enquete-visant-x-ex-twitter-17048690.php
- 103. file:///economie/reseaux-sociaux/desinformation-la-commission-europeenne-ouvre-une-enquete-visant-x-ex-twitter-17048690.php
- 104. file:///economie/reseaux-sociaux/desinformation-la-commission-europeenne-ouvre-une-enquete-visant-x-ex-twitter-17048690.php
- 105. file:///economie/reseaux-sociaux/desinformation-qu-est-ce-que-le-notwitterday-qui-vise-le-reseau-social-x-ce-vendredi-27-octobre-17220500.php
- 106. file:///economie/reseaux-sociaux/desinformation-qu-est-ce-que-le-notwitterday-qui-vise-le-reseau-social-x-ce-vendredi-27-octobre-17220500.php
- 107. file:///justice/on-n-est-pas-des-mechants-juste-des-jeunes-2-ans-ferme-pour-avoir-ramene-621-faux-billets-de-100-euros-d-italie-17390614.php
- 108. file:///justice/on-n-est-pas-des-mechants-juste-des-jeunes-2-ans-ferme-pour-avoir-ramene-621-faux-billets-de-100-euros-d-italie-17390614.php
- 109. file:///economie/reseaux-sociaux/le-reseau-social-x-lance-deux-nouveaux-abonnements-mensuels-17246639.php
- 110. file:///economie/reseaux-sociaux/le-reseau-social-x-lance-deux-nouveaux-abonnements-mensuels-17246639.php
- 111. file:///economie/reseaux-sociaux/
- 112. file:///international/europe/
- 113. file:///international/
- 114. file:///societe/
- 115. file:///sciences-et-technologie/
- 116. file:///economie/
- 117. https://profil.sudouest.fr/telechargement/
- 118. file:///premium/
- 119. file:///edition-du-soir/
- 120. https://leclub.sudouest.fr/
- 121. file:///formats-longs/
- 122. https://archives.sudouest.fr/
- 123. https://profil.sudouest.fr/journalnumerique/
- 124. https://abonnement.sudouest.fr/
- 125. file:///premium/
- 126. file:///tmp/lynxXXXXz3iLOY/L12214-9052TMP.html
- 127. https://profil.sudouest.fr/account/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
- 128. https://profil.sudouest.fr/logout.php/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
- 129. https://profil.sudouest.fr/account/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
- 130. https://profil.sudouest.fr/logout.php/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
- 131. https://abonnement.sudouest.fr/
- 132. https://profil.sudouest.fr/login/?SSO_Context=https://www.sudouest.fr/economie/reseaux-sociaux/desinformation-la-commission-europeenne-ne-lancera-plus-de-campagne-de-publicite-sur-x-17498858.php
- 133. https://abonnement.sudouest.fr/
- 134. file:///sitemap-liste-communes/
- 135. https://www.sudouest.fr/gironde/bordeaux/
- 136. https://www.sudouest.fr/charente-maritime/la-rochelle/carte/
- 137. https://www.sudouest.fr/landes/mont-de-marsan/
- 138. https://www.sudouest.fr/dordogne/perigueux/
- 139. https://www.sudouest.fr/pyrenees-atlantiques/pau/
- 140. https://www.sudouest.fr/charente/angouleme/
- 141. https://www.sudouest.fr/gironde/libourne/
- 142. https://www.sudouest.fr/landes/biscarrosse/
- 143. https://www.sudouest.fr/charente-maritime/royan/
- 144. https://www.sudouest.fr/gironde/langon/
- 145. https://www.sudouest.fr/gironde/lesparre-medoc/
- 146. https://www.sudouest.fr/pyrenees-atlantiques/bayonne/
- 147. https://www.sudouest.fr/pyrenees-atlantiques/biarritz/
- 148. https://www.sudouest.fr/landes/dax/
- 149. https://www.sudouest.fr/lot-et-garonne/agen/
- 150. https://www.sudouest.fr/charente/cognac/
- 151. https://www.sudouest.fr/gironde/arcachon/
- 152. https://www.sudouest.fr/charente-maritime/saintes/
- 153. https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/
- 154. https://www.sudouest.fr/dordogne/bergerac/
- 155. https://www.sudouest.fr/gironde/merignac/
- 156. https://www.sudouest.fr/gironde/gradignan/
- 157. https://www.sudouest.fr/communes/
- 158. https://www.sudouest.fr/lachainetv7/
- 159. https://www.sudouest.fr/lachainetvpi/
- 160. file:///sitemap-liste-themes/
- 161. https://www.sudouest.fr/
- 162. https://www.sudouest.fr/faits-divers/
- 163. https://www.sudouest.fr/economie/
- 164. https://www.sudouest.fr/culture/
- 165. https://www.sudouest.fr/politique/
- 166. https://www.sudouest.fr/international/
- 167. https://elections.sudouest.fr/
- 168. https://kiosque.sudouest.fr/
- 169. https://www.sudouest.fr/premium/
- 170. https://www.sudouest.fr/archives/
- 171. https://www.sudouest.fr/societe/
- 172. https://www.sudouest.fr/environnement/
- 173. https://www.sudouest.fr/sciences-et-technologie/
- 174. https://www.sudouest.fr/sante/
- 175. https://www.sudouest.fr/redaction/le-cercle-sud-ouest-des-idees/
- 176. https://www.sudouest.fr/sante/coronavirus/
- 177. https://www.sudouest.fr/tourisme/
- 178. https://www.sudouest.fr/etudiant/
- 179. https://billetterie.sudouest.fr/
- 180. https://www.diverto.tv/?utm_source=sud_ouest&utm_medium=menu&utm_campaign=gso
- 181. https://www.sudouest.fr/guide-shopping/
- 182. https://www.sudouest.fr/formats-longs/
- 183. https://www.sudouest.fr/podcasts/
- 184. https://www.sudouest.fr/jeux/
- 185. https://www.sudouest.fr/redaction/journal-des-lecteurs/
- 186. https://leclub.sudouest.fr/
- 187. https://www.sudouest.fr/sport/
- 188. https://sportclub.sudouest.fr/page/637faf8d926aad3909b6f3fe
- 189. https://www.sudouest.fr/sport/football/
- 190. https://www.sudouest.fr/sport/football/girondins-de-bordeaux/
- 191. https://www.sudouest.fr/sport/rugby/
- 192. https://www.sudouest.fr/sport/rugby/stade-rochelais/
- 193. https://www.sudouest.fr/sport/rugby/bordeaux-begles/
- 194. https://www.sudouest.fr/sport/rugby/section-paloise/
- 195. https://www.sudouest.fr/sport/rugby/su-agen/
- 196. https://www.sudouest.fr/sport/basket/
- 197. https://www.sudouest.fr/sport/surf/
- 198. https://www.sudouest.fr/sport/clubs/
- 199. https://www.sudouest.fr/sport/resultats/
- 200. https://www.sudouest.fr/sport/directs/
- 201. https://www.sudouest.fr/sport/equitation/resultats/
- 202. https://www.sudouest.fr/sport/ou-pratiquer/
- 203. https://raffut-rugby.fr/
- 204. https://profil.sudouest.fr/telechargement/
- 205. https://abonnement.sudouest.fr/
- 206. https://abonnement.sudouest.fr/gestion/
- 207. https://archives.sudouest.fr/
- 208. https://www.sudouest.fr/archives/collectors/
- 209. http://unes-anniversaires.sudouest.fr/
- 210. https://visite-imprimerie.sudouest.fr/
- 211. https://carnet.sudouest.fr/
- 212. https://emploi.sudouest.fr/
- 213. https://www.bienici.com/sudouest?referrer=sudouest
- 214. https://www.sudouest.fr/annonces-legales/
- 215. https://www.sudouest.fr/apps/
- 216. https://profil.sudouest.fr/newsletters/
- 217. https://www.facebook.com/journalsudouest/
- 218. https://twitter.com/sudouest
- 219. https://www.instagram.com/journalsudouest/?hl=fr
- 220. https://www.youtube.com/channel/UC7PX-myPpcT4YfZEWqZxGGg
- 221. file:///tmp/lynxXXXXz3iLOY/L12214-9052TMP.html
- 222. https://abonnement.sudouest.fr/
- 223. file:///static/cgu/
- 224. https://profil.sudouest.fr/account/
- 225. file:///static/cgu/
-
-   Liens cachés :
- 227. https://www.sudouest.fr/podcasts/
- 228. https://www.sudouest.fr/
- 229. https://www.sudouest.fr/podcasts/
- 230. https://www.sudouest.fr/
- 231. https://www.sudouest.fr/
- 232. file://localhost/
- 233. file://localhost/

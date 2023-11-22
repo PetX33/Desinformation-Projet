@@ -101,7 +101,7 @@ a.source.postMessage(n?JSON.stringify(r):r,"*")})}}if(typeof window.__cmp!=="fun
       document.documentElement.classList.add('is-desktop');
     }
 
-    document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+    document.documentElement.className = document.documentElement.className.replace(/no-js/g, '') + ' js ';
     window.abtestVersion = '1.0';
     window.isWebview = '';
     // set fallback images on errors

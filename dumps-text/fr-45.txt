@@ -1,6 +1,9 @@
 
+   Aller au contenu
 
+   BLACK FRIDAY -70% sur votre abonnementRechercher
    Notre application
+   Soyez alerté en temps réel
    avec l'application Le Figaro
 
    Rubriques et services du Figaro
@@ -14,14 +17,16 @@
    Les sites du Groupe Figaro
 
 
+   Lire le PDF en ligne Lire le journal
+   BLACK FRIDAY -70% sur votre abonnement
 
 
-   IFRAME: [84]https://www.googletagmanager.com/ns.html?id=GTM-TC6DVH
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TC6DVH
 
    Publicité
 
-    1. [85]Accueil
-    2. [86]Tech & Web
+    1. Accueil
+    2. Tech & Web
 
 La Commission européenne suspend ses campagnes publicitaires sur X
 (ex-Twitter) face à la «hausse de la désinformation»
@@ -48,7 +53,7 @@ La Commission européenne suspend ses campagnes publicitaires sur X
    le réseau social, anciennement nommé Twitter, en raison de la «hausse
    alarmante de la désinformation et des discours de haine», a indiqué
    vendredi un porte-parole. «Nous avons constaté une hausse alarmante de
-   la [93]désinformation et des discours de haine sur plusieurs réseaux
+   la désinformation et des discours de haine sur plusieurs réseaux
    sociaux ces dernières semaines, et cela concerne bien entendu X», a
    déclaré ce porte-parole, Johannes Bahrke.
 
@@ -58,7 +63,7 @@ La Commission européenne suspend ses campagnes publicitaires sur X
    présence des services de la Commission européenne sur X, a précisé le
    porte-parole.
 
-   À lire aussi[94]Elon Musk nie vouloir fermer X (ex-Twitter) en Europe
+   À lire aussiElon Musk nie vouloir fermer X (ex-Twitter) en Europe
 
 Enquête de la Commission européenne
 
@@ -89,8 +94,8 @@ Enquête de la Commission européenne
    l'UE. L'ONG réclame une enquête fouillée et l'imposition d'une amende.
    La rédaction vous conseille
        américain IBM suspend ses publicités sur X, l'ex-Twitter
-       La France plus mauvaise élève de X (ex-Twitter)?
-       seront plus monétisés
+       France plus mauvaise élève de X (ex-Twitter)?
+       plus monétisés
 
    Sujets
 
@@ -123,19 +128,17 @@ Enquête de la Commission européenne
 
    À lire aussi
 
+Sam Altman revient chez OpenAI cinq jours après son licenciement : la folle
+semaine du père de ChatGPT
 
-Les salariés d’OpenAI menacent de démissionner si Sam Altman n’est pas
-réintégré à l’entreprise
+   Sam Altman revient chez OpenAI cinq jours après son licenciement : la
+   folle semaine du père de ChatGPT Sam Altman revient chez OpenAI cinq
+   jours après son licenciement : la folle semaine du père de ChatGPT
 
-   Les salariés d’OpenAI menacent de démissionner si Sam Altman n’est pas
-   réintégré à l’entreprise Les salariés d’OpenAI menacent de démissionner
-   si Sam Altman n’est pas réintégré à l’entreprise
-
-   L’entrepreneur, limogé vendredi par son conseil d’administration, a été
-   embauché dimanche soir par Microsoft pour diriger une nouvelle équipe
-   de recherche avancée sur l'intelligence artificielle.
+   CHRONOLOGIE - Les rebondissements se succèdent à grande vitesse depuis
+   le 17 novembre, jour de la décision choc du conseil d’administration.
+   Le Figaro fait le point.
    Regarder la vidéo
-
 
 OpenAI annonce le retour de Sam Altman à la tête de l’entreprise
 
@@ -144,36 +147,38 @@ OpenAI annonce le retour de Sam Altman à la tête de l’entreprise
 
    Coqueluche de la Silicon Valley, Sam Altman avait été évincé de sa
    propre start-up, créatrice de ChatGPT, avant d’être embauché par
-   Microsoft. Il réintègre finalement Open AI à la tête d’un nouveau
+   Microsoft. Il réintègre finalement Open AI, qui va nommer un nouveau
    conseil d’administration.
    Regarder la vidéo
 
+Les folles 48 heures autour du sort du «père de ChatGPT», Sam Altman, chez
+OpenAI
 
-Flou sur le sort de Sam Altman, licencié sans ménagement vendredi d’OpenAI
+   Les folles 48 heures autour du sort du «père de ChatGPT», Sam Altman,
+   chez OpenAI Les folles 48 heures autour du sort du «père de ChatGPT»,
+   Sam Altman, chez OpenAI
 
-   Flou sur le sort de Sam Altman, licencié sans ménagement vendredi
-   d’OpenAI Flou sur le sort de Sam Altman, licencié sans ménagement
-   vendredi d’OpenAI
-
-   Opposés au limogeage du créateur de ChatGPT, les investisseurs feraient
-   pression sur le conseil d’administration pour obtenir le retour
-   d’Altman à la tête de l’entreprise.
-   Regarder la vidéo
+   RÉCIT - Renversé par son conseil d’administration, Sam Altman pourrait
+   revenir sous la pression des investisseurs.
 
    Plus de services
    L'actualité à ne pas manquer
 
+   Programme TV
 
+   Sport
 
    Madame
 
    Santé
 
+   Guide d'achat
 
    Éducation et orientation
 
    Culture
 
+   Codes promos et réductions
 
    Offres d'emploi
 
@@ -188,6 +193,7 @@ Flou sur le sort de Sam Altman, licencié sans ménagement vendredi d’OpenAI
 
    Figaro Services
 
+   Vin
 
    Résultats des élections par département
 
@@ -209,12 +215,14 @@ Flou sur le sort de Sam Altman, licencié sans ménagement vendredi d’OpenAI
 
    La Commission européenne suspend ses campagnes publicitaires sur X
    (ex-Twitter) face à la «hausse de la désinformation»
+   S'ABONNER
 
    Partager via :
        Lien copié
 
 
    Plus d'options
+   S'abonner
 
    Nos liens utiles
 
@@ -222,378 +230,12 @@ Flou sur le sort de Sam Altman, licencié sans ménagement vendredi d’OpenAI
    Le Kiosque
 
    Le Figaro
+   Lire ce numéro
    Abonnement
        Les articles en illimité à partir de 0,99€ sans engagement
 
    Applications mobiles
 
    Nos newsletters
+   Inscrivez-vous aux newsletters
    Suivez-nous sur :
-
-Références
-
-   Liens visibles :
-   1. https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
-   2. file:///tmp/lynxXXXXqrvlhN/L12166-9471TMP.html#fig-page
-   3. https://abonnement.lefigaro.fr/lefigaro-black-friday?origine=VWH16003&ga_source=VWH16003_header_ouvert&redirect_uri=__uri__
-   4. https://recherche.lefigaro.fr/recherche/
-   5. https://app.adjust.com/j61u5t3
-   6. https://www.lefigaro.fr/international/dossier/tensions-entre-la-russie-et-l-ukraine-tout-comprendre-a-la-menace-d-une-invasion-russe
-   7. https://www.lefigaro.fr/politique
-   8. https://www.lefigaro.fr/international
-   9. https://www.lefigaro.fr/actualite-france
-  10. https://www.lefigaro.fr/vox
-  11. https://www.lefigaro.fr/economie
-  12. https://www.lefigaro.fr/sports
-  13. https://www.lefigaro.fr/culture
-  14. https://www.lefigaro.fr/voyages
-  15. https://www.lefigaro.fr/style
-  16. http://madame.lefigaro.fr/
-  17. https://avis-vin.lefigaro.fr/
-  18. https://video.lefigaro.fr/
-  19. https://www.lefigaro.fr/lefigaromagazine
-  20. https://www.lefigaro.fr/dossier/la-verification
-  21. https://etudiant.lefigaro.fr/
-  22. https://www.lefigaro.fr/faits-divers
-  23. http://sante.lefigaro.fr/
-  24. https://www.lefigaro.fr/sciences
-  25. https://www.lefigaro.fr/dossier/fig-data-infographies-datavisualisation
-  26. https://www.lefigaro.fr/secteur/high-tech
-  27. https://bourse.lefigaro.fr/
-  28. https://immobilier.lefigaro.fr/actualites
-  29. https://emploi.lefigaro.fr/
-  30. https://www.lefigaro.fr/lifestyle
-  31. https://www.lefigaro.fr/automobile
-  32. https://www.lefigaro.fr/langue-francaise
-  33. http://golf.lefigaro.fr/
-  34. https://www.lefigaro.fr/histoire
-  35. https://tvmag.lefigaro.fr/
-  36. https://tvmag.lefigaro.fr/programme-tv
-  37. https://www.lefigaro.fr/maison-et-jardin
-  38. http://evene.lefigaro.fr/
-  39. https://www.lefigaro.fr/carnetdujour
-  40. https://guide-achat.lefigaro.fr/
-  41. https://www.lefigaro.fr/services
-  42. https://billetterie.lefigaro.fr/
-  43. https://podcasts.lefigaro.fr/
-  44. https://www.lefigaro.fr/dossier/les-questions-du-jour-du-figaro
-  45. https://boutique.lefigaro.fr/
-  46. https://lesvoyagesf.lefigaro.fr/
-  47. https://www.lefigaro.fr/a-savoir-en-france
-  48. https://kiosque.lefigaro.fr/catalog/le-figaro
-  49. https://kiosque.lefigaro.fr/catalog/le-figaro-magazine
-  50. https://kiosque.lefigaro.fr/catalog/madame-figaro
-  51. https://kiosque.lefigaro.fr/catalog/tv-magazine
-  52. https://boutique.lefigaro.fr/?utm_source=Partenariat&utm_medium=email&utm_campaign=store_mkt_header-figaro.fr_2019_&utm_content=store&utm_term=SAN19154
-  53. https://www.ticketac.com/
-  54. http://leparticulier.lefigaro.fr/
-  55. https://www.meteoconsult.fr/carte-meteo/pays-63/previsions-meteo-france-aujourdhui
-  56. https://www.lachainemeteo.com/
-  57. https://figaronautisme.meteoconsult.fr/
-  58. https://lesvoyagesf.fr/
-  59. https://www.cadremploi.fr/
-  60. https://emploi.lefigaro.fr/
-  61. https://immobilier.lefigaro.fr/
-  62. https://www.explorimmoneuf.com/
-  63. https://proprietes.lefigaro.fr/
-  64. https://www.achat-terrain.com/
-  65. https://www.chooseyourboss.com/
-  66. https://www.marcovasco.fr/
-  67. https://www.maisonsduvoyage.com/
-  68. https://www.amatera-voyages.com/
-  69. https://connect.lefigaro.fr/login?client=horizon_web&redirect_uri=__uri__
-  70. https://client.lefigaro.fr/WebloggiaLeFigaro/espaceclient/accueil
-  71. https://client.lefigaro.fr/WebloggiaLeFigaro/espaceclient/newsletters.action
-  72. https://myaccount.lefigaro.fr/mon-compte/commentaires
-  73. https://abonnement.lefigaro.fr/lefigaro?ga_source=VWH19001_lien_menu_compte_connecte&origine=VWH19001&redirect_uri=__uri__
-  74. https://faq.lefigaro.fr/hc/fr
-  75. https://connect.lefigaro.fr/logout
-  76. https://kiosque.lefigaro.fr/catalog/le-figaro/le-figaro
-  77. https://abonnement.lefigaro.fr/lefigaro-black-friday?origine=VWH16003&ga_source=VWH16003_header_ouvert&redirect_uri=__uri__
-  78. https://www.lefigaro.fr/secteur/high-tech
-  79. https://www.lefigaro.fr/secteur/high-tech/dossier/crypto-monnaie-tout-comprendre-pour-s-y-retrouver
-  80. https://www.lefigaro.fr/secteur/high-tech/start-up
-  81. https://www.lefigaro.fr/secteur/high-tech/test
-  82. https://www.lefigaro.fr/secteur/high-tech/pratique
-  83. https://www.lefigaro.fr/jeux-video
-  84. https://www.googletagmanager.com/ns.html?id=GTM-TC6DVH
-  85. https://www.lefigaro.fr/
-  86. https://www.lefigaro.fr/secteur/high-tech
-  87. mailto:?subject=Le Figaro - à lire : La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation»&body=La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation»
-
-«Nous avons constaté une hausse alarmante de la désinformation et des discours de haine sur plusieurs réseaux sociaux ces dernières semaines, et cela concerne bien entendu X», a déclaré un porte-parole de l’exécutif européen.
-
-https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
-  88. https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117&display=popup
-  89. https://twitter.com/intent/tweet?url=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117&text=Le Figaro - à lire : La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation»
-  90. https://www.linkedin.com/sharing/share-offsite/?url=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
-  91. fb-messenger://share/?link=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117&app_id=253015184720028
-  92. whatsapp://send/?text=Le Figaro - à lire : La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation» https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
-  93. https://www.lefigaro.fr/tag/desinformation
-  94. https://www.lefigaro.fr/secteur/high-tech/elon-musk-envisagerait-de-fermer-x-ex-twitter-en-europe-20231019
-  95. https://www.lefigaro.fr/flash-eco/publiees-proches-de-contenus-pro-nazis-le-geant-informatique-americain-ibm-suspend-ses-publicites-sur-x-l-ex-twitter-20231117
-  96. https://www.lefigaro.fr/secteur/high-tech/signalements-de-contenus-suppressions-pour-propos-violents-la-france-plus-mauvaise-eleve-de-x-ex-twitter-20231105
-  97. https://www.lefigaro.fr/secteur/high-tech/sur-x-ex-twitter-les-posts-corriges-par-la-communaute-ne-seront-plus-monetises-20231030
-  98. https://www.lefigaro.fr/tag/publicite
-  99. https://www.lefigaro.fr/tag/twitter
- 100. https://www.lefigaro.fr/tag/commission-europeenne
- 101. https://www.lefigaro.fr/tag/desinformation
- 102. https://www.lefigaro.fr/secteur/high-tech/limoge-d-openai-sam-altman-rejoint-microsoft-20231120
- 103. https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-openai-annonce-le-retour-de-sam-altman-a-la-tete-de-l-entreprise-20231122
- 104. https://www.lefigaro.fr/secteur/high-tech/etats-unis-sam-altman-le-patron-d-openai-et-createur-de-chatgpt-demis-de-ses-fonctions-20231117
- 105. https://www.lefigaro.fr/elections/resultats
- 106. https://www.lefigaro.fr/sciences/dossier/virus-chine-coronavirus-pneumonie
- 107. https://www.lefigaro.fr/international/dossier/tensions-entre-la-russie-et-l-ukraine-tout-comprendre-a-la-menace-d-une-invasion-russe
- 108. https://www.lefigaro.fr/international/dossier/crise-iran-etats-unis-accord-nucleaire-sanctions-ali-khamenei-hassan-rohanni-donal-trump-emmanuel-macron
- 109. https://plus.lefigaro.fr/tag/coree-du-nord
- 110. https://www.lefigaro.fr/politique
- 111. https://www.lefigaro.fr/vox
- 112. https://www.lefigaro.fr/secteur/high-tech/dossier/facebook-tiktok-instagram-snapchat-youtube-twitch-les-secrets-des-reseaux-sociaux
- 113. https://tvmag.lefigaro.fr/programme-tv
- 114. https://tvmag.lefigaro.fr/programme-tv/ce-soir-a-la-tv
- 115. https://tvmag.lefigaro.fr/programme-tv/en-ce-moment-tv
- 116. https://tvmag.lefigaro.fr/programme-tv/programme-tnt
- 117. https://tvmag.lefigaro.fr/programme-tv/series
- 118. https://tvmag.lefigaro.fr/programme-tv/miss-france
- 119. https://tvmag.lefigaro.fr/programme-tv/programme-canalsat
- 120. https://tvmag.lefigaro.fr/programme-tv/programme-free
- 121. https://tvmag.lefigaro.fr/programme-tv/programme-sfr
- 122. https://tvmag.lefigaro.fr/programme-tv/people/
- 123. https://www.lefigaro.fr/sports
- 124. https://www.lefigaro.fr/sports/matches-en-direct
- 125. https://www.lefigaro.fr/sports/rugby/coupe-du-monde/calendrier-resultats
- 126. https://www.lefigaro.fr/sports/jeux-olympiques
- 127. https://www.lefigaro.fr/sports/cyclisme
- 128. https://www.lefigaro.fr/sports/cyclisme/tour-de-france/resultats/classement-general
- 129. https://www.lefigaro.fr/sports/football/qualifs-euro/calendrier-resultats
- 130. https://www.lefigaro.fr/sports/football/ligue-1/classement
- 131. https://www.lefigaro.fr/sports/rugby/top-14/calendrier-resultats
- 132. https://www.lefigaro.fr/sports/football/transferts
- 133. https://www.lefigaro.fr/sports/football/coupe-du-monde
- 134. https://www.lefigaro.fr/sports/football/dossier/ballon-d-or-palmares-resultats-classement-complet
- 135. https://madame.lefigaro.fr/astro/horoscope/quotidien
- 136. https://madame.lefigaro.fr/mariage
- 137. https://madame.lefigaro.fr/cuisine
- 138. https://madame.lefigaro.fr/tag/brigitte-macron
- 139. https://madame.lefigaro.fr/style
- 140. https://madame.lefigaro.fr/recettes/idees-menus/aperitif-dinatoire-0
- 141. https://madame.lefigaro.fr/recettes/pate-crepes-sucree-171000-198865
- 142. https://madame.lefigaro.fr/bijoux-et-montres/tendances-bijoux
- 143. https://madame.lefigaro.fr/tag/meghan-markle
- 144. https://madame.lefigaro.fr/tag/gainage
- 145. https://sante.lefigaro.fr/medicaments/
- 146. https://sante.lefigaro.fr/mieux-etre
- 147. https://sante.lefigaro.fr/mieux-etre/sexualite
- 148. https://sante.lefigaro.fr/maladie
- 149. https://sante.lefigaro.fr/mieux-etre/nutrition-aliments
- 150. https://sante.lefigaro.fr/sante/organe
- 151. https://sante.lefigaro.fr/psychologie
- 152. https://www.lefigaro.fr/sciences/la-pollution-va-t-elle-tous-nous-tuer-20190614
- 153. https://sante.lefigaro.fr/dossier/dormir-sans-reposer-comment-soigner-le-syndrome-d-apnees-du-sommeil
- 154. https://www.lefigaro.fr/sciences/15-mythes-et-anecdotes-sur-les-aliments-et-leurs-super-pouvoirs-20190715
- 155. https://guide-achat.lefigaro.fr/
- 156. https://guide-achat.lefigaro.fr/maison-et-jardin
- 157. https://guide-achat.lefigaro.fr/sante-et-beaute
- 158. https://guide-achat.lefigaro.fr/high-tech-image-et-son
- 159. https://guide-achat.lefigaro.fr/smartphones-tablettes-et-accessoires
- 160. https://guide-achat.lefigaro.fr/maison-et-jardin/cuisine/comment-bien-choisir-son-extracteur-de-jus--fad376a6-a7aa-11e8-9ed4-e4e916f929a2
- 161. https://guide-achat.lefigaro.fr/smartphones-tablettes-et-accessoires/montres-et-bracelets-connectes/comparatif-quelle-montre-connectee-pour-enfant-choisir--5b6efe70-d156-11e8-875d-ccd4c26cfa08
- 162. https://guide-achat.lefigaro.fr/high-tech-image-et-son/tv/comparatif-quel-est-le-meilleur-home-cinema-sans-fil--c982d7d2-bb40-11e8-b394-865d75ef5ffe
- 163. https://guide-achat.lefigaro.fr/sante-et-beaute/corps/comparatif-semelle-gel-b923d700-19ab-11e9-aaf9-6b2dd339062e
- 164. https://guide-achat.lefigaro.fr/sante-et-beaute/epilateur/comparatif-quel-epilateur-electrique-choisir--4f22d364-ba7f-11e8-b394-865d75ef5ffe
- 165. https://www.lefigaro.fr/services/bons-plans
- 166. https://resultats.etudiant.lefigaro.fr/resultats-bac/
- 167. https://etudiant.lefigaro.fr/bac/revisions-du-bac/
- 168. https://etudiant.lefigaro.fr/college-lycee/parcoursup/
- 169. https://etudiant.lefigaro.fr/annuaires/ecoles-de-commerce
- 170. https://etudiant.lefigaro.fr/stage-alternance/entreprises/
- 171. https://etudiant.lefigaro.fr/stage-alternance/stage/
- 172. https://resultats.etudiant.lefigaro.fr/resultats-brevet/
- 173. https://etudiant.lefigaro.fr/etudes/ecoles-de-commerce/
- 174. https://etudiant.lefigaro.fr/stage-alternance/alternance/
- 175. https://etudiant.lefigaro.fr/agenda/
- 176. https://www.lefigaro.fr/culture/dossier/succession-johnny-hallyday-laura-smet-david-laeticia-testament
- 177. https://www.lefigaro.fr/cinema
- 178. https://www.lefigaro.fr/arts-expositions
- 179. https://www.lefigaro.fr/musique
- 180. https://www.lefigaro.fr/jeux-video
- 181. https://evene.lefigaro.fr/citations
- 182. https://www.ticketac.com/reservation-theatre.htm
- 183. https://www.lefigaro.fr/sortir-paris
- 184. https://www.lefigaro.fr/histoire
- 185. https://www.lefigaro.fr/langue-francaise
- 186. https://codespromo.lefigaro.fr/
- 187. https://codespromo.lefigaro.fr/code-promo/wish
- 188. https://codespromo.lefigaro.fr/code-promo/cdiscount
- 189. https://codespromo.lefigaro.fr/code-promo/shein
- 190. https://codespromo.lefigaro.fr/code-promo/ebay
- 191. https://codespromo.lefigaro.fr/code-promo/aliexpress
- 192. https://codespromo.lefigaro.fr/
- 193. https://codespromo.lefigaro.fr/code-promo/nike
- 194. https://codespromo.lefigaro.fr/code-promo/sephora
- 195. https://codespromo.lefigaro.fr/code-promo/showroomprive
- 196. https://codespromo.lefigaro.fr/code-promo/asos
- 197. https://www.cadremploi.fr/emploi/liste_offres
- 198. https://www.cadremploi.fr/emploi/liste_offres?ville=paris-75
- 199. https://www.cadremploi.fr/emploi/liste_offres?ville=lyon-69
- 200. https://www.cadremploi.fr/emploi/liste_offres?ville=toulouse-31
- 201. https://www.cadremploi.fr/emploi/liste_offres?ville=nantes-44
- 202. https://www.cadremploi.fr/emploi/liste_offres?ville=bordeaux-33
- 203. https://www.cadremploi.fr/emploi/liste_offres?fct=30100
- 204. https://www.cadremploi.fr/emploi/liste_offres?fct=10207
- 205. https://www.cadremploi.fr/emploi/liste_offres?fct=20300
- 206. https://www.cadremploi.fr/emploi/liste_offres?fct=30800
- 207. https://emploi.lefigaro.fr/metiers
- 208. https://immobilier.lefigaro.fr/
- 209. https://immobilier.lefigaro.fr/annonces/immobilier-vente-appartement-paris.html
- 210. https://immobilier.lefigaro.fr/annonces/immobilier-vente-appartement-nice+06000.html
- 211. https://immobilier.lefigaro.fr/annonces/immobilier-vente-appartement-cannes+06400.html
- 212. https://immobilier.lefigaro.fr/annonces/immobilier-vente-appartement-bordeaux+33000.html
- 213. https://immobilier.lefigaro.fr/annonces/immobilier-vente-appartement-lyon.html
- 214. https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-aix+en+provence+13090.html
- 215. https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-bordeaux+33000.html
- 216. https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-marseille.html
- 217. https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-montpellier+34000.html
- 218. https://www.lefigaro.fr/conjoncture/etes-vous-riche-20190418
- 219. https://www.lefigaro.fr/economie/le-scan-eco
- 220. http://leparticulier.lefigaro.fr/jcms/c_35794/simulateur-de-calcul-d-impot-sur-le-revenu
- 221. https://www.lefigaro.fr/placement/notre-palmares-2019-des-villes-ou-investir-dans-l-immobilier-20190611
- 222. https://www.lefigaro.fr/finances-perso/studios-et-2-pieces-decouvrez-les-loyers-ville-par-ville-20190612
- 223. http://leparticulier.lefigaro.fr/article/calculez-rapidement-votre-impot-a-payer-en-2019/
- 224. http://leparticulier.lefigaro.fr/article/le-bareme-des-droits-de-succession-et-de-donation-pour-2019/
- 225. http://leparticulier.lefigaro.fr/jcms/c_52526/indice-de-reference-des-loyers-irl
- 226. https://www.lefigaro.fr/conjoncture/en-france-les-hauts-revenus-sont-ils-tous-des-riches-20190701
- 227. http://leparticulier.lefigaro.fr/article/carte-familles-nombreuses-jusqu-a-75-de-reduction-sur-les-billets-de-train/
- 228. https://www.lefigaro.fr/voyages/dossier/croisieres
- 229. https://www.lefigaro.fr/voyages/dossier/jordanie
- 230. https://www.lefigaro.fr/voyages/dossier/namibie
- 231. https://www.lefigaro.fr/voyages/dossier/maroc
- 232. https://www.lefigaro.fr/voyages/dossier/new-york
- 233. https://www.lefigaro.fr/voyages/dossier/birmanie
- 234. https://www.lefigaro.fr/voyages/dossier/lille
- 235. https://www.lefigaro.fr/voyages/dossier/antilles
- 236. https://www.lefigaro.fr/voyages/dossier/japon
- 237. https://www.lefigaro.fr/voyages/dossier/amsterdam
- 238. http://kiosque.lefigaro.fr/figaro-magazine
- 239. http://kiosque.lefigaro.fr/figaro-madame
- 240. http://kiosque.lefigaro.fr/le-figaro
- 241. http://kiosque.lefigaro.fr/figaro-hors-serie
- 242. https://kiosque.lefigaro.fr/catalog/le-figaro-histoire
- 243. http://kiosque.lefigaro.fr/tv-magazine
- 244. http://kiosque.lefigaro.fr/f-art-de-vivre
- 245. https://www.lefigaro.fr/services/placements-en-periode-de-crise-la-scpi-maintient-le-cap-20201201
- 246. https://www.lefigaro.fr/services/changer-d-assurance-pret-que-dit-la-loi-20201222
- 247. https://www.lefigaro.fr/services/avis-du-village-de-l-emploi-et-son-jumeau-aleph-20220421
- 248. https://www.lefigaro.fr/services/quel-est-l-interet-d-une-alarme-de-maison-pour-proteger-ses-proches-et-ses-biens-20220311
- 249. https://www.lefigaro.fr/services/quelles-sont-les-demarches-a-effectuer-pour-faire-une-demande-de-carte-grise-en-ligne-20220228
- 250. https://www.lefigaro.fr/services/definition-du-portage-salarial-quels-sont-les-differents-statuts-pour-les-freelances-20220228
- 251. https://www.lefigaro.fr/services/le-lien-etroit-entre-le-stress-et-les-troubles-du-sommeil-20220228
- 252. https://entreprises.lefigaro.fr/syntheses-actu/
- 253. https://annonces-legales.lefigaro.fr/
- 254. https://avis-vin.lefigaro.fr/
- 255. https://avis-vin.lefigaro.fr/primeurs
- 256. https://avis-vin.lefigaro.fr/connaitre-deguster
- 257. https://avis-vin.lefigaro.fr/tops-selections-vins-spiritueux
- 258. https://avis-vin.lefigaro.fr/domaines-et-vignerons
- 259. https://avis-vin.lefigaro.fr/economie-du-vin
- 260. https://avis-vin.lefigaro.fr/foire-aux-vins
- 261. https://avis-vin.lefigaro.fr/magazine-vin
- 262. https://avis-vin.lefigaro.fr/spiritueux
- 263. https://avis-vin.lefigaro.fr/spiritueux/cocktails-mixologie
- 264. https://avis-vin.lefigaro.fr/terroir-viticulture
- 265. https://www.lefigaro.fr/elections/resultats/hauts-de-seine-92/
- 266. https://www.lefigaro.fr/elections/resultats/seine-saint-denis-93/
- 267. https://www.lefigaro.fr/elections/resultats/val-de-marne-94/
- 268. https://www.lefigaro.fr/elections/resultats/val-doise-95/
- 269. https://www.lefigaro.fr/elections/resultats/yvelines-78/
- 270. https://www.lefigaro.fr/elections/resultats/var-83/
- 271. https://www.lefigaro.fr/elections/resultats/alpes-maritimes-06/
- 272. https://www.lefigaro.fr/elections/resultats/essonne-91/
- 273. https://www.lefigaro.fr/elections/resultats/nord-59/
- 274. https://www.lefigaro.fr/elections/resultats/auvergne-rhone-alpes/
- 275. https://www.lefigaro.fr/elections/resultats/bourgogne-franche-comte/
- 276. https://www.lefigaro.fr/elections/resultats/bretagne/
- 277. https://www.lefigaro.fr/elections/resultats/centre-val-de-loire/
- 278. https://www.lefigaro.fr/elections/resultats/corse/
- 279. https://www.lefigaro.fr/elections/resultats/grand-est/
- 280. https://www.lefigaro.fr/elections/resultats/hauts-de-france/
- 281. https://www.lefigaro.fr/elections/resultats/ile-de-france/
- 282. https://www.lefigaro.fr/elections/resultats/normandie/
- 283. https://www.lefigaro.fr/elections/resultats/nouvelle-aquitaine/
- 284. https://www.lefigaro.fr/elections/resultats/occitanie/
- 285. https://www.lefigaro.fr/elections/resultats/pays-de-la-loire/
- 286. https://www.lefigaro.fr/elections/resultats/provence-alpes-cote-dazur/
- 287. https://www.lefigaro.fr/elections/resultats/paris-75/paris-75056/
- 288. https://www.lefigaro.fr/elections/resultats/bouches-du-rhone-13/marseille-13055/
- 289. https://www.lefigaro.fr/elections/resultats/rhone-69/lyon-69123/
- 290. https://www.lefigaro.fr/elections/resultats/haute-garonne-31/toulouse-31555/
- 291. https://www.lefigaro.fr/elections/resultats/alpes-maritimes-06/nice-06088/
- 292. https://www.lefigaro.fr/elections/resultats/loire-atlantique-44/nantes-44109/
- 293. https://www.lefigaro.fr/elections/resultats/herault-34/montpellier-34172/
- 294. https://www.lefigaro.fr/elections/resultats/bas-rhin-67/strasbourg-67482/
- 295. https://www.lefigaro.fr/elections/resultats/gironde-33/bordeaux-33063/
- 296. https://www.lefigaro.fr/elections/resultats/nord-59/lille-59350/
- 297. https://www.lefigaro.fr/elections/resultats/ille-et-vilaine-35/rennes-35238/
- 298. https://www.lefigaro.fr/elections/resultats/marne-51/reims-51454/
- 299. https://www.lefigaro.fr/elections/resultats/loire-42/saint-etienne-42218/
- 300. https://www.lefigaro.fr/bordeaux
- 301. https://www.lefigaro.fr/lyon
- 302. https://www.lefigaro.fr/nantes
- 303. https://www.lefigaro.fr/nice
- 304. https://app.adjust.com/i1y8nw
- 305. https://abonnement.lefigaro.fr/lefigaro?origine=VWH210016&ga_source=VWH210016_bandeau_cookie_consent&redirect_uri=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
- 306. https://abonnement.lefigaro.fr/lefigaro-black-friday?origine=VWH19002&ga_source=VWH19002_bouton_sticky_bas_mobile&redirect_uri=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
- 307. mailto:?subject=Le Figaro - à lire : La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation»&body=La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation»
-
-«Nous avons constaté une hausse alarmante de la désinformation et des discours de haine sur plusieurs réseaux sociaux ces dernières semaines, et cela concerne bien entendu X», a déclaré un porte-parole de l’exécutif européen.
-
-https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
- 308. https://www.facebook.com/sharer/sharer.php?u=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117&display=popup
- 309. https://twitter.com/intent/tweet?url=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117&text=Le Figaro - à lire : La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation»
- 310. whatsapp://send/?text=Le Figaro - à lire : La Commission européenne suspend ses campagnes publicitaires sur X (ex-Twitter) face à la «hausse de la désinformation» https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
- 311. fb-messenger://share/?link=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117&app_id=253015184720028
- 312. https://abonnement.lefigaro.fr/lefigaro-black-friday?origine=VWH20004&ga_source=VWH20004_bouton_sticky_bas_web&redirect_uri=https://www.lefigaro.fr/secteur/high-tech/la-commission-europeenne-suspend-ses-campagnes-publicitaires-sur-x-ex-twitter-face-a-la-hausse-de-la-desinformation-20231117
- 313. https://www.lefigaro.fr/dossier/les-applications-du-figaro
- 314. https://news.google.com/publications/CAAiECfoa6DqFBUxavQsadHjUbgqFAgKIhAn6Gug6hQVMWr0LGnR41G4/?hl=fr&gl=FR&ceid=FR:fr
- 315. https://www.lefigaro.fr/bordeaux
- 316. https://www.lefigaro.fr/lyon
- 317. https://www.lefigaro.fr/marseille
- 318. https://www.lefigaro.fr/nantes
- 319. https://www.lefigaro.fr/nice
- 320. https://video.lefigaro.fr/
- 321. https://podcasts.lefigaro.fr/
- 322. https://tvmag.lefigaro.fr/programme-tv/ce_soir_la_tv.html
- 323. https://www.lefigaro.fr/sports/matches-en-direct
- 324. https://www.lefigaro.fr/carnetdujour
- 325. https://boutique.lefigaro.fr/?redirect_uri=__uri__
- 326. https://kiosque.lefigaro.fr/le-figaro
- 327. https://abonnement.lefigaro.fr/lefigaro?origine=VWH21005&ga_source=VWH21005_footer_web&redirect_uri=__uri__
- 328. https://client.lefigaro.fr/WebloggiaLeFigaro/espaceclient/abonnements
- 329. https://client.lefigaro.fr/WebloggiaLeFigaro/espaceclient/accueil
- 330. https://app.adjust.com/uklxp91
- 331. https://app.adjust.com/x2lh6rn
- 332. https://app.adjust.com/wz209yr
- 333. https://app.adjust.com/5blsqmr
- 334. https://client.lefigaro.fr/WebloggiaLeFigaro/espaceclient/accedernewsletters
- 335. https://www.lefigaro.fr/plusdefigaro
- 336. https://mentions-legales.lefigaro.fr/page/politique-de-confidentialite
- 337. https://mentions-legales.lefigaro.fr/page/cgu
- 338. https://boutique.lefigaro.fr/cgv
- 339. https://mentions-legales.lefigaro.fr/page/infos-cookies
- 340. https://mentions-legales.lefigaro.fr/page/charte-de-participation
- 341. https://faq.lefigaro.fr/hc/fr?utm_source=faq&utm_medium=internal&utm_campaign=footer
- 342. https://mentions-legales.lefigaro.fr/page/mentions-legales
- 343. https://boutique.lefigaro.fr/rayon/4-abonnement?ga_source=footer_figaro
- 344. https://client.lefigaro.fr/WebloggiaLeFigaro/espaceclient/accedernewsletters
- 345. https://lefigaro-fr.digidip.net/visit?url=http://media.figaro.fr/&currurl=https://www.lefigaro.fr/
- 346. https://articles.lefigaro.fr/
-
-   Liens cachés :
- 348. https://www.lefigaro.fr/
- 349. https://www.lefigaro.fr/secteur/high-tech
- 350. https://www.lefigaro.fr/
- 351. https://www.lefigaro.fr/secteur/high-tech
- 352. https://fr-fr.facebook.com/lefigaro/
- 353. https://www.linkedin.com/company/le-figaro/mycompany/
- 354. https://twitter.com/Le_Figaro
- 355. https://www.instagram.com/lefigarofr/?hl=fr

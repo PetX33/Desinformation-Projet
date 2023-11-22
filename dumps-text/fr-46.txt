@@ -1,20 +1,30 @@
 
-
    logo_burger
    L'info passée au crible
 
    Découvrez tout
    l’univers TF1 INFO
+   Regarder le direct Regarder les JT en direct Regarder votre JT
    personnalisé
    Directs
+       israélien
 
    Dans l’actualité en ce moment
-       village
-       Sandrine Josso
+       entre Israël et le Hamas
+       intempéries en série
+       Tous les sujets
 
    Rubriques
 
    Replay
+
+
+     Revoir LCI
+
+
+
+   Magazines TF1
+
 
    Nos dossiers
 
@@ -22,20 +32,23 @@
 
    Jeux
 
+
    Sites du groupe
 
    Paramétrer mes cookies
    Télécharger l'application TF1 info
+   Logo Apple Store Logo PlayStore
+
    Verif'
 
 Après l'Ukraine, la campagne de désinformation russe "Doppelgänger" s'empare
 du conflit entre Israël et Hamas
 
-
-   par [95]Thomas DESZPOT & Samira El Gadir
+   par Thomas DESZPOT & Samira El Gadir
    Publié le 16 novembre 2023 à 17h37
 
    Source : TF1 Info
+
    Personnalisez votre expérience TF1 Infoet créez votre JT rien que pour
    vous.
 
@@ -46,399 +59,3 @@ du conflit entre Israël et Hamas
    Basées sur le clonage de site de presse et institutionnels, ces
    manœuvres sont aujourd'hui étendues au conflit entre Israël et le
    Hamas.
-
-   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore à
-   lʼidée dʼun double maléfique. Mais cʼest aussi le nom donné à une vaste
-   campagne de désinformation, menée par la Russie depuis 2022. À
-   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant à
-   déstabiliser les pays occidentaux, mais nous observons depuis plusieurs
-   semaines quʼelle tente dʼinstrumentaliser le conflit entre Israël et le
-   Hamas.
-
-Des sites de médias "clonés"
-
-   En juin dernier, TF1info [96]décrivait les rouages de cette campagne de
-   désinformation en ligne. Le principe était assez simple : des sites de
-   presse (français, allemands ou encore italiens) ont été reproduits
-   presque à lʼidentique, avec des adresses web différentes pour seul
-   signe distinctif. Le Monde, 20 Minutes, le Guardian ou encore le
-   Spiegel ont ainsi été "clonés" puis utilisés afin de publier de faux
-   articles. Ces publications étaient à lʼorigine centrées sur la guerre
-   en Ukraine : elles se montraient très critiques vis-à-vis de Kiev et du
-   soutien qui lui était apporté par ses alliés.
-
-   Parmi les multiples articles ingénieusement relayés sur les réseaux
-   sociaux par des comptes pro-russes, certains ont évoqué le "véritable
-   désastre" de la contre-offensive ukrainienne, ou encore le fait que
-   Zelensky et son gouvernement avaient perdu la confiance de la
-   population. Des méthodes de déstabilisation à grande échelle, qui ont
-   évolué avec le temps.
-
-Le conflit Israël / Hamas à son tour instrumentalisé
-
-   Depuis quelques semaines, cette campagne a évolué. De nouveaux articles
-   ont émergé, cette fois centrés sur le conflit entre Israël et le Hamas.
-   Un faux-site imitant le quotidien Le Parisien nous [97]explique par
-   exemple que "le sang palestinien est sur les mains de Macron", et que
-   "la France risque dʼêtre déclarée complice du génocide palestinien". En
-   raison dʼune position "pro-américaine" du président de la République,
-   une "guerre civile" serait à redouter dans lʼhexagone.
-       Lire aussi
-       24H Pujadas du mercredi 14 juin 2023 : Guerre - Qu'est-ce que la
-       campagne de désinformation "Doppelgänger" ?
-
-   Des articles trompeurs ont été [98]repérés en français, mais aussi en
-   allemand, hébreu, russe ou encore anglais et ukrainien. Leur point
-   commun : laisser entendre que le soutien (financier et militaire) des
-   puissances occidentales est aujourdʼhui détourné au profit dʼIsraël. Et
-   que lʼUkraine, dans le même temps, ne pourrait bientôt plus en
-   bénéficier. Les individus à lʼorigine de ces détournements sont des
-   acteurs "qui aiment souffler sur les braises, démarrer le plus
-   dʼincendies possibles" dans le but de "polariser", témoigne auprès de
-   TF1info Alexandre Alaphilippe, directeur exécutif de [99]EU DisinfoLab,
-   lʼONG qui a en premier évoqué (et nommé) lʼopération Doppelgänger lʼan
-   passé. En clair, le but est de faire en sorte que "les gens se
-   détestent entre eux à lʼintérieur dʼun pays", en accentuant les
-   divisons.
-
-   Le dernier exemple en date remonte à quelques jours. Sur le réseau
-   social X, les photos dʼune série d’étoiles de David bleues taguées sur
-   des murs de Paris et dʼÎle-de-France ont été très largement
-   repartagées. Le Quai dʼOrsay a rapidement réagi et [100]imputé "avec un
-   haut degré de confiance" ces relais massifs au réseau Doppelgänger. Les
-   nombreux comptes qui lui ont été associés ont été les premiers à
-   partager ces clichés, a fait savoir Viginum, l’organisme français de
-   lutte en charge de la lutte contre les opérations d’influence.
-
-Des bots sont aujourd'hui utilisés
-
-   La multiplication en ligne de ces contenus trompeurs a attiré
-   lʼattention dʼune série dʼinternautes, qui se sont rassemblés afin
-   dʼétudier les méthodes utilisées pour tenter dʼinfluencer les opinions
-   publiques. Un collectif se faisant appeler  [101]"Antibot4Navalny" sur
-   les réseaux sociaux a par exemple révélé que les méthodes employées ont
-   évolué au fil du temps. Avec en particulier un usage généralisé de
-   bots, ces programmes informatiques automatisés.
-
-   Les Vérificateurs ont pu échanger avec des représentants de ce groupe
-   dʼenquêteurs : ils soulignent en préambule que le recours à des bots
-   permet "de diffuser les fausses informations plus rapidement", mais
-   aussi de rendre ces campagnes de manipulation plus discrètes. Afin de
-   multiplier la propagation des articles fallacieux sur des plateformes
-   comme X, les individus à lʼorigine de lʼopération Doppelgänger ont
-   recours à des machines qui vont se charger de rédiger les messages
-   destinés aux réseaux sociaux (et qui les traduisent également dans
-   diverses langues). La conséquence ? Seulement "15% de textes dupliqués"
-   sur le quelque "27.000 qui ont été recensés et analysés", nous
-   confie-t-on du côté de "Antibot4Navalny". Le nombre de bots utilisés
-   dépasserait quant à lui les 8.000.
-
-Un lien avéré avec la Russie
-
-   À la fin du printemps déjà, le ministère des Affaires étrangères[102]
-   confimait le lien entre ces opérations de déstabilisation en ligne et
-   la Russie. "Les autorités françaises ont mis en évidence lʼexistence
-   dʼune campagne numérique de manipulation de lʼinformation contre la
-   France impliquant des acteurs russes", nous expliquait-on. Une campagne
-   "à laquelle des entités étatiques ou affiliées à lʼÉtat russe ont
-   participé en amplifiant de fausses informations". Les autorités
-   françaises affirmaient par ailleurs à lʼépoque quʼelles se trouvaient
-   en "lien étroit" avec leurs alliés "pour mettre en échec la guerre
-   hybride menée par la Russie".
-
-   En juin toujours, il était aussi [103]fait référence à une enquête du
-   groupe Meta (propriétaire notamment de Facebook), évoquant
-   lʼimplication de deux entreprises russes, détenues par un certain Ilya
-   Andreevitch Gambachidze. Cet homme, qui affiche aussi une casquette de
-   stratège politique, gravite autour du pouvoir : il a entre autres
-   occupé un poste de conseiller du vice-président de la Douma Piotr
-   Tolstoï.
-
-   Vous souhaitez nous poser des questions ou nous soumettre une
-   information qui ne vous paraît pas fiable ? Nʼhésitez pas à nous écrire
-   à lʼadresse lesverificateurs@tf1.fr. Retrouvez-nous également sur X :
-   notre équipe y est présente derrière le compte @verif_TF1LCI.
-
-   Thomas DESZPOT & Samira El Gadir
-
-   Sur le
-   même thème
-
-
-       Nétanyahou sur les "trop nombreuses pertes civiles" à Gaza
-       Publié le 19 novembre 2023 à 6h40
-       américaine de 100 millions de dollars à Kiev
-       Publié le 20 novembre 2023 à 6h30
-       la situation en Ukraine
-       Publié le 18 novembre 2023 à 9h20
-       effacer des millions de dettes de patients
-       Publié le 18 novembre 2023 à 16h44
-       mais les deux étages explosent en vol
-       Publié le 18 novembre 2023 à 13h19
-       plein
-       Publié le 10 octobre 2023 à 20h56
-       la France
-       Publié le 13 juin 2023 à 17h23
-       plagiés pour relayer la propagande russe
-       Publié le 19 mai 2023 à 15h09
-       russes s'affiche sur les réseaux sociaux
-       Publié le 11 mars 2023 à 19h01
-       Prigojine, le patron de Wagner
-       Publié le 24 février 2023 à 15h27
-
-   Voir plus
-
-   Tout
-   TF1 Info
-   (*) ( ) ( )
-   Les + lusDernière minuteTendance
-       noircis
-       Publié le 18 novembre 2023 à 13h00
-       sans-faute dans les éliminatoires
-       Publié hier à 12h00
-       de succession ?
-       Publié hier à 8h00
-       identité
-       Publié hier à 12h25
-       bien à ses enfants ?
-       Publié le 19 novembre 2023 à 8h00
-       du Dniepr menace-t-elle les Russes ?
-       Publié hier à 14h03
-       stocks, les prix dégringolent en France
-       Publié hier à 7h00
-       interpellées, dont l'auteur présumé
-       Publié hier à 15h47
-       quelles sont les hypothèses ?
-       Publié hier à 12h12
-       laisse à penser que c'est une météorite"
-       Publié le 20 novembre 2023 à 13h36
-       Voir plus d'actualités
-
-       principal suspect, après la mort de Thomas
-       Publié aujourd'hui à 10h16
-       à la vigilance
-       Publié aujourd'hui à 10h12
-       bientôt réhabilitées ?
-       Publié aujourd'hui à 10h03
-       semaines "terriblement éprouvantes" de négociations
-       Publié aujourd'hui à 10h02
-       "analyse" un signalement et une plainte
-       Publié aujourd'hui à 10h02
-       ne respectent pas
-       Publié aujourd'hui à 9h36
-       entre Israël et le Hamas ?
-       Publié aujourd'hui à 9h32
-       suspects, dont l'auteur présumé
-       Publié aujourd'hui à 9h28
-       mercredi
-       Publié aujourd'hui à 9h07
-       pour assurer les livraisons
-       Publié aujourd'hui à 8h51
-       Voir plus d'actualités
-
-       Français détenus à Gaza seront libérés
-       Publié aujourd'hui à 5h53
-       entre Israël et le Hamas ?
-       Publié aujourd'hui à 6h48
-       du Dniepr menace-t-elle les Russes ?
-       Publié hier à 14h03
-       ils refont l’enquête sur l'assassinat de JFK
-       Publié aujourd'hui à 7h00
-       des drones navals et aériens en mer Noire et en Crimée
-       Publié aujourd'hui à 6h30
-       dans Gaza… Le point sur la situation au Proche-Orient
-       Publié aujourd'hui à 8h00
-       serait "la bonne décision", estime Benyamin Nétanyahou
-       Publié hier à 6h00
-       inscrite sur la liste des personnes recherchées en Russie
-       Publié hier à 12h08
-       milliard d'euros, dont des munitions
-       Publié hier à 6h30
-       l'interminable attente des familles
-       Publié hier à 22h43
-       Voir plus d'actualités
-
-       personnes handicapées
-       président de l'Argentine
-       mortelle lors d'une fête de village
-
-   désinformation russe "Doppelgänger" s'empare du conflit entre Israël et
-   Hamas
-   d'utilisation[158]Politique de protection des données du service TF1
-   Info[159]Nous contacter[160]Exercez vos droits[161]Politique
-   cookies[162]La médiatrice vous répond[163]Tous les tags[164]Espace
-   TF1 Info Copyright ©2023
-
-Références
-
-   Liens visibles :
-   1. android-app://com.smartnsoft.metro/lci/international/apres-l-ukraine-la-campagne-de-desinformation-russe-doppelgaenger-s-empare-du-conflit-entre-israel-et-hamas-2276469.html
-   2. https://www.tf1info.fr/feeds/rss-une.xml
-   3. file:///actualite/les-verificateurs-12325/
-   4. file:///compte/inscription/?serviceType=Menu
-   5. file:///direct/
-   6. file:///direct-tf1/
-   7. file:///jt-perso/presentation/
-   8. file:///international/en-direct-guerre-israel-hamas-aujourd-hui-accord-liberation-des-otages-treve-a-gaza-la-situation-et-les-dernieres-infos-mercredi-22-novembre-2023-2277020.html
-   9. file:///international/en-direct-guerre-ukraine-russie-aujourd-hui-poutine-zelensky-adhesion-ue-les-dernieres-infos-mercredi-22-novembre-2023-2277013.html
-  10. file:///meteo/direct-intemperies-inondations-pas-de-calais-suivi-alerte-meteo-france-previsions-vigilance-departements-en-carte-et-videos-2276120.html
-  11. file:///actualite/invasion-de-l-ukraine-par-la-russie-une-guerre-qui-dure-12951/
-  12. file:///actualite/israel-victime-d-une-attaque-d-ampleur-par-le-hamas-13450/
-  13. file:///actualite/drome-le-choc-apres-une-rixe-mortelle-a-crepol-lors-d-une-fete-de-village-13497/
-  14. file:///actualite/napoleon-joaquin-phoenix-ridley-scott-au-cinema-le-22-novembre-2023-13458/
-  15. file:///actualite/le-senateur-joel-guerriau-accuse-d-avoir-drogue-la-deputee-sandrine-josso-a-l-ecstasy-13494/
-  16. file:///sujets/
-  17. file:///politique/
-  18. file:///economie/
-  19. file:///international/
-  20. file:///justice-faits-divers/
-  21. file:///meteo/
-  22. file:///culture/
-  23. file:///conso/
-  24. file:///environnement-ecologie/
-  25. file:///high-tech/
-  26. file:///sante/
-  27. file:///societe/
-  28. file:///education/
-  29. file:///sport/
-  30. file:///traditions-et-patrimoine/
-  31. file:///transports/
-  32. file:///immobilier/
-  33. file:///sciences-et-innovation/
-  34. file:///voyages/
-  35. file:///regions/
-  36. file:///vie-pro/
-  37. file:///nutrition/
-  38. file:///conso-argent/
-  39. file:///initiatives-positives/
-  40. file:///actualite/les-verificateurs-12325/
-  41. file:///coupe-du-monde-de-rugby/
-  42. file:///emissions/
-  43. file:///emission/le-13h-10927/
-  44. file:///emission/le-20h-11001/
-  45. file:///emission/le-we-12559/
-  46. file:///emissions/lci/
-  47. file:///emission/le-6-9-avec-jean-baptiste-boursier-13386/
-  48. file:///emission/l-interview-politique-12190/
-  49. file:///emission/le-temps-de-l-info-13059/
-  50. file:///emission/lci-midi-12179/
-  51. file:///emission/le-club-le-chatelier-12397/
-  52. file:///emission/24h-pujadas-11805/
-  53. file:///emission/un-oeil-sur-le-monde-13060/
-  54. file:///emission/brunet-broussouloux-et-compagnie-12713/
-  55. file:///emission/le-20h-de-darius-rochebin-12518/
-  56. file:///emission/22h-minuit-darius-rochebin-avec-alexia-mayer-12710/
-  57. file:///emission/les-matins-lci-week-end-11276/
-  58. file:///emission/replay-impact-positif-13069/
-  59. file:///emission/en-toute-franchise-12198/
-  60. file:///emission/18h-darius-rochebin-13387/
-  61. file:///emission/l-evenement-du-dimanche-lci-13385/
-  62. file:///emission/vis-leurs-vies-11808/
-  63. file:///emission/fourest-en-liberte-12618/
-  64. file:///replay-tf1/
-  65. file:///emission/sept-a-huit-10825/
-  66. file:///emission/grands-reportages-11227/
-  67. file:///actualite/notre-planete-l-offre-environnement-de-tf1-lci-pour-la-transition-ecologique-13098/
-  68. file:///actualite/le-20h-vous-repond-12494/
-  69. file:///actualite/le-13h-a-vos-cotes-13051/
-  70. file:///actualite/lci-vous-repond-13052/
-  71. file:///actualite/impact-positif-12496/
-  72. file:///actualite/droits-femme-homme-egalite-equite-avec-elles-13237/
-  73. file:///actualite/les-jardins-du-13h-12869/
-  74. https://podcasts.lci.fr/impact-positif-les-solutions-existent-f7fb459756c0
-  75. https://podcasts.lci.fr/le-cinema-c-est-la-vie-en-mieux-31726aa976a9
-  76. https://podcasts.lci.fr/info-vous-11282ce89157
-  77. https://podcasts.lci.fr/24h-pujadas-c09c17585d4c
-  78. https://podcasts.lci.fr/l-interview-politique-5eef0f6ebe8e
-  79. https://podcasts.lci.fr/expertes-a-la-une-2683f5269265
-  80. https://podcasts.lci.fr/lenglet-dechiffre-2587ddb79028
-  81. https://podcasts.lci.fr/les-gens-qui-lisent-sont-plus-heureux-5621e2332e2e
-  82. file:///jeux/
-  83. https://www.tf1info.fr/jeux/solitaire/
-  84. https://www.tf1info.fr/jeux/mots-fleches/
-  85. https://www.tf1info.fr/jeux/puzzle/
-  86. https://www.tf1info.fr/jeux/mots-croises/
-  87. https://www.tf1info.fr/jeux/sudoku/
-  88. https://www.tf1.fr/
-  89. https://meteo.tf1.fr/
-  90. file:///actualite/la-mediatrice-vous-repond-12838/
-  91. https://sosvillages.tf1info.fr/
-  92. file:///actualite/vos-videos-a-la-une-13325/
-  93. https://apps.apple.com/fr/app/lci-lactualite-en-continu/id426125722
-  94. https://play.google.com/store/apps/details?id=com.smartnsoft.metro
-  95. file:///tf1-info/redaction/thomas-deszpot-10231/
-  96. https://www.tf1info.fr/international/guerre-russie-ukraine-hackers-doppelganger-la-campagne-de-desinformation-russe-qui-a-vise-la-france-2260305.html
-  97. https://archive.vn/9ZjR2
-  98. https://observers.france24.com/fr/europe/20231103-doppelgänger-une-nouvelle-campagne-de-propagande-russe-instrumentalise-la-guerre-à-gaza
-  99. https://www.disinfo.eu/doppelganger-operation/
- 100. https://www.lemonde.fr/pixels/article/2023/11/09/etoiles-de-david-taguees-la-france-denonce-une-campagne-d-ingerence-numerique-russe_6199221_4408996.html
- 101. https://x.com/antibot4navalny?s=20
- 102. https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/securite-desarmement-et-non-proliferation/actualites-et-evenements-lies-a-la-securite-au-desarmement-et-a-la-non/2023/article/declaration-de-catherine-colonna-ingerences-numeriques-etrangeres-detection-par#:~:text=Les autorités françaises ont mis,en amplifiant de fausses informations.
- 103. https://www.diplomatie.gouv.fr/IMG/pdf/20230612_np_viginum_synthese_rapport-campagne-rrn_vf_cle0aa6f9.pdf
- 104. file:///actualite/les-verificateurs-12325/
- 105. file:///actualite/fake-news-11957/
- 106. file:///actualite/israel-victime-d-une-attaque-d-ampleur-par-le-hamas-13450/
- 107. file:///actualite/invasion-de-l-ukraine-par-la-russie-une-guerre-qui-dure-12951/
- 108. file:///actualite/fake-news-un-voyage-en-post-verite-12336/
- 109. file:///international/en-direct-guerre-israel-hamas-biden-appelle-a-reunifier-gaza-et-cisjordanie-raid-tsahal-hopital-al-shifa-les-dernieres-infos-aujourd-hui-dimanche-19-novembre-2276679.html
- 110. file:///international/guerre-ukraine-russie-en-direct-bataille-du-dniepr-poutine-zelensky-les-dernieres-infos-aujourd-hui-lundi-20-novembre-2023-2276743.html
- 111. file:///international/guerre-ukraine-russie-bataille-sur-le-dniepr-exportations-d-essence-le-point-sur-la-situation-aujourd-hui-samedi-18-novembre-2023-2276624.html
- 112. file:///international/etats-unis-avant-de-mourir-d-un-cancer-des-ovaires-casey-mcintyre-une-new-yorkaise-de-38-ans-efface-des-millions-de-dollars-de-dettes-medicales-avec-une-cagnotte-2276653.html
- 113. file:///sciences-et-innovation/en-direct-suivez-le-deuxieme-vol-d-essai-de-la-megafusee-starship-de-spacex-aujourd-hui-samedi-18-novembre-2023-2276637.html
- 114. file:///international/guerre-israel-hamas-sur-twitter-la-desinformation-bat-son-plein-2272526.html
- 115. file:///international/guerre-russie-ukraine-hackers-doppelganger-la-campagne-de-desinformation-russe-qui-a-vise-la-france-2260305.html
- 116. file:///international/guerre-en-ukraine-russie-le-parisien-le-guardian-ou-bild-comment-ces-medias-occidentaux-ont-ete-plagies-pour-relayer-de-la-desinformation-et-la-propagande-russe-2257612.html
- 117. file:///international/video-armes-vetustes-contre-ordres-la-colere-des-soldats-russes-mobilises-s-affiche-sur-les-reseaux-sociaux-2250681.html
- 118. file:///international/un-an-de-guerre-ukraine-russie-et-desinformation-les-trolls-pro-russes-de-cyber-front-z-sont-la-deuxieme-armee-de-evgueni-prigojine-le-patron-de-milice-wagner-2249148.html
- 119. file:///conso/nos-astuces-imparables-pour-nettoyer-des-joints-de-carrelage-noircis-2275449.html
- 120. file:///sport/grece-france-en-direct-et-streaming-video-sur-tf1-suivez-le-match-de-l-equipe-de-france-en-qualifications-euro-2024-de-football-2276717.html
- 121. file:///conso-argent/heritage-comment-faire-une-donation-a-ses-enfants-pour-eviter-les-frais-de-succession-2276576.html
- 122. file:///culture/art-street-art-banksy-demasque-la-bbc-pense-avoir-enfin-decouvert-son-identite-2276936.html
- 123. file:///conso-argent/succession-pourquoi-faire-don-de-la-nue-propriete-de-son-bien-a-ses-enfants-2275769.html
- 124. file:///international/video-guerre-ukraine-russie-l-avancee-de-l-armee-de-kiev-pres-du-dniepr-menace-t-elle-les-russes-2276942.html
- 125. file:///economie/video-tf1-panneaux-solaires-photovoltaique-chinois-pourquoi-les-prix-degringolent-2276897.html
- 126. file:///justice-faits-divers/rixe-mortelle-drome-sept-personnes-interpellees-apres-la-mort-de-thomas-un-adolescent-a-crepol-annonce-le-ministre-gerald-darmanin-2276980.html
- 127. file:///justice-faits-divers/video-mystere-de-la-voiture-perforee-a-strasbourg-si-ce-n-est-pas-une-meteorite-quelles-sont-les-hypotheses-2276906.html
- 128. file:///regions/video-reportage-tf1-une-voiture-clio-mysterieusement-detruite-a-strasbourg-tout-laisse-a-penser-que-c-est-une-meteorite-2276826.html
- 129. file:///justice-faits-divers/video-crepol-rixe-dans-la-drome-neuf-personnes-interpellees-dont-le-principal-suspect-apres-la-mort-de-thomas-2277006.html
- 130. file:///justice-faits-divers/video-tf1-ile-d-oleron-d-ou-vient-la-cocaine-echouee-sur-une-plage-2277007.html
- 131. file:///politique/homosexualite-en-france-les-personnes-condamnees-bientot-rehabilitees-une-proposition-de-loi-a-l-etude-au-senat-2276867.html
- 132. file:///international/video-guerre-israel-hamas-derriere-l-accord-entre-le-hamas-et-israel-pour-la-liberation-des-otages-et-une-treve-a-gaza-cinq-semaines-terriblement-eprouvantes-de-negociations-avec-le-qatar-et-les-etats-unis-2277027.html
- 133. file:///politique/voyage-polemique-anne-hidalgo-tahiti-le-parquet-national-financier-pnf-analyse-un-signalement-et-une-plainte-2277028.html
- 134. file:///conso/video-environnement-loi-anti-gaspillage-fast-foods-apporter-sa-vaisselle-reutilisable-un-eco-geste-boude-par-de-nombreux-restaurants-2277005.html
- 135. file:///international/guerre-israel-hamas-liberation-d-otages-treve-a-gaza-que-prevoit-l-accord-conclu-entre-israel-et-le-hamas-2276992.html
- 136. file:///justice-faits-divers/video-rixe-mortelle-dans-la-drome-mort-de-thomas-comment-les-enqueteurs-sont-parvenus-a-interpeller-rapidement-neuf-suspects-2277026.html
- 137. file:///justice-faits-divers/mort-thomas-16-ans-crepol-drome-une-marche-blanche-organisee-mercredi-en-hommage-a-l-adolescent-tue-2276985.html
- 138. file:///transports/emploi-metiers-qui-recrutent-vite-penurie-de-chauffeurs-routiers-il-manque-60-000-candidats-pour-assurer-les-livraisons-2277003.html
- 139. file:///international/en-direct-guerre-israel-hamas-aujourd-hui-accord-liberation-des-otages-treve-a-gaza-la-situation-et-les-dernieres-infos-mercredi-22-novembre-2023-2277020.html
- 140. file:///international/guerre-israel-hamas-liberation-d-otages-treve-a-gaza-que-prevoit-l-accord-conclu-entre-israel-et-le-hamas-2276992.html
- 141. file:///international/video-guerre-ukraine-russie-l-avancee-de-l-armee-de-kiev-pres-du-dniepr-menace-t-elle-les-russes-2276942.html
- 142. file:///international/video-reportage-tf1-pourquoi-le-gouvernement-a-menti-60-ans-apres-la-mort-de-kennedy-ils-refont-l-enquete-sur-l-assassinat-de-jfk-2276962.html
- 143. file:///international/en-direct-guerre-ukraine-russie-aujourd-hui-poutine-zelensky-adhesion-ue-les-dernieres-infos-mercredi-22-novembre-2023-2277013.html
- 144. file:///international/guerre-israel-hamas-un-accord-de-treve-enfin-conclu-bande-de-gaza-otages-du-hamas-et-une-tragedie-sanitaire-dans-gaza-le-point-sur-la-situation-au-proche-orient-2277023.html
- 145. file:///international/en-direct-guerre-israel-hamas-bande-de-gaza-otages-hopital-al-shifa-treve-la-situation-et-les-dernieres-infos-aujourd-hui-mardi-21-novembre-2023-2276908.html
- 146. file:///international/guerre-en-ukraine-jamala-la-gagnante-ukrainienne-de-l-eurovision-en-2016-inscrite-sur-la-liste-des-personnes-recherchees-en-russie-2276932.html
- 147. file:///international/guerre-ukraine-russie-en-direct-aide-militaire-poutine-zelensky-les-dernieres-infos-aujourd-hui-mardi-21-novembre-2023-2276909.html
- 148. file:///international/video-tf1-guerre-israel-liberation-imminente-d-otages-du-hamas-l-interminable-attente-des-familles-2277010.html
- 149. file:///actualite/semaine-europeenne-pour-l-emploi-des-personnes-handicapees-13499/
- 150. file:///actualite/javier-milei-le-fantasque-ultraliberal-devenu-president-de-l-argentine-13498/
- 151. file:///actualite/drome-le-choc-apres-une-rixe-mortelle-a-crepol-lors-d-une-fete-de-village-13497/
- 152. file:///actualite/l-ultraliberal-javier-milei-president-de-l-argentine-13496/
- 153. file:///actualite/mayotte-crise-de-l-eau-secheresse-infrastructures-distribution-de-bouteilles-13495/
- 154. file:///
- 155. file:///international/
- 156. file:///tf1-info/mentions-legales/
- 157. file:///tf1-info/conditions-generales-d-utilisation/
- 158. file:///tf1-info/politique-de-protection-des-donnees/
- 159. https://tf1-et-vous-contact.tf1.fr/hc/fr/requests/new?ticket_form_id=360003130359
- 160. https://privacyportal-eu.onetrust.com/webform/548d6395-316e-4979-b869-c8b905c88252/4b7d271a-0bb8-4417-8386-cba662f7833d
- 161. file:///tf1-info/cookies/
- 162. file:///actualite/la-mediatrice-vous-repond-12838/
- 163. file:///tags/
- 164. file:///espace-presse/
-
-   Liens cachés :
- 166. file://localhost/
- 167. file://localhost/
- 168. file://localhost/tf1-info/redaction/thomas-deszpot-10231/
- 169. file://localhost/politique/24h-pujadas-du-mercredi-14-juin-2023-guerre-qu-est-ce-que-la-campagne-de-desinformation-doppelgaenger-2260466.html

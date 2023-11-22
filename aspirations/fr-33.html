@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8" />
         <script>
-                        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
+                        document.documentElement.className = document.documentElement.className.replace(/no-js/, 'js');
                         (function () {
                 var cookieValue = document.cookie.replace(/(?:(?:^|.*;\s*)20mnUserInfo\s*\=\s*([^;]*).*$)|^.*$/, "$1");
                 if (cookieValue && true === JSON.parse(decodeURIComponent(cookieValue)).darkmode) {
@@ -103,7 +103,7 @@
 
         
                     <script>
-                const cookieMatch = document.cookie.match('(^|;)\\s*20mnUserInfo\\s*=\\s*([^;]+)');
+                const cookieMatch = document.cookie.match('(^|;)\s*20mnUserInfo\s*=\s*([^;]+)');
                 var user_status = cookieMatch ? 'Connecte' : 'Pas connecte';
                 if ('undefined' === typeof window.datalayer_vars) {
                     window.datalayer_vars = {};
@@ -120,7 +120,7 @@
         
                     <!-- GTM dataLayer -->
             <script>
-                const cookieMatchUser = document.cookie.match('(^|;)\\s*20mnUserDataLayer\\s*=\\s*([^;]+)');
+                const cookieMatchUser = document.cookie.match('(^|;)\s*20mnUserDataLayer\s*=\s*([^;]+)');
                 const cookieUserValue = cookieMatchUser ? JSON.parse(decodeURIComponent(cookieMatchUser.pop())) : null;
 
                 window.dataLayer = window.dataLayer || [];
@@ -696,7 +696,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
         
                     <script src="https://www.20minutes.fr/js/poool-2844f18b11ee7460032b.js"></script>        
                     <script>
-    var bs_id_1731='T6X56QK'; (function(w,d,s,l,i,u){w[l]=w[l]||[];w[l].push({'\x67\x74\x6d\x2e\x73\x74\x61\x72\x74':  new Date().getTime(),event:'\x67\x74\x6d\x2e\x6a\x73'}); var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= u+[17,73,86,79,16,76,85,33,75,70,31,].map(function(a){return String.fromCharCode(a+30);}).join('')+i+dl;f.parentNode.insertBefore(j,f); })(  window,  document,  'script',  'dataLayer',  [41,54,47,15,54,24,58,23,24,51,45,].map(function(a){return String.fromCharCode(a+30);}).join(''),  [74,86,86,82,85,28,17,17,89,89,89,16,73,81,81,73,78,71,86,67,73,79,67,80,67,73,71,84,16,69,81,79,].map(function(a){return String.fromCharCode(a+30);}).join('')  );
+    var bs_id_1731='T6X56QK'; (function(w,d,s,l,i,u){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'}); var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= u+[17,73,86,79,16,76,85,33,75,70,31,].map(function(a){return String.fromCharCode(a+30);}).join('')+i+dl;f.parentNode.insertBefore(j,f); })(  window,  document,  'script',  'dataLayer',  [41,54,47,15,54,24,58,23,24,51,45,].map(function(a){return String.fromCharCode(a+30);}).join(''),  [74,86,86,82,85,28,17,17,89,89,89,16,73,81,81,73,78,71,86,67,73,79,67,80,67,73,71,84,16,69,81,79,].map(function(a){return String.fromCharCode(a+30);}).join('')  );
 </script>
         
         </head>

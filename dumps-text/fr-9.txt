@@ -1,43 +1,53 @@
 
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-THJBSRW
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THJBSRW
 
    EURACTIV logo
 
 
+       Chercher
+
+
+       Chercher
 
 
 
+       Agriculture
+
+       Économie
+
+       Energie & Climat
+
+       International
+
+       Politique
+
+       Santé
+
+       Tech
+
+       Transport
 
 
-
-
-
-
-
-
-
-
-
-    1. [166]Accueil
-    2. [167]Actualités
-    3. [168]Politique
-    4. [169]Institutions
+    1. Accueil
+    2. Actualités
+    3. Politique
+    4. Institutions
     5. Israël-Hamas : l’UE craint que la désinformation ne déstabilise les
        démocraties
 
 Israël-Hamas : l’UE craint que la désinformation ne déstabilise les
 démocraties
 
-   Par : [170]EURACTIV France avec AFP
+   Par : EURACTIV France avec AFP
 
    19-10-2023
 
    Une enquête visant le réseau social X (ex-Twitter) a même été ouverte
    pour la diffusion présumée de « fausses informations », « contenus
    violents et à caractère terroriste » ou « discours de haine ».
-   Project >>>
 
+   Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
 
    La Commission européenne s’est inquiétée mercredi (18 octobre) des
    risques pour l’UE constitués par les fausses informations qui circulent
@@ -49,355 +59,3 @@ démocraties
    certaines communautés, de déstabilisation de nos structures
    démocratiques, sans parler de l’exposition de nos enfants à des
    contenus violents », a mis en garde le commissaire européen au
-   Numérique, Thierry Breton, dans un discours au Parlement européen à
-   Strasbourg.
-
-   Les attaques terroristes perpétrées à Arras, en France, le 13 octobre,
-   et à Bruxelles lundi, « sonnent comme un sombre rappel que la menace
-   est réelle et présente sur notre sol », a-t-il souligné.
-
-   M. Breton avait averti la semaine dernière les plateformes X
-   (ex-Twitter), Meta, TikTok et YouTube des risques liés au conflit au
-   Proche-Orient et leur avait demandé d’agir d’urgence, notamment pour
-   retirer des contenus dangereux, conformément aux obligations découlant
-   de la nouvelle législation européenne sur les services numériques (DSA)
-   entrée en vigueur fin août pour les plus grands acteurs du secteur.
-
-   Une enquête visant le réseau social X (ex-Twitter) a même été ouverte
-   pour la diffusion présumée de « fausses informations », « contenus
-   violents et à caractère terroriste » ou « discours de haine ».
-
-   Si la Commission européenne a des pouvoirs de contrôle et de sanctions
-   pour les plus grandes plateformes en ligne, Thierry Breton a souligné
-   les responsabilités non moins essentielles dévolues aux États membres.
-   « Les autorités et les tribunaux nationaux jouent un rôle clé en
-   signalant les contenus terroristes, par exemple, ou tout autre contenu
-   illégal », a-t-il rappelé.
-
-   Dans le cadre du DSA, chaque État membre doit désigner une autorité
-   compétente, dotée d’un pouvoir d’enquête, d’ici au 17 février 2024. Ces
-   27 autorités coopéreront entre elles et avec l’exécutif européen.
-
-   Mais, dans le contexte actuel, « nous ne pouvons pas attendre le
-   17 février 2024 », a estimé Thierry Breton.
-
-   La plupart des États membres n’ont pas encore procédé à ces
-   désignations. La Commission leur a recommandé mercredi de le faire
-   « dès maintenant », bien avant la date limite, dans un communiqué.
-   Bruxelles a également demandé aux Vingt-Sept de coordonner dès à
-   présent « leur réponse aux incidents susceptibles d’accroître la
-   diffusion et l’amplification de contenus illicites, tels que les
-   contenus terroristes ».
-
-[180]Guerre Israël-Hamas : Telegram, vecteur de propagande brute
-
-   En cas d’attaque, c’est sans doute sur la mystérieuse messagerie
-   Telegram que l’armée israélienne et le Hamas annonceront leurs actions,
-   comme ils l’ont fait depuis le 7 octobre. Avec des vidéos parfois
-   insoutenables, sans la moindre modération.
-
-
-Sujets
-
-
-Advertisement
-
-Supporters
-
-Membres EURACTIV
-
-Les plus lus
-
-       et les esprits »
-       de Donald Tusk comme Premier ministre
-       décarbonation de l’UE, nucléaire compris
-       « renaissance » des trains de nuit
-       pénales de l’UE
-       une « humiliation », selon un eurodéputé espagnol
-       modèles de fondation
-       contre la manipulation du marché de l’électricité
-
-Advertisement
-
-Inscrivez-vous à notre newsletter
-
-
-
-À Propos d’EURACTIV
-
-
-Communication
-
-
-Réseau EURACTIV
-
-   contacter
-
-Chercher
-
-
-   contacter
-
-Références
-
-   Liens visibles :
-   1. https://www.euractiv.fr/wp-json/oembed/1.0/embed?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/
-   2. https://www.euractiv.fr/wp-json/oembed/1.0/embed?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&format=xml
-   3. https://www.googletagmanager.com/ns.html?id=GTM-THJBSRW
-   4. file:///tmp/lynxXXXXRYSgA3/L11229-773TMP.html
-   5. https://www.euractiv.com/
-   6. https://www.euractiv.de/?_ga=2.102553410.2132303955.1621342635-99176774.1619012798
-   7. https://www.euractiv.fr/?_ga=2.102553410.2132303955.1621342635-99176774.1619012798
-   8. https://euroefe.euractiv.es/
-   9. https://euractiv.it/
-  10. https://www.euractiv.pl/
-  11. https://euractiv.bg/
-  12. https://euractiv.cz/
-  13. https://www.euractiv.gr/
-  14. https://euractiv.hr/
-  15. https://www.euractiv.ro/
-  16. https://www.euractiv.rs/
-  17. https://www.euractiv.sk/
-  18. http://events.euractiv.com/
-  19. https://jobs.euractiv.com/
-  20. file:///tmp/lynxXXXXRYSgA3/L11229-773TMP.html
-  21. https://www.euractiv.fr/
-  22. file:///sections/lexpresso/
-  23. file:///sections/lexpresso/
-  24. file:///newsletters
-  25. file:///newsletters
-  26. file:///tmp/lynxXXXXRYSgA3/L11229-773TMP.html
-  27. file:///tmp/lynxXXXXRYSgA3/L11229-773TMP.html
-  28. file:///sections/lexpresso/
-  29. https://www.euractiv.fr/sections/agriculture-alimentation/
-  30. https://www.euractiv.fr/sections/economie/
-  31. https://www.euractiv.fr/sections/energie-climat/
-  32. https://www.euractiv.fr/sections/international/
-  33. https://www.euractiv.fr/sections/politique/
-  34. https://www.euractiv.fr/sections/sante/
-  35. https://www.euractiv.fr/sections/tech/
-  36. https://www.euractiv.fr/sections/transport/
-  37. https://www.euractiv.fr/newsletters/
-  38. https://events.euractiv.com/?_ga=2.127515661.1695870816.1698137875-231095298.1679643691
-  39. https://jobs.euractiv.com/?_ga=2.127515661.1695870816.1698137875-231095298.1679643691
-  40. https://www.euractiv.fr/wp-login.php
-  41. file:///tmp/lynxXXXXRYSgA3/L11229-773TMP.html
-  42. https://www.euractiv.com/
-  43. https://www.euractiv.de/?_ga=2.102553410.2132303955.1621342635-99176774.1619012798
-  44. https://www.euractiv.fr/?_ga=2.102553410.2132303955.1621342635-99176774.1619012798
-  45. https://euroefe.euractiv.es/
-  46. https://euractiv.it/
-  47. https://www.euractiv.pl/
-  48. https://euractiv.bg/
-  49. https://euractiv.cz/
-  50. https://www.euractiv.gr/
-  51. https://euractiv.hr/
-  52. https://www.euractiv.ro/
-  53. https://www.euractiv.rs/
-  54. https://www.euractiv.sk/
-  55. https://www.euractiv.fr/sections/agriculture-alimentation/
-  56. https://www.euractiv.fr/sections/agriculture-alimentation/
-  57. https://www.euractiv.fr/sections/agroecologie/
-  58. https://www.euractiv.fr/sections/alimentation/
-  59. https://www.euractiv.fr/sections/bien-etre-animal/
-  60. https://www.euractiv.fr/sections/elevage/
-  61. https://www.euractiv.fr/sections/innovation/
-  62. https://www.euractiv.fr/sections/ogm-nbt/
-  63. https://www.euractiv.fr/sections/peche/
-  64. https://www.euractiv.fr/sections/pesticides/
-  65. https://www.euractiv.fr/sections/pac/
-  66. https://www.euractiv.fr/sections/renouvellement-des-generations/
-  67. https://www.euractiv.fr/sections/sols/
-  68. https://www.euractiv.fr/sections/strategie-de-la-ferme-a-la-table/
-  69. https://www.euractiv.fr/sections/vie-de-lagriculteur/
-  70. https://www.euractiv.fr/sections/economie/
-  71. https://www.euractiv.fr/sections/economie/
-  72. https://www.euractiv.fr/sections/concurrence/
-  73. https://www.euractiv.fr/sections/economie-des-plateformes/
-  74. https://www.euractiv.fr/sections/education/
-  75. https://www.euractiv.fr/sections/emploi-economie/
-  76. https://www.euractiv.fr/sections/innovation-entreprises/
-  77. https://www.euractiv.fr/sections/euro-finances/
-  78. https://www.euractiv.fr/sections/fiscalite/
-  79. https://www.euractiv.fr/sections/industrie-spatiale/
-  80. https://www.euractiv.fr/sections/macroeconomie/
-  81. https://www.euractiv.fr/sections/politique-commerciale/
-  82. https://www.euractiv.fr/sections/zone-euro/
-  83. https://www.euractiv.fr/sections/energie-climat/
-  84. https://www.euractiv.fr/sections/energie-climat/
-  85. https://www.euractiv.fr/sections/batiments/
-  86. https://www.euractiv.fr/sections/batteries/
-  87. https://www.euractiv.fr/sections/biodiversite/
-  88. https://www.euractiv.fr/sections/chaleur-et-froid/
-  89. https://www.euractiv.fr/sections/cop/
-  90. https://www.euractiv.fr/sections/economie-circulaire/
-  91. https://www.euractiv.fr/sections/efficacite-energetique/
-  92. https://www.euractiv.fr/sections/energies-fossiles/
-  93. https://www.euractiv.fr/sections/energies-renouvelables/
-  94. https://www.euractiv.fr/sections/geopolitique-des-energies/
-  95. https://www.euractiv.fr/sections/gestion-de-leau/
-  96. https://www.euractiv.fr/sections/hydrogene/
-  97. https://www.euractiv.fr/sections/infrastructures-et-interconnexions/
-  98. https://www.euractiv.fr/sections/metaux-critiques-et-strategiques/
-  99. https://www.euractiv.fr/sections/nucleaire/
- 100. https://www.euractiv.fr/sections/politique-energetique/
- 101. https://www.euractiv.fr/sections/politique-environnementale/
- 102. https://www.euractiv.fr/sections/protection-de-lenvironnement/
- 103. https://www.euractiv.fr/sections/qualite-de-lair/
- 104. https://www.euractiv.fr/sections/international/
- 105. https://www.euractiv.fr/sections/international/
- 106. https://www.euractiv.fr/sections/afrique/
- 107. https://www.euractiv.fr/sections/aide-au-developpement/
- 108. https://www.euractiv.fr/sections/amerique-latine/
- 109. https://www.euractiv.fr/sections/asie/
- 110. https://www.euractiv.fr/sections/chine/
- 111. https://www.euractiv.fr/sections/defense/
- 112. https://www.euractiv.fr/sections/elargissement/
- 113. https://www.euractiv.fr/sections/etats-unis/
- 114. https://www.euractiv.fr/sections/europe-ouest/
- 115. https://www.euractiv.fr/sections/ukraine/
- 116. https://www.euractiv.fr/sections/mediterranee/
- 117. https://www.euractiv.fr/sections/migrations/
- 118. https://www.euractiv.fr/sections/moyen-orient/
- 119. https://www.euractiv.fr/sections/russie/
- 120. https://www.euractiv.fr/sections/politique/
- 121. https://www.euractiv.fr/sections/politique/
- 122. https://www.euractiv.fr/sections/royaume-uni-en-europe/
- 123. https://www.euractiv.fr/sections/elections/
- 124. https://www.euractiv.fr/sections/immigration/
- 125. https://www.euractiv.fr/sections/institutions/
- 126. https://www.euractiv.fr/sections/justice/
- 127. https://www.euractiv.fr/sections/lexpresso/
- 128. https://www.euractiv.fr/sections/non-discrimination/
- 129. https://www.euractiv.fr/sections/presidence-conseil-de-lue/
- 130. https://www.euractiv.fr/sections/securite/
- 131. https://www.euractiv.fr/sections/sante/
- 132. https://www.euractiv.fr/sections/sante/
- 133. https://www.euractiv.fr/sections/droits-et-systemes-de-sante/
- 134. https://www.euractiv.fr/sections/innovation-en-sante/
- 135. https://www.euractiv.fr/sections/maladies-non-transmissibles/
- 136. https://www.euractiv.fr/sections/maladies-transmissibles/
- 137. https://www.euractiv.fr/sections/pharma/
- 138. https://www.euractiv.fr/sections/sport/
- 139. https://www.euractiv.fr/sections/tabac-alcool-drogues/
- 140. https://www.euractiv.fr/sections/tech/
- 141. https://www.euractiv.fr/sections/tech/
- 142. https://www.euractiv.fr/sections/accessibilite-du-numerique/
- 143. https://www.euractiv.fr/sections/application-de-la-loi/
- 144. https://www.euractiv.fr/sections/competition/
- 145. https://www.euractiv.fr/sections/donnees/
- 146. https://www.euractiv.fr/sections/cybersecurite/
- 147. https://www.euractiv.fr/sections/desinformation/
- 148. https://www.euractiv.fr/sections/infrastructures-connectees/
- 149. https://www.euractiv.fr/sections/intelligence-artificielle/
- 150. https://www.euractiv.fr/sections/medias/
- 151. https://www.euractiv.fr/sections/numerisation-de-economie/
- 152. https://www.euractiv.fr/sections/plateformes/
- 153. https://www.euractiv.fr/sections/recherche-innovation/
- 154. https://www.euractiv.fr/sections/strategie-industrielle/
- 155. https://www.euractiv.fr/sections/telecoms/
- 156. https://www.euractiv.fr/sections/transition-numerique-etat/
- 157. https://www.euractiv.fr/sections/transport/
- 158. https://www.euractiv.fr/sections/transport/
- 159. https://www.euractiv.fr/sections/aviation/
- 160. https://www.euractiv.fr/sections/biocarburants/
- 161. https://www.euractiv.fr/sections/chemins-de-fer/
- 162. https://www.euractiv.fr/sections/maritime/
- 163. https://www.euractiv.fr/sections/mobilite-du-futur/
- 164. https://www.euractiv.fr/sections/mobilite-urbaine/
- 165. https://www.euractiv.fr/sections/transport-routier/
- 166. https://www.euractiv.fr/
- 167. https://www.euractiv.fr/news/
- 168. https://www.euractiv.fr/sections/politique/
- 169. https://www.euractiv.fr/sections/institutions/
- 170. https://www.euractiv.fr/authors/euractiv-france-avec-afp/
- 171. https://thetrustproject.org/
- 172. file:///a-propos/a-propos-d-euractiv#A propos du Trust Project
- 173. javascript:window.print()
- 174. mailto:?subject=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr&body=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr – https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/
- 175. https://www.facebook.com/sharer/sharer.php?u=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties//&t=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – @EURACTIV France​
- 176. https://twitter.com/intent/tweet?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&text=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – @EURACTIV_FR
- 177. http://www.linkedin.com/shareArticle?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&title=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – @EURACTIV_FR
- 178. whatsapp://send/?text=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr -https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/
- 179. https://t.me/share/url?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&text=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr
- 180. https://www.euractiv.fr/section/plateformes/news/guerre-israel-hamas-telegram-vecteur-de-propagande-brute/
- 181. javascript:window.print()
- 182. mailto:?subject=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr&body=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr – https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/
- 183. https://www.facebook.com/sharer/sharer.php?u=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties//&t=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – @EURACTIV France​
- 184. https://twitter.com/intent/tweet?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&text=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – @EURACTIV_FR
- 185. http://www.linkedin.com/shareArticle?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&title=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – @EURACTIV_FR
- 186. whatsapp://send/?text=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr -https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/
- 187. https://t.me/share/url?url=https://www.euractiv.fr/section/institutions/news/israel-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties/&text=Israël-Hamas : l’UE craint que la désinformation ne déstabilise les démocraties – www.euractiv.fr
- 188. https://www.euractiv.fr/tag/attaque-du-hamas/
- 189. https://www.euractiv.fr/sections/desinformation/
- 190. https://www.euractiv.fr/tag/digital-services-act-dsa/
- 191. https://www.euractiv.fr/tag/dsa/
- 192. https://www.euractiv.fr/tag/gaza/
- 193. https://www.euractiv.fr/tag/hamas/
- 194. https://www.euractiv.fr/sections/institutions/
- 195. https://www.euractiv.fr/tag/israel/
- 196. https://www.euractiv.fr/tag/palestine/
- 197. https://www.euractiv.fr/sections/politique/
- 198. https://www.euractiv.fr/sections/securite/
- 199. https://www.euractiv.fr/sections/tech/
- 200. https://www.euractiv.fr/tag/thierry-breton/
- 201. https://www.euractiv.fr/section/afrique/news/germany-eyes-africas-hearts-and-minds/?utm_source=website&utm_campaign=popular
- 202. https://www.euractiv.fr/section/afrique/news/laccord-ue-acp-ne-fait-pas-lunanimite/?utm_source=website&utm_campaign=popular
- 203. https://www.euractiv.fr/section/politique/news/une-interview-suggere-que-le-president-polonais-ne-veut-pas-de-donald-tusk-comme-premier-ministre/?utm_source=website&utm_campaign=popular
- 204. https://www.euractiv.fr/section/energie-climat/news/le-parlement-etend-la-liste-des-technologies-cles-pour-la-decarbonation-de-lue-nucleaire-compris/?utm_source=website&utm_campaign=popular
- 205. https://www.euractiv.fr/section/chine/news/la-chine-mise-sur-la-france-dans-ses-relations-avec-lue/?utm_source=website&utm_campaign=popular
- 206. https://www.euractiv.fr/section/chemins-de-fer/news/la-commission-europeenne-appelee-a-encourager-la-renaissance-des-trains-de-nuit/?utm_source=website&utm_campaign=popular
- 207. https://www.euractiv.fr/section/energie-climat/news/environnement-lecocide-ajoute-a-la-liste-des-infractions-penales-de-lue/?utm_source=website&utm_campaign=popular
- 208. https://www.euractiv.fr/section/elections/news/debat-sur-letat-de-droit-en-espagne-au-parlement-europeen-une-humiliation-selon-un-eurodepute-espagnol/?utm_source=website&utm_campaign=popular
- 209. https://www.euractiv.fr/section/intelligence-artificielle/news/ai-act-paris-berlin-et-rome-veulent-auto-reguler-les-modeles-de-fondation/?utm_source=website&utm_campaign=popular
- 210. https://www.euractiv.fr/section/economie/news/lue-trouve-un-accord-sur-de-nouvelles-regles-pour-lutter-contre-la-manipulation-du-marche-de-lelectricite/?utm_source=website&utm_campaign=popular
- 211. https://www.euractiv.fr/newsletters/
- 212. https://www.euractiv.fr/a-propos/a-propos-d-euractiv/
- 213. https://www.euractiv.fr/mediahuis/
- 214. https://www.euractiv.fr/euractiv-france-2/
- 215. https://www.euractiv.fr/soumettre-une-opinion/
- 216. https://www.euractiv.fr/rejoindre-euractiv/
- 217. https://www.euractiv.fr/partenariat-et-publicite/
- 218. https://www.euractiv.fr/euractor/
- 219. https://www.euractiv.fr/a-propos/projets-publics-europeens-euractiv/
- 220. https://www.euractiv.fr/services-multimedias/
- 221. file:///about
- 222. https://www.euractiv.fr/terms-conditions/
- 223. http://www.euractiv.fr/contacteznous/
- 224. file:///about
- 225. https://www.euractiv.fr/terms-conditions/
- 226. http://www.euractiv.fr/contacteznous/
-
-   Liens cachés :
- 228. http://www.facebook.com/EURACTIV.fr/
- 229. http://twitter.com/EURACTIV_FR
- 230. https://www.linkedin.com/company/euractiv-fr/
- 231. http://www.youtube.com/euractiv
- 232. https://www.euractiv.fr/?feed=mcfeed
- 233. https://www.instagram.com/euractiv/
- 234. https://piaille.fr/@euractiv
- 235. https://www.tiktok.com/@euractiv
- 236. https://t.me/EURACTIVFR
- 237. https://bsky.app/profile/euractiv.com
- 238. http://www.facebook.com/EURACTIV.fr/
- 239. http://twitter.com/EURACTIV_FR
- 240. https://www.linkedin.com/company/euractiv-fr/
- 241. http://www.youtube.com/euractiv
- 242. https://www.euractiv.fr/?feed=mcfeed
- 243. https://www.instagram.com/euractiv/
- 244. https://piaille.fr/@euractiv
- 245. https://www.tiktok.com/@euractiv
- 246. https://t.me/EURACTIVFR
- 247. https://bsky.app/profile/euractiv.com
- 248. file://www.reddit.com/submit?url=https%3A%2F%2Fwww.euractiv.fr%2Fsection%2Finstitutions%2Fnews%2Fisrael-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties%2F&title=Isra%C3%ABl-Hamas%C2%A0:%20l%E2%80%99UE%20craint%20que%20la%20d%C3%A9sinformation%20ne%20d%C3%A9stabilise%20les%20d%C3%A9mocraties
- 249. file://www.reddit.com/submit?url=https%3A%2F%2Fwww.euractiv.fr%2Fsection%2Finstitutions%2Fnews%2Fisrael-hamas-lue-craint-que-la-desinformation-ne-destabilise-les-democraties%2F&title=Isra%C3%ABl-Hamas%C2%A0:%20l%E2%80%99UE%20craint%20que%20la%20d%C3%A9sinformation%20ne%20d%C3%A9stabilise%20les%20d%C3%A9mocraties
- 250. http://www.facebook.com/EURACTIV.fr/
- 251. http://twitter.com/EURACTIV_FR
- 252. https://www.linkedin.com/company/euractiv-fr/
- 253. http://www.youtube.com/euractiv
- 254. https://www.euractiv.fr/?feed=mcfeed
- 255. https://www.instagram.com/euractiv/
- 256. https://piaille.fr/@euractiv
- 257. https://www.tiktok.com/@euractiv
- 258. https://t.me/EURACTIVFR
- 259. https://bsky.app/profile/euractiv.com
