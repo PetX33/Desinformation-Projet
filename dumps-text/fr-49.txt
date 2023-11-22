@@ -1,0 +1,489 @@
+
+   Association Française pour l’Information Scientifique
+
+
+
+
+IA génératives : un risque accru de désinformation ?
+
+   Publié en ligne le 29 septembre 2023 - [35]Intelligence Artificielle -
+   IA génératives : un risque accru de désinformation ?
+
+   Les systèmes d’intelligence artificielle génératives suscitent de
+   nombreuses craintes et interrogations, tant le contenu généré est
+   saisissant de réalisme. S’il devient encore plus difficile de
+   distinguer le vrai du faux, la désinformation ne risque-t-elle pas de
+   se propager encore plus largement ? On peut imaginer la prolifération
+   de vidéos mettant en scène un homme politique, un artiste, ou tout
+   simplement soi-même ou un proche, avec un contenu factice, une voix
+   similaire à la vraie voix, mais avec des propos, des situations et des
+   comportements complètement inventés. Les photos du président Trump en
+   état d’arrestation, du président Macron en éboueur ou du pape en
+   doudoune ont déjà été largement médiatisées. Plus sordide : des vidéos
+   truquées apparaissent mettant en scène des personnes, célèbres ou non,
+   dans des situations dégradantes [36][1]. Ces scénarios, déjà
+   réalisables avec les technologies existantes, deviendraient ainsi à la
+   portée de tous et pourraient être déployées à très grande échelle.
+
+Un risque de désinformation accru ?
+
+   Soulignons en préalable que le problème rencontré par ceux qui veulent
+   propager des fausses informations n’a jamais été la création de
+   contenu, mais sa diffusion. En ce qui concerne la création de contenu,
+   de façon évidente, les possibilités offertes par les IA génératives
+   peuvent s’avérer d’une grande efficacité et il importe de ne pas les
+   minimiser. En brouillant la frontière entre le vrai et le faux et en
+   permettant la production à une échelle industrielle de fausses photos,
+   de fausses vidéos, les IA génératives démocratisent largement ce qui,
+   avant, requérait une expertise pointue, des logiciels spécialisés et
+   une main-d’œuvre coûteuse.
+
+   Mais il s’agit ensuite de diffuser les « informations » ainsi obtenues.
+   Là, l’aide apportée semble plus limitée. Certes, les IA génératives
+   permettent d’individualiser les interactions sur les réseaux sociaux,
+   rendant plus performantes les interventions des robots informatiques en
+   les faisant apparaître plus « humaines ». Elles produisent également
+   des messages plus crédibles, plus vraisemblables, qui se diffuseront
+   plus facilement. Cependant, le support principal pour diffuser la
+   désinformation reste Internet et les réseaux sociaux tels qu’ils
+   existent déjà.
+   Les Tricheurs (détail), Valentin de Boulogne (1591-1632)
+
+   Le problème ne date pas d’aujourd’hui, comme en atteste, par exemple,
+   la proportion de faux comptes ou de doublons sur les réseaux sociaux
+   (sur Facebook, ils sont estimés à 16 %, une partie d’entre eux servant
+   au spam et à la désinformation [37][2]) ainsi que toutes les
+   controverses relatives à la régulation et l’autorégulation face à des
+   contenus problématiques.
+
+   Par ailleurs, ne l’oublions pas, le succès de la désinformation dépend
+   également des attentes des personnes visées. Une vidéo truquée
+   rencontrera son public si elle est crédible aux yeux des personnes
+   ciblées et si elle correspond à leur état d’esprit et à leurs
+   aspirations.
+
+   La désinformation n’a attendu ni Internet ni les réseaux sociaux pour
+   se propager à très grande échelle. Certaines « théories du
+   complot »^ [38]1 ont rencontré un succès planétaire, avec des
+   conséquences dramatiques à une époque où les ordinateurs n’existaient
+   pas. On pense par exemple au « protocole des sages de Sion », un texte
+   inventé par la police tsariste en 1903 et présenté comme étant la
+   preuve matérielle d’un complot juif visant à dominer le monde. Ce texte
+   a largement alimenté les discours antisémites du XX^e siècle [39][3].
+   Son succès s’explique en grande partie par le contexte social : il a
+   « rencontré son public » dans des populations où l’antisémitisme était
+   déjà bien présent. D’une façon plus générale, les rumeurs et légendes
+   urbaines ont traversé toutes les sociétés, et ce, bien avant
+   l’avènement d’Internet. Elles se sont toujours alimentées d’un mélange
+   de faits vérifiables et de faits inventés pour produire un récit
+   plausible qui va rencontrer un public « concerné », objectivement ou
+   subjectivement, par les messages véhiculés [40][4].
+
+   Enfin, ajoutons que combattre la désinformation par des faits validés
+   suppose que ceux qui la propagent ou qui y sont réceptifs sont
+   sensibles aux arguments et souhaitent confronter leurs croyances. Ce
+   n’est malheureusement pas toujours le cas. Les controverses sur la
+   vaccination lors de la crise sanitaire l’illustrent.
+
+   Internet et les réseaux sociaux ont révolutionné le champ de la
+   désinformation. Ils ont en particulier rendu planétaires des phénomènes
+   qui restaient le plus souvent locaux. De plus, la vitesse de
+   propagation des fausses informations s’est radicalement accrue. Dans ce
+   contexte, les IA génératives pourront apporter leur contribution, c’est
+   évident, mais sans toutefois, à ce stade, bouleverser la situation. Il
+   importe cependant d’examiner comment il est possible de se prémunir de
+   leurs usages spécifiques quand ils sont néfastes.
+
+Se prémunir contre les dangers de la désinformation
+
+   Avec leur perfectionnement, les nouvelles technologies d’intelligence
+   artificielle rendent plus difficile la détection des fausses
+   informations qu’elles peuvent générer. Mais inversement, ces mêmes
+   techniques peuvent fournir par ailleurs des solutions aux problèmes
+   qu’elles créent. On assiste là à une sorte de course entre gendarmes et
+   voleurs, à l’image de ce que l’on a vu, par exemple, avec le
+   développement d’Internet et de Wikipédia : des outils automatiques ont
+   été mis au point pour détecter les plagiats qui s’étaient multipliés
+   dans le monde étudiant. Il en a été de même pour les images truquées à
+   l’aide de logiciels de retouche : d’autres logiciels permettent de
+   repérer ces trucages.
+
+   Insérer des filigranes
+   On pourrait imaginer l’obligation, pour les développeurs d’IA
+   génératives, d’insérer une sorte de filigrane dans leurs productions, à
+   l’image de ce qui se fait dans les billets de banque. Les filigranes
+   (ou tatouages) numériques ne sont pas des nouveautés. Pour une image,
+   ce pourrait par exemple être l’insertion discrète de pixels selon une
+   régularité prédéfinie qui marquerait la signature du logiciel [41][5].
+   Le défi consiste alors à rendre le filigrane à la fois imperceptible à
+   l’œil, mais également robuste aux manipulations d’image fréquemment
+   faites par les utilisateurs (recadrage, changement de couleurs,
+   modification du contraste, etc.) [42][6]. Stable Diffusion, un système
+   de génération d’image, incorpore déjà un tel procédé [43][7]. Une piste
+   complémentaire pourrait consister à « tatouer » les enregistrements
+   vidéo authentiques lors de la prise de vue grâce à une caméra
+   spécialisée [44][5]. C’est la véritable information qui serait alors
+   marquée.
+
+   Pour la génération de textes, l’ajout de filigranes s’avère plus
+   difficile à réaliser. OpenAI, la société qui commercialise ChatGPT,
+   étudie un tel procédé. Une des pistes envisagées consiste à intervenir
+   dans la phase de génération d’un mot : au lieu d’un processus de choix
+   aléatoire parmi plusieurs propositions jugées compatibles, la sélection
+   se ferait en utilisant une fonction spécifique qui signerait en
+   quelques sortes la génération du texte par la machine [45][8]. Mais il
+   semble qu’OpenAI éprouve des difficultés techniques à implanter un tel
+   marquage [46][9]. Et quelles en seraient la fiabilité et l’efficacité ?
+   En l’état, ces réflexions restent encore assez théoriques.
+
+   Régulation et autorégulation des fournisseurs de logiciel
+   Au niveau européen, le projet « AI Act » qui vise à réglementer le
+   déploiement de systèmes d’intelligence artificielle [47][10] propose
+   que les « hypertrucages », c’est-à-dire les contenus générés qui
+   présentent « une ressemblance avec des personnes, des objets, des lieux
+   ou d’autres entités ou événements existants et pouvant être perçus à
+   tort comme authentiques ou véridiques » soient explicitement marqués
+   lors de leur production comme étant créés artificiellement (obligation
+   dite de « transparence »). La mise en œuvre technique peut toutefois,
+   comme nous l’avons mentionné, s’avérer complexe. Elle suppose, par
+   ailleurs, pour limiter les risques de contournement et de désactivation
+   des fonctions de tatouage par des utilisateurs malveillants, que les
+   logiciels restent entièrement fermés, que leur code source ne soit pas
+   rendu public. Or l’obligation de transparence en général prônée par les
+   régulateurs consiste souvent, à l’inverse, à promouvoir une diffusion
+   sous une forme dite « open source » [48][11].
+   Enseignement de la grammaire, enluminure du maître de Fauvel dans
+   L’Image du Monde (XIV^es.) Bibliothèque nationale de France
+
+   Une certaine autorégulation s’est mise en place. ChatGPT, par exemple,
+   refuse de répondre à certaines requêtes ou accompagne certaines
+   réponses de mises en garde. Pour illustrer, en 2022, vous pouviez
+   demander à ChatGPT de proposer un plan de désinformation afin de
+   convaincre des parents de ne pas vacciner leurs enfants, en précisant
+   le public visé (par exemple « mères californiennes adeptes
+   d’alimentation saine » [49][12]). Un plan détaillé, agrémenté de
+   références scientifiques, était proposé. Le même essai réalisé en juin
+   2023 conduit à la réponse suivante : « Je ne peux pas élaborer un plan
+   de désinformation visant à tromper les parents ou à propager de fausses
+   informations. En tant qu’intelligence artificielle, mon objectif est de
+   fournir des informations précises et fiables basées sur les
+   connaissances disponibles. » Le système présente ensuite des
+   recommandations pour orienter l’utilisateur vers « des sources fiables
+   et basées sur des preuves scientifiques » rappelant que « la
+   vaccination est un outil essentiel pour prévenir les maladies
+   infectieuses et protéger la santé de la population, y compris celle des
+   enfants ».
+
+   Cette autorégulation soulève néanmoins de nombreuses questions. En
+   particulier, selon quels critères certains sujets doivent-ils être
+   bannis ? Et cette régulation doit-elle être laissée à l’appréciation de
+   chacun des acteurs ? Cette question particulière n’est pas réellement
+   nouvelle : elle se pose régulièrement pour le contrôle de contenu des
+   réseaux sociaux, aujourd’hui réalisé par les opérateurs eux-mêmes. Ce
+   qui est spécifique, c’est qu’il s’agit non pas de réguler le contenu
+   produit par les humains participant au réseau, mais, d’une certaine
+   façon, d’éditorialiser de façon automatique les productions faites par
+   une machine.
+
+Faire preuve d’esprit critique
+
+   Les nouveaux systèmes d’IA vont permettre de démocratiser l’accès à des
+   outils de création de contenu pour de très nombreuses finalités utiles.
+   Mais cette accessibilité à une contrepartie : ils obligent les
+   utilisateurs à renforcer leur esprit critique. D’une certaine manière,
+   on peut estimer que tous les « pièges » que des millions d’utilisateurs
+   tendent aux IA pour s’amuser, et dont la presse s’est largement faite
+   écho, témoignent à leur manière de la volonté de nombre d’entre eux de
+   tester les limites des systèmes, de voir dans quelle mesure
+   l’information générée est fiable.
+   Le Penseur, Stanislas Torrents (1839-1916)
+
+   Les dispositifs techniques comme les tatouages numériques ne seront
+   toujours que des outils d’aide qui ne pourront se substituer à une
+   formation des utilisateurs et une adaptation des contextes d’usage de
+   ces logiciels [50][13].
+
+   Dans un monde où la frontière entre le vrai et le faux pourra être
+   rendue plus floue, l’importance de savoir identifier les sources
+   d’information fiables deviendra une exigence incontournable.
+
+   Cette éducation à l’esprit critique, sans être en soi suffisante, est
+   probablement nécessaire pour accompagner l’usage des IA génératives.
+   C’est d’ailleurs ainsi qu’est souvent envisagée l’introduction des
+   systèmes d’IA dans les établissements d’enseignement, en encourageant
+   « l’acquisition de “compétences préalables” à l’éducation à l’IA,
+   telles que les compétences de base en lecture, en écriture, en calcul,
+   en programmation et en technologie numérique, l’éducation aux médias et
+   à l’information, ainsi que les compétences relatives à la pensée
+   critique et créative, au travail en équipe et à la communication, les
+   compétences socioémotionnelles et les compétences en matière d’éthique
+   de l’IA » [51][14].
+
+   Et c’est aussi une des raisons d’être de l’Afis et de sa revue Science
+   et pseudosciences.
+   Références
+
+   truquées », L’Express, 4 mai 2023. Sur lexpress.fr
+   uncertainty and the need for an independent auditing of accounts”,
+   Internet Policy Review, 7 février 2023.
+   quoi parle-t-on ? », SPS n° 337, juillet 2021. Sur afis.org
+   pourquoi ? », SPS n° 337, novembre 2021. Sur afis.org
+   help protect against fraud and misinformation”, The Conversation, 27
+   mars 2023. Sur theconversation.com
+   images : robustness overview”, Signal Processing : Image Communication,
+   2022, 100 :116523. Sur sciencedirect.com
+   generated images”, blog, 28 octobre 2022. Sur medium.com
+   altruism”, blog Shtetl-Optimized. Sur scottaaronson.blog
+   limits”, site TechCrunch, 10 décembre 2022. Sur techcrunch.com
+   Parlement européen et du Conseil établissant des règles harmonisées
+   concernant l’intelligence artificielle et modifiant certains actes
+   législatifs de l’Union », 21 avril 2021.
+   ethical way forward for science”, Nature, 18 avril 2023.
+   intelligence : early experiments with GPT-4”, 13 avril 2023
+   (pré-publication non évaluée par les pairs). Sur arxiv.org
+   tools and ChatGPT- Does digital watermaring offer a solution ?”,
+   International Journal for Educational Integrity, 2023, 19 :10.
+   novembre 2021.
+
+   ^[80]1 Sur les définitions que l’on peut donner aux « théories du
+   complot », se reporter au dossier [81]« Théories du complot,
+   conspirationnisme : de quoi parle-t-on ? », Science et
+   pseudo-sciencesn° 337, juillet 2021.
+
+Publié dans le [82]n° 345 de la revue
+
+Partager cet article
+
+
+L' auteur
+
+
+[88]Jean-Paul Krivine
+
+   Rédacteur en chef de la revue Science et pseudo-sciences (depuis 2001).
+   Président de l’Afis en 2019 et 2020. (...)
+
+[90]Intelligence Artificielle
+
+   L’intelligence artificielle (IA) suscite curiosité, enthousiasme et
+   inquiétude. Elle est présente dans d’innombrables applications, ses
+   prouesses font régulièrement la une des journaux. Dans le même temps,
+   des déclarations médiatisées mettent en garde contre des machines qui
+   pourraient prendre le pouvoir et menacer la place de l’Homme ou, a
+   minima, porter atteinte à certaines de nos libertés. Les performances
+   impressionnantes observées aujourd’hui sont-elles annonciatrices de
+   comportements qui vont vite nous échapper ?
+
+[92]Intelligence artificielle
+
+   Le 16 août 2020
+
+[94]IA génératives : une révolution en cours ?
+
+   Le 17 octobre 2023
+
+[96]De l’analyse de la langue aux modèles génératifs
+
+   Le 11 octobre 2023
+   d'images
+
+[98]Les systèmes d’intelligence artificielle pour la génération d’images
+
+   Le 5 octobre 2023
+
+[100]IA génératives : un risque accru de désinformation ?
+
+   Le 29 septembre 2023
+
+[102]Intelligence artificielle et controverse sur la fin de l’humanité
+
+   Le 23 septembre 2023
+
+Les articles les plus lus
+
+   sans cesse réitérée
+
+[104]Le nuage de Tchernobyl qui s’arrête à la frontière : une fable sans
+cesse réitérée
+
+   Le 22 mars 2021 - [105]Science et médias
+
+[107]Coronavirus : un nouveau paradoxe pour l’homéopathie
+
+   Le 6 mars 2020 - [108]Homéopathie
+
+[110]Coronavirus – comment s’informer ?
+
+   Le 11 mai 2020 - [111]Covid-19
+
+[113]Iridologie : de la poudre aux yeux
+
+   Le 4 avril 2020 - [114]Médecines alternatives
+
+[116]Savez-vous combien pèse votre âme ?
+
+   Le 9 décembre 2019 - [117]Science et religion
+
+Notes de lectures
+
+
+[119]Le traitement automatique des langues en question
+
+   Marcel Cori
+
+[121]Des intelligences TRÈS artificielles
+
+   Jean-Louis Dessalles
+
+[123]L’intelligence artificielle
+
+   Nicolas Spatola
+
+[125]Avec Internet, où allons nous ?
+
+   Serge Soudoplatoff
+
+[127]L’Intelligence et le calcul
+
+   Jean-Paul Delahaye
+
+
+Références
+
+   Liens visibles :
+   1. https://www.afis.org/oembed.api/?format=json&url=https://www.afis.org/IA-generatives-un-risque-accru-de-desinformation
+   2. file:///
+   3. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html
+   4. file:///tmp/lynxXXXXM3THsc/Qu-est-ce-que-l-AFIS
+   5. file:///tmp/lynxXXXXM3THsc/-Communiques-
+   6. file:///tmp/lynxXXXXM3THsc/-Agenda-de-l-Afis-
+   7. file:///tmp/lynxXXXXM3THsc/-Liens-internationaux-
+   8. file:///spip.php?page=boutique
+   9. file:///tmp/lynxXXXXM3THsc/Contacts
+  10. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html
+  11. file:///tmp/lynxXXXXM3THsc/-Editos-
+  12. file:///tmp/lynxXXXXM3THsc/-Notes-de-lecture-
+  13. file:///tmp/lynxXXXXM3THsc/-Esprit-critique-70-
+  14. file:///tmp/lynxXXXXM3THsc/-Science-conscience-
+  15. file:///tmp/lynxXXXXM3THsc/-Sornettes-sur-Internet-
+  16. file:///tmp/lynxXXXXM3THsc/-Un-monde-fou-fou-fou-
+  17. file:///tmp/lynxXXXXM3THsc/-Regards-sur-la-science-
+  18. file:///tmp/lynxXXXXM3THsc/-Liste-des-themes-
+  19. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html
+  20. file:///tmp/lynxXXXXM3THsc/346-octobre-2023
+  21. file:///tmp/lynxXXXXM3THsc/-La-revue-Science-et-pseudo-sciences-
+  22. file:///tmp/lynxXXXXM3THsc/spip.php?page=boutique#abonnement
+  23. file:///tmp/lynxXXXXM3THsc/spip.php?page=boutique
+  24. https://www.book-e-book.com/
+  25. file:///tmp/lynxXXXXM3THsc/spip.php?page=videos
+  26. https://www.afis.org/spip.php?page=barre_recherche
+  27. https://www.facebook.com/Afis-Science-et-pseudo-sciences-165001693548888/
+  28. https://twitter.com/afis_science/
+  29. file:///tmp/lynxXXXXM3THsc/spip.php?page=videos
+  30. https://play.google.com/store/apps/details?id=org.pseudo_sciences.afis.afis
+  31. https://apps.apple.com/fr/app/afis-science/id1460254086
+  32. https://afis.org/rss.xml
+  33. https://afis-science.assoconnect.com/
+  34. https://www.afis.org/
+  35. file:///tmp/lynxXXXXM3THsc/+-Intelligence-Artificielle-383-+
+  36. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref0
+  37. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref1
+  38. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#nb1
+  39. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref2
+  40. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref3
+  41. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref4
+  42. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref5
+  43. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref6
+  44. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref4
+  45. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref7
+  46. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref8
+  47. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref9
+  48. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref10
+  49. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref11
+  50. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref12
+  51. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#ref13
+  52. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext1
+  53. https://www.lexpress.fr/economie/high-tech/porno-avec-lia-linquietant-boom-des-videos-truquees-KNNYR3Y7AJBK7APYMC7GRSSLKE/
+  54. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext2
+  55. https://policyreview.info/articles/analysis/fake-accounts-social-media-epistemic-uncertainty-and-need-independent-auditing
+  56. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext3
+  57. file:///tmp/lynxXXXXM3THsc/Theories-du-complot-conspirationnisme-de-quoi-parle-t-on
+  58. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext4
+  59. file:///tmp/lynxXXXXM3THsc/Qui-croit-aux-theories-complotistes-et-pourquoi
+  60. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext5
+  61. https://theconversation.com/watermarking-chatgpt-dall-e-and-other-generative-ais-could-help-protect-against-fraud-and-misinformation-202293
+  62. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext6
+  63. https://doi.org/10.1016/j.image.2021.116523
+  64. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext7
+  65. https://medium.com/@steinsfu/stable-diffusion-the-invisible-watermark-in-generated-images-2d68e2ab1241
+  66. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext8
+  67. https://scottaaronson.blog/?p=6823
+  68. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext9
+  69. https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/
+  70. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext10
+  71. https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:52021PC0206
+  72. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext11
+  73. https://www.nature.com/articles/d41586-023-01295-4
+  74. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext12
+  75. https://arxiv.org/abs/2303.12712
+  76. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext13
+  77. https://link.springer.com/article/10.1007/s40979-023-00131-6
+  78. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#intext14
+  79. https://www.unesco.org/fr/artificial-intelligence/recommendation-ethics
+  80. file:///tmp/lynxXXXXM3THsc/L12262-744TMP.html#nh1
+  81. file:///tmp/lynxXXXXM3THsc/Theories-du-complot-conspirationnisme-de-quoi-parle-t-on
+  82. file:///tmp/lynxXXXXM3THsc/345-juillet-2023
+  83. https://www.facebook.com/sharer.php?m2w&s=100&p[url]=https://www.afis.org/IA-generatives-un-risque-accru-de-desinformation/&p[title]=IA génératives : un risque accru de désinformation ?
+  84. https://twitter.com/intent/tweet?url=https://www.afis.org/IA-generatives-un-risque-accru-de-desinformation&text=IA génératives : un risque accru de désinformation ?
+  85. https://linkedin.com/shareArticle?mini=true&url=https://www.afis.org/IA-generatives-un-risque-accru-de-desinformation/&title=IA génératives : un risque accru de désinformation ?
+  86. mailto:?subject=IA génératives : un risque accru de désinformation ?&body=Bonjour, je t'invite à consulter cet article : https://www.afis.org/IA-generatives-un-risque-accru-de-desinformation
+  87. file:///tmp/lynxXXXXM3THsc/Jean-Paul-Krivine-4048
+  88. file:///tmp/lynxXXXXM3THsc/Jean-Paul-Krivine-4048
+  89. file:///tmp/lynxXXXXM3THsc/Jean-Paul-Krivine-4048
+  90. file:///tmp/lynxXXXXM3THsc/+-Intelligence-Artificielle-383-+
+  91. file:///tmp/lynxXXXXM3THsc/Intelligence-artificielle
+  92. file:///tmp/lynxXXXXM3THsc/Intelligence-artificielle
+  93. file:///tmp/lynxXXXXM3THsc/IA-generatives-une-revolution-en-cours
+  94. file:///tmp/lynxXXXXM3THsc/IA-generatives-une-revolution-en-cours
+  95. file:///tmp/lynxXXXXM3THsc/De-l-analyse-de-la-langue-aux-modeles-generatifs
+  96. file:///tmp/lynxXXXXM3THsc/De-l-analyse-de-la-langue-aux-modeles-generatifs
+  97. file:///tmp/lynxXXXXM3THsc/Les-systemes-d-intelligence-artificielle-pour-la-generation-d-images
+  98. file:///tmp/lynxXXXXM3THsc/Les-systemes-d-intelligence-artificielle-pour-la-generation-d-images
+  99. file:///tmp/lynxXXXXM3THsc/IA-generatives-un-risque-accru-de-desinformation
+ 100. file:///tmp/lynxXXXXM3THsc/IA-generatives-un-risque-accru-de-desinformation
+ 101. file:///tmp/lynxXXXXM3THsc/Intelligence-artificielle-et-controverse-sur-la-fin-de-l-humanite
+ 102. file:///tmp/lynxXXXXM3THsc/Intelligence-artificielle-et-controverse-sur-la-fin-de-l-humanite
+ 103. file:///tmp/lynxXXXXM3THsc/Le-nuage-de-Tchernobyl-qui-s-arrete-a-la-frontiere-une-fable-sans-cesse
+ 104. file:///tmp/lynxXXXXM3THsc/Le-nuage-de-Tchernobyl-qui-s-arrete-a-la-frontiere-une-fable-sans-cesse
+ 105. file:///tmp/lynxXXXXM3THsc/+-Science-et-medias-389-+
+ 106. file:///tmp/lynxXXXXM3THsc/Coronavirus-un-nouveau-paradoxe-pour-l-homeopathie
+ 107. file:///tmp/lynxXXXXM3THsc/Coronavirus-un-nouveau-paradoxe-pour-l-homeopathie
+ 108. file:///tmp/lynxXXXXM3THsc/+-Homeopathie-276-+
+ 109. file:///tmp/lynxXXXXM3THsc/Coronavirus-comment-s-informer
+ 110. file:///tmp/lynxXXXXM3THsc/Coronavirus-comment-s-informer
+ 111. file:///tmp/lynxXXXXM3THsc/+-Covid-19-+
+ 112. file:///tmp/lynxXXXXM3THsc/Iridologie-de-la-poudre-aux-yeux
+ 113. file:///tmp/lynxXXXXM3THsc/Iridologie-de-la-poudre-aux-yeux
+ 114. file:///tmp/lynxXXXXM3THsc/+-Medecines-alternatives-+
+ 115. file:///tmp/lynxXXXXM3THsc/Savez-vous-combien-pese-votre-ame
+ 116. file:///tmp/lynxXXXXM3THsc/Savez-vous-combien-pese-votre-ame
+ 117. file:///tmp/lynxXXXXM3THsc/+-Science-et-religion-+
+ 118. file:///tmp/lynxXXXXM3THsc/Le-traitement-automatique-des-langues-en-question
+ 119. file:///tmp/lynxXXXXM3THsc/Le-traitement-automatique-des-langues-en-question
+ 120. file:///tmp/lynxXXXXM3THsc/Des-intelligences-TRES-artificielles
+ 121. file:///tmp/lynxXXXXM3THsc/Des-intelligences-TRES-artificielles
+ 122. file:///tmp/lynxXXXXM3THsc/L-intelligence-artificielle
+ 123. file:///tmp/lynxXXXXM3THsc/L-intelligence-artificielle
+ 124. file:///tmp/lynxXXXXM3THsc/Avec-Internet-ou-allons-nous
+ 125. file:///tmp/lynxXXXXM3THsc/Avec-Internet-ou-allons-nous
+ 126. file:///tmp/lynxXXXXM3THsc/L-Intelligence-et-le-calcul
+ 127. file:///tmp/lynxXXXXM3THsc/L-Intelligence-et-le-calcul
+ 128. file:///tmp/lynxXXXXM3THsc/-Notes-de-lecture-
+ 129. file:///tmp/lynxXXXXM3THsc/Qui-sommes-nous
+ 130. file:///spip.php?page=plan
+ 131. file:///tmp/lynxXXXXM3THsc/Liens-favoris
+ 132. file:///tmp/lynxXXXXM3THsc/Contacts
+ 133. file:///tmp/lynxXXXXM3THsc/Mentions-legales
+
+   Liens cachés :
+ 135. file://localhost/tmp/lynxXXXXM3THsc/345-juillet-2023
