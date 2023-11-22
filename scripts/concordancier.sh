@@ -54,5 +54,12 @@ echo 	"""
 
 if [[$lang == "en"]]
 then
-	grep -E -o -i "(\w+\W+| {0,5})$motif\b(\W+\w+| ){0,5}" $fichier_text | sed -E -r "s/(.*)$motif(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/I"
+	grep -E -o -i "(\w+\W+| {0,5})$motif\b(\W+\w+| ){0,5}" $fichier_text | gsed -E -r "s/(.*)$motif(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/I"
+fi
 
+echo "
+</tbody>
+</table>
+</body>
+</html>
+"

@@ -33,12 +33,11 @@ then
 	mot="虚假信息"
 elif [[ $lang == 'en' ]]
 then
- 	mot="[Dd]isinformation"
+ 	mot="(D|d)isinformation"
 elif [[ $lang == 'fr' ]]
 then
-	mot="[Dd]ésinformation"
+	mot="(D|d)ésinformation"
 fi
-
 
 
 echo "<html>
@@ -106,12 +105,13 @@ do
 
 	echo "$dump" > "../dumps-text/$basename-$lineno.txt"
 
-
 	compte=$(grep -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
 
 	grep -C 3 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
+
+	sh ./concordancier.sh $lang "../dumps-text/$basename-$lineno.txt" $mot > "../concordances/$basename-$lineno.html"
 	
-	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td></tr>" >> "$fichier_tableau"
+	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
 	((lineno++));
 done < "$fichier_urls"
