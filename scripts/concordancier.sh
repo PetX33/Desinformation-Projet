@@ -1,5 +1,35 @@
 #!/usr/bin/env bash
 
+lang=$1 # fr, en, zh
+fichier_text=$2
+motif=$3
+
+if [[ $# -ne 3 ]]
+then
+	echo "Ce programme demande exactement trois arguments."
+	echo "Usage : $0 <langue> <fichier> <motif>"
+	exit
+fi
+
+if [[ ! -f $fichier_text ]]
+then
+  echo "le fichier $fichier_text n'existe pas"
+  exit
+fi
+
+if [[ -z $motif ]]
+then
+  echo "le motif est vide"
+  exit
+fi
+
+if [[$lang != 'fr' && $lang != "en" && $lang != "zh"]]
+then
+    echo "La langue doit être fr, en ou zh"
+    exit
+fi
+
+
 echo 	"""
             <html>
              <html lang=\"$lang\">
@@ -21,4 +51,8 @@ echo 	"""
 									</tr>
 									</thead>
 									"""
+
+if [[$lang == "en"]]
+then
+	grep -E -o -i "(\w+\W+| {0,5})$motif\b(\W+\w+| ){0,5}" $fichier_text | sed -E -r "s/(.*)$motif(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/I"
 

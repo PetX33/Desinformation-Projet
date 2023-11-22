@@ -1,9 +1,9 @@
 
 Breadcrumb
 
-    1. [240]Disinformation and propaganda
-    2. [241]Digital space and democracy
-    3. [242]News
+    1. Disinformation and propaganda
+    2. Digital space and democracy
+    3. News
 
 From Twitter to X, Elon Musk’s transformation from free speech defender to
 champion of disinformation
@@ -18,16 +18,16 @@ champion of disinformation
    Reporters Without Borders (RSF) now regards X as the embodiment of the
    threat that online platforms pose to democracies.
 
-   In the course of a year in which he has humiliated[249] public media
-   and[250] censored journalists, the businessman ranked by Forbes as the
-   world’s richest person has shattered what was one of the few social
-   media bulwarks against disinformation and has instead become one of the
+   In the course of a year in which he has humiliated public media and
+   censored journalists, the businessman ranked by Forbes as the world’s
+   richest person has shattered what was one of the few social media
+   bulwarks against disinformation and has instead become one of the
    strongest allies of disinformation producers.
 
    The most dangerous decisions for access to reliable information have
    included transforming account certification. From a security system
 --
-   million times.
+   Israel-Hamas war, claims that have been viewed 100 million times.
 
      “Elon Musk has completed his transformation from free speech
      defender to champion of disinformation. Most of his decisions have
@@ -46,43 +46,9 @@ champion of disinformation
    Musk’s leadership, Twitter ceased to be a signatory to the European
    Union's code of good practice against disinformation, now the code of
    conduct of the Digital Services Act (DSA). The social media company
-   also carried out mass layoffs, especially within the “[253]Trust and
-   Safety” teams responsible for protecting platform users, including
-   moderation. These decisions have necessarily strengthened
-   disinformation’s competitive advantage over content that is in the
-   public interest.
+   also carried out mass layoffs, especially within the “Trust and Safety”
+   teams responsible for protecting platform users, including moderation.
+   These decisions have necessarily strengthened disinformation’s
+   competitive advantage over content that is in the public interest.
 
    In RSF’s view, X embodies the fundamental problem posed by large
---
-
-   Visible links:
-   1. https://rsf.org/fr/de-twitter-à-x-elon-musk-achevé-sa-mue-de-défenseur-de-la-liberté-d-expression-en-champion-de-la
-   2. https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48764-5285TMP.html#main-content
-   4. https://rsf.org/en/index
-   5. https://rsf.org/en/barometer
---
- 191. file:///en/region/middle-east-north-africa
- 192. file:///en/subject/arbitrary-detention-and-proceedings
- 193. file:///en/subject/digital-space-and-democracy
- 194. file:///en/subject/disinformation-and-propaganda
- 195. file:///en/subject/independence-and-pluralism
- 196. file:///en/subject/international-laws-and-governance
- 197. file:///en/subject/legal-framework-and-justice-system
---
- 235. file:///en/contact-us
- 236. https://donate.rsf.org/b/my-donation
- 237. file:///fr/de-twitter-à-x-elon-musk-achevé-sa-mue-de-défenseur-de-la-liberté-d-expression-en-champion-de-la
- 238. file:///en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
- 239. https://rsf.org/fr/petition-freezamora-signez-la-pétition-pour-appeler-les-autorités-du-guatemala-à-libérer
- 240. file:///en/subject/disinformation-and-propaganda
- 241. file:///en/subject/digital-space-and-democracy
- 242. file:///en/news?types[]=36
- 243. https://twitter.com/RSF_en
- 244. https://twitter.com/RSF_Inter
- 245. https://www.facebook.com/sharer/sharer.php?u=https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
- 246. https://twitter.com/intent/tweet?text=From+Twitter+to+X,+Elon+Musk’s+transformation+from+free+speech+defender+to+champion+of+disinformation+https://rsf.org/s/93906
- 247. https://www.linkedin.com/sharing/share-offsite/?url=https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
- 248. file:///cdn-cgi/l/email-protection#221d715740484741561f64504d4f0276554b5656475002564d027a0e02674e4d4c026f575149c0a2bb51025650434c51444d504f43564b4d4c0244504d4f02445047470251524747414a02464744474c46475002564d02414a434f524b4d4c024d4402464b514b4c444d504f43564b4d4c04434f5219404d465b1f4a56565251180d0d5051440c4d50450d474c0d56554b565647500f5a0f474e4d4c0f4f5751490f510f5650434c51444d504f43564b4d4c0f445047470f51524747414a0f464744474c4647500f414a434f524b4d4c0f464b514b4c444d504f43564b4d4c
- 249. https://rsf.org/en/twitter-s-equating-public-media-state-media-dangerous
- 250. https://rsf.org/en/musktwitter-establish-democratic-control-it-s-too-late

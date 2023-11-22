@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-if [ $# -ne 2 ];
+if [ $# -ne 3 ];
 then
-	echo "Deux arguments attendu exactement"
+	echo "Trois arguments attendu exactement"
 	exit
 fi
 
-if [ -f $1 ]
+if [ -f $2 ]
 then
 	echo "On a bien un fichier"
 else
@@ -21,9 +21,9 @@ else
     GREP_CMD="grep"
 fi
 
-#lang=$1
-fichier_urls=$1
-fichier_tableau=$2
+lang=$1 # fr, en, zh
+fichier_urls=$2
+fichier_tableau=$3
 
 basename=$(basename -s .txt $fichier_urls)
 lineno=1
@@ -33,11 +33,13 @@ then
 	mot="虚假信息"
 elif [[ $lang == 'en' ]]
 then
- 	mot="([Dd]isinformation)"
+ 	mot="[Dd]isinformation"
 elif [[ $lang == 'fr' ]]
 then
-	mot="([Dd]ésinformation])"
+	mot="[Dd]ésinformation"
 fi
+
+
 
 echo "<html>
 	<head>
@@ -109,7 +111,7 @@ do
 
 	grep -C 3 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
 	
-	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$basename-$lineno.txt\">contexte</a></td></tr>" >> "$fichier_tableau"
+	echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td></tr>" >> "$fichier_tableau"
 
 	((lineno++));
 done < "$fichier_urls"
@@ -117,3 +119,5 @@ done < "$fichier_urls"
 echo "		</table>
 	</body>
 </html>" >> "$fichier_tableau"
+
+echo "motif : $mot"

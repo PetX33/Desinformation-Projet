@@ -1,11 +1,15 @@
 
+   Skip to contentSkip to site index
 
 
+   Today’s Paper
 
+   Opinion|Disinformation Is Not the Real Problem With Democracy
    https://www.nytimes.com/2023/03/11/opinion/local-media-newspapers-democ
    racy.html
 
    Advertisement
+   SKIP ADVERTISEMENT
 
    Subscriber-only Newsletter
 
@@ -19,8 +23,9 @@ Disinformation Is Not the Real Problem With Democracy
    Rows of newspapers on display.
    Credit...Hulton Archive/Getty Images
 
+   Jamelle Bouie
 
-   By [9]Jamelle Bouie
+   By Jamelle Bouie
 
    Opinion Columnist
 
@@ -115,7 +120,7 @@ Disinformation Is Not the Real Problem With Democracy
    communities.
 
    “As Americans have shifted away from local news, turnout in state and
-   local elections has fallen,” [10]notes Brookings, “and communities that
+   local elections has fallen,” notes Brookings, “and communities that
    have lost reporters have seen fewer candidates run for local office.”
 
    Americans have turned to national news and national news outlets to
@@ -141,13 +146,16 @@ Disinformation Is Not the Real Problem With Democracy
 
 Now Reading
 
+   Michael Kazin on the war in Ukraine for Dissent.
 
+   Liza Featherstone on Atlanta’s “Cop City” for The New Republic.
 
-   Books.
+   Sarah Schulman on American policing for The New York Review of Books.
 
-   The Baffler.
+   Sharanya Deepak on vegetarianism and India’s shift to the right for The
+   Baffler.
 
-   Currents.
+   Chance Phillips on Machiavelli and republicanism for Liberal Currents.
 
 Photo of the Week
 
@@ -169,7 +177,7 @@ Now Eating: Sesame-Ginger Chicken Noodle Soup
    stock works for this as well. I seasoned the broth with fresh garlic
    and soy sauce , stirred in before serving. I also went very heavy on
    the scallions and additional ginger! Recipe comes from the Cooking
-   section of [16]The New York Times.
+   section of The New York Times.
 
    Ingredients
        for garnish
@@ -201,9 +209,10 @@ Now Eating: Sesame-Ginger Chicken Noodle Soup
 
    Jamelle Bouie became a New York Times Opinion columnist in 2019. Before
    that he was the chief political correspondent for Slate magazine. He is
-   based in Charlottesville, Va., and Washington. [17]@jbouie
+   based in Charlottesville, Va., and Washington. @jbouie
 
    Advertisement
+   SKIP ADVERTISEMENT
 
 Site Index
 
@@ -213,51 +222,5 @@ Site Information Navigation
 
 
    IFRAME:
-   zqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x
-
-References
-
-   Visible links:
-   1. nyt://article/4c161899-6c43-5d23-91c6-b57a75a4826a
-   2. https://www.nytimes.com/svc/oembed/json/?url=https://www.nytimes.com/2023/03/11/opinion/local-media-newspapers-democracy.html
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49317-1995TMP.html#site-content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49317-1995TMP.html#site-index
-   5. https://www.nytimes.com/section/todayspaper
-   6. file:///section/opinion
-   7. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49317-1995TMP.html#after-top
-   8. https://www.nytimes.com/column/jamelle-bouie
-   9. https://www.nytimes.com/column/jamelle-bouie
-  10. https://www.brookings.edu/research/local-journalism-in-crisis-why-america-must-revive-its-local-newsrooms/
-  11. https://www.dissentmagazine.org/online_articles/reject-the-left-right-alliance-against-ukraine
-  12. https://newrepublic.com/article/171055/atlanta-cop-city-vital-fight-urban-forests
-  13. https://www.nybooks.com/articles/2023/03/23/red-lights-blue-lines-the-streets-belong-to-us-fischer/
-  14. https://thebaffler.com/salvos/indias-beef-with-beef-deepak
-  15. https://www.liberalcurrents.com/machiavelli-and-the-liberal-republic/
-  16. https://cooking.nytimes.com/recipes/1020032-sesame-ginger-chicken-noodle-soup
-  17. https://twitter.com/jbouie
-  18. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49317-1995TMP.html#after-bottom
-  19. https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
-  20. https://www.nytco.com/
-  21. https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us
-  22. https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility
-  23. https://www.nytco.com/careers/
-  24. https://nytmediakit.com/
-  25. https://www.tbrandstudio.com/
-  26. https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers
-  27. https://www.nytimes.com/privacy/privacy-policy
-  28. https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service
-  29. https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale
-  30. file:///sitemap/
-  31. https://www.nytimes.com/ca/
-  32. https://www.nytimes.com/international/
-  33. https://help.nytimes.com/hc/en-us
-  34. https://www.nytimes.com/subscription?campaignId=37WXW
-  35. file:///privacy/manage-settings/?fides-toggle=true&fides-override=true
-  36. https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x
-
-   Hidden links:
-  38. file://localhost/
-  39. file://localhost/
-  40. file://localhost/
-  41. https://www.nytimes.com/newsletters/signup/JBO
-  42. file://localhost/section/opinion
+   https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm_auth=tfAzqo1
+   rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x

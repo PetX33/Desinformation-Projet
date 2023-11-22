@@ -2,7 +2,6 @@
 
 
 
-
    Search
 
    Profile
@@ -23,6 +22,7 @@ news Alerts
    There are no new alerts at this time
    Search
 
+   War in Ukraine
 
 Facebook, Twitter remove disinformation accounts targeting Ukrainians
 
@@ -31,7 +31,7 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    Get more newson
 
    Feb. 28, 2022, 5:00 AM UTC / Updated Feb. 28, 2022, 5:33 PM UTC
-   By [66]Ben Collins and Jo Ling Kent
+   By Ben Collins and Jo Ling Kent
 
    Facebook and Twitter removed two anti-Ukrainian “covert influence
    operations” over the weekend, one tied to Russia and another with
@@ -46,23 +46,24 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    The other campaign used hacked accounts to push similar anti-Ukraine
    propaganda and was tied to a known Belarusian hacking group.
 
-   to try to manipulate narratives about Ukraine — most notably around the
+   Disinformation experts warned that Russia is expected to continue to
+   try to manipulate narratives about Ukraine — most notably around the
    claims made by Russian President Vladimir Putin.
 
    The networks that were removed by Facebook and Twitter pushed
-   narratives that[68] Putin himself mentioned in his speech announcing a
+   narratives that Putin himself mentioned in his speech announcing a
    military operation, which has since turned into a large-scale invasion.
 
    The announcement also demonstrates that Russia continues to use
    disinformation strategies first identified years ago around the 2016
    election, albeit with some advancements — most notably the use of
-   software that [69]can create realistic and original human faces.
+   software that can create realistic and original human faces.
 
    The larger of the two disinformation groups operated in Russia, as well
    as the Russian-dominated Donbas and Crimea regions of Ukraine, said
    Nathaniel Gleicher, Meta's head of security policy, and it is tied to
-   the websites News Front and South Front, which [70]the U.S. government
-   has designated as part of a broader disinformation effort that had
+   the websites News Front and South Front, which the U.S. government has
+   designated as part of a broader disinformation effort that had
    connections to Russian intelligence. (Meta is the parent company of
    Facebook.)
 
@@ -78,13 +79,13 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    government, suggest that it’s a failed state, suggest that the war is
    going very poorly in Ukraine or trying to praise Russia.”
 
-   Facebook removed profiles related to [71]News Front and South Front in
+   Facebook removed profiles related to News Front and South Front in
    2020, and the company confirmed to NBC News that the new group shared
    connections to the accounts that were previously banned. Both websites
    have pushed misleading articles, questioning the results of the 2020
    presidential election and the efficacy of Covid-19 vaccines. The State
-   Department [72]identified the websites as Russian disinformation
-   outlets in a 2020 report.
+   Department identified the websites as Russian disinformation outlets in
+   a 2020 report.
 
    The websites featured articles pushing Russian talking points like
    “Zelensky is building a neo-Nazi dictatorship in Ukraine” and “Why
@@ -106,7 +107,7 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    new propaganda site called Ukraine Today.
 
    “On Feb. 27, we permanently suspended more than a dozen accounts and
-   blocked sharing of several links in violation of our [73]platform
+   blocked sharing of several links in violation of our platform
    manipulation and spam policy. Our investigation is ongoing; however,
    our initial findings indicate that the accounts and links originated in
    Russia and were attempting to disrupt the public conversation around
@@ -131,7 +132,7 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    Facebook attributed the efforts to the hacking group Ghostwriter, which
    previously used hacked accounts to push disinformation that favored the
    Belarus government. The Ghostwriter hacking group works for the Belarus
-   government, [74]according to the cybersecurity firm Mandiant.
+   government, according to the cybersecurity firm Mandiant.
 
    As for who will be targeted next, Renée DiResta, the research manager
    at the Stanford Internet Observatory, said it is “unlikely” to be U.S.
@@ -141,125 +142,10 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    real influencers who are part of that sphere of influence that Russia
    has established already or media properties,” she said. “It does take
    some time to spin up a network of fake accounts.”
+   Ben Collins
 
    Ben Collins covers disinformation, extremism and the internet for NBC
    News.
    Jo Ling Kent
 
    Jo Ling Kent is the business and technology correspondent for NBC News.
-
-
-
-References
-
-   Visible links:
-   1. https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna126311
-   2. https://www.nbcnews.com/politics
-   3. https://www.nbcnews.com/us-news
-   4. https://www.nbcnews.com/world
-   5. https://www.nbcnews.com/business
-   6. https://www.nbcnews.com/health
-   7. https://www.nbcnews.com/tips/
-   8. https://www.nbcnews.com/video
-   9. https://www.nbcnews.com/culture-matters
-  10. file:///my-news
-  11. https://id.nbcnews.com/my-account?brand=nbc-news
-  12. https://id.nbcnews.com/email-preferences?brand=nbc-news
-  13. file:///my-news
-  14. https://www.nbcnews.com/meet-the-press
-  15. https://www.nbcnews.com/us-news
-  16. https://www.nbcnews.com/politics
-  17. https://www.nbcnews.com/world
-  18. https://www.nbcnews.com/news/us-news/nbc-affiliates-n19981
-  19. https://www.nbcnews.com/business
-  20. https://www.nbcnews.com/health
-  21. https://www.nbcnews.com/investigations
-  22. https://www.nbcnews.com/culture-matters
-  23. https://www.nbcnews.com/science
-  24. https://www.nbcsports.com/?cid=eref:nbcnews:text
-  25. https://www.nbcnews.com/tech-media
-  26. https://www.nbcnews.com/video-features
-  27. https://www.nbcnews.com/photos
-  28. https://www.nbcnews.com/news/weather
-  29. https://www.nbcnews.com/select
-  30. https://www.nbcnews.com/politics/2024-presidential-election
-  31. https://www.nbcnews.com/asian-america
-  32. https://www.nbcnews.com/nbcblk
-  33. https://www.nbcnews.com/latino
-  34. https://www.nbcnews.com/nbc-out
-  35. https://www.today.com/
-  36. https://www.nbcnews.com/nightly-news
-  37. https://www.msnbc.com/
-  38. https://www.nbcnews.com/meet-the-press
-  39. https://www.nbcnews.com/dateline
-  40. https://www.nbcnews.com/now
-  41. https://www.nbcnews.com/nightly-films
-  42. https://story.snapchat.com/p/8bb879c7-45c0-499c-bb3c-7a3d0e229301/347654839924736
-  43. https://www.nbcnews.com/specials
-  44. https://www.nbcnews.com/newsletters
-  45. https://www.nbcnews.com/podcasts
-  46. https://www.nbcnews.com/news/nbc-news-now-live-audio-listen-live-news-audio-day-rcna70163
-  47. https://www.cnbc.com/
-  48. https://www.nbc.com/
-  49. https://nbcuacademy.com/
-  50. https://www.peacocktv.com/?cid=20200715takeflightoneedi027&utm_source=nbcnews&utm_medium=symphony_display_homepagetakeover_link&utm_campaign=20200715takeflight&utm_term=weblink&utm_content=navlink&irclickid=TkV0N91B1xyPUp:XtkW3K14cUkFU:kRRw2cvQQ0&irgwc=1&utm_source=pk_vrs_imra&utm_medium=pd_aff_acq_psdlnk&utm_term=Skimbit Ltd.&utm_content=828265&cid=2201affiliateevgnpkpdaff4393&utm_campaign=2201affiliateevgn
-  51. https://www.nbcnews.com/nextstepsforveterans
-  52. https://www.nbcnews.com/archive
-  53. https://nbcnews.zendesk.com/hc/en-us
-  54. javascript:void(0);
-  55. javascript:void(0);
-  56. javascript:void(0);
-  57. javascript:void(0);
-  58. javascript:void(0);
-  59. javascript:void(0);
-  60. javascript:void(0);
-  61. javascript:void(0);
-  62. javascript:void(0);
-  63. javascript:void(0);
-  64. javascript:void(0);
-  65. https://www.nbcnews.com/world/russia-ukraine-news
-  66. https://www.nbcnews.com/author/ben-collins-ncpn858396
-  67. https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521
-  68. https://www.nbcnews.com/news/world/putin-claims-denazification-justify-russias-attack-ukraine-experts-say-rcna17537
-  69. https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html
-  70. https://home.treasury.gov/news/press-releases/jy0126
-  71. https://medium.com/dfrlab/facebook-removes-propaganda-outlets-linked-to-russian-security-services-51fbe2f6b841
-  72. https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia’s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf
-  73. https://urldefense.com/v3/__https://help.twitter.com/en/rules-and-policies/platform-manipulation__;!!PIZeeW5wscynRQ!4CbxKDBHkqKoRlmuRoGQVFjnMzbZyLhk8zAIAp1NBC2bNhtU_r2OKKYBMZhaZg7g$
-  74. https://www.wired.com/story/ghostwriter-hackers-belarus-russia-misinformationo/
-  75. https://www.nbcnews.com/author/ben-collins-ncpn858396
-  76. https://www.nbcnews.com/pages/about-nbc-news-digital
-  77. https://www.nbcnews.com/information/nbc-news-info/contact-us-n1232521
-  78. https://nbcnews.zendesk.com/hc/en-us
-  79. https://www.nbcunicareers.com/
-  80. https://www.nbcuniversal.com/privacy/cookies#cookie_management
-  81. https://www.nbcuniversal.com/privacy/?intake=NBC_News
-  82. https://www.nbcuniversal.com/privacy/notrtoo/?intake=NBC_News
-  83. https://www.nbcuniversal.com/privacy/california-consumer-privacy-act?intake=NBC_News
-  84. https://www.nbcuniversal.com/terms
-  85. https://www.nbcnews.com/archive
-  86. https://www.nbcnews.com/info/closed-captioning
-  87. https://together.nbcuni.com/advertise/?utm_source=nbc_news&utm_medium=referral&utm_campaign=property_ad_pages
-  88. https://www.nbcnews.com/select
-  89. https://www.cnbc.com/select/
-
-   Hidden links:
-  91. https://www.nbcnews.com/
-  92. javascript:void(0);
-  93. javascript:void(0);
-  94. javascript:void(0);
-  95. javascript:void(0);
-  96. https://www.facebook.com/NBCNews/
-  97. https://twitter.com/nbcnews
-  98. https://www.nbcnews.com/newsletters
-  99. https://www.nbcnews.com/now
- 100. https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880&cid=article_social_share_facebook
- 101. https://www.twitter.com/intent/tweet?text=Facebook%2C%20Twitter%20remove%20disinformation%20accounts%20pushing%20anti-Ukraine%20propaganda&via=nbcnews&url=https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880&original_referer=https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880&cid=article_social_share_twitter
- 102. http://pinterest.com/pin/create/link/?url=https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880&cid=article_social_share_pinterest
- 103. mailto:?subject=Facebook,%20Twitter%20remove%20disinformation%20accounts%20pushing%20anti-Ukraine%20propaganda&body=https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880
- 104. sms:?&body=Facebook, Twitter remove disinformation accounts pushing anti-Ukraine propaganda via nbcnews - https://www.nbcnews.com/tech/internet/facebook-twitter-remove-disinformation-accounts-targeting-ukrainians-rcna17880
- 105. mailto:ben.collins@nbcuni.com
- 106. https://www.nbcnews.com/
- 107. https://www.nbcnews.com/
- 108. https://www.msnbc.com/
- 109. https://www.today.com/

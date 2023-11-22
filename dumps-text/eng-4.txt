@@ -21,7 +21,13 @@ CNN values your feedback
    Ad Feedback
 
 
+   Markets
+   Tech
+   Media
+   Calculators
+   Videos
    More
+   Markets Tech Media Calculators Videos
 
    My Account
 
@@ -31,10 +37,20 @@ CNN values your feedback
 
    Your CNN account Log in to your CNN account
 
+   Live TV Audio
 
    Edition
+   US
+   International
+   Arabic
+   Español
    Edition
 
+   Markets
+   Tech
+   Media
+   Calculators
+   Videos
    Follow CNN Business
 
 
@@ -44,6 +60,7 @@ CNN values your feedback
    NASDAQ
 
    Fear & Greed Index
+   ----- is driving the US market
 
    Latest Market News
    Sam Altman returns to OpenAI in a bizarre reversal of fortunes
@@ -58,7 +75,8 @@ CNN values your feedback
 EU officials warn Google and YouTube about Hamas-Israel disinformation and
 graphic content
 
-   By [141]Brian Fung, CNN
+   Brian Fung
+   By Brian Fung, CNN
    2 minute read
    Published 2:54 PM EDT, Fri October 13, 2023
    Link Copied!
@@ -76,7 +94,7 @@ graphic content
    The letter from European Commissioner Thierry Breton, addressed to
    Google CEO Sundar Pichai and also sent to YouTube CEO Neal Mohan,
    reminded the company about its content moderation obligations under the
-   EU’s Digital Services Act (DSA). Breton [142]shared the letter on X.
+   EU’s Digital Services Act (DSA). Breton shared the letter on X.
 
    Breton highlighted legal requirements for Google to keep graphic
    content such as hostage videos away from underage users; to act swiftly
@@ -89,7 +107,7 @@ graphic content
    referencing upcoming elections in a number of EU countries.
 
    It also warned of possible penalties if a future investigation were to
-   find Google ([143]GOOGL) is not complying with the DSA.
+   find Google (GOOGL) is not complying with the DSA.
 
    Breton’s warning comes after similar letters he sent this week to X,
    the platform formerly known as Twitter, as well as Meta and TikTok.
@@ -155,8 +173,10 @@ CNN Business Videos
 
    Your CNN account Log in to your CNN account
 
+   Live TV Audio
 
 
+   Audio Live TV
    Follow CNN Business
 
    My Account
@@ -178,292 +198,8 @@ CNN Business Videos
    and/or its affiliates. Fair value provided by IndexArb.com. Market
    holidays and trading hours provided by Copp Clark Limited.
 
+   Terms of Use Privacy Policy Ad Choices Accessibility & CC About
+   Newsletters Transcripts
 
    Reserved.
    CNN Sans ™ & © 2016 Cable News Network.
-
-References
-
-   Visible links:
-   1. https://edition.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   2. https://www.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   3. https://www.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   4. https://edition.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   5. https://edition.cnn.com/markets
-   6. https://edition.cnn.com/business/tech
-   7. https://edition.cnn.com/business/media
-   8. https://edition.cnn.com/business/financial-calculators
-   9. https://edition.cnn.com/business/videos
-  10. https://edition.cnn.com/markets
-  11. https://edition.cnn.com/business/tech
-  12. https://edition.cnn.com/business/media
-  13. https://edition.cnn.com/business/financial-calculators
-  14. https://edition.cnn.com/business/videos
-  15. https://edition.cnn.com/audio
-  16. https://edition.cnn.com/live-tv
-  17. file:///account/settings
-  18. file:///account/my-news?iid=fw_var-nav
-  19. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
-  20. file:///account/settings
-  21. file:///account/my-news?iid=fw_var-nav
-  22. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
-  23. https://edition.cnn.com/live-tv
-  24. https://edition.cnn.com/audio
-  25. https://us.cnn.com/?hpt=header_edition-picker
-  26. https://edition.cnn.com/?hpt=header_edition-picker
-  27. https://arabic.cnn.com/?hpt=header_edition-picker
-  28. https://cnnespanol.cnn.com/?hpt=header_edition-picker
-  29. https://us.cnn.com/?hpt=header_edition-picker
-  30. https://edition.cnn.com/?hpt=header_edition-picker
-  31. https://arabic.cnn.com/?hpt=header_edition-picker
-  32. https://cnnespanol.cnn.com/?hpt=header_edition-picker
-  33. https://edition.cnn.com/markets
-  34. https://edition.cnn.com/business/tech
-  35. https://edition.cnn.com/business/media
-  36. https://edition.cnn.com/business/financial-calculators
-  37. https://edition.cnn.com/business/videos
-  38. https://edition.cnn.com/world
-  39. https://edition.cnn.com/world/africa
-  40. https://edition.cnn.com/world/americas
-  41. https://edition.cnn.com/world/asia
-  42. https://edition.cnn.com/world/australia
-  43. https://edition.cnn.com/world/china
-  44. https://edition.cnn.com/world/europe
-  45. https://edition.cnn.com/world/india
-  46. https://edition.cnn.com/world/middle-east
-  47. https://edition.cnn.com/world/united-kingdom
-  48. https://edition.cnn.com/politics
-  49. https://edition.cnn.com/specials/politics/joe-biden-news
-  50. https://edition.cnn.com/specials/politics/fact-check-politics
-  51. https://edition.cnn.com/election/2024
-  52. https://edition.cnn.com/business
-  53. https://edition.cnn.com/business/tech
-  54. https://edition.cnn.com/business/media
-  55. https://edition.cnn.com/business/financial-calculators
-  56. https://edition.cnn.com/business/videos
-  57. https://edition.cnn.com/markets
-  58. https://edition.cnn.com/markets/premarkets
-  59. https://edition.cnn.com/markets/after-hours
-  60. https://money.cnn.com/data/hotstocks/
-  61. https://edition.cnn.com/markets/fear-and-greed
-  62. https://money.cnn.com/data/world_markets/americas/
-  63. https://edition.cnn.com/business/investing
-  64. https://edition.cnn.com/specials/investing/markets-now
-  65. https://edition.cnn.com/specials/investing/before-the-bell
-  66. https://edition.cnn.com/specials/business/nightcap
-  67. https://edition.cnn.com/health
-  68. https://edition.cnn.com/interactive/life-but-better/
-  69. https://edition.cnn.com/specials/health/fitness-life-but-better
-  70. https://edition.cnn.com/specials/health/food-life-but-better
-  71. https://edition.cnn.com/specials/health/sleep-life-but-better
-  72. https://edition.cnn.com/specials/health/mindfulness-life-but-better
-  73. https://edition.cnn.com/specials/health/relationships-life-but-better
-  74. https://edition.cnn.com/entertainment
-  75. https://edition.cnn.com/entertainment/movies
-  76. https://edition.cnn.com/entertainment/tv-shows
-  77. https://edition.cnn.com/entertainment/celebrities
-  78. https://edition.cnn.com/business/tech
-  79. https://edition.cnn.com/specials/tech/innovate
-  80. https://edition.cnn.com/specials/tech/gadget
-  81. https://edition.cnn.com/specials/tech/foreseeable-future
-  82. https://edition.cnn.com/specials/tech/mission-ahead
-  83. https://edition.cnn.com/specials/tech/upstarts
-  84. https://edition.cnn.com/specials/tech/work-transformed
-  85. https://edition.cnn.com/specials/tech/innovative-cities
-  86. https://edition.cnn.com/style
-  87. https://edition.cnn.com/style/arts
-  88. https://edition.cnn.com/style/design
-  89. https://edition.cnn.com/style/fashion
-  90. https://edition.cnn.com/style/architecture
-  91. https://edition.cnn.com/style/luxury
-  92. https://edition.cnn.com/style/beauty
-  93. https://edition.cnn.com/style/videos
-  94. https://edition.cnn.com/travel
-  95. https://edition.cnn.com/travel/destinations
-  96. https://edition.cnn.com/travel/food-and-drink
-  97. https://edition.cnn.com/travel/stay
-  98. https://edition.cnn.com/travel/news
-  99. https://edition.cnn.com/travel/videos
- 100. https://edition.cnn.com/sport
- 101. https://edition.cnn.com/sport/football
- 102. https://edition.cnn.com/sport/tennis
- 103. https://edition.cnn.com/sport/golf
- 104. https://edition.cnn.com/sport/motorsport
- 105. https://edition.cnn.com/sport/us-sports
- 106. https://edition.cnn.com/sport/paris-olympics-2024
- 107. https://edition.cnn.com/sport/climbing
- 108. https://edition.cnn.com/sport/esports
- 109. https://bleacherreport.com/nhl
- 110. https://edition.cnn.com/videos
- 111. https://edition.cnn.com/live-tv
- 112. https://edition.cnn.com/specials/digital-studios
- 113. https://edition.cnn.com/specials/videos/digital-shorts
- 114. https://edition.cnn.com/specials/videos/hln
- 115. https://edition.cnn.com/tv/schedule/cnn
- 116. https://edition.cnn.com/specials/tv/all-shows
- 117. https://edition.cnn.com/vr
- 118. https://edition.cnn.com/specials
- 119. https://edition.cnn.com/interactive/asequals
- 120. https://edition.cnn.com/interactive/call-to-earth
- 121. https://edition.cnn.com/specials/world/freedom-project
- 122. https://edition.cnn.com/specials/impact-your-world
- 123. https://edition.cnn.com/specials/africa/inside-africa
- 124. https://edition.cnn.com/specials/opinions/two-degrees
- 125. https://edition.cnn.com/specials/cnn-heroes
- 126. https://edition.cnn.com/specials
- 127. https://edition.cnn.com/weather
- 128. https://edition.cnn.com/specials/world/cnn-climate
- 129. https://edition.cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker
- 130. https://edition.cnn.com/specials/weather/weather-video
- 131. https://edition.cnn.com/more
- 132. https://edition.cnn.com/specials/photos
- 133. https://edition.cnn.com/specials/cnn-longform
- 134. https://edition.cnn.com/specials/cnn-investigates
- 135. https://edition.cnn.com/specials/profiles
- 136. https://edition.cnn.com/specials/more/cnn-leadership
- 137. https://edition.cnn.com/email/subscription
- 138. https://careers.wbd.com/cnnjobs
- 139. file:///markets/fear-and-greed
- 140. https://www.cnn.com/profiles/brian-fung
- 141. https://www.cnn.com/profiles/brian-fung
- 142. https://twitter.com/ThierryBreton/status/1712866215591379259
- 143. https://www.cnn.com/markets/stocks/GOOGL
- 144. file:///account/settings
- 145. file:///account/my-news?iid=fw_var-nav
- 146. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
- 147. https://edition.cnn.com/live-tv
- 148. https://edition.cnn.com/audio
- 149. https://edition.cnn.com/world
- 150. https://edition.cnn.com/world/africa
- 151. https://edition.cnn.com/world/americas
- 152. https://edition.cnn.com/world/asia
- 153. https://edition.cnn.com/world/australia
- 154. https://edition.cnn.com/world/china
- 155. https://edition.cnn.com/world/europe
- 156. https://edition.cnn.com/world/india
- 157. https://edition.cnn.com/world/middle-east
- 158. https://edition.cnn.com/world/united-kingdom
- 159. https://edition.cnn.com/politics
- 160. https://edition.cnn.com/specials/politics/joe-biden-news
- 161. https://edition.cnn.com/specials/politics/fact-check-politics
- 162. https://edition.cnn.com/election/2024
- 163. https://edition.cnn.com/business
- 164. https://edition.cnn.com/markets
- 165. https://edition.cnn.com/business/tech
- 166. https://edition.cnn.com/business/media
- 167. https://edition.cnn.com/business/financial-calculators
- 168. https://edition.cnn.com/business/videos
- 169. https://edition.cnn.com/health
- 170. https://edition.cnn.com/interactive/life-but-better/
- 171. https://edition.cnn.com/specials/health/fitness-life-but-better
- 172. https://edition.cnn.com/specials/health/food-life-but-better
- 173. https://edition.cnn.com/specials/health/sleep-life-but-better
- 174. https://edition.cnn.com/specials/health/mindfulness-life-but-better
- 175. https://edition.cnn.com/specials/health/relationships-life-but-better
- 176. https://edition.cnn.com/entertainment
- 177. https://edition.cnn.com/entertainment/movies
- 178. https://edition.cnn.com/entertainment/tv-shows
- 179. https://edition.cnn.com/entertainment/celebrities
- 180. https://edition.cnn.com/business/tech
- 181. https://edition.cnn.com/specials/tech/innovate
- 182. https://edition.cnn.com/specials/tech/gadget
- 183. https://edition.cnn.com/specials/tech/foreseeable-future
- 184. https://edition.cnn.com/specials/tech/mission-ahead
- 185. https://edition.cnn.com/specials/tech/upstarts
- 186. https://edition.cnn.com/specials/tech/work-transformed
- 187. https://edition.cnn.com/specials/tech/innovative-cities
- 188. https://edition.cnn.com/style
- 189. https://edition.cnn.com/style/arts
- 190. https://edition.cnn.com/style/design
- 191. https://edition.cnn.com/style/fashion
- 192. https://edition.cnn.com/style/architecture
- 193. https://edition.cnn.com/style/luxury
- 194. https://edition.cnn.com/style/beauty
- 195. https://edition.cnn.com/style/videos
- 196. https://edition.cnn.com/travel
- 197. https://edition.cnn.com/travel/destinations
- 198. https://edition.cnn.com/travel/food-and-drink
- 199. https://edition.cnn.com/travel/stay
- 200. https://edition.cnn.com/travel/news
- 201. https://edition.cnn.com/travel/videos
- 202. https://edition.cnn.com/sport
- 203. https://edition.cnn.com/sport/football
- 204. https://edition.cnn.com/sport/tennis
- 205. https://edition.cnn.com/sport/golf
- 206. https://edition.cnn.com/sport/motorsport
- 207. https://edition.cnn.com/sport/us-sports
- 208. https://edition.cnn.com/sport/paris-olympics-2024
- 209. https://edition.cnn.com/sport/climbing
- 210. https://edition.cnn.com/sport/esports
- 211. https://bleacherreport.com/nhl
- 212. https://edition.cnn.com/videos
- 213. https://edition.cnn.com/live-tv
- 214. https://edition.cnn.com/specials/digital-studios
- 215. https://edition.cnn.com/specials/videos/digital-shorts
- 216. https://edition.cnn.com/specials/videos/hln
- 217. https://edition.cnn.com/tv/schedule/cnn
- 218. https://edition.cnn.com/specials/tv/all-shows
- 219. https://edition.cnn.com/vr
- 220. https://edition.cnn.com/specials
- 221. https://edition.cnn.com/interactive/asequals
- 222. https://edition.cnn.com/interactive/call-to-earth
- 223. https://edition.cnn.com/specials/world/freedom-project
- 224. https://edition.cnn.com/specials/impact-your-world
- 225. https://edition.cnn.com/specials/africa/inside-africa
- 226. https://edition.cnn.com/specials/opinions/two-degrees
- 227. https://edition.cnn.com/specials/cnn-heroes
- 228. https://edition.cnn.com/specials
- 229. https://edition.cnn.com/weather
- 230. https://edition.cnn.com/specials/world/cnn-climate
- 231. https://edition.cnn.com/interactive/2020/weather/wildfire-and-air-quality-tracker
- 232. https://edition.cnn.com/specials/weather/weather-video
- 233. https://edition.cnn.com/more
- 234. https://edition.cnn.com/specials/photos
- 235. https://edition.cnn.com/specials/cnn-longform
- 236. https://edition.cnn.com/specials/cnn-investigates
- 237. https://edition.cnn.com/specials/profiles
- 238. https://edition.cnn.com/specials/more/cnn-leadership
- 239. https://edition.cnn.com/email/subscription
- 240. https://careers.wbd.com/cnnjobs
- 241. https://edition.cnn.com/audio
- 242. https://edition.cnn.com/live-tv
- 243. file:///account/settings
- 244. file:///account/my-news?iid=fw_var-nav
- 245. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
- 246. https://edition.cnn.com/terms
- 247. https://edition.cnn.com/privacy
- 248. https://warnermediaprivacy.com/policycenter/b2c/WMNS
- 249. https://edition.cnn.com/accessibility
- 250. https://edition.cnn.com/about
- 251. https://edition.cnn.com/newsletters
- 252. https://edition.cnn.com/transcripts
-
-   Hidden links:
- 254. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html#maincontent
- 255. https://edition.cnn.com/
- 256. https://edition.cnn.com/business
- 257. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
- 258. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
- 259. https://facebook.com/cnnbusiness
- 260. https://twitter.com/cnnbusiness
- 261. https://instagram.com/cnnbusiness
- 262. file://localhost/business/markets/fear-and-greed/index.html
- 263. file://localhost/2023/11/22/tech/openai-altman-returns-hnk-intl/index.html
- 264. file://localhost/2023/11/22/tech/china-douyu-ceo-arrest-crackdown-intl-hnk/index.html
- 265. file://localhost/2023/11/21/investing/what-is-binance-and-why-is-it-in-trouble/index.html
- 266. mailto:?subject=CNN%20content%20share&body=Check%20out%20this%20article%3A%0Ahttps%3A%2F%2Fwww.cnn.com%2F2023%2F10%2F13%2Ftech%2Fgoogle-youtube-hamas-israel-disinformation
- 267. file://localhost/2023/11/21/tech/democrats-accuse-x-elon-musk-hamas-propaganda/index.html
- 268. file://localhost/2023/11/21/tech/paris-hilton-x-ads/index.html
- 269. file://localhost/videos/business/2023/11/22/spacex-us-government-nasa-fisher-dnt-ebof-vpx.cnn
- 270. file://localhost/videos/tech/2023/11/21/exp-tsr-todd-openai-ceo-altman-fired.cnn
- 271. file://localhost/videos/business/2023/11/21/elon-musk-brody-lawsuit-osullivan-pkg-ac-360-vpx.cnn
- 272. file://localhost/videos/tech/2023/11/20/lead-webb-openai-ceo-fired.cnn
- 273. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
- 274. https://edition.cnn.com/
- 275. https://edition.cnn.com/business
- 276. https://facebook.com/cnnbusiness
- 277. https://twitter.com/cnnbusiness
- 278. https://youtube.com/user/CNN
- 279. https://instagram.com/cnnbusiness
- 280. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html
- 281. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48718-3595TMP.html

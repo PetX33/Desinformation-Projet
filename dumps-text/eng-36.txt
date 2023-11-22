@@ -1,9 +1,14 @@
    %2CAustralian+media%2CAustralia+news%2CFreedom+of+speech%2CSocial+media
-   %2CDigital+media] [1]Skip to main content[2]Skip to navigation[3]Skip
-   to navigation
+   %2CDigital+media] Skip to main contentSkip to navigationSkip to
+   navigation
 
+   Print subscriptions
+   Sign in
+   Search jobs
+   Search
    Europe edition [ ]
 
+   The Guardian - Back to homeThe Guardian
 
    ShowMoreShow More
        google-search
@@ -25,20 +30,25 @@
    Communications minister Michelle Rowland wants Acma to have ‘new
    information-gathering and record-keeping powers’ to monitor digital
    platforms efforts to fight disinformation. Photograph: Lukas Coch/AAP
+   Australian politics
+   Explainer
 
 Why is Labor’s bill on combatting disinformation so controversial?
 
    Coalition is ringing alarm bells about legislation, despite it
    containing many Morrison-era proposals. But they’re not alone in their
    concerns
+       podcast
 
 
+   Amy Remeikis
+   @amyremeikis
    Sun 1 Oct 2023 01.00 CESTLast modified on Sun 1 Oct 2023 03.32 CEST
 
    It’s been designed to combat misinformation and disinformation on
-   digital platforms, but the [118]Combatting Misinformation and
-   Disinformation bill exposure draft has unleashed a flurry of
-   controversy, and its fair share of misinformation.
+   digital platforms, but the Combatting Misinformation and Disinformation
+   bill exposure draft has unleashed a flurry of controversy, and its fair
+   share of misinformation.
 
    So what are the facts around this legislation and will it end freedom
    of speech in Australia?
@@ -82,14 +92,16 @@ How did we get here?
    digital platforms on the supply of news and journalistic content and
    the implications of this for media content creators, advertisers and
    consumers”. In its final report in 2019, the ACCC recommended a
-   misleading and harmful news” including “appropriate responses” to
-   address disinformation and “mal-information”.
+   “digital platforms code to address the risk of deliberately misleading
+   and harmful news” including “appropriate responses” to address
+   disinformation and “mal-information”.
 
    A voluntary code of conduct was drawn up by some of the major platforms
-   in response and adopted by [120]Google, Facebook, Microsoft, Twitter,
+   in response and adopted by Google, Facebook, Microsoft, Twitter,
    TikTok, Redbubble, Apple and Adobe in 2021. Acma was given the job of
    keeping an eye on how the platforms upheld the code. That same year,
-   the rise of disinformation and misinformation online and recommended
+   the watchdog reported to the Morrison government its concerns over the
+   rise of disinformation and misinformation online and recommended
    beefing up the code.
    Indigenous voice – video
    00:02:19
@@ -97,37 +109,38 @@ How did we get here?
    Indigenous voice – video
 
    In March 2022, just before the federal election, the Morrison
-   government responded to Acma’s report [122]and promised to boost the
+   government responded to Acma’s report and promised to boost the
    regulator’s powers.
 
-   The Coalition went to the election vowing to give Acma “[123]new
-   regulatory powers to hold big tech companies to account for harmful
-   content on their platforms”. That included providing Acma with “reserve
-   powers to register and enforce industry codes or make industry
-   standards”.
+   The Coalition went to the election vowing to give Acma “new regulatory
+   powers to hold big tech companies to account for harmful content on
+   their platforms”. That included providing Acma with “reserve powers to
+   register and enforce industry codes or make industry standards”.
 
-   In June, after the election, Labor said it was[124] looking at digital
-   platforms. In January 2023, Rowland [125]announced plans to do much of
-   what the Coalition had planned in regards to beefing up [126]the
-   regulator’s powers.
-       email newsletters for your daily news roundup
+   In June, after the election, Labor said it was looking at digital
+   platforms. In January 2023, Rowland announced plans to do much of what
+   the Coalition had planned in regards to beefing up the regulator’s
+   powers.
+       newsletters for your daily news roundup
 
+   An exposure draft of the proposed legislation was released in June
    2023, which included many of the same elements the Coalition had taken
    to the election. By July, Sky News commentator Peta Credlin had
    declared it an “assault” on freedom of speech, which would establish a
    “ministry of truth”. Clare Chandler, a Liberal senator labelled it a
-   began to campaign against the legislation on the grounds it would
-   “cancel” freedom of speech.
+   “threat to democracy”. One Nation and other rightwing identities began
+   to campaign against the legislation on the grounds it would “cancel”
+   freedom of speech.
    Is Labor cooking up a ‘ministry of truth?’ No, it’s just an opposition
    scare campaign – with a side of hypocrisy | Paul Karp
    Read more
 
-   In August, the Australian Christian Lobby claimed the bill [130]would
-   lead to the cancellation of “Christian posts” and announced it would
+   In August, the Australian Christian Lobby claimed the bill would lead
+   to the cancellation of “Christian posts” and announced it would
    campaign against the legislation. Later that month, the shadow
    communications minister, David Coleman, said the bill should “be torn
-   up” and would [131]“suppress legitimate free speech in Australia”,
-   despite the Coalition once promising the same legislation.
+   up” and would “suppress legitimate free speech in Australia”, despite
+   the Coalition once promising the same legislation.
 
 Is it only conservatives?
 
@@ -153,6 +166,7 @@ Is it only conservatives?
    entertainment, parody or satire, is from a professional news
    organisation, is produced for an educational institution or has been
    approved by commonwealth or state governments.
+   skip past newsletter promotion
 
    Sign up to Afternoon Update
    Free daily newsletter
@@ -161,16 +175,16 @@ Is it only conservatives?
    telling you what’s happening and why it matters
    Privacy Notice: Newsletters may contain info about charities, online
    ads, and content funded by outside parties. For more information see
-   our [133]Privacy Policy. We use Google reCaptcha to protect our website
-   and the Google [134]Privacy Policy and [135]Terms of Service apply.
+   our Privacy Policy. We use Google reCaptcha to protect our website and
+   the Google Privacy Policy and Terms of Service apply.
 
    after newsletter promotion
 
    The Media, Entertainment and Arts Alliance also has concerns over the
    broadness of the definition of “serious harm”, with the exposure
-   draft’s [136]stating that for harm to be considered serious “it must
-   have severe and wide reaching impacts on Australians”. The union also
-   wants further clarity over who would be considered a “professional”
+   draft’s stating that for harm to be considered serious “it must have
+   severe and wide reaching impacts on Australians”. The union also wants
+   further clarity over who would be considered a “professional”
    journalist in terms of the exemptions, given that freelancers can work
    for themselves.
 
@@ -178,8 +192,8 @@ Is it only conservatives?
    “disinformation” will be.
 
    The University of Technology Sydney submitted to the inquiry that it
-   believed some of the concerns to be “overblown” [137]but accepted there
-   was legitimate concern about the enlarged role for Acma.
+   believed some of the concerns to be “overblown” but accepted there was
+   legitimate concern about the enlarged role for Acma.
 
    It proposed “limiting Acma’s information gathering powers to ‘measures
    implemented to prevent or respond’ to mis- and disinformation … thereby
@@ -213,17 +227,17 @@ Is it the end of the world?
 
    Angela Flannery, the deputy chair of the Law Council’s media and
    communications law committee, said many critics of the bill failed to
-   distinguish between [138]“freedom of speech and the right to have
-   voices amplified by platforms”.
+   distinguish between “freedom of speech and the right to have voices
+   amplified by platforms”.
 
-   The Coalition’s 2022 [139]election platform included a promise to
-   create “stronger laws to combat harmful disinformation and
-   misinformation online by giving the media regulator stronger
-   information-gathering and enforcement powers”. It now calls the
-   legislation seeking to do that an “absolute disgrace”.
+   The Coalition’s 2022 election platform included a promise to create
+   “stronger laws to combat harmful disinformation and misinformation
+   online by giving the media regulator stronger information-gathering and
+   enforcement powers”. It now calls the legislation seeking to do that an
+   “absolute disgrace”.
 
-   Coleman told Sky News [140]the existing Online Safety Act could be used
-   in some instances, but that only deals with bullying and harassment
+   Coleman told Sky News the existing Online Safety Act could be used in
+   some instances, but that only deals with bullying and harassment
    online, not misinformation.
 
 What is next?
@@ -233,8 +247,8 @@ What is next?
 
    With the Coalition voting no, the government will need to negotiate
    with the Greens and crossbench in the Senate to have the bill passed.
-   The Greens senator Sarah Hanson-Young has said [141]she wants to see an
-   even stronger bill that would include news organisations. Lower house
+   The Greens senator Sarah Hanson-Young has said she wants to see an even
+   stronger bill that would include news organisations. Lower house
    independent MPs Zali Steggall and Zoe Daniel have also questioned the
    blanket exemption.
 
@@ -244,6 +258,7 @@ What is next?
    Explore more on these topics
 
 
+   Reuse this content
 
 Most viewed
 
@@ -253,211 +268,9 @@ Most viewed
 
    Original reporting and incisive analysis, direct from the Guardian
    every morning
+   Sign up for our email
 
 
 
+   Back to top
    rights reserved. (dcr)
-
-References
-
-   Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#navigation
-   4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
-   5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
-   6. https://jobs.theguardian.com/
-   7. https://www.google.co.uk/advanced_search?q=site:www.theguardian.com
-   8. file:///preference/edition/eur
-   9. file:///preference/edition/uk
-  10. file:///preference/edition/us
-  11. file:///preference/edition/au
-  12. file:///preference/edition/int
-  13. file:///
-  14. file:///
-  15. file:///commentisfree
-  16. file:///sport
-  17. file:///culture
-  18. file:///lifeandstyle
-  19. file:///
-  20. file:///world
-  21. file:///uk-news
-  22. file:///environment/climate-crisis
-  23. file:///world/ukraine
-  24. file:///environment
-  25. file:///science
-  26. file:///global-development
-  27. file:///football
-  28. file:///technology
-  29. file:///business
-  30. file:///obituaries
-  31. file:///commentisfree
-  32. file:///profile/editorial
-  33. file:///index/contributors
-  34. file:///tone/cartoons
-  35. file:///type/video+tone/comment
-  36. file:///tone/letters
-  37. file:///sport
-  38. file:///football
-  39. file:///sport/cricket
-  40. file:///sport/rugby-union
-  41. file:///sport/tennis
-  42. file:///sport/cycling
-  43. file:///sport/formulaone
-  44. file:///sport/golf
-  45. file:///sport/us-sport
-  46. file:///culture
-  47. file:///books
-  48. file:///music
-  49. file:///tv-and-radio
-  50. file:///artanddesign
-  51. file:///film
-  52. file:///games
-  53. file:///music/classicalmusicandopera
-  54. file:///stage
-  55. file:///lifeandstyle
-  56. file:///fashion
-  57. file:///food
-  58. file:///tone/recipes
-  59. file:///lifeandstyle/love-and-sex
-  60. file:///lifeandstyle/health-and-wellbeing
-  61. file:///lifeandstyle/home-and-garden
-  62. file:///lifeandstyle/women
-  63. file:///lifeandstyle/men
-  64. file:///lifeandstyle/family
-  65. file:///travel
-  66. file:///money
-  67. https://support.theguardian.com/?INTCMP=side_menu_support&acquisitionData={"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_HEADER","componentId":"side_menu_support"}
-  68. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
-  69. file:///preference/edition/uk
-  70. file:///preference/edition/us
-  71. file:///preference/edition/au
-  72. file:///preference/edition/int
-  73. https://jobs.theguardian.com/
-  74. https://holidays.theguardian.com/?INTCMP=holidays_int_web_newheader
-  75. https://theguardian.newspapers.com/
-  76. https://puzzles.theguardian.com/download
-  77. https://licensing.theguardian.com/
-  78. https://app.adjust.com/16xt6hai
-  79. file:///video
-  80. file:///podcasts
-  81. file:///inpictures
-  82. file:///email-newsletters
-  83. file:///theguardian
-  84. https://www.theguardian.com/membership
-  85. file:///observer
-  86. https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_Int
-  87. file:///crosswords
-  88. https://www.wordiply.com/
-  89. file:///theguardian/series/corrections-and-clarifications
-  90. https://www.facebook.com/theguardian
-  91. https://twitter.com/guardian
-  92. https://jobs.theguardian.com/
-  93. https://holidays.theguardian.com/?INTCMP=holidays_int_web_newheader
-  94. https://theguardian.newspapers.com/
-  95. https://puzzles.theguardian.com/download
-  96. https://licensing.theguardian.com/
-  97. file:///australia-news
-  98. file:///world
-  99. file:///australia-news/australian-politics
- 100. file:///environment
- 101. file:///environment/climate-crisis
- 102. file:///australia-news/indigenous-australians
- 103. file:///australia-news/australian-immigration-and-asylum
- 104. file:///media
- 105. file:///business
- 106. file:///science
- 107. file:///technology
- 108. file:///australia-podcasts
- 109. file:///email-newsletters
- 110. https://www.theguardian.com/australia-news/australian-politics
- 111. file:///tone/explainers
- 112. https://www.theguardian.com/australia-news/live/2023/oct/01/australia-news-live-afl-politics-labor-weather-fire-danger-childcare-house-prices-greens-victoria-nsw-queensland-coalition
- 113. https://www.theguardian.com/email-newsletters?CMP=cvau_sfl
- 114. https://app.adjust.com/w4u7jx3
- 115. https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl
- 116. file://www.theguardian.com/profile/amy-remeikis
- 117. https://www.twitter.com/amyremeikis
- 118. https://www.infrastructure.gov.au/sites/default/files/documents/communications-legislation-amendment-combatting-misinformation-and-disinformation-bill2023-june2023.pdf
- 119. https://www.accc.gov.au/about-us/publications/digital-platforms-inquiry-executive-summary
- 120. https://www.theguardian.com/technology/google
- 121. https://www.acma.gov.au/report-government-adequacy-digital-platforms-disinformation-and-news-quality-measures
- 122. https://www.theguardian.com/media/2022/mar/21/digital-code-of-conduct-fails-to-stop-all-harms-of-misinformation-acma-warns
- 123. https://www.paulfletcher.com.au/media-releases/new-disinformation-laws
- 124. https://www.smh.com.au/technology/data-next-battle-for-facebook-other-social-media-giants-20220617-p5auo1.html
- 125. https://minister.infrastructure.gov.au/rowland/media-release/new-acma-powers-combat-harmful-online-misinformation-and-disinformation
- 126. https://www.theguardian.com/australia-news/2023/jan/09/whatsapp-and-other-messaging-services-left-out-of-new-australian-misinformation-code-regulator-says
- 127. https://www.theguardian.com/email-newsletters?CMP=copyembed
- 128. https://minister.infrastructure.gov.au/rowland/media-release/consultation-opens-new-laws-tackle-online-misinformation-and-disinformation
- 129. https://www.spectator.com.au/2023/06/labors-censorship-bill-a-threat-to-democracy/
- 130. https://www.theguardian.com/australia-news/2023/aug/05/australian-christian-lobby-social-posts-labor-misinformation-campaign
- 131. https://www.liberal.org.au/latest-news/2023/08/01/labors-shocker-misinformation-bill-should-be-torn
- 132. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#EmailSignup-skip-link-25
- 133. https://www.theguardian.com/help/privacy-policy
- 134. https://policies.google.com/privacy
- 135. https://policies.google.com/terms
- 136. https://www.infrastructure.gov.au/sites/default/files/documents/communications-legislation-amendment-combatting-misinformation-and-disinformation-bill-2023-guidance-note-june2023_2.pdf
- 137. https://www.theguardian.com/australia-news/2023/sep/19/anthony-albanese-disinformation-crackdown-liberal-coalition-opposed
- 138. https://www.theguardian.com/australia-news/2023/sep/19/anthony-albanese-disinformation-crackdown-liberal-coalition-opposed
- 139. https://www.liberal.org.au/our-plan-protecting-australians-online
- 140. https://www.davidcoleman.com.au/transcripts/shadow-minister-for-communications-transcript-sky-news-with-tom-connell-misinformation-bill-mike-pezzullo/
- 141. https://www.theguardian.com/media/2023/sep/21/labor-urged-to-include-news-outlets-in-social-media-crackdown-to-curb-dangerous-misinformation#:~:text=The draft bill would allow,or contribute to serious harm”.
- 142. file:///australia-news/australian-politics
- 143. file:///media/australia-media
- 144. file:///world/freedom-of-speech
- 145. file:///media/social-media
- 146. file:///media/digital-media
- 147. file:///tone/explainers
- 148. https://syndication.theguardian.com/automation/?url=https://www.theguardian.com/australia-news/2023/oct/01/why-is-labors-bill-on-combatting-disinformation-so-controversial&type=article&internalpagecode=australia-news/2023/oct/01/why-is-labors-bill-on-combatting-disinformation-so-controversial
- 149. file:///australia-news
- 150. file:///world
- 151. file:///australia-news/australian-politics
- 152. file:///environment
- 153. file:///environment/climate-crisis
- 154. file:///australia-news/indigenous-australians
- 155. file:///australia-news/australian-immigration-and-asylum
- 156. file:///media
- 157. file:///business
- 158. file:///science
- 159. file:///technology
- 160. file:///australia-podcasts
- 161. file:///email-newsletters
- 162. file:///
- 163. file:///commentisfree
- 164. file:///sport
- 165. file:///culture
- 166. file:///lifeandstyle
- 167. https://www.theguardian.com/global/2022/sep/20/sign-up-for-the-first-edition-newsletter-our-free-news-email
- 168. file:///help
- 169. file:///info/complaints-and-corrections
- 170. https://www.theguardian.com/securedrop
- 171. https://workforus.theguardian.com/
- 172. file:///info/privacy
- 173. file:///info/cookies
- 174. file:///help/terms-of-service
- 175. file:///help/contact-us
- 176. file:///index/subjects/a
- 177. file:///index/contributors
- 178. https://theguardian.newspapers.com/
- 179. https://www.facebook.com/theguardian
- 180. https://www.youtube.com/user/TheGuardian
- 181. https://www.instagram.com/guardian
- 182. https://www.linkedin.com/company/theguardian
- 183. https://twitter.com/guardian
- 184. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
- 185. https://advertising.theguardian.com/
- 186. https://jobs.theguardian.com/
- 187. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#top
-
-   Hidden links:
- 189. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_fb
- 190. https://twitter.com/intent/tweet?text=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_tw
- 191. mailto:?subject=Why%20is%20Labor%E2%80%99s%20bill%20on%20combatting%20disinformation%20so%20controversial%3F&body=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_link
- 192. https://www.theguardian.com/australia-news/2023/sep/03/trumpian-era-of-disinformation-makes-voice-yes-campaign-job-more-difficult-megan-davis-says
- 193. https://www.theguardian.com/australia-news/2023/jul/18/labor-social-media-regulation-laws-free-speech-coalition
- 194. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_fb
- 195. https://twitter.com/intent/tweet?text=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_tw
- 196. mailto:?subject=Why%20is%20Labor%E2%80%99s%20bill%20on%20combatting%20disinformation%20so%20controversial%3F&body=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_link
- 197. http://www.linkedin.com/shareArticle?=title=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F&mini=true&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3F
- 198. whatsapp://send/?text=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F+https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_wa
- 199. fb-messenger://share/?link=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_me&app_id=180444840287

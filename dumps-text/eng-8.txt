@@ -1,10 +1,17 @@
 
+   BBC Homepage
 
 
 
+   More menu
+   Search BBC
 
+   Close menu
+   BBC News
 
+   Menu
 
+   More
 
 
 EU gives Meta and TikTok formal Hamas disinformation deadline
@@ -12,6 +19,7 @@ EU gives Meta and TikTok formal Hamas disinformation deadline
        19 October
 
    Share page
+   About sharing
    Young woman holding phone standing near EU flag Image source, Getty
    Images
    By Tom Gerken
@@ -80,10 +88,11 @@ Double deadlines
    Commission how it is protecting minors online by the November deadline.
 
    When the social media firms were previously asked to provide more
-   information, [52]Mr Breton said Meta must prove it had taken "timely,
+   information, Mr Breton said Meta must prove it had taken "timely,
    diligent and objective action".
 
-   children & teenagers from violent content and terrorist propaganda".
+   He later said TikTok "has a particular obligation to protect children &
+   teenagers from violent content and terrorist propaganda".
 
 Related Topics
 
@@ -98,7 +107,7 @@ More on this story
 Top Stories
 
        Israel and Hamas agree to pause fighting for release of 50 hostages
-            13 minutes ago
+            48 minutes ago
             9 hours ago
 
 Features
@@ -106,7 +115,7 @@ Features
        Yahya Sinwar in 2021
        VideoBBC assesses footage of tunnel and hostages released by Israel
        Caroline Hawley stands in front of a screen with CCTV video
-       any closer to solving JFK's assassination?
+       closer to solving JFK's assassination?
        US President John F Kennedy and First Lady Jacqueline Kennedy
        Arati Kumar-Rao
        Rohit Sharma of India cuts a dejected figures following the ICC
@@ -127,135 +136,29 @@ Elsewhere on the BBC
 Most Read
 
     1. 1
+       Sam Altman to return as OpenAI boss
     2. 2
+       ‘How I got dangerous chat site Omegle closed down’
     3. 3
+       China accused of closing and destroying mosques
     4. 4
+       King Charles deploys K-pop at state banquet
     5. 5
+       Canada QAnon 'queen' leaves village, but hasn't gone far
     6. 6
+       Top Gear format needs a rethink, says James May
     7. 7
+       Why Trump’s rivals in Iowa still think they can win
     8. 8
+       Binance CEO pleads guilty to money laundering charges
     9. 9
+       Dutch vote for new leaders in neck-and-neck race
    10. 10
+       'I feel like I’m in a nightmare' says mum of teen
 
 BBC News Services
 
 
 
 
-   sites. [113]Read about our approach to external linking.
-
-References
-
-   1. https://www.bbc.co.uk/news/technology-67157733
-   2. https://www.bbc.com/news/technology-67157733
-   3. https://www.bbc.com/
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#main-heading
-   5. https://www.bbc.co.uk/accessibility/
-   6. https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/news/technology-67157733
-   7. https://www.bbc.com/
-   8. https://www.bbc.com/news
-   9. https://www.bbc.com/sport
-  10. https://www.bbc.com/future/earth
-  11. https://www.bbc.com/reel
-  12. https://www.bbc.com/worklife
-  13. https://www.bbc.com/travel
-  14. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#chameleon-global-navigation-more-menu
-  15. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#chameleon-global-navigation-more-menu
-  16. https://www.bbc.co.uk/search?d=NEWS_GNL
-  17. https://www.bbc.com/
-  18. https://www.bbc.com/news
-  19. https://www.bbc.com/sport
-  20. https://www.bbc.com/future/earth
-  21. https://www.bbc.com/reel
-  22. https://www.bbc.com/worklife
-  23. https://www.bbc.com/travel
-  24. https://www.bbc.com/culture
-  25. https://www.bbc.com/future
-  26. https://www.bbc.com/culture/music
-  27. https://www.bbc.co.uk/schedules/p00fzl9m
-  28. https://www.bbc.com/weather
-  29. https://www.bbc.co.uk/sounds
-  30. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#more-menu-button
-  31. file:///news
-  32. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#product-navigation-menu
-  33. file:///news
-  34. file:///news/topics/c2vdnvdg6xxt
-  35. file:///news/world-60525350
-  36. file:///news/topics/cmj34zmwm1zt
-  37. file:///news/av/10462520
-  38. file:///news/world
-  39. file:///news/uk
-  40. file:///news/business
-  41. file:///news/technology
-  42. file:///news/science_and_environment
-  43. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48817-8238TMP.html#product-navigation-more-menu
-  44. file:///news/entertainment_and_arts
-  45. file:///news/health
-  46. file:///news/world_radio_and_tv
-  47. file:///news/in_pictures
-  48. file:///news/reality_check
-  49. file:///news/newsbeat
-  50. file:///news/technology
-  51. https://www.bbc.co.uk/usingthebbc/terms/can-i-share-things-from-the-bbc
-  52. https://www.bbc.co.uk/news/technology-67073956
-  53. https://www.bbc.co.uk/news/technology-67066871
-  54. file:///news/topics/c207p54m4pdt
-  55. file:///news/topics/c255806071xt
-  56. file:///news/topics/cm1rm9z259kt
-  57. file:///news/topics/cmj34zmwx51t
-  58. file:///news/topics/cwlw3xz0ljmt
-  59. file:///news/technology-67066871
-  60. file:///news/technology-67073956
-  61. file:///news/live/world-middle-east-67481139
-  62. file:///news/business-67494165
-  63. file:///news/world-asia-china-67483202
-  64. file:///news/world-middle-east-67473719
-  65. file:///news/world-middle-east-67478425
-  66. file:///news/world-us-canada-67493398
-  67. file:///news/world-asia-india-67469222
-  68. file:///news/world-asia-india-67482722
-  69. file:///news/business-67493289
-  70. file:///news/world-us-canada-67446806
-  71. https://www.bbc.com/worklife/article/20231116-do-travellers-still-want-to-fly-budget-airlines?utm_source=bbc-news&utm_medium=right-hand-slot
-  72. file:///news/technology-67481548
-  73. https://www.bbc.com/culture/article/20231109-riders-to-tackle-the-raunchy-books-britain-loves
-  74. https://www.bbc.com/future/article/20231110-doctor-who-is-time-travel-really-possible-heres-what-physics-says
-  75. https://www.bbc.com/travel/article/20231112-maryland-fried-chicken-a-storied-dish-with-titanic-history
-  76. file:///news/business-67494165
-  77. file:///news/technology-67485561
-  78. file:///news/world-asia-china-67483202
-  79. file:///news/world-us-canada-67446806
-  80. file:///news/world-europe-67487777
-  81. file:///news/entertainment-arts-67494368
-  82. file:///news/uk-67492559
-  83. file:///news/technology-67492753
-  84. file:///news/world-us-canada-67477560
-  85. file:///news/world-us-canada-67489861
-  86. https://www.bbc.co.uk/news/10628994
-  87. https://www.bbc.co.uk/news/help-50068132
-  88. https://www.bbc.co.uk/news/10628323
-  89. https://www.bbc.co.uk/news/20039682
-  90. https://www.bbc.com/
-  91. https://www.bbc.com/news
-  92. https://www.bbc.com/sport
-  93. https://www.bbc.com/future/earth
-  94. https://www.bbc.com/reel
-  95. https://www.bbc.com/worklife
-  96. https://www.bbc.com/travel
-  97. https://www.bbc.com/culture
-  98. https://www.bbc.com/future
-  99. https://www.bbc.com/culture/music
- 100. https://www.bbc.co.uk/schedules/p00fzl9m
- 101. https://www.bbc.com/weather
- 102. https://www.bbc.co.uk/sounds
- 103. https://www.bbc.co.uk/usingthebbc/terms
- 104. https://www.bbc.co.uk/aboutthebbc
- 105. https://www.bbc.com/usingthebbc/privacy
- 106. https://www.bbc.com/usingthebbc/cookies
- 107. https://www.bbc.co.uk/accessibility
- 108. https://www.bbc.co.uk/iplayer/guidance
- 109. https://www.bbc.co.uk/contact
- 110. https://www.bbc.co.uk/bbcnewsletter
- 111. https://www.bbc.co.uk/news/help-41670342
- 112. https://www.bbcglobalnews.com/home/
- 113. https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links
+   sites. Read about our approach to external linking.

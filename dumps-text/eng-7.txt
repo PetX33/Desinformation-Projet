@@ -1,8 +1,9 @@
 
-   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-MJWQ5L2
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MJWQ5L2
 
 Skip links
 
+   Skip to Content
 
 Live
 
@@ -16,6 +17,7 @@ Live
 
 
    PodcastPodcast, The Take
+   News|Israel-Palestine conflict
 
 The Take: Censorship and disinformation – the online war on Gaza
 
@@ -29,7 +31,8 @@ The Take: Censorship and disinformation – the online war on Gaza
    Published On 23 Oct 202323 Oct 2023
 
    IFRAME:
-   line-war-on-ga/embed
+   https://omny.fm/shows/the-take/censorship-and-disinformation-the-online
+   -war-on-ga/embed
 
    Social media have been one of the few available ways for Palestinians
    to tell their stories under the Israeli occupation and blockade. But
@@ -46,19 +49,19 @@ Keep reading
 
    list 1 of 4
 
-[39]The Take: The backlash to supporting Palestine
+The Take: The backlash to supporting Palestine
 
    list 2 of 4
 
-[40]The Take: Will the Gaza hospital attack be a turning point for the world?
+The Take: Will the Gaza hospital attack be a turning point for the world?
 
    list 3 of 4
 
-[41]The Take: When it comes to Gaza, when is it called a war crime?
+The Take: When it comes to Gaza, when is it called a war crime?
 
    list 4 of 4
 
-[42]The Take: The other blockade – As Gaza escalates, so does the West Bank
+The Take: The other blockade – As Gaza escalates, so does the West Bank
 
    end of list
 
@@ -66,7 +69,7 @@ Keep reading
        East studies at Hamad bin Khalifa University
 
    You can watch Al Jazeera’s investigative report on the hospital blast
-   in Gaza [45]here.
+   in Gaza here.
 
    Episode credits:
 
@@ -82,106 +85,10 @@ Keep reading
 
    Connect with us:
 
-   @AJEPodcasts on
+   @AJEPodcasts on Twitter, Instagram, Facebook, Threads and YouTube
    Source: Al Jazeera
 
 
    Follow Al Jazeera English:
 
    Al Jazeera Media Network logo
-
-References
-
-   Visible links:
-   1. https://www.aljazeera.com/xml/rss/all.xml
-   2. https://www.googletagmanager.com/ns.html?id=GTM-MJWQ5L2
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48786-4573TMP.html#main-content-area
-   4. file:///news/
-   5. file:///middle-east/
-   6. file:///africa/
-   7. file:///asia/
-   8. file:///us-canada/
-   9. file:///latin-america/
-  10. file:///europe/
-  11. file:///asia-pacific/
-  12. file:///tag/israel-palestine-conflict/
-  13. file:///features/
-  14. file:///economy/
-  15. file:///opinion/
-  16. file:///videos/
-  17. file:///tag/ukraine-russia-crisis/
-  18. https://www.aljazeera.com/tag/coronavirus-pandemic/
-  19. https://www.aljazeera.com/climate-crisis
-  20. file:///investigations/
-  21. file:///interactives/
-  22. file:///gallery/
-  23. file:///tag/science-and-technology/
-  24. file:///sports/
-  25. file:///audio/podcasts
-  26. file:///tag/israel-palestine-conflict/
-  27. file:///news/liveblog/2023/11/22/israel-hamas-war-live-israeli-government-to-vote-on-gaza-truce-deal
-  28. file:///news/longform/2023/11/20/palestine-symbols-keffiyeh-olive-branch-watermelon
-  29. file:///features/2023/11/20/why-does-israel-target-palestinian-hospitals-psyops-say-analysts
-  30. file:///gallery/2023/11/20/photos-dozens-of-premature-babies-evacuated-from-gaza-to-egypt
-  31. file:///news/2023/11/20/what-israels-video-of-hamas-tunnel-under-al-shifa-tells-us
-  32. file:///news/longform/2023/11/13/if-gaza-was-in-your-city-how-much-would-be-destroyed
-  33. file:///news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide
-  34. file:///news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker
-  35. file:///news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction
-  36. file:///news/
-  37. file:///tag/israel-palestine-conflict/
-  38. https://omny.fm/shows/the-take/censorship-and-disinformation-the-online-war-on-ga/embed
-  39. file:///podcasts/2023/10/20/the-backlash-to-supporting-palestine?traffic_source=KeepReading
-  40. file:///podcasts/2023/10/19/the-take-will-the-gaza-hospital-attack-be-a-turning-point-for-the-world?traffic_source=KeepReading
-  41. file:///podcasts/2023/10/18/the-take-when-it-comes-to-gaza-when-is-it-a-war-crime?traffic_source=KeepReading
-  42. file:///podcasts/2023/10/17/the-take-the-other-blockade-as-gaza-escalates-so-does-the-west-bank?traffic_source=KeepReading
-  43. https://twitter.com/marwasf
-  44. https://twitter.com/marcowenjones
-  45. https://www.youtube.com/watch?v=yyNLvL_8SeY
-  46. https://twitter.com/AJEPodcasts
-  47. https://www.instagram.com/ajepodcasts/
-  48. https://www.facebook.com/AJEPodcasts
-  49. https://www.threads.net/@ajepodcasts
-  50. https://www.youtube.com/playlist?list=PLzGHKb8i9vTwjZkiFu6LhzsLUKFkYO60I
-  51. https://www.aljazeera.com/about-us
-  52. file:///code-of-ethics/
-  53. file:///terms-and-conditions/
-  54. file:///eu-eea-regulatory/
-  55. https://privacy.aljazeera.net/
-  56. https://privacy.aljazeera.net/cookie/
-  57. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48786-4573TMP.html#cookiesPreferences
-  58. https://www.aljazeera.com/sitemap
-  59. file:///community-rules-guidelines/
-  60. https://careers.aljazeera.net/
-  61. https://www.aljazeera.com/wp-content/uploads/2020/09/AJMN-Quality-Policy.pdf
-  62. https://network.aljazeera.net/contact-us
-  63. https://commercial.aljazeera.net/
-  64. https://webapps.aljazeera.net/aje/connect/
-  65. file:///newsletters
-  66. https://sat.aljazeera.net/en
-  67. file:///schedule/
-  68. file:///podcasts/
-  69. https://webapps.aljazeera.net/aje/tips/
-  70. http://aljazeera.net/
-  71. https://www.aljazeera.com/
-  72. https://www.ajiunit.com/
-  73. https://www.aljazeeramubasher.net/
-  74. http://doc.aljazeera.net/
-  75. http://balkans.aljazeera.net/
-  76. http://ajplus.net/
-  77. http://studies.aljazeera.net/en/
-  78. http://training.aljazeera.net/
-  79. http://learning.aljazeera.net/
-  80. http://liberties.aljazeera.com/en
-  81. http://forum.aljazeera.net/
-  82. https://hotels.aljazeera.net/en
-
-   Hidden links:
-  84. file://localhost/
-  85. file://localhost/live
-  86. file://localhost/live
-  87. https://www.facebook.com/aljazeera
-  88. https://twitter.com/ajenglish
-  89. https://www.youtube.com/aljazeeraenglish
-  90. https://www.instagram.com/aljazeeraenglish/?hl=en
-  91. file://localhost/xml/rss/all.xml

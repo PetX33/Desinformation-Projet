@@ -1,4 +1,4 @@
-   with the new laws. Photograph: Michel Euler/AP
+   Elon Musk
    This article is more than 1 month old
 
 EU warns Elon Musk over ‘disinformation’ on X about Hamas attack
@@ -8,7 +8,7 @@ EU warns Elon Musk over ‘disinformation’ on X about Hamas attack
 --
    Wed 11 Oct 2023 00.14 CESTFirst published on Tue 10 Oct 2023 21.33 CEST
 
-   The EU has issued a warning to [110]Elon Musk over the alleged
+   The EU has issued a warning to Elon Musk over the alleged
    disinformation about the Hamas attack on Israel, including fake news
    and “repurposed old images”, on X, which was formerly known as Twitter.
 
@@ -20,14 +20,15 @@ EU warns Elon Musk over ‘disinformation’ on X about Hamas attack
    and civic discourse stemming from disinformation”.
 
    IFRAME:
-   sions-letter-to-elon-musk/?embed=1
+   https://embed.documentcloud.org/documents/24025072-european-commissions
+--
 
-
-   “Following the terrorist attacks carried out by Hamas against
-   disseminate illegal content and disinformation in the EU,” wrote
-   Breton.
+   “Following the terrorist attacks carried out by Hamas against Israel,
+   we have indications your platform is being used to disseminate illegal
+   content and disinformation in the EU,” wrote Breton.
 
    “Public media and civil society organisations widely report instances
+   of fake and manipulated images and facts circulating on your platform
 --
    Musk quit a voluntary code of practice set up by the EU earlier this
    year to enable social media companies to put in place systems to comply
@@ -44,40 +45,3 @@ EU warns Elon Musk over ‘disinformation’ on X about Hamas attack
    as hate speech within the required time.
 
    Breton asked Musk to “urgently ensure that your systems are effective”
---
- 112. https://embed.documentcloud.org/documents/24025072-european-commissions-letter-to-elon-musk/?embed=1
- 113. https://assets.documentcloud.org/documents/24025072/european-commissions-letter-to-elon-musk.pdf
- 114. https://www.theguardian.com/world/israel
- 115. https://www.theguardian.com/technology/2023/oct/09/x-twitter-elon-musk-disinformation-israel-hamas
- 116. file:///technology/elon-musk
- 117. file:///world/israel
- 118. file:///world/hamas
---
- 121. file:///world/palestinian-territories
- 122. file:///technology/twitter
- 123. file:///tone/news
- 124. https://syndication.theguardian.com/automation/?url=https://www.theguardian.com/technology/2023/oct/10/eu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x&type=article&internalpagecode=technology/2023/oct/10/eu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x
- 125. file:///world
- 126. file:///world/europe-news
- 127. file:///us-news
---
- 160. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49503-2395TMP.html#top
-
-   Hidden links:
- 162. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_fb
- 163. https://twitter.com/intent/tweet?text=EU+warns+Elon+Musk+over+%E2%80%98disinformation%E2%80%99+on+X+about+Hamas+attack&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_tw
- 164. mailto:?subject=EU%20warns%20Elon%20Musk%20over%20%E2%80%98disinformation%E2%80%99%20on%20X%20about%20Hamas%20attack&body=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_link
- 165. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_fb
- 166. https://twitter.com/intent/tweet?text=EU+warns+Elon+Musk+over+%E2%80%98disinformation%E2%80%99+on+X+about+Hamas+attack&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_tw
- 167. mailto:?subject=EU%20warns%20Elon%20Musk%20over%20%E2%80%98disinformation%E2%80%99%20on%20X%20about%20Hamas%20attack&body=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_link
- 168. http://www.linkedin.com/shareArticle?=title=EU+warns+Elon+Musk+over+%E2%80%98disinformation%E2%80%99+on+X+about+Hamas+attack&mini=true&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3F
- 169. whatsapp://send/?text=EU+warns+Elon+Musk+over+%E2%80%98disinformation%E2%80%99+on+X+about+Hamas+attack+https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_wa
- 170. fb-messenger://share/?link=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2023%2Foct%2F10%2Feu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x%3FCMP%3Dshare_btn_me&app_id=180444840287
- 171. https://www.theguardian.com/technology/2023/nov/18/elon-musk-to-file-thermonuclear-lawsuit-as-advertisers-desert-x
- 172. https://www.theguardian.com/technology/2023/nov/05/elon-musk-unveils-grok-an-ai-chatbot-with-a-rebellious-streak
- 173. https://www.theguardian.com/technology/2023/nov/01/elon-musk-calls-ai-one-of-the-biggest-threats-to-humanity-at-summit
- 174. https://www.theguardian.com/technology/2023/oct/27/backlash-after-elon-musk-labels-scottish-first-minister-humza-yousaf-racist
- 175. https://www.theguardian.com/technology/2023/sep/28/elon-musk-ditches-x-twitter-election-integrity-team-key-votes-disinformation
- 176. https://www.theguardian.com/technology/2023/sep/18/elon-musk-accuses-george-soros-foundation-of-wanting-to-destroy-western-civilisation
- 177. https://www.theguardian.com/technology/2023/sep/12/elon-musk-biography-eight-things-learned
- 178. https://www.theguardian.com/books/2023/sep/11/rudy-giuliani-mob-scene-elon-musk-walter-isaacson-book

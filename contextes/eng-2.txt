@@ -1,10 +1,10 @@
-               o [87]2022 Activities Report
-               o [88]2021 Activities Report
+               o 2022 Activities Report
+               o 2021 Activities Report
 
 Disinformation and Hate Speech on Social Media Contribute to Inciting War
 Crimes Against Gaza
 
-   Oct 13, 2023 [91]Tamara Kharroub
+   Oct 13, 2023 Tamara Kharroub
 --
    emotions. As the fog of war and polarization make it difficult to
    verify information and find credible or reliable sources, social media
@@ -33,7 +33,7 @@ Unprecedented Scale and Speed of Disinformation
    disinformation, especially on X (formerly Twitter), has never been seen
    before and is spreading at accelerated speed due to its graphic and
    emotional nature, which in turn widens its reach. According to some
-   conversations online are fake and mostly operating on X and TikTok.
+   analysts, 20 percent of the accounts participating in these
 --
    especially after waves of layoffs at many tech companies like X and
    Meta, which impacted content and safety teams.
@@ -42,13 +42,12 @@ Unprecedented Scale and Speed of Disinformation
    impactful as it has been the primary platform for political content,
    where users go first to find information on breaking news and
    developing events. However, after being acquired by Elon Musk, X has
-   become the platform with the [93]largest amount of disinformation and
-   hate speech. Musk, who reposts far-right antisemitic accounts and
-   verifiably false content, has eliminated teams that deal with
-   disinformation and human rights and safety at the company, and
-   instituted platform changes that made it easier for false information
-   to spread. For example, the introduction of the $8 per month premium
-   subscription in exchange for the “verified” account with the blue
+   become the platform with the largest amount of disinformation and hate
+   speech. Musk, who reposts far-right antisemitic accounts and verifiably
+   false content, has eliminated teams that deal with disinformation and
+   human rights and safety at the company, and instituted platform changes
+   that made it easier for false information to spread. For example, the
+   introduction of the $8 per month premium subscription in exchange for
 --
    external links, reportedly for aesthetic reasons, could be further
    exacerbating the problem as articles are only represented by images
@@ -63,35 +62,5 @@ Hate Speech and the Silencing of Palestinian Narratives
 
    In addition to disinformation, hateful and violent content and cyber
    harassment have been rampant on social media platforms. Some
-   organizations have [96]identified thousands of cases of hate speech
+   organizations have identified thousands of cases of hate speech
    including antisemitism, islamophobia, and anti-Palestinian racism,
---
-   Visible links:
-   1. https://arabcenterdc.org/feed/
-   2. https://arabcenterdc.org/comments/feed/
-   3. https://arabcenterdc.org/wp-json/oembed/1.0/embed?url=https://arabcenterdc.org/resource/disinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza/
-   4. https://arabcenterdc.org/wp-json/oembed/1.0/embed?url=https://arabcenterdc.org/resource/disinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza/&format=xml
-   5. https://arabcenterdc.org/
-   6. https://arabcenterdc.org/
-   7. file:///events
---
-  89. https://arabcenterdc.org/careers/
-  90. https://arabcenterdc.org/support-acw/
-  91. file:///team/dr-tamara-kharroub
-  92. https://www.theguardian.com/technology/2023/oct/09/x-twitter-elon-musk-disinformation-israel-hamas
-  93. https://apnews.com/article/disinformation-musk-x-twitter-european-union-9f7823726f812bb357ee4225b884354f
-  94. https://theintercept.com/2023/10/11/israel-hamas-disinformation/
-  95. https://twitter.com/marcowenjones/status/1712030575320576034?s=46&t=fXxD5XMLWFPZbKwCXGL2Pw
-  96. https://www.usatoday.com/story/tech/nation-now/2023/10/11/online-hate-surges-after-hamas-attacks-israel-social-media-gaza/71136336007/
-  97. https://7amleh.org/2023/10/12/7amleh-documents-19-000-violent-tweets-in-hebrew-on-x
---
-   Hidden links:
- 223. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48665-8224TMP.html
- 224. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48665-8224TMP.html
- 225. mailto:?body=%20https%3A%2F%2Farabcenterdc.org%2Fresource%2Fdisinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza%2F
- 226. https://www.facebook.com/sharer.php?u=https%3A%2F%2Farabcenterdc.org%2Fresource%2Fdisinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza%2F
- 227. https://twitter.com/intent/tweet?url=https%3A%2F%2Farabcenterdc.org%2Fresource%2Fdisinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza%2F&text=%40ArabCenterWDC%20
- 228. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Farabcenterdc.org%2Fresource%2Fdisinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza%2F&title=Disinformation%20and%20Hate%20Speech%20on%20Social%20Media%20Contribute%20to%20Inciting%20War%20Crimes%20Against%20Gaza&summary=%40ArabCenterWDC%20
- 229. https://api.whatsapp.com/send?phone=&text=%40ArabCenterWDC%20%20https%3A%2F%2Farabcenterdc.org%2Fresource%2Fdisinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza%2F
- 230. https://arabcenterdc.org/
- 231. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48665-8224TMP.html

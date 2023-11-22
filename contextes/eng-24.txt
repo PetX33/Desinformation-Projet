@@ -1,5 +1,5 @@
-   Search
 
+   War in Ukraine
 
 Russian disinformation, propaganda ramp up as conflict in Ukraine grows
 
@@ -9,12 +9,12 @@ Russian disinformation, propaganda ramp up as conflict in Ukraine grows
    Image: fragments of military equipment in Kharkiv, Ukraine
 --
    Feb. 24, 2022, 4:36 PM UTC / Updated Feb. 26, 2022, 3:06 PM UTC
-   By [66]Jason Abbruzzese
+   By Jason Abbruzzese
 
    Russia’s effort to spread disinformation and propaganda across the
-   internet and through foreign and domestic media about its [67]invasion
-   of Ukraine started weeks ago — and it’s expected to ramp up now that
-   the conflict has begun.
+   internet and through foreign and domestic media about its invasion of
+   Ukraine started weeks ago — and it’s expected to ramp up now that the
+   conflict has begun.
 
    Disinformation experts say that they have seen a concerted effort from
    Russian leaders and state-backed media to push a false narrative around
@@ -34,7 +34,7 @@ Russian disinformation, propaganda ramp up as conflict in Ukraine grows
    showing destroyed military vehicles and explosions. And during a
    conflict, disinformation and propaganda can also be a tool used by all
    sides. Some media that is circulating has been found to be recycled
-   from other conflicts, including one post from[68] a verified Ukrainian
+   from other conflicts, including one post from a verified Ukrainian
    military Facebook page that posted what purported to be Ukrainian
 --
    often the location can change from one city to another or the date gets
@@ -57,7 +57,7 @@ Russian disinformation, propaganda ramp up as conflict in Ukraine grows
    “From about Feb. 14 onward we started to see the use of the term
 --
 
-   IFRAME: [70]//iframe.nbcnews.com/HVz4d8n?_showcaption=true&app=1
+   IFRAME: //iframe.nbcnews.com/HVz4d8n?_showcaption=true&app=1
 
    Strickland said that most of the disinformation his organization has
    tracked has not been pushed by the kinds of bot-driven social media
@@ -71,15 +71,3 @@ Russian disinformation, propaganda ramp up as conflict in Ukraine grows
    primarily meant to shore up support for military conflict within
    Russia, pointing specifically to the state-backed media outlet RT.
 
---
-  92. https://www.facebook.com/NBCNews/
-  93. https://twitter.com/nbcnews
-  94. https://www.nbcnews.com/newsletters
-  95. https://www.facebook.com/sharer/sharer.php?u=https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521&cid=article_social_share_facebook
-  96. https://www.twitter.com/intent/tweet?text='Flood%20of%20propaganda'%3A%20The%20signs%20of%20Russian%20disinformation%20spreading%20online&via=nbcnews&url=https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521&original_referer=https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521&cid=article_social_share_twitter
-  97. http://pinterest.com/pin/create/link/?url=https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521&cid=article_social_share_pinterest
-  98. mailto:?subject='Flood%20of%20propaganda':%20The%20signs%20of%20Russian%20disinformation%20spreading%20online&body=https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521
-  99. sms:?&body='Flood of propaganda': The signs of Russian disinformation spreading online via nbcnews - https://www.nbcnews.com/tech/internet/russian-disinformation-propaganda-ramp-conflict-ukraine-grows-rcna17521
- 100. https://www.nbcnews.com/author/jason-abbruzzese-ncpn843466
- 101. https://twitter.com/JasonAbbruzzese
- 102. mailto:jason.abbruzzese@nbcuni.com

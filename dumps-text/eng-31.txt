@@ -1,18 +1,20 @@
-   Judge’s Order
-
-
-
-
    Order
+
+   Skip to contentSkip to site index
+   Media
+
+
+   Today’s Paper
+
+   Media|Disinformation Researchers Fret About Fallout From Judge’s Order
    https://www.nytimes.com/2023/07/05/business/media/disinformation-resear
    chers-judge-restrictions.html
 
    Advertisement
-   You have a preview view of this article while we are checking your
-   access. When we have confirmed access, the full article content will
-   load.
+   SKIP ADVERTISEMENT
 
    Supported by
+   SKIP ADVERTISEMENT
 
 Disinformation Researchers Fret About Fallout From Judge’s Order
 
@@ -26,11 +28,12 @@ Disinformation Researchers Fret About Fallout From Judge’s Order
    organizations, including the Stanford Internet Observatory. Former
    President Barack Obama spoke about disinformation at Stanford last
    year.Credit...Jim Wilson/The New York Times
+   Tiffany Hsu Stuart A. Thompson
 
-   By [12]Tiffany Hsu and [13]Stuart A. Thompson
+   By Tiffany Hsu and Stuart A. Thompson
    July 5, 2023
 
-   A [14]federal judge’s decision this week to restrict the government’s
+   A federal judge’s decision this week to restrict the government’s
    communication with social media platforms could have broad side
    effects, according to researchers and groups that combat hate speech,
    online abuse and disinformation: It could further hamper efforts to
@@ -53,20 +56,101 @@ Disinformation Researchers Fret About Fallout From Judge’s Order
    deletion, suppression or reduction of content containing protected free
    speech.”
 
-   We are having trouble retrieving the article content.
+   The ruling stemmed from a lawsuit by the attorneys general of Louisiana
+   and Missouri, who accused Facebook, Twitter and other social media
+   sites of censoring right-leaning content, sometimes in league with the
+   government. They and other Republicans cheered the judge’s move, in
+   U.S. District Court for the Western District of Louisiana, as a win for
+   the First Amendment.
 
-   Please enable JavaScript in your browser settings.
+   Several researchers, however, said the government’s work with social
+   media companies was not an issue as long as it didn’t coerce them to
+   remove content. Instead, they said, the government has historically
+   notified companies about potentially dangerous messages, like lies
+   about election fraud or misleading information about Covid-19. Most
+   misinformation or disinformation that violates social platforms’
+   policies is flagged by researchers, nonprofits, or people and software
+   at the platforms themselves.
 
-   We are confirming your access to this article, this will take just a
-   moment. However, if you are using Reader mode please [15]log
-   in, [16]subscribe, or exit Reader mode since we are unable to verify
-   access in that state.
+   “That’s the really important distinction here: The government should be
+   able to inform social media companies about things that they feel are
+   harmful to the public,” said Miriam Metzger, a communication professor
+   at the University of California, Santa Barbara, and an affiliate of its
+   Center for Information Technology and Society.
 
-   Confirming article access.
+   A larger concern, researchers said, is a potential chilling effect. The
+   judge’s decision blocked certain government agencies from communicating
+   with some research organizations, such as the Stanford Internet
+   Observatory and the Election Integrity Partnership, about removing
+   social media content. Some of those groups have already been targeted
+   in a Republican-led legal campaign against universities and think
+   tanks.
 
-   If you are a subscriber, please log in.
+   Their peers said such stipulations could dissuade younger scholars from
+   pursuing disinformation research and intimidate donors who fund crucial
+   grants.
+
+   Bond Benton, an associate communication professor at Montclair State
+   University who studies disinformation, described the ruling as “a bit
+   of a potential Trojan horse.” It is limited on paper to the
+   government’s relationship with social media platforms, he said, but
+   carried a message that misinformation qualifies as speech and its
+   removal as the suppression of speech.
+
+   “Previously, platforms could simply say we don’t want to host it: ‘No
+   shirt, no shoes, no service,’” Dr. Benton said. “This ruling will now
+   probably make platforms a little bit more cautious about that.”
+
+   In recent years, platforms have relied more heavily on automated tools
+   and algorithms to spot harmful content, limiting the effectiveness of
+   complaints from people outside the companies. Academics and
+   anti-disinformation organizations often complained that platforms were
+   unresponsive to their concerns, said Viktorya Vilk, the director for
+   digital safety and free expression at PEN America, a nonprofit that
+   supports free expression.
+
+   “Platforms are very good at ignoring civil society organizations and
+   our requests for help or requests for information or escalation of
+   individual cases,” she said. “They are less comfortable ignoring the
+   government.”
+
+   Several disinformation researchers worried that the ruling could give
+   cover for social media platforms, some of which have already scaled
+   back their efforts to curb misinformation, to be even less vigilant
+   before the 2024 election. They said it was unclear how relatively new
+   government initiatives that had fielded researchers’ concerns and
+   suggestions, such as the White House Task Force to Address Online
+   Harassment and Abuse, would fare.
+
+   For Imran Ahmed, the chief executive of the Center for Countering
+   Digital Hate, the decision on Tuesday underscored other issues: the
+   United States’ “particularly fangless” approach to dangerous content
+   compared with places like Australia and the European Union, and the
+   need to update rules governing social media platforms’ liability. The
+   ruling on Tuesday cited the center as having delivered a presentation
+   to the surgeon general’s office about its 2021 report on online
+   anti-vaccine activists, “The Disinformation Dozen.”
+
+   “It’s bananas that you can’t show a nipple on the Super Bowl but
+   Facebook can still broadcast Nazi propaganda, empower stalkers and
+   harassers, undermine public health and facilitate extremism in the
+   United States,” Mr. Ahmed said. “This court decision further
+   exacerbates that feeling of impunity social media companies operate
+   under, despite the fact that they are the primary vector for hate and
+   disinformation in society.”
+
+   Tiffany Hsu is a tech reporter covering misinformation and
+   disinformation. More about Tiffany Hsu
+
+   Stuart A. Thompson is a reporter on the Technology desk covering online
+   information flows. More about Stuart A. Thompson
+   A version of this article appears in print on  , Section A, Page 14 of
+   the New York edition with the headline: Disinformation Researchers Fret
+   About Fallout From Judge’s Order. Order Reprints | Today’s Paper |
+   Subscribe
 
    Advertisement
+   SKIP ADVERTISEMENT
 
 Site Index
 
@@ -76,48 +160,5 @@ Site Information Navigation
 
 
    IFRAME:
-   zqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x
-
-References
-
-   Visible links:
-   1. nyt://article/32be7ad9-26d9-5210-8295-56b3c6c71341
-   2. https://www.nytimes.com/svc/oembed/json/?url=https://www.nytimes.com/2023/07/05/business/media/disinformation-researchers-judge-restrictions.html
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49363-3239TMP.html#site-content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49363-3239TMP.html#site-index
-   5. https://www.nytimes.com/section/business/media
-   6. https://www.nytimes.com/section/todayspaper
-   7. file:///section/business/media
-   8. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49363-3239TMP.html#after-top
-   9. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49363-3239TMP.html#after-sponsor
-  10. https://www.nytimes.com/by/tiffany-hsu
-  11. https://www.nytimes.com/by/stuart-a-thompson
-  12. https://www.nytimes.com/by/tiffany-hsu
-  13. https://www.nytimes.com/by/stuart-a-thompson
-  14. https://www.nytimes.com/2023/07/04/business/federal-judge-biden-social-media.html
-  15. https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=mpc&redirect_uri=
-  16. https://www.nytimes.com/subscription
-  17. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49363-3239TMP.html#after-bottom
-  18. https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice
-  19. https://www.nytco.com/
-  20. https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us
-  21. https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility
-  22. https://www.nytco.com/careers/
-  23. https://nytmediakit.com/
-  24. https://www.tbrandstudio.com/
-  25. https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers
-  26. https://www.nytimes.com/privacy/privacy-policy
-  27. https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service
-  28. https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale
-  29. file:///sitemap/
-  30. https://www.nytimes.com/ca/
-  31. https://www.nytimes.com/international/
-  32. https://help.nytimes.com/hc/en-us
-  33. https://www.nytimes.com/subscription?campaignId=37WXW
-  34. file:///privacy/manage-settings/?fides-toggle=true&fides-override=true
-  35. https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x
-
-   Hidden links:
-  37. file://localhost/
-  38. file://localhost/
-  39. file://localhost/
+   https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm_auth=tfAzqo1
+   rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x

@@ -1,9 +1,14 @@
    igative+journalism%2CHacking%2CSocial+media%2CMedia%2CInternet%2CWorld+
-   news%2CDigital+media] [1]Skip to main content[2]Skip to
-   navigation[3]Skip to navigation
+   news%2CDigital+media] Skip to main contentSkip to navigationSkip to
+   navigation
 
+   Print subscriptions
+   Sign in
+   Search jobs
+   Search
    Europe edition [ ]
 
+   The Guardian - Back to homeThe Guardian
 
    ShowMoreShow More
        google-search
@@ -23,6 +28,7 @@
    Design/Haaretz/The Marker/Radio France
    Tal Hanan has always denied any wrongdoing. Composite: Guardian
    Design/Haaretz/The Marker/Radio France
+   Disinfo black opsTechnology
    This article is more than 9 months old
 
 Revealed: the hacking and disinformation team meddling in elections
@@ -32,12 +38,13 @@ Revealed: the hacking and disinformation team meddling in elections
        elections
 
 
+   Stephanie Kirchgaessner, Manisha Ganguly, David Pegg, Carole Cadwalladr
+   and Jason Burke
    Wed 15 Feb 2023 05.00 CETLast modified on Thu 16 Feb 2023 01.12 CET
 
    A team of Israeli contractors who claim to have manipulated more than
    30 elections around the world using hacking, sabotage and automated
-   disinformation on social media has been [115]exposed in a new
-   investigation.
+   disinformation on social media has been exposed in a new investigation.
 
    The unit is run by Tal Hanan, a 50-year-old former Israeli special
    forces operative who now works privately using the pseudonym “Jorge”,
@@ -73,7 +80,7 @@ Revealed: the hacking and disinformation team meddling in elections
    Advanced Impact Media Solutions, or Aims. It controls a vast army of
    thousands of fake social media profiles on Twitter, LinkedIn, Facebook,
    Telegram, Gmail, Instagram and YouTube. Some avatars even have Amazon
-   accounts with [116]credit cards, bitcoin wallets and Airbnb accounts.
+   accounts with credit cards, bitcoin wallets and Airbnb accounts.
 
    The consortium of journalists that investigated Team Jorge includes
    reporters from 30 outlets including Le Monde, Der Spiegel and El País.
@@ -89,7 +96,7 @@ About this investigative series
 
    The Guardian and Observer have partnered with an international
    consortium of reporters to investigate global disinformation. Our
-   project, [117]Disinfo black ops, is exposing how false information is
+   project, Disinfo black ops, is exposing how false information is
    deliberately spread by powerful states and private operatives who sell
    their covert services to political campaigns, companies and wealthy
    individuals. It also reveals how inconvenient truths can be erased from
@@ -109,11 +116,11 @@ About this investigative series
 
    The Story killers consortium includes more than 100 journalists from 30
    media outlets including Haaretz, Le Monde, Radio France, Der Spiegel,
-   Paper Trail Media, Die Zeit, TheMarker and the OCCRP. [118]Read more
-   about this project.
+   Paper Trail Media, Die Zeit, TheMarker and the OCCRP. Read more about
+   this project.
 
    Investigative journalism like this is vital for our democracy. Please
-   consider [119]supporting it today.
+   consider supporting it today.
    Was this helpful?
    Thank you for your feedback.
 
@@ -141,7 +148,8 @@ About this investigative series
    Tal Hanan and his colleagues met reporters at an office in Modi’in,
    about 20 miles outside Tel Aviv. Photograph: Haaretz/TheMarker/Radio
    France
-   most secure communications, use SecureDrop or see our guide.
+   Do you have information about Tal Hanan or ‘Team Jorge’? For the most
+   secure communications, use SecureDrop or see our guide.
 
    The Team Jorge revelations could cause embarrassment for Israel, which
    has come under growing diplomatic pressure in recent years over its
@@ -397,6 +405,7 @@ The undercover footage
    Explore more on these topics
 
 
+   Reuse this content
 
 More on this story
 
@@ -440,196 +449,9 @@ Most viewed
 
    Original reporting and incisive analysis, direct from the Guardian
    every morning
+   Sign up for our email
 
 
 
+   Back to top
    rights reserved. (dcr)
-
-References
-
-   Visible links:
-   1. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49594-2575TMP.html#maincontent
-   2. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49594-2575TMP.html#navigation
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49594-2575TMP.html#navigation
-   4. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
-   5. https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType=identityauthentication&componentId=guardian_signin_header
-   6. https://jobs.theguardian.com/
-   7. https://www.google.co.uk/advanced_search?q=site:www.theguardian.com
-   8. file:///preference/edition/eur
-   9. file:///preference/edition/uk
-  10. file:///preference/edition/us
-  11. file:///preference/edition/au
-  12. file:///preference/edition/int
-  13. file:///
-  14. file:///
-  15. file:///commentisfree
-  16. file:///sport
-  17. file:///culture
-  18. file:///lifeandstyle
-  19. file:///
-  20. file:///world
-  21. file:///uk-news
-  22. file:///environment/climate-crisis
-  23. file:///world/ukraine
-  24. file:///environment
-  25. file:///science
-  26. file:///global-development
-  27. file:///football
-  28. file:///technology
-  29. file:///business
-  30. file:///obituaries
-  31. file:///commentisfree
-  32. file:///profile/editorial
-  33. file:///index/contributors
-  34. file:///tone/cartoons
-  35. file:///type/video+tone/comment
-  36. file:///tone/letters
-  37. file:///sport
-  38. file:///football
-  39. file:///sport/cricket
-  40. file:///sport/rugby-union
-  41. file:///sport/tennis
-  42. file:///sport/cycling
-  43. file:///sport/formulaone
-  44. file:///sport/golf
-  45. file:///sport/us-sport
-  46. file:///culture
-  47. file:///books
-  48. file:///music
-  49. file:///tv-and-radio
-  50. file:///artanddesign
-  51. file:///film
-  52. file:///games
-  53. file:///music/classicalmusicandopera
-  54. file:///stage
-  55. file:///lifeandstyle
-  56. file:///fashion
-  57. file:///food
-  58. file:///tone/recipes
-  59. file:///lifeandstyle/love-and-sex
-  60. file:///lifeandstyle/health-and-wellbeing
-  61. file:///lifeandstyle/home-and-garden
-  62. file:///lifeandstyle/women
-  63. file:///lifeandstyle/men
-  64. file:///lifeandstyle/family
-  65. file:///travel
-  66. file:///money
-  67. https://support.theguardian.com/?INTCMP=side_menu_support&acquisitionData={"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_HEADER","componentId":"side_menu_support"}
-  68. https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData={"source":"GUARDIAN_WEB","componentId":"PrintSubscriptionsHeaderLink","componentType":"ACQUISITIONS_HEADER","referrerPageviewId":"","referrerUrl":""}
-  69. file:///preference/edition/uk
-  70. file:///preference/edition/us
-  71. file:///preference/edition/au
-  72. file:///preference/edition/int
-  73. https://jobs.theguardian.com/
-  74. https://holidays.theguardian.com/?INTCMP=holidays_int_web_newheader
-  75. https://theguardian.newspapers.com/
-  76. https://puzzles.theguardian.com/download
-  77. https://licensing.theguardian.com/
-  78. https://app.adjust.com/16xt6hai
-  79. file:///video
-  80. file:///podcasts
-  81. file:///inpictures
-  82. file:///email-newsletters
-  83. file:///theguardian
-  84. https://www.theguardian.com/membership
-  85. file:///observer
-  86. https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_Int
-  87. file:///crosswords
-  88. https://www.wordiply.com/
-  89. file:///theguardian/series/corrections-and-clarifications
-  90. https://www.facebook.com/theguardian
-  91. https://twitter.com/guardian
-  92. https://jobs.theguardian.com/
-  93. https://holidays.theguardian.com/?INTCMP=holidays_int_web_newheader
-  94. https://theguardian.newspapers.com/
-  95. https://puzzles.theguardian.com/download
-  96. https://licensing.theguardian.com/
-  97. file:///world
-  98. file:///world/europe-news
-  99. file:///us-news
- 100. file:///world/americas
- 101. file:///world/asia
- 102. file:///australia-news
- 103. file:///world/middleeast
- 104. file:///world/africa
- 105. file:///inequality
- 106. file:///global-development
- 107. https://www.theguardian.com/world/series/disinfo-black-ops
- 108. https://www.theguardian.com/technology/technology
- 109. https://www.theguardian.com/world/series/disinfo-black-ops
- 110. file://www.theguardian.com/profile/stephanie-kirchgaessner
- 111. file://www.theguardian.com/profile/manisha-ganguly
- 112. file://www.theguardian.com/profile/david-pegg
- 113. file://www.theguardian.com/profile/carolecadwalladr
- 114. file://www.theguardian.com/profile/jasonburke
- 115. https://www.theguardian.com/world/series/disinfo-black-ops
- 116. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
- 117. https://www.theguardian.com/world/series/disinfo-black-ops
- 118. https://www.theguardian.com/world/series/disinfo-black-ops
- 119. https://support.theguardian.com/contribute?acquisitionData={"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_EDITORIAL_LINK","componentId":"HYDRA_ARTICLE_EMBED_150223","campaignCode":"HYDRA_ARTICLE_EMBED_150223"}&INTCMP=HYDRA_ARTICLE_EMBED_150223
- 120. https://interactive.guim.co.uk/embed/from-tool/generic/index.html?vertical=News&opinion-tint=false&title=Get in touch&description=Do you have information about Tal Hanan or ’Team Jorge’? For the most secure communications, use <a style="color:#ab0613" href="https://www.theguardian.com/securedrop">SecureDrop</a> or see <a style="color:#ab0613" href="https://www.theguardian.com/help/ng-interactive/2017/mar/17/contact-the-guardian-securely">our guide</a>.&link=false
- 121. file:///technology/technology
- 122. file:///world/series/disinfo-black-ops
- 123. file:///media/investigative-journalism
- 124. file:///technology/hacking
- 125. file:///media/social-media
- 126. file:///technology/internet
- 127. file:///media/digital-media
- 128. file:///tone/news
- 129. https://syndication.theguardian.com/automation/?url=https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan&type=article&internalpagecode=world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan
- 130. file:///world
- 131. file:///world/europe-news
- 132. file:///us-news
- 133. file:///world/americas
- 134. file:///world/asia
- 135. file:///australia-news
- 136. file:///world/middleeast
- 137. file:///world/africa
- 138. file:///inequality
- 139. file:///global-development
- 140. file:///
- 141. file:///commentisfree
- 142. file:///sport
- 143. file:///culture
- 144. file:///lifeandstyle
- 145. https://www.theguardian.com/global/2022/sep/20/sign-up-for-the-first-edition-newsletter-our-free-news-email
- 146. file:///help
- 147. file:///info/complaints-and-corrections
- 148. https://www.theguardian.com/securedrop
- 149. https://workforus.theguardian.com/
- 150. file:///info/privacy
- 151. file:///info/cookies
- 152. file:///help/terms-of-service
- 153. file:///help/contact-us
- 154. file:///index/subjects/a
- 155. file:///index/contributors
- 156. https://theguardian.newspapers.com/
- 157. https://www.facebook.com/theguardian
- 158. https://www.youtube.com/user/TheGuardian
- 159. https://www.instagram.com/guardian
- 160. https://www.linkedin.com/company/theguardian
- 161. https://twitter.com/guardian
- 162. file:///email-newsletters?INTCMP=DOTCOM_FOOTER_NEWSLETTER_INTERNATIONAL
- 163. https://advertising.theguardian.com/
- 164. https://jobs.theguardian.com/
- 165. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49594-2575TMP.html#top
-
-   Hidden links:
- 167. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_fb
- 168. https://twitter.com/intent/tweet?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_tw
- 169. mailto:?subject=Revealed%3A%20the%20hacking%20and%20disinformation%20team%20meddling%20in%20elections&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_link
- 170. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
- 171. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_fb
- 172. https://twitter.com/intent/tweet?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_tw
- 173. mailto:?subject=Revealed%3A%20the%20hacking%20and%20disinformation%20team%20meddling%20in%20elections&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_link
- 174. http://www.linkedin.com/shareArticle?=title=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&mini=true&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3F
- 175. whatsapp://send/?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections+https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_wa
- 176. fb-messenger://share/?link=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_me&app_id=180444840287
- 177. https://www.theguardian.com/world/2023/feb/23/bfmtv-host-rachid-mbarki-sacked-in-influence-probe
- 178. https://www.theguardian.com/world/2023/feb/15/disinfo-black-ops-exposing-the-companies-and-states-spreading-false-information
- 179. https://www.theguardian.com/world/2023/feb/15/disinformation-hacking-operative-team-jorge-tal-hanan
- 180. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
- 181. https://www.theguardian.com/world/2023/feb/18/cambridge-analytica-staff-leaked-emails-team-jorge-nigeria-election-sam-patten-tal-hanan
- 182. https://www.theguardian.com/world/2023/feb/17/spanish-firm-erase-past-internet-eliminalia-web
- 183. https://www.theguardian.com/world/2023/feb/16/team-jorge-and-cambridge-analytica-meddled-in-nigeria-election-emails-reveal
- 184. https://www.theguardian.com/world/2023/feb/15/political-aides-hacked-by-team-jorge-in-run-up-to-kenyan-election

@@ -1,48 +1,47 @@
-   Feed
 
 
-               o [13]US
-               o [14]World
-               o [15]Politics
-               o [16]Entertainment
-               o [17]HealthWatch
-               o [18]MoneyWatch
-               o [19]CBS Village
-               o [20]Technology
-               o [21]Science
-               o [22]Crime
-               o [23]Sports
-               o [24]Essentials
+               o US
+               o World
+               o Politics
+               o Entertainment
+               o HealthWatch
+               o MoneyWatch
+               o CBS Village
+               o Technology
+               o Science
+               o Crime
+               o Sports
+               o Essentials
                o
                       release, short cease-fire
                       attack at Iraq airbase
-                      after board sacked him
-                      fraud trial
-                      shopping center parking lot
+                      board sacked him
+                      trial
+                      center parking lot
                       leader, endorses DeSantis
-                      election for Congress' 435th seat
+                      for Congress' 435th seat
                       police says
-                      honor Rosalynn Carter
-            Dickerson
-               o [88]Latest
-               o [89]Video
-               o [90]Photos
-               o [91]Podcasts
-               o [92]In Depth
-               o [93]Local
-               o [94]A Moment With…
-               o [95]Innovators & Disruptors
-               o [96]Log In
-               o [97]Newsletters
-               o [98]Mobile
-               o [99]RSS
-               o [100]CBS Store
-               o [101]Paramount+
-               o [102]Join Our Talent Community
-               o [103]Davos 2023
+                      Rosalynn Carter
+               o Latest
+               o Video
+               o Photos
+               o Podcasts
+               o In Depth
+               o Local
+               o A Moment With…
+               o Innovators & Disruptors
+               o Log In
+               o Newsletters
+               o Mobile
+               o RSS
+               o CBS Store
+               o Paramount+
+               o Join Our Talent Community
+               o Davos 2023
 
    Watch CBS News
 
+   Politics
 
 China investing "unprecedented resources" in disinformation, surveillance
 tactics, new report says
@@ -54,12 +53,12 @@ tactics, new report says
    China's government is investing "unprecedented resources" in a range of
    disinformation, surveillance and censorship tactics it uses in efforts
    to shape international narratives in its favor among foreign audiences
-   around the world, a new [107]report released Thursday by the State
+   around the world, a new report released Thursday by the State
    Department said.
 
    "As the [People's Republic of China] has grown more confident in its
    power, it appears to have calculated that it can more aggressively
-   pursue its interests via information manipulation," the [108]report,
+   pursue its interests via information manipulation," the report,
    compiled by the department's Global Engagement Center, said.
 
    It warned that some of the methods Beijing has honed and is spending
@@ -117,18 +116,15 @@ tactics, new report says
    "When targeting democratic countries, Beijing has encountered major
    setbacks, often due to pushback from local media and civil society."
 
-Trending News
+More from CBS News
 
-   defense attorney at the Trump civil fraud trial in New York on Monday,
-   Nov. 20, 2023.
-   Ex-Trump Org executive chokes up on stand at fraud trial
-   Republican Celeste Maloy wins Utah special election for Congress' 435th
-   seat
-   Challenges to Trump's eligibility thrust courts into unknown territory
-   Flags to be flown at half-staff Saturday to honor Rosalynn Carter
-   the downtown Marriott on Nov. 17, 2023, in Des Moines, Iowa.
-   Bob Vander Plaats, influential Iowa evangelical leader, endorses
-   DeSantis
+   World's richest 1% emit as much carbon as 5 billion people, report says
+   Michigan Capitol implements new AI tech to detect guns
+   Non-explosive device found, secured by the New Jersey State Bomb
+   Disposal Unit: OCPO
+   Trouble in Toyland 2023 report released ahead of holidays
+   Man called to report SUV on train tracks in Michigan, but Amtrak train
+   hit it anyway
 
    First published on September 28, 2023 / 8:28 PM EDT
 
@@ -153,161 +149,9 @@ Trouble in Toyland 2023 report released ahead of holidays
 
 
    View CBS News In
-   CBS News App [130]Open
-   Chrome Safari [131]Continue
+   CBS News App Open
+   Chrome Safari Continue
 
    Be the first to know
    Get browser notifications for breaking news, live events, and exclusive
    reporting.
-
-References
-
-   Visible links:
-   1. ios-app://334256223/https/www.cbsnews.com/news/china-investing-disinformation-surveillance-censorship-new-report/
-   2. android-app://com.treemolabs.apps.cbsnews/https/www.cbsnews.com/news/china-investing-disinformation-surveillance-censorship-new-report/
-   3. https://www.cbsnews.com/latest/rss/main
-   4. https://www.cbsnews.com/latest/rss/politics
-   5. https://www.cbsnews.com/news/israel-hamas-war-hostages-cease-fire-agreement-netanyahu-cabinet-meeting/
-   6. https://www.cbsnews.com/news/bradley-cooper-new-film-maestro-leonard-bernstein-fascination-cartoons/
-   7. https://www.cbsnews.com/news/oil-leak-gulf-of-mexico-endangered-species-at-risk/
-   8. https://www.cbsnews.com/news/thanksgiving-travel-food-pack-flight-through-tsa-says-safety-expert/
-   9. https://www.cbsnews.com/streaming/
-  10. file:///moneywatch/managing-your-money/
-  11. file:///newsletters/?ftag=CNM-00-10abb3f
-  12. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
-  13. file:///us/
-  14. file:///world/
-  15. file:///politics/
-  16. file:///entertainment/
-  17. file:///healthwatch/
-  18. file:///moneywatch/
-  19. file:///cbsvillage/
-  20. file:///technology/
-  21. file:///science/
-  22. file:///crime/
-  23. https://www.cbssports.com/
-  24. file:///cbs-essentials/
-  25. https://www.cbsnews.com/news/israel-hamas-war-hostages-cease-fire-agreement-netanyahu-cabinet-meeting/
-  26. https://www.cbsnews.com/news/us-service-members-injured-missile-attack-al-asad-airbase-iraq/
-  27. https://www.cbsnews.com/news/openai-sam-altman-returning-as-ceo-will-build-microsoft-partnership/
-  28. https://www.cbsnews.com/news/trump-fraud-trial-jeffrey-mcconney-testimony/
-  29. https://www.cbsnews.com/news/pilot-killed-plane-crashes-plano-texas/
-  30. https://www.cbsnews.com/news/bob-vander-plaats-ron-desantis-endorsement-iowa/
-  31. https://www.cbsnews.com/news/celeste-maloy-wins-utah-special-election-congress-435th-seat-republican/
-  32. https://www.cbsnews.com/news/philadelphia-shooting-6th-street-allegheny-avenue-crime/
-  33. https://www.cbsnews.com/news/rosalynn-carter-flags-flown-half-staff-saturday-biden-says/
-  34. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
-  35. file:///cbs-mornings/
-  36. file:///evening-news/
-  37. file:///60-minutes/
-  38. file:///cbs-mornings-saturday/
-  39. file:///face-the-nation/
-  40. file:///sunday-morning/
-  41. file:///48-hours/
-  42. file:///cbs-reports/
-  43. file:///cbs-news-mornings/
-  44. file:///america-decides/
-  45. file:///prime-time-with-john-dickerson/
-  46. file:///cbs-weekender/
-  47. file:///the-takeout/
-  48. file:///uplift/
-  49. file:///eye-on-america/
-  50. file:///the-dish/
-  51. file:///here-comes-the-sun/
-  52. file:///person-to-person/
-  53. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
-  54. https://www.cbsnews.com/live/
-  55. https://www.cbsnews.com/baltimore/live/
-  56. https://www.cbsnews.com/sanfrancisco/live/
-  57. https://www.cbsnews.com/boston/live/
-  58. https://www.cbsnews.com/chicago/live/
-  59. https://www.cbsnews.com/colorado/live/
-  60. https://www.cbsnews.com/detroit/live/
-  61. https://www.cbsnews.com/losangeles/live/
-  62. https://www.cbsnews.com/miami/live/
-  63. https://www.cbsnews.com/minnesota/live/
-  64. https://www.cbsnews.com/newyork/live/
-  65. https://www.cbsnews.com/philadelphia/live/
-  66. https://www.cbsnews.com/pittsburgh/live/
-  67. https://www.cbsnews.com/sacramento/live/
-  68. https://www.cbsnews.com/texas/live/
-  69. https://www.cbsnews.com/live/cbs-sports-hq/
-  70. https://www.cbsnews.com/live/inside-edition/
-  71. https://www.cbsnews.com/live/mixible/
-  72. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
-  73. https://www.cbsnews.com/baltimore/
-  74. https://www.cbsnews.com/sanfrancisco/
-  75. https://www.cbsnews.com/boston/
-  76. https://www.cbsnews.com/chicago/
-  77. https://www.cbsnews.com/colorado/
-  78. https://www.cbsnews.com/detroit/
-  79. https://www.cbsnews.com/losangeles/
-  80. https://www.cbsnews.com/miami/
-  81. https://www.cbsnews.com/minnesota/
-  82. https://www.cbsnews.com/newyork/
-  83. https://www.cbsnews.com/philadelphia/
-  84. https://www.cbsnews.com/pittsburgh/
-  85. https://www.cbsnews.com/sacramento/
-  86. https://www.cbsnews.com/texas/
-  87. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
-  88. file:///
-  89. file:///video/
-  90. file:///pictures/
-  91. file:///podcasts/
-  92. file:///in-depth/
-  93. file:///cbslocal/
-  94. file:///video/playlist/a-moment-with/
-  95. file:///video/playlist/innovators-disruptors/
-  96. https://www.cbsnews.com/user/login/?ifmsgr=true&page=/news/china-investing-disinformation-surveillance-censorship-new-report/
-  97. file:///newsletters/
-  98. file:///app/?ftag=CNM-16-10abd6g
-  99. file:///rss/
- 100. https://www.cbsstore.com/collections/cbs-news?v=cbs-news
- 101. https://www.paramountplus.com/shows/news/?ftag=PPM-06-10ahi1b
- 102. https://pages.beamery.com/paramount/page/cbsnewsstations
- 103. file:///video/playlist/davos-interviews-2023/
- 104. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html#search-form:
- 105. file:///search/
- 106. https://www.cbsnews.com/politics?ftag=CNM-16-10abg0d
- 107. https://www.state.gov/how-the-peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/
- 108. https://www.state.gov/how-the-peoples-republic-of-china-seeks-to-reshape-the-global-information-environment/
- 109. https://www.cbsnews.com/news/trump-fraud-trial-jeffrey-mcconney-testimony/?intcid=CNI-00-10aaa3b
- 110. https://www.cbsnews.com/news/celeste-maloy-wins-utah-special-election-congress-435th-seat-republican/?intcid=CNI-00-10aaa3b
- 111. https://www.cbsnews.com/news/14th-amendment-cases-challenging-trump-eligibility-courts-unknown/?intcid=CNI-00-10aaa3b
- 112. https://www.cbsnews.com/news/rosalynn-carter-flags-flown-half-staff-saturday-biden-says/?intcid=CNI-00-10aaa3b
- 113. https://www.cbsnews.com/news/bob-vander-plaats-ron-desantis-endorsement-iowa/?intcid=CNI-00-10aaa3b
- 114. https://www.viacomcbsprivacy.com/policy
- 115. https://privacy.paramount.com/en/policy#additional-information-us-states
- 116. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
- 117. https://www.cbsinteractive.com/legal/cbsi/terms-of-use
- 118. https://www.cbscorporation.com/
- 119. https://www.cbsinteractive.com/advertising
- 120. https://www.cbs.com/closed-captioning/
- 121. https://www.paramountplus.com/
- 122. https://www.cbsstore.com/collections/cbs-news?v=cbs-news
- 123. file:///sitemap/
- 124. file:///feedback/
- 125. https://help.cbsnews.com/
- 126. https://www.facebook.com/CBSNews/
- 127. https://twitter.com/CBSNews
- 128. https://instagram.com/cbsnews/
- 129. https://www.youtube.com/CBSNews
- 130. file:///app/?ftag=CNM-16-10abd6g&url=https://www.cbsnews.com/news/china-investing-disinformation-surveillance-censorship-new-report/
- 131. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html#app
-
-   Hidden links:
- 133. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html#site-header:50
- 134. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html#x
- 135. https://www.cbsnews.com/
- 136. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48911-3875TMP.html
- 137. file://localhost/live/
- 138. file://localhost/live/
- 139. http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fchina-investing-disinformation-surveillance-censorship-new-report%2F
- 140. https://twitter.com/intent/tweet?related=cbsnews,CBSPolitics&via=CBSPolitics&text=China%20investing%20%22unprecedented%20resources%22%20in%20disinformation%2C%20surveillance%20tactics%2C%20new%20report%20says&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fchina-investing-disinformation-surveillance-censorship-new-report%2F
- 141. https://share.flipboard.com/bookmarklet/popout?v=2&utm_source=www.cbsnews.com&utm_medium=article-share&utm_campaign=tools&title=China%20investing%20%22unprecedented%20resources%22%20in%20disinformation%2C%20surveillance%20tactics%2C%20new%20report%20says&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fchina-investing-disinformation-surveillance-censorship-new-report%2F
- 142. https://www.cbsnews.com/user/login/?ifmsgr=true&page=/news/china-investing-disinformation-surveillance-censorship-new-report/
- 143. https://www.cbsnews.com/user/registration/?ifmsgr=true
- 144. https://www.cbsnews.com/news/worlds-richest-carbon-emissions-climate-change-report/?intcid=CNR-01-0623
- 145. https://www.cbsnews.com/detroit/news/michigan-capitol-implements-new-ai-tech-to-detect-guns/?intcid=CNR-01-0623
- 146. https://www.cbsnews.com/philadelphia/news/suspicious-device-lakewood-township-ocean-county/?intcid=CNR-01-0623
- 147. https://www.cbsnews.com/colorado/news/trouble-toyland-2023-report-released-holidays-colorado/?intcid=CNR-01-0623

@@ -1,4 +1,4 @@
-   Design/Haaretz/The Marker/Radio France
+   Disinfo black opsTechnology
    This article is more than 9 months old
 
 Revealed: the hacking and disinformation team meddling in elections
@@ -9,10 +9,10 @@ Revealed: the hacking and disinformation team meddling in elections
 
    A team of Israeli contractors who claim to have manipulated more than
    30 elections around the world using hacking, sabotage and automated
-   disinformation on social media has been [115]exposed in a new
-   investigation.
+   disinformation on social media has been exposed in a new investigation.
 
    The unit is run by Tal Hanan, a 50-year-old former Israeli special
+   forces operative who now works privately using the pseudonym “Jorge”,
 --
    activities and methods but said: “I deny any wrongdoing.”
    distort reality – video
@@ -38,7 +38,7 @@ Revealed: the hacking and disinformation team meddling in elections
 
    The Guardian and Observer have partnered with an international
    consortium of reporters to investigate global disinformation. Our
-   project, [117]Disinfo black ops, is exposing how false information is
+   project, Disinfo black ops, is exposing how false information is
    deliberately spread by powerful states and private operatives who sell
    their covert services to political campaigns, companies and wealthy
 --
@@ -110,40 +110,3 @@ How undercover reporters caught ‘Team Jorge’ disinformation operatives on
 camera
        15 Feb 2023
 
---
- 113. file://www.theguardian.com/profile/carolecadwalladr
- 114. file://www.theguardian.com/profile/jasonburke
- 115. https://www.theguardian.com/world/series/disinfo-black-ops
- 116. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
- 117. https://www.theguardian.com/world/series/disinfo-black-ops
- 118. https://www.theguardian.com/world/series/disinfo-black-ops
- 119. https://support.theguardian.com/contribute?acquisitionData={"source":"GUARDIAN_WEB","componentType":"ACQUISITIONS_EDITORIAL_LINK","componentId":"HYDRA_ARTICLE_EMBED_150223","campaignCode":"HYDRA_ARTICLE_EMBED_150223"}&INTCMP=HYDRA_ARTICLE_EMBED_150223
---
- 126. file:///technology/internet
- 127. file:///media/digital-media
- 128. file:///tone/news
- 129. https://syndication.theguardian.com/automation/?url=https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan&type=article&internalpagecode=world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan
- 130. file:///world
- 131. file:///world/europe-news
- 132. file:///us-news
---
- 165. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49594-2575TMP.html#top
-
-   Hidden links:
- 167. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_fb
- 168. https://twitter.com/intent/tweet?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_tw
- 169. mailto:?subject=Revealed%3A%20the%20hacking%20and%20disinformation%20team%20meddling%20in%20elections&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_link
- 170. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
- 171. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_fb
- 172. https://twitter.com/intent/tweet?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_tw
- 173. mailto:?subject=Revealed%3A%20the%20hacking%20and%20disinformation%20team%20meddling%20in%20elections&body=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_link
- 174. http://www.linkedin.com/shareArticle?=title=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections&mini=true&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3F
- 175. whatsapp://send/?text=Revealed%3A+the+hacking+and+disinformation+team+meddling+in+elections+https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_wa
- 176. fb-messenger://share/?link=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2023%2Ffeb%2F15%2Frevealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan%3FCMP%3Dshare_btn_me&app_id=180444840287
- 177. https://www.theguardian.com/world/2023/feb/23/bfmtv-host-rachid-mbarki-sacked-in-influence-probe
- 178. https://www.theguardian.com/world/2023/feb/15/disinfo-black-ops-exposing-the-companies-and-states-spreading-false-information
- 179. https://www.theguardian.com/world/2023/feb/15/disinformation-hacking-operative-team-jorge-tal-hanan
- 180. https://www.theguardian.com/world/2023/feb/15/aims-software-avatars-team-jorge-disinformation-fake-profiles
- 181. https://www.theguardian.com/world/2023/feb/18/cambridge-analytica-staff-leaked-emails-team-jorge-nigeria-election-sam-patten-tal-hanan
- 182. https://www.theguardian.com/world/2023/feb/17/spanish-firm-erase-past-internet-eliminalia-web
- 183. https://www.theguardian.com/world/2023/feb/16/team-jorge-and-cambridge-analytica-meddled-in-nigeria-election-emails-reveal

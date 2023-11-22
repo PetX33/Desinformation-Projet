@@ -1,15 +1,14 @@
-   Disinformation
 
+   Today’s Paper
 
-
-
+   Technology|E.U. Law Sets the Stage for a Clash Over Disinformation
    https://www.nytimes.com/2023/09/27/technology/disinformation-law-europe
    an-union.html
 
    Advertisement
 --
-
    Supported by
+   SKIP ADVERTISEMENT
 
 E.U. Law Sets the Stage for a Clash Over Disinformation
 
@@ -21,8 +20,8 @@ E.U. Law Sets the Stage for a Clash Over Disinformation
    toward an election on Saturday, it has been inundated with
    disinformation and other harmful content on social media
    sites.Credit...Jakub Gavlak/EPA, via Shutterstock
+   Steven Lee Myers
 
-   By [13]Steven Lee Myers
 --
    in Slovakia doctored to include an African man brandishing a machete.
 
@@ -33,18 +32,53 @@ E.U. Law Sets the Stage for a Clash Over Disinformation
    else face fines of up to 6 percent of a company’s revenue.
 --
 
-   Visible links:
-   1. nyt://article/c4a3da2d-54ad-5ff0-a5e5-39a750264e95
-   2. https://www.nytimes.com/svc/oembed/json/?url=https://www.nytimes.com/2023/09/27/technology/disinformation-law-european-union.html
-   3. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49341-5038TMP.html#site-content
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49341-5038TMP.html#site-index
-   5. https://www.nytimes.com/section/technology
-   6. https://www.nytimes.com/section/todayspaper
-   7. file:///section/technology
-   8. file:///2023/09/27/technology/disinformation-law-european-union.html
-   9. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49341-5038TMP.html#after-top
-  10. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49341-5038TMP.html#after-sponsor
-  11. file:///2023/09/27/technology/disinformation-law-european-union.html
-  12. https://www.nytimes.com/by/steven-lee-myers
-  13. https://www.nytimes.com/by/steven-lee-myers
-  14. https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=mpc&redirect_uri=
+   The law, years of painstaking bureaucracy in the making, reflects a
+   growing alarm in European capitals that the unfettered flow of
+   disinformation online — much of it fueled by Russia and other foreign
+   adversaries — threatens to erode the democratic governance at the core
+   of the European Union’s values.
+
+   Europe’s effort sharply contrasts with the fight against disinformation
+   in the United States, which has become mired in political and legal
+   debates over what steps, if any, the government may take in shaping
+   what the platforms allow on their sites.
+--
+   of the world’s richest and most powerful companies remains a daunting
+   challenge.
+
+   That task is even more difficult for policing disinformation on social
+   media, where anybody can post their views and perceptions of truth are
+   often skewed by politics. Regulators would have to prove a platform had
+   systemic problems that caused harm, an untested area of law that could
+--
+
+   In what officials and experts described as a warning shot to the
+   platforms, the European Commission also released a damning report that
+   studied the spread of Russian disinformation on major social media
+   sites in the year after Russia invaded Ukraine in February 2022.
+
+   “It clearly shows that tech companies’ efforts were insufficient,” said
+--
+   just because of its election on Saturday. The country has become
+   fertile ground for Russian influence because of historical ties. Now it
+   faces what its president, Zuzana Caputova, described as a concerted
+   disinformation campaign.
+
+   Image
+   A World War II monument outside Ladomirova, Slovakia. The country, with
+--
+   influence. Credit...Akos Stiller for The New York Times
+
+   In the weeks since the new law took effect, researchers have documented
+   instances of disinformation, hate speech or incitement to violence.
+   Many stem from pro-Kremlin accounts, but more are homegrown, according
+   to Reset.
+
+--
+   Russia.
+
+   Facebook shut down the account of one of SMER’s candidates, Lubos
+   Blaha, in 2022 for spreading disinformation about Covid. Known for
+   inflammatory comments about Europe, NATO and L.G.B.T.Q. issues, Mr.
+   Blaha remains active in Telegram posts, which SMER reposts on its
+   Facebook page, effectively circumventing the ban.

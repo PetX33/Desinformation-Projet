@@ -1,53 +1,60 @@
 
+   Fox News
+
+   Expand / Collapse search
+   Login
+   Watch TV
+   Menu
 
 
-
-[24]U.S.
-
-
-[33]World
+U.S.
 
 
-[42]Opinion
-
-[43]Politics
+World
 
 
-[51]Entertainment
+Opinion
+
+Politics
 
 
-[58]Business
+Entertainment
 
 
-[66]Lifestyle
+Business
 
 
-[75]Science
+Lifestyle
 
 
-[82]Tech
+Science
 
 
-[89]Health
+Tech
 
 
-[97]TV
+Health
 
 
-[104]About
+TV
+
+
+About
 
 
 Other
 
 
+   Fox News
 
    This material may not be published, broadcast, rewritten, or
    redistributed. ©2023 FOX News Network, LLC. All rights reserved. Quotes
    displayed in real-time or delayed by at least 15 minutes. Market data
-   provided by [130]Factset. Powered and implemented by [131]FactSet
-   Digital Solutions. [132]Legal Statement. Mutual Fund and ETF data
-   provided by [133]Refinitiv Lipper.
+   provided by Factset. Powered and implemented by FactSet Digital
+   Solutions. Legal Statement. Mutual Fund and ETF data provided by
+   Refinitiv Lipper.
 
+   POLITICS
 
 Free speech concerns mount over DHS 'disinformation' board as lawmakers,
 critics weigh in
@@ -55,17 +62,20 @@ critics weigh in
 Secretary Mayorkas announced the creation of the 'Disinformation Governance
 Board' Wednesday
 
-   Kelly Laco By [140]Kelly Laco [141]Fox News
+   Kelly Laco By Kelly Laco Fox News
    Published April 30, 2022 6:03am EDT
 
+   close
+   Biden disinformation czar goes viral for TikTok song Video
 
-[149]Biden disinformation czar goes viral for TikTok song
+Biden disinformation czar goes viral for TikTok song
 
    'Outnumbered' panelists discuss the possible impacts of Biden's new
    disinformation governance board on free speech.
 
    Federal and state lawmakers, constitutional scholars and other experts
    are expressing concerns with the Department of Homeland Security's new
+   misinformation board, which they say is the Biden administration's
    attempt to stifle free speech.
 
    Mayorkas announced during testimony Wednesday before the House
@@ -77,7 +87,8 @@ Board' Wednesday
    is focused on the spread of disinformation in minority communities
    ahead of the 2022 midterm elections.
 
-   WITH 'DISINFORMATION' BOARD, DEMAND INFO
+   REPUBLICANS ACCUSE MAYORKAS OF DISCREDITING 'LEGITIMATE CRITICISM' WITH
+   'DISINFORMATION' BOARD, DEMAND INFO
 
    Nina Jankowicz will be executive director of the misinformation board.
    (Arkadiusz Warguła/iStock)
@@ -89,7 +100,7 @@ Board' Wednesday
    "The Federal Government has no business creating a Ministry of Truth.
    The Department of Homeland Security's "Disinformation Board" is
    unconstitutional and unamerican, and I'll be introducing a bill to
-   defund it," he [152]tweeted Friday.
+   defund it," he tweeted Friday.
 
    Sen. Marco Rubio, R-Fla., similarly tweeted, "Nothing else we are
    working on will matter if we don’t put an end to the Biden’s Ministry
@@ -97,8 +108,8 @@ Board' Wednesday
    sense of the American people. A government arbiter of 'truth'
    department is a [red flag] for free thinking people."
 
-   Sen. Rick Scott, R-Fla., [153]plans to ask Mayorkas more about the
-   board in a hearing next week before the Senate Homeland Security and
+   Sen. Rick Scott, R-Fla., plans to ask Mayorkas more about the board in
+   a hearing next week before the Senate Homeland Security and
    Governmental Affairs Committee.
 
    Oversight Committee Ranking Member Rep. James Comer, R-Ky., organized a
@@ -111,9 +122,9 @@ Board' Wednesday
    "The same party that spent years promoting the Russia collusion hoax,
    suppressed the Hunter Biden laptop story, & equated parents to
    terrorists believes it has credibility to control your speech," House
-   Minority Leader Kevin McCarthy, R-Calif., [154]tweeted on Friday.
-   "Biden must immediately abandon his plan to create an Orwellian
-   Ministry of Truth."
+   Minority Leader Kevin McCarthy, R-Calif., tweeted on Friday. "Biden
+   must immediately abandon his plan to create an Orwellian Ministry of
+   Truth."
    U.S. Homeland Security Secretary Alejandro Mayorkas
 
    Homeland Security Secretary Alejandro Mayorkas testifies before a House
@@ -122,13 +133,13 @@ Board' Wednesday
 
    House Permanent Select Committee on Intelligence Ranking Member Rep.
    Mike Turner, R-Ohio, and House Homeland Security Committee Ranking
-   Member Rep. John Katko, R-N.Y., also sent a [155]letter to Mayokras
-   Friday, expressing "serious concerns" about the lack of information
-   about the activities of the board under Jankowicz's leadership.
+   Member Rep. John Katko, R-N.Y., also sent a letter to Mayokras Friday,
+   expressing "serious concerns" about the lack of information about the
+   activities of the board under Jankowicz's leadership.
 
-   BOARD'
+   MAYORKAS TESTIFIES DHS IS CREATING 'DISINFORMATION GOVERNANCE BOARD'
 
-   In addition, Rep. Lauren Boebert, R-Colo., [157]tweeted, "I don’t think
+   In addition, Rep. Lauren Boebert, R-Colo., tweeted, "I don’t think
    people are fully understanding the severity of what a Ministry of Truth
    organized by DHS truly means. This is Stalin level. This is Mao level.
    This is the hill to die on."
@@ -136,7 +147,8 @@ Board' Wednesday
    The issue has spread to states, with GOP lawmakers and leaders pushing
    back.
 
-   OPPOSES THAT EFFORT'
+   WHITE HOUSE DEFENDS DHS 'DISINFORMATION' BOARD: 'NOT SURE WHO OPPOSES
+   THAT EFFORT'
 
    "Clearly, our entire principles that the country was founded on you
    cannot have a Ministry of Truth in this country," Florida Republican
@@ -144,7 +156,7 @@ Board' Wednesday
    real here, let’s make sure we’re doing things to benefit Floridians and
    Americans, but we’re not going to let Biden get away with this one."
 
-   Missouri Attorney General Eric Schmitt wrote a [159]letter to Mayorkas
+   Missouri Attorney General Eric Schmitt wrote a letter to Mayorkas
    Friday that was obtained exclusively by Fox News Digital. In the
    letter, Schmitt states that the focus of the "Orewellian" board to
    focus resources on the threat of "mis/disinformation" should "shock the
@@ -167,6 +179,7 @@ Board' Wednesday
    Democrats think this is good and normal tells you all you need to know
    about them."
 
+   CLICK HERE TO GET THE FOX NEWS APP
 
    The White House defended the DHS board Thursday, saying its objective
    is to prevent disinformation in a "range" of communities.
@@ -183,380 +196,85 @@ Board' Wednesday
    Get the latest updates from the 2024 campaign trail, exclusive
    interviews and more Fox News politics content.
    Arrives Tuesdays
+   Subscribe
 
    Subscribed
+   Subscribe
 
    You've successfully subscribed to this newsletter!
 
 More from Politics
 
-   the Trump alternative in GOP 2024 race
-   30 mins ago
+   Christie turns up the heat on Haley and DeSantis as he tries to be the
+   Trump alternative in GOP 2024 race
+   1 hour ago
 
-[164]Christie turns up the heat on Haley and DeSantis as he tries to be the
-Trump alternative in GOP 2024 race
+Christie turns up the heat on Haley and DeSantis as he tries to be the Trump
+alternative in GOP 2024 race
 
-   over anti-Israel rhetoric
-   30 mins ago
+   Legal group calls on Michigan bar to investigate, sanction Tlaib over
+   anti-Israel rhetoric
+   1 hour ago
 
-[166]Legal group calls on Michigan bar to investigate, sanction Tlaib over
+Legal group calls on Michigan bar to investigate, sanction Tlaib over
 anti-Israel rhetoric
 
-   tear down key power source
-   30 mins ago
+   Biden admin quietly developing settlement with groups seeking to tear
+   down key power source
+   1 hour ago
 
-[168]Biden admin quietly developing settlement with groups seeking to tear
-down key power source
+Biden admin quietly developing settlement with groups seeking to tear down
+key power source
 
-   30 mins ago
+   CBP memo orders agents not to misgender 'members of the public'
+   1 hour ago
 
-[170]CBP memo orders agents not to misgender 'members of the public'
+CBP memo orders agents not to misgender 'members of the public'
 
-[171]U.S.
-
-
-[180]World
-
-
-[189]Opinion
-
-[190]Politics
+U.S.
 
 
-[198]Entertainment
+World
 
 
-[205]Business
+Opinion
+
+Politics
 
 
-[213]Lifestyle
+Entertainment
 
 
-[222]Science
+Business
 
 
-[229]Tech
+Lifestyle
 
 
-[236]Health
+Science
 
 
-[244]TV
+Tech
 
 
-[251]About
+Health
+
+
+TV
+
+
+About
 
 
 Other
 
 
 
+   Fox News
 
    This material may not be published, broadcast, rewritten, or
    redistributed. ©2023 FOX News Network, LLC. All rights reserved. Quotes
    displayed in real-time or delayed by at least 15 minutes. Market data
-   provided by [289]Factset. Powered and implemented by [290]FactSet
-   Digital Solutions. [291]Legal Statement. Mutual Fund and ETF data
-   provided by [292]Refinitiv Lipper.
-
-References
-
-   Visible links:
-   1. https://www.foxnews.com/
-   2. https://www.foxbusiness.com/
-   3. https://nation.foxnews.com/
-   4. https://radio.foxnews.com/
-   5. https://www.foxweather.com/
-   6. https://www.outkick.com/
-   7. https://www.foxnews.com/books
-   8. https://www.foxnews.com/
-   9. https://www.foxnews.com/us
-  10. https://www.foxnews.com/politics
-  11. https://www.foxnews.com/world
-  12. https://www.foxnews.com/opinion
-  13. https://www.foxnews.com/media
-  14. https://www.foxnews.com/entertainment
-  15. https://www.foxnews.com/sports
-  16. https://www.foxnews.com/lifestyle
-  17. https://www.foxnews.com/video
-  18. https://www.foxnews.com/category/tech/artificial-intelligence
-  19. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
-  20. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
-  21. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
-  22. https://www.foxnews.com/video/5614615980001
-  23. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
-  24. https://www.foxnews.com/us
-  25. https://www.foxnews.com/category/us/crime
-  26. https://www.foxnews.com/category/us/military
-  27. https://www.foxnews.com/category/us/education
-  28. https://www.foxnews.com/category/us/terror
-  29. https://www.foxnews.com/category/us/immigration
-  30. https://www.foxnews.com/category/us/economy
-  31. https://www.foxnews.com/category/us/personal-freedoms
-  32. https://www.foxnews.com/category/news-events/fox-news-investigates
-  33. https://www.foxnews.com/world
-  34. https://www.foxnews.com/category/world/united-nations
-  35. https://www.foxnews.com/category/world/conflicts
-  36. https://www.foxnews.com/category/world/terrorism
-  37. https://www.foxnews.com/category/world/disasters
-  38. https://www.foxnews.com/category/world/global-economy
-  39. https://www.foxnews.com/category/world/environment
-  40. https://www.foxnews.com/category/world/religion
-  41. https://www.foxnews.com/category/world/scandals
-  42. https://www.foxnews.com/opinion
-  43. https://www.foxnews.com/politics
-  44. https://www.foxnews.com/category/politics/executive
-  45. https://www.foxnews.com/category/politics/senate
-  46. https://www.foxnews.com/category/politics/house-of-representatives
-  47. https://www.foxnews.com/category/politics/judiciary
-  48. https://www.foxnews.com/category/politics/foreign-policy
-  49. https://www.foxnews.com/official-polls
-  50. https://www.foxnews.com/elections
-  51. https://www.foxnews.com/entertainment
-  52. https://www.foxnews.com/category/entertainment/celebrity-news
-  53. https://www.foxnews.com/category/entertainment/movies
-  54. https://www.foxnews.com/category/entertainment/tv
-  55. https://www.foxnews.com/category/entertainment/music
-  56. https://www.foxnews.com/category/entertainment/style
-  57. https://www.foxnews.com/video/topics/entertainment
-  58. https://www.foxbusiness.com/
-  59. https://www.foxbusiness.com/personal-finance
-  60. https://www.foxbusiness.com/economy
-  61. https://www.foxbusiness.com/markets
-  62. https://www.foxbusiness.com/watchlist
-  63. https://www.foxbusiness.com/lifestyle
-  64. https://www.foxbusiness.com/real-estate
-  65. https://www.foxbusiness.com/technology
-  66. https://www.foxnews.com/lifestyle
-  67. https://www.foxnews.com/food-drink
-  68. https://www.foxnews.com/auto
-  69. https://www.foxnews.com/travel
-  70. https://www.foxnews.com/category/real-estate
-  71. https://www.foxnews.com/category/fitness-and-wellbeing
-  72. https://www.foxnews.com/category/style-and-beauty
-  73. https://www.foxnews.com/family
-  74. https://www.foxnews.com/category/faith-values/faith
-  75. https://www.foxnews.com/science
-  76. https://www.foxnews.com/category/science/archaeology
-  77. https://www.foxnews.com/category/science/air-and-space
-  78. https://www.foxnews.com/category/science/planet-earth
-  79. https://www.foxnews.com/category/science/wild-nature
-  80. https://www.foxnews.com/category/science/natural-science
-  81. https://www.foxnews.com/category/science/archaeology/dinosaurs
-  82. https://www.foxnews.com/tech
-  83. https://www.foxnews.com/category/tech/topics/security
-  84. https://www.foxnews.com/category/tech/topics/innovation
-  85. https://www.foxnews.com/category/tech/technologies/drones
-  86. https://www.foxnews.com/category/tech/topics/computers
-  87. https://www.foxnews.com/category/tech/topics/video-games
-  88. https://www.foxnews.com/category/tech/topics/military-tech
-  89. https://www.foxnews.com/health
-  90. https://www.foxnews.com/category/health/infectious-disease/coronavirus
-  91. https://www.foxnews.com/category/health/healthy-living
-  92. https://www.foxnews.com/category/health/medical-research
-  93. https://www.foxnews.com/category/health/mental-health
-  94. https://www.foxnews.com/category/health/cancer
-  95. https://www.foxnews.com/category/health/heart-health
-  96. https://www.foxnews.com/category/health/healthy-living/childrens-health
-  97. https://www.foxnews.com/shows
-  98. https://www.foxnews.com/shows
-  99. https://www.foxnews.com/person/personalities
- 100. https://www.foxnews.com/video/5614615980001
- 101. https://www.foxnews.com/video/shows
- 102. https://www.foxnews.com/video/topics/v-most-recent-episodes
- 103. https://www.foxnews.com/video/topics/latest-news-video
- 104. https://www.foxnews.com/about
- 105. https://www.foxnews.com/contact
- 106. https://foxcareers.com/Search/SearchResults?brand=Fox News Careers
- 107. https://www.foxnews.com/story/where-in-the-world-is-fox
- 108. mailto:adsales@foxnews.com?subject=Advertising Inquiry
- 109. https://press.foxnews.com/media-contacts/
- 110. https://press.foxnews.com/
- 111. https://www.foxnews.com/compliance
- 112. https://www.foxbusiness.com/
- 113. https://www.foxweather.com/
- 114. https://www.foxnews.com/shows/fox-nation
- 115. https://www.foxsports.com/soccer/2023-fifa-womens-world-cup
- 116. https://shop.foxnews.com/
- 117. https://www.foxnews.com/go
- 118. https://radio.foxnews.com/
- 119. https://www.outkick.com/
- 120. https://www.foxnews.com/newsletters
- 121. https://radio.foxnews.com/podcast/
- 122. https://www.foxnews.com/apps-products
- 123. https://www.foxnews.com/
- 124. https://www.foxnews.com/terms-of-use
- 125. https://www.foxnews.com/privacy-policy
- 126. http://privacy.foxnews.com/main/web/main
- 127. https://www.foxnews.com/closed-captioning
- 128. https://help.foxnews.com/
- 129. https://www.foxnews.com/contact
- 130. https://www.factset.com/
- 131. https://www.factset.com/solutions/business-needs/digital-solutions
- 132. https://www.factset.com/privacy
- 133. https://lipperalpha.refinitiv.com/
- 134. https://www.facebook.com/FoxNews
- 135. https://twitter.com/foxnews
- 136. https://www.instagram.com/foxnews
- 137. https://www.foxnews.com/story/foxnews-com-rss-feeds
- 138. https://www.foxnews.com/newsletters
- 139. https://www.foxnews.com/politics
- 140. https://www.foxnews.com/person/l/kelly-laco
- 141. https://www.foxnews.com/
- 142. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 143. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 144. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 145. file:///politics/free-speech-concerns-dhs-disinformation-board-lawmakers-critics.print
- 146. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 147. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 148. http://video.foxnews.com/v/6305381339112
- 149. https://www.foxnews.com/video/6305381339112
- 150. https://www.foxnews.com/politics/republicans-accuse-mayorkas-discrediting-legitimate-criticism-disinformation-board
- 151. https://www.foxnews.com/politics/republicans-accuse-mayorkas-discrediting-legitimate-criticism-disinformation-board
- 152. https://twitter.com/SenTomCotton/status/1520045316715782144?s=20&t=QCdQnE1bX6_jV72o3-OENw
- 153. https://twitter.com/SenRickScott/status/1520033827971809281
- 154. https://www.foxnews.com/politics/mccarthy-calls-on-biden-to-disband-disinformation-board-orwellian-ministry-of-truth
- 155. https://turner.house.gov/_cache/files/6/f/6fa77066-17ff-47ee-ae1e-84c23087d504/483943ACB0601BCC369B64C69ED6A8C8.ltr-to-dhs-disinfo-gov-bd-28-april-22-final.pdf.pdf
- 156. https://www.foxnews.com/politics/mayorkas-dhs-disinformation-governance-board
- 157. https://twitter.com/laurenboebert/status/1520082623879688193?s=20&t=6mkiaN6Trlfn7Z2B2JN81g
- 158. https://www.foxnews.com/politics/white-house-defends-dhs-disinformation-board-not-sure-who-opposes-that-effort
- 159. https://www.foxnews.com/politics/dhs-orwellian-disinformation-board-eric-schmitt
- 160. https://www.foxnews.com/apps-products?pid=AppArticleLink
- 161. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 162. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 163. file:///politics/christie-turns-up-heat-haley-desantis-tries-to-be-trump-alternative-gop-2024-race
- 164. file:///politics/christie-turns-up-heat-haley-desantis-tries-to-be-trump-alternative-gop-2024-race
- 165. file:///politics/legal-group-calls-on-michigan-bar-investigate-sanction-tlaib-over-anti-israel-rhetoric
- 166. file:///politics/legal-group-calls-on-michigan-bar-investigate-sanction-tlaib-over-anti-israel-rhetoric
- 167. file:///politics/biden-admin-quietly-developing-settlement-groups-seeking-tear-down-key-power-source
- 168. file:///politics/biden-admin-quietly-developing-settlement-groups-seeking-tear-down-key-power-source
- 169. file:///politics/cbp-agents-ordered-not-misgender-members-public-memo-heritage-foundation-says
- 170. file:///politics/cbp-agents-ordered-not-misgender-members-public-memo-heritage-foundation-says
- 171. https://www.foxnews.com/us
- 172. https://www.foxnews.com/category/us/crime
- 173. https://www.foxnews.com/category/us/military
- 174. https://www.foxnews.com/category/us/education
- 175. https://www.foxnews.com/category/us/terror
- 176. https://www.foxnews.com/category/us/immigration
- 177. https://www.foxnews.com/category/us/economy
- 178. https://www.foxnews.com/category/us/personal-freedoms
- 179. https://www.foxnews.com/category/news-events/fox-news-investigates
- 180. https://www.foxnews.com/world
- 181. https://www.foxnews.com/category/world/united-nations
- 182. https://www.foxnews.com/category/world/conflicts
- 183. https://www.foxnews.com/category/world/terrorism
- 184. https://www.foxnews.com/category/world/disasters
- 185. https://www.foxnews.com/category/world/global-economy
- 186. https://www.foxnews.com/category/world/environment
- 187. https://www.foxnews.com/category/world/religion
- 188. https://www.foxnews.com/category/world/scandals
- 189. https://www.foxnews.com/opinion
- 190. https://www.foxnews.com/politics
- 191. https://www.foxnews.com/category/politics/executive
- 192. https://www.foxnews.com/category/politics/senate
- 193. https://www.foxnews.com/category/politics/house-of-representatives
- 194. https://www.foxnews.com/category/politics/judiciary
- 195. https://www.foxnews.com/category/politics/foreign-policy
- 196. https://www.foxnews.com/official-polls
- 197. https://www.foxnews.com/elections
- 198. https://www.foxnews.com/entertainment
- 199. https://www.foxnews.com/category/entertainment/celebrity-news
- 200. https://www.foxnews.com/category/entertainment/movies
- 201. https://www.foxnews.com/category/entertainment/tv
- 202. https://www.foxnews.com/category/entertainment/music
- 203. https://www.foxnews.com/category/entertainment/style
- 204. https://www.foxnews.com/video/topics/entertainment
- 205. https://www.foxbusiness.com/
- 206. https://www.foxbusiness.com/personal-finance
- 207. https://www.foxbusiness.com/economy
- 208. https://www.foxbusiness.com/markets
- 209. https://www.foxbusiness.com/watchlist
- 210. https://www.foxbusiness.com/lifestyle
- 211. https://www.foxbusiness.com/real-estate
- 212. https://www.foxbusiness.com/technology
- 213. https://www.foxnews.com/lifestyle
- 214. https://www.foxnews.com/food-drink
- 215. https://www.foxnews.com/auto
- 216. https://www.foxnews.com/travel
- 217. https://www.foxnews.com/category/real-estate
- 218. https://www.foxnews.com/category/fitness-and-wellbeing
- 219. https://www.foxnews.com/category/style-and-beauty
- 220. https://www.foxnews.com/family
- 221. https://www.foxnews.com/category/faith-values/faith
- 222. https://www.foxnews.com/science
- 223. https://www.foxnews.com/category/science/archaeology
- 224. https://www.foxnews.com/category/science/air-and-space
- 225. https://www.foxnews.com/category/science/planet-earth
- 226. https://www.foxnews.com/category/science/wild-nature
- 227. https://www.foxnews.com/category/science/natural-science
- 228. https://www.foxnews.com/category/science/archaeology/dinosaurs
- 229. https://www.foxnews.com/tech
- 230. https://www.foxnews.com/category/tech/topics/security
- 231. https://www.foxnews.com/category/tech/topics/innovation
- 232. https://www.foxnews.com/category/tech/technologies/drones
- 233. https://www.foxnews.com/category/tech/topics/computers
- 234. https://www.foxnews.com/category/tech/topics/video-games
- 235. https://www.foxnews.com/category/tech/topics/military-tech
- 236. https://www.foxnews.com/health
- 237. https://www.foxnews.com/category/health/infectious-disease/coronavirus
- 238. https://www.foxnews.com/category/health/healthy-living
- 239. https://www.foxnews.com/category/health/medical-research
- 240. https://www.foxnews.com/category/health/mental-health
- 241. https://www.foxnews.com/category/health/cancer
- 242. https://www.foxnews.com/category/health/heart-health
- 243. https://www.foxnews.com/category/health/healthy-living/childrens-health
- 244. https://www.foxnews.com/shows
- 245. https://www.foxnews.com/shows
- 246. https://www.foxnews.com/person/personalities
- 247. https://www.foxnews.com/video/5614615980001
- 248. https://www.foxnews.com/video/shows
- 249. https://www.foxnews.com/video/topics/v-most-recent-episodes
- 250. https://www.foxnews.com/video/topics/latest-news-video
- 251. https://www.foxnews.com/about
- 252. https://www.foxnews.com/contact
- 253. https://foxcareers.com/Search/SearchResults?brand=Fox News Careers
- 254. https://www.foxnews.com/story/where-in-the-world-is-fox
- 255. mailto:adsales@foxnews.com?subject=Advertising Inquiry
- 256. https://press.foxnews.com/media-contacts/
- 257. https://press.foxnews.com/
- 258. https://www.foxnews.com/compliance
- 259. https://www.foxbusiness.com/
- 260. https://www.foxweather.com/
- 261. https://www.foxnews.com/shows/fox-nation
- 262. https://www.foxsports.com/soccer/2023-fifa-womens-world-cup
- 263. https://shop.foxnews.com/
- 264. https://www.foxnews.com/go
- 265. https://radio.foxnews.com/
- 266. https://www.outkick.com/
- 267. https://www.foxnews.com/newsletters
- 268. https://radio.foxnews.com/podcast/
- 269. https://www.foxnews.com/apps-products
- 270. https://www.facebook.com/FoxNews
- 271. https://twitter.com/foxnews
- 272. https://www.instagram.com/foxnews
- 273. https://www.youtube.com/FoxNewsChannel
- 274. https://flipboard.com/@FoxNews
- 275. https://www.linkedin.com/company/fox-news-channel/
- 276. https://foxnews.slack.com/apps/A013AUF6VMG-fox-news
- 277. https://www.foxnews.com/story/foxnews-com-rss-feeds
- 278. https://www.foxnews.com/newsletters
- 279. https://open.spotify.com/show/7A4YfyFtNOZhqMV7F3kYVu
- 280. https://www.iheart.com/podcast/256-the-fox-news-rundown-31090295/
- 281. https://www.foxnews.com/
- 282. https://www.foxnews.com/terms-of-use
- 283. https://www.foxnews.com/privacy-policy
- 284. http://privacy.foxnews.com/main/web/main
- 285. https://www.foxnews.com/closed-captioning
- 286. https://help.foxnews.com/
- 287. https://www.foxnews.com/contact
- 288. https://www.foxnews.com/accessibility-statement
- 289. https://www.factset.com/
- 290. https://www.factset.com/solutions/business-needs/digital-solutions
- 291. https://www.factset.com/privacy
- 292. https://lipperalpha.refinitiv.com/
-
-   Hidden links:
- 294. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49009-4199TMP.html
- 295. https://www.foxnews.com/category/fox-nation/patriot-awards
- 296. https://www.foxnews.com/category/fox-nation/patriot-awards
- 297. https://www.foxnews.com/category/fox-nation/patriot-awards
+   provided by Factset. Powered and implemented by FactSet Digital
+   Solutions. Legal Statement. Mutual Fund and ETF data provided by
+   Refinitiv Lipper.

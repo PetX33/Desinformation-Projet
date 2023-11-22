@@ -5,21 +5,22 @@
    Communications minister Michelle Rowland wants Acma to have ‘new
    information-gathering and record-keeping powers’ to monitor digital
    platforms efforts to fight disinformation. Photograph: Lukas Coch/AAP
+   Australian politics
+   Explainer
 
 Why is Labor’s bill on combatting disinformation so controversial?
 
    Coalition is ringing alarm bells about legislation, despite it
    containing many Morrison-era proposals. But they’re not alone in their
 --
-
+   @amyremeikis
    Sun 1 Oct 2023 01.00 CESTLast modified on Sun 1 Oct 2023 03.32 CEST
 
    It’s been designed to combat misinformation and disinformation on
-   digital platforms, but the [118]Combatting Misinformation and
-   Disinformation bill exposure draft has unleashed a flurry of
-   controversy, and its fair share of misinformation.
+   digital platforms, but the Combatting Misinformation and Disinformation
+   bill exposure draft has unleashed a flurry of controversy, and its fair
+   share of misinformation.
 
-   So what are the facts around this legislation and will it end freedom
 --
    The communications minister, Michelle Rowland, said: “Acma will be
    given new information-gathering and record-keeping powers to create
@@ -38,16 +39,17 @@ Why is Labor’s bill on combatting disinformation so controversial?
    Importantly, the bill does not give Acma any “take down” powers. It
    cannot order the removal of a post. Instead, if concerns are raised, it
 --
-   the implications of this for media content creators, advertisers and
    consumers”. In its final report in 2019, the ACCC recommended a
-   misleading and harmful news” including “appropriate responses” to
-   address disinformation and “mal-information”.
+   “digital platforms code to address the risk of deliberately misleading
+   and harmful news” including “appropriate responses” to address
+   disinformation and “mal-information”.
 
    A voluntary code of conduct was drawn up by some of the major platforms
-   in response and adopted by [120]Google, Facebook, Microsoft, Twitter,
+   in response and adopted by Google, Facebook, Microsoft, Twitter,
    TikTok, Redbubble, Apple and Adobe in 2021. Acma was given the job of
    keeping an eye on how the platforms upheld the code. That same year,
-   the rise of disinformation and misinformation online and recommended
+   the watchdog reported to the Morrison government its concerns over the
+   rise of disinformation and misinformation online and recommended
    beefing up the code.
    Indigenous voice – video
    00:02:19
@@ -70,8 +72,8 @@ Why is Labor’s bill on combatting disinformation so controversial?
    “disinformation” will be.
 
    The University of Technology Sydney submitted to the inquiry that it
-   believed some of the concerns to be “overblown” [137]but accepted there
-   was legitimate concern about the enlarged role for Acma.
+   believed some of the concerns to be “overblown” but accepted there was
+   legitimate concern about the enlarged role for Acma.
 
    It proposed “limiting Acma’s information gathering powers to ‘measures
    implemented to prevent or respond’ to mis- and disinformation … thereby
@@ -81,61 +83,10 @@ Why is Labor’s bill on combatting disinformation so controversial?
 Is it the end of the world?
 
 --
-   voices amplified by platforms”.
+   amplified by platforms”.
 
-   The Coalition’s 2022 [139]election platform included a promise to
-   create “stronger laws to combat harmful disinformation and
-   misinformation online by giving the media regulator stronger
-   information-gathering and enforcement powers”. It now calls the
-   legislation seeking to do that an “absolute disgrace”.
---
- 115. https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl
- 116. file://www.theguardian.com/profile/amy-remeikis
- 117. https://www.twitter.com/amyremeikis
- 118. https://www.infrastructure.gov.au/sites/default/files/documents/communications-legislation-amendment-combatting-misinformation-and-disinformation-bill2023-june2023.pdf
- 119. https://www.accc.gov.au/about-us/publications/digital-platforms-inquiry-executive-summary
- 120. https://www.theguardian.com/technology/google
- 121. https://www.acma.gov.au/report-government-adequacy-digital-platforms-disinformation-and-news-quality-measures
- 122. https://www.theguardian.com/media/2022/mar/21/digital-code-of-conduct-fails-to-stop-all-harms-of-misinformation-acma-warns
- 123. https://www.paulfletcher.com.au/media-releases/new-disinformation-laws
- 124. https://www.smh.com.au/technology/data-next-battle-for-facebook-other-social-media-giants-20220617-p5auo1.html
- 125. https://minister.infrastructure.gov.au/rowland/media-release/new-acma-powers-combat-harmful-online-misinformation-and-disinformation
- 126. https://www.theguardian.com/australia-news/2023/jan/09/whatsapp-and-other-messaging-services-left-out-of-new-australian-misinformation-code-regulator-says
- 127. https://www.theguardian.com/email-newsletters?CMP=copyembed
- 128. https://minister.infrastructure.gov.au/rowland/media-release/consultation-opens-new-laws-tackle-online-misinformation-and-disinformation
- 129. https://www.spectator.com.au/2023/06/labors-censorship-bill-a-threat-to-democracy/
- 130. https://www.theguardian.com/australia-news/2023/aug/05/australian-christian-lobby-social-posts-labor-misinformation-campaign
- 131. https://www.liberal.org.au/latest-news/2023/08/01/labors-shocker-misinformation-bill-should-be-torn
---
- 133. https://www.theguardian.com/help/privacy-policy
- 134. https://policies.google.com/privacy
- 135. https://policies.google.com/terms
- 136. https://www.infrastructure.gov.au/sites/default/files/documents/communications-legislation-amendment-combatting-misinformation-and-disinformation-bill-2023-guidance-note-june2023_2.pdf
- 137. https://www.theguardian.com/australia-news/2023/sep/19/anthony-albanese-disinformation-crackdown-liberal-coalition-opposed
- 138. https://www.theguardian.com/australia-news/2023/sep/19/anthony-albanese-disinformation-crackdown-liberal-coalition-opposed
- 139. https://www.liberal.org.au/our-plan-protecting-australians-online
- 140. https://www.davidcoleman.com.au/transcripts/shadow-minister-for-communications-transcript-sky-news-with-tom-connell-misinformation-bill-mike-pezzullo/
- 141. https://www.theguardian.com/media/2023/sep/21/labor-urged-to-include-news-outlets-in-social-media-crackdown-to-curb-dangerous-misinformation#:~:text=The draft bill would allow,or contribute to serious harm”.
---
- 145. file:///media/social-media
- 146. file:///media/digital-media
- 147. file:///tone/explainers
- 148. https://syndication.theguardian.com/automation/?url=https://www.theguardian.com/australia-news/2023/oct/01/why-is-labors-bill-on-combatting-disinformation-so-controversial&type=article&internalpagecode=australia-news/2023/oct/01/why-is-labors-bill-on-combatting-disinformation-so-controversial
- 149. file:///australia-news
- 150. file:///world
- 151. file:///australia-news/australian-politics
---
- 187. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49479-8650TMP.html#top
-
-   Hidden links:
- 189. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_fb
- 190. https://twitter.com/intent/tweet?text=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_tw
- 191. mailto:?subject=Why%20is%20Labor%E2%80%99s%20bill%20on%20combatting%20disinformation%20so%20controversial%3F&body=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_link
- 192. https://www.theguardian.com/australia-news/2023/sep/03/trumpian-era-of-disinformation-makes-voice-yes-campaign-job-more-difficult-megan-davis-says
- 193. https://www.theguardian.com/australia-news/2023/jul/18/labor-social-media-regulation-laws-free-speech-coalition
- 194. https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_fb
- 195. https://twitter.com/intent/tweet?text=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_tw
- 196. mailto:?subject=Why%20is%20Labor%E2%80%99s%20bill%20on%20combatting%20disinformation%20so%20controversial%3F&body=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_link
- 197. http://www.linkedin.com/shareArticle?=title=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F&mini=true&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3F
- 198. whatsapp://send/?text=Why+is+Labor%E2%80%99s+bill+on+combatting+disinformation+so+controversial%3F+https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_wa
- 199. fb-messenger://share/?link=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2F2023%2Foct%2F01%2Fwhy-is-labors-bill-on-combatting-disinformation-so-controversial%3FCMP%3Dshare_btn_me&app_id=180444840287
+   The Coalition’s 2022 election platform included a promise to create
+   “stronger laws to combat harmful disinformation and misinformation
+   online by giving the media regulator stronger information-gathering and
+   enforcement powers”. It now calls the legislation seeking to do that an
+   “absolute disgrace”.

@@ -1,10 +1,10 @@
 
-   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-MVD397M
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MVD397M
 
    Accessibility links
 
 
-       & Shows
+       Shows
        Daily
        Featured
 
@@ -15,18 +15,21 @@
    volunteers scattered across the world to try to bring some clarity to
    the pace of war-related claims being made on social media.
 
-[65]World
+World
 
 Thousands of FakeReporter volunteers sort through disinformation on social
 media
 
    October 23, 20235:04 PM ET
-   Heard on [66]All Things Considered
+   Heard on All Things Considered
+   Bobby Allyn
 
+   Bobby Allyn
 
 Thousands of FakeReporter volunteers sort through disinformation on social
 media
 
+   Listen · 4:00 4:00
        src="https://www.npr.org/player/embed/1208061549/1208066829"
        width="100%" height="290" frameborder="0" scrolling="no" title="NPR
        embedded audio player">
@@ -121,9 +124,8 @@ media
    he says he hopes FakeReporter can stop it in its tracks before it goes
    viral. Bobby Allyn, NPR News.
 
-   Copyright © 2023 NPR. All rights reserved. Visit our website [72]terms
-   of use and [73]permissions pages at [74]www.npr.org for further
-   information.
+   Copyright © 2023 NPR. All rights reserved. Visit our website terms of
+   use and permissions pages at www.npr.org for further information.
 
    NPR transcripts are created on a rush deadline by an NPR contractor.
    This text may not be in its final form and may be updated or revised in
@@ -145,109 +147,4 @@ Get Involved
 
    Sponsor Message
 
-
-References
-
-   1. https://feeds.npr.org/1004/rss.xml
-   2. https://feeds.npr.org/feeds/1004/feed.json
-   3. https://www.googletagmanager.com/ns.html?id=GTM-MVD397M
-   4. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L49247-8875TMP.html#mainContent
-   5. https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player
-   6. file:///
-   7. file:///newsletters/
-   8. https://shopnpr.org/
-   9. file:///
-  10. file:///sections/news/
-  11. file:///sections/national/
-  12. file:///sections/world/
-  13. file:///sections/politics/
-  14. file:///sections/business/
-  15. file:///sections/health/
-  16. file:///sections/science/
-  17. file:///sections/climate/
-  18. file:///sections/codeswitch/
-  19. file:///sections/culture/
-  20. file:///books/
-  21. file:///sections/movies/
-  22. file:///sections/television/
-  23. file:///sections/pop-culture/
-  24. file:///sections/food/
-  25. file:///sections/art-design/
-  26. file:///sections/performing-arts/
-  27. file:///lifekit/
-  28. file:///sections/gaming/
-  29. file:///music/
-  30. https://www.npr.org/series/1191556125/hip-hop-50
-  31. https://www.npr.org/series/tiny-desk-concerts/
-  32. https://www.npr.org/sections/allsongs/
-  33. https://www.npr.org/sections/music-features
-  34. https://www.npr.org/series/770565791/npr-music-live-sessions
-  35. file:///podcasts-and-shows/
-  36. file:///programs/morning-edition/
-  37. file:///programs/weekend-edition-saturday/
-  38. file:///programs/weekend-edition-sunday/
-  39. file:///programs/all-things-considered/
-  40. file:///programs/fresh-air/
-  41. file:///podcasts/510318/up-first/
-  42. https://www.npr.org/podcasts/510298/ted-radio-hour
-  43. https://www.npr.org/podcasts/510357/louder-than-a-riot
-  44. https://www.npr.org/podcasts/510317/its-been-a-minute
-  45. https://www.npr.org/podcasts/510338/all-guides
-  46. file:///podcasts-and-shows/
-  47. file:///search/
-  48. file:///newsletters/
-  49. https://shopnpr.org/
-  50. file:///music/
-  51. https://www.npr.org/series/1191556125/hip-hop-50
-  52. https://www.npr.org/series/tiny-desk-concerts/
-  53. https://www.npr.org/sections/allsongs/
-  54. https://www.npr.org/sections/music-features
-  55. https://www.npr.org/series/770565791/npr-music-live-sessions
-  56. file:///about/
-  57. file:///diversity/
-  58. file:///organization/
-  59. file:///network/
-  60. file:///support/
-  61. file:///careers/
-  62. file:///connect/
-  63. file:///press/
-  64. file:///ethics/
-  65. https://www.npr.org/sections/world/
-  66. https://www.npr.org/programs/all-things-considered/2023/10/23/1208066091/all-things-considered-for-october-23-2023
-  67. https://www.npr.org/people/638550790/bobby-allyn
-  68. https://www.npr.org/people/638550790/bobby-allyn
-  69. https://ondemand.npr.org/anon.npr-mp3/npr/atc/2023/10/20231023_atc_fake_reporter.mp3?d=240&size=3846105&e=1208061549&t=progseg&seg=4&p=2&sc=siteplayer&aw_0_1st.playerid=siteplayer
-  70. https://ondemand.npr.org/anon.npr-mp3/npr/atc/2023/10/20231023_atc_fake_reporter.mp3?d=240&size=3846105&e=1208061549&t=progseg&seg=4&p=2&sc=siteplayer&aw_0_1st.playerid=siteplayer
-  71. https://www.npr.org/transcripts/1208061549
-  72. https://www.npr.org/about-npr/179876898/terms-of-use
-  73. https://www.npr.org/about-npr/179881519/rights-and-permissions-information
-  74. https://www.npr.org/
-  75. file:///
-  76. file:///sections/news/
-  77. file:///sections/culture/
-  78. file:///music/
-  79. file:///podcasts-and-shows
-  80. file:///newsletters/
-  81. https://www.facebook.com/NPR/
-  82. https://www.instagram.com/npr/
-  83. file:///press/
-  84. file:///sections/publiceditor/
-  85. file:///corrections/
-  86. https://help.npr.org/contact/s/
-  87. file:///about/
-  88. file:///diversity/
-  89. file:///network/
-  90. file:///about-npr/1136563345/accessibility
-  91. file:///ethics/
-  92. file:///about-npr/178660742/public-radio-finances
-  93. file:///support/
-  94. file:///about-npr/186948703/corporate-sponsorship
-  95. file:///careers/
-  96. https://shopnpr.org/
-  97. https://www.nprpresents.org/
-  98. file:///sections/npr-extra/
-  99. file:///about-npr/179876898/terms-of-use
- 100. file:///about-npr/179878450/privacy-policy
- 101. file:///about-npr/179878450/privacy-policy#yourchoices
- 102. https://text.npr.org/
- 103. file:///about-npr/186948703/corporate-sponsorship
+   Become an NPR sponsor

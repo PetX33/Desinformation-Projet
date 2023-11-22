@@ -4,7 +4,7 @@
 EU officials warn Google and YouTube about Hamas-Israel disinformation and
 graphic content
 
-   By [141]Brian Fung, CNN
+   Brian Fung
 --
    Washington CNN  —
 
@@ -24,22 +24,3 @@ graphic content
    personally discussed when we met in Brussels in May,” Breton wrote,
    referencing upcoming elections in a number of EU countries.
 
---
-References
-
-   Visible links:
-   1. https://edition.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   2. https://www.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   3. https://www.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   4. https://edition.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
-   5. https://edition.cnn.com/markets
-   6. https://edition.cnn.com/business/tech
-   7. https://edition.cnn.com/business/media
---
- 263. file://localhost/2023/11/22/tech/openai-altman-returns-hnk-intl/index.html
- 264. file://localhost/2023/11/22/tech/china-douyu-ceo-arrest-crackdown-intl-hnk/index.html
- 265. file://localhost/2023/11/21/investing/what-is-binance-and-why-is-it-in-trouble/index.html
- 266. mailto:?subject=CNN%20content%20share&body=Check%20out%20this%20article%3A%0Ahttps%3A%2F%2Fwww.cnn.com%2F2023%2F10%2F13%2Ftech%2Fgoogle-youtube-hamas-israel-disinformation
- 267. file://localhost/2023/11/21/tech/democrats-accuse-x-elon-musk-hamas-propaganda/index.html
- 268. file://localhost/2023/11/21/tech/paris-hilton-x-ads/index.html
- 269. file://localhost/videos/business/2023/11/22/spacex-us-government-nasa-fisher-dnt-ebof-vpx.cnn

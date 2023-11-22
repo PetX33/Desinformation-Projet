@@ -1,21 +1,21 @@
-   Watch CBS News
 
+   CBS Saturday Morning
 
 Social media disinformation spreads amid war in Israel
 
+   cbs-mornings-saturday
 
-   By Jo Ling Kent, Kerry Breen
 --
+   The war comes after Elon Musk, the owner of X, laid off much of the
+   team responsible for monitoring posts on the site. On Tuesday, the
+   European Union sent the billionaire a letter asking him to immediately
+   remove "illegal content and disinformation." If not, "penalties can be
+   imposed," the E.U. warned.
 
-   The war comes after Elon Musk, the owner of X, [111]laid off much of
-   the team responsible for monitoring posts on the site. On Tuesday, the
-   immediately remove "illegal content and disinformation." If not,
-   "penalties can be imposed," the E.U. warned.
-
-   X [113]said early last week that they have already removed
-   "Hamas-affiliated accounts" and "several hundred accounts." Other major
-   social media platforms, including Facebook, TikTok, and Snap told CBS
-   News that they have increased their resources to fight disinformation.
+   X said early last week that they have already removed "Hamas-affiliated
+   accounts" and "several hundred accounts." Other major social media
+   platforms, including Facebook, TikTok, and Snap told CBS News that they
+   have increased their resources to fight disinformation.
 
    Mike Caulfield, a research scientist at the Center for an Informed
    Public, a multidisciplinary research center at Seattle's University of
@@ -23,53 +23,3 @@ Social media disinformation spreads amid war in Israel
 
    "When we flood people with this sea of unvetted information, much of it
    deceptive, we're throwing away the goodwill of our citizens," Caulfield
---
-References
-
-   Visible links:
-   1. ios-app://334256223/https/www.cbsnews.com/news/israel-social-media-disinformation-spreads-amid-war/
-   2. android-app://com.treemolabs.apps.cbsnews/https/www.cbsnews.com/news/israel-social-media-disinformation-spreads-amid-war/
-   3. https://www.cbsnews.com/latest/rss/main
-   4. https://www.cbsnews.com/latest/rss/cbs-mornings-saturday
-   5. https://www.cbsnews.com/news/israel-hamas-war-hostages-cease-fire-agreement-netanyahu-cabinet-meeting/
---
-  93. file:///cbslocal/
-  94. file:///video/playlist/a-moment-with/
-  95. file:///video/playlist/innovators-disruptors/
-  96. https://www.cbsnews.com/user/login/?ifmsgr=true&page=/news/israel-social-media-disinformation-spreads-amid-war/
-  97. file:///newsletters/
-  98. file:///app/?ftag=CNM-16-10abd6g
-  99. file:///rss/
---
- 109. https://www.cbsnews.com/live-updates/israel-hamas-war-gaza-strip/
- 110. https://www.cbsnews.com/news/twitter-rebrand-x-name-change-elon-musk-what-it-means/
- 111. https://www.cbsnews.com/news/elon-musk-twitter-layoffs-outsourced-content-moderators/
- 112. https://www.cbsnews.com/video/how-to-spot-disinformation-about-israel-hamas-war/
- 113. https://www.cbsnews.com/news/hamas-war-gaza-twitter-x-removes-content-israel-palestinians/
- 114. https://www.cbsnews.com/feature/gaza-conflict/?intcid=CNI-00-10aaa3a
- 115. https://www.cbsnews.com/news/israel-hamas-war-hostages-cease-fire-agreement-netanyahu-cabinet-meeting/?intcid=CNI-00-10aaa3a
---
- 118. https://www.cbsnews.com/news/negotiators-near-hamas-deal-to-release-hostages-israel-qatar/?intcid=CNI-00-10aaa3a
- 119. https://www.cbsnews.com/news/israel-hamas-ceasefire-jordan-ambassador-dina-kawar-face-the-nation/?intcid=CNI-00-10aaa3a
- 120. https://www.cbsnews.com/feature/gaza-conflict/?intcid=CNI-00-10aaa3a
- 121. file:///tag/disinformation/
- 122. file:///tag/elon-musk/
- 123. file:///tag/social-media/
- 124. file:///tag/israel/
---
- 143. https://twitter.com/CBSNews
- 144. https://instagram.com/cbsnews/
- 145. https://www.youtube.com/CBSNews
- 146. file:///app/?ftag=CNM-16-10abd6g&url=https://www.cbsnews.com/news/israel-social-media-disinformation-spreads-amid-war/
- 147. file:///var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html#app
-
-   Hidden links:
---
- 152. file://localhost/var/folders/3q/w15676x11fz0pvzjk1wr_qp40000gn/T/L48936-7947TMP.html
- 153. file://localhost/live/
- 154. file://localhost/live/
- 155. http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fisrael-social-media-disinformation-spreads-amid-war%2F
- 156. https://twitter.com/intent/tweet?related=cbsnews,CBSMornings&via=CBSMornings&text=Social%20media%20disinformation%20spreads%20amid%20war%20in%20Israel&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fisrael-social-media-disinformation-spreads-amid-war%2F
- 157. https://share.flipboard.com/bookmarklet/popout?v=2&utm_source=www.cbsnews.com&utm_medium=article-share&utm_campaign=tools&title=Social%20media%20disinformation%20spreads%20amid%20war%20in%20Israel&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fisrael-social-media-disinformation-spreads-amid-war%2F
- 158. https://www.cbsnews.com/user/login/?ifmsgr=true&page=/news/israel-social-media-disinformation-spreads-amid-war/
- 159. https://www.cbsnews.com/user/registration/?ifmsgr=true
