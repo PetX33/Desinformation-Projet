@@ -10,9 +10,12 @@ Election 2024
 
 538
 
+   ____________________ Submit
    Interest Successfully Added
    We'll notify you here with news about
    Turn on desktop notifications for breaking stories about interest?
+   [ ] OffOn
+   (BUTTON)
 
 Stream on
 
@@ -26,6 +29,10 @@ before election
    was offering free funerals for pensioners
    ByVANESSA GERA Associated Press
    October 12, 2023, 11:51 AM
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
 
    A man puts up election banners for a candidate of the ruling
    conservative Law and Justice party, including an image of the party
@@ -81,28 +88,34 @@ before election
    Stanislaw Zaryn, a top security official, alleged that the fake
    messages were “part of Russia’s operation against the elections in
    Poland.”
+     __________________________________________________________________
 
    ABC News
+     __________________________________________________________________
 
 Top Stories
 
-Fatalities after vehicle explodes at Rainbow Bridge on US-Canada border:
-Officials
+Derek Chauvin, convicted in George Floyd's killing, stabbed in prison, AP
+source says
 
+     * Nov 24, 8:54 PM
 
-Biden declares emergency over lead in water in US Virgin Islands
+Former police officer Derek Chauvin stabbed in federal prison, sources say
 
+     * Nov 24, 11:13 PM
 
-Trump fraud trial live updates: NY AG argues for limited gag order in court
-filing
+Authorities identify husband and wife whose car exploded in Rainbow Bridge
+crash
 
+     * Nov 24, 1:08 PM
 
-Thanksgiving storm updates: Severe weather threatens travel
+Snowstorm moving through US could disrupt holiday weekend travel
 
+     * Nov 24, 9:56 AM
 
-At least 3 dead, 3 believed to be missing following landslide in Alaska:
-Officials
+Israel-Gaza live updates: Hamas releases total of 24 hostages on Friday
 
+     * Nov 24, 3:24 PM
 
 ABC News Live
 
@@ -118,3 +131,4 @@ ABC News Live
    Terms of Use
    Do Not Sell or Share My Personal Information
    Contact Us
+   © 2023 ABC News

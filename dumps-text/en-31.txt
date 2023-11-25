@@ -1,75 +1,257 @@
-   Order
+   #alternate E.U. Law Sets the Stage for a Clash Over Disinformation
 
    Skip to contentSkip to site index
-   Media
+   (BUTTON) Search & Section Navigation
+   (BUTTON) Section Navigation
+   (BUTTON) SEARCH
+   Technology
 
 
    Today’s Paper
 
-   Media|Disinformation Researchers Fret About Fallout From Judge’s Order
-   https://www.nytimes.com/2023/07/05/business/media/disinformation-resear
-   chers-judge-restrictions.html
+   Technology|E.U. Law Sets the Stage for a Clash Over Disinformation
+   https://www.nytimes.com/2023/09/27/technology/disinformation-law-europe
+   an-union.html
+     * (BUTTON) Share full article
+     * (BUTTON)
+     * (BUTTON)
+     * 276
 
    Advertisement
    SKIP ADVERTISEMENT
-   You have a preview view of this article while we are checking your
-   access. When we have confirmed access, the full article content will
-   load.
 
    Supported by
    SKIP ADVERTISEMENT
 
-Disinformation Researchers Fret About Fallout From Judge’s Order
+E.U. Law Sets the Stage for a Clash Over Disinformation
 
-   They said a restriction on government interaction with social media
-   companies could impede efforts to curb false claims about vaccines and
-   voter fraud.
+   The law, aimed at forcing social media giants to adopt new policies to
+   curb harmful content, is expected to face blowback from Elon Musk, who
+   owns X.
+     * (BUTTON) Share full article
+     * (BUTTON)
+     * (BUTTON)
+     * 276
 
-   An audience in an auditorium listens to Barack Obama speak from behind
-   a lectern on a stage.
-   A federal judge’s decision specifically named some research
-   organizations, including the Stanford Internet Observatory. Former
-   President Barack Obama spoke about disinformation at Stanford last
-   year.Credit...Jim Wilson/The New York Times
-   Tiffany Hsu Stuart A. Thompson
+   Robert Fico, displayed on a television, wears a blue suit as he debates
+   his political opponent, who is also wearing a blue suit.
+   Robert Fico, left, heads Slovakia’s SMER party. As the country heads
+   toward an election on Saturday, it has been inundated with
+   disinformation and other harmful content on social media
+   sites.Credit...Jakub Gavlak/EPA, via Shutterstock
+   Steven Lee Myers
 
-   By Tiffany Hsu and Stuart A. Thompson
-   July 5, 2023
+   By Steven Lee Myers
+   Sept. 27, 2023
 
-   A federal judge’s decision this week to restrict the government’s
-   communication with social media platforms could have broad side
-   effects, according to researchers and groups that combat hate speech,
-   online abuse and disinformation: It could further hamper efforts to
-   curb harmful content.
+   The Facebook page in Slovakia called Som z dediny, which means “I’m
+   from the village,” trumpeted a debunked Russian claim last month that
+   Ukraine’s president had secretly purchased a vacation home in Egypt
+   under his mother-in-law’s name.
 
-   Alice E. Marwick, a researcher at the University of North Carolina at
-   Chapel Hill, was one of several disinformation experts who said on
-   Wednesday that the ruling could impede work meant to keep false claims
-   about vaccines and voter fraud from spreading.
+   A post on Telegram — later recycled on Instagram and other sites —
+   suggested that a parliamentary candidate in the country’s coming
+   election had died from a Covid vaccine, though he remains very much
+   alive. A far-right leader posted on Facebook a photograph of refugees
+   in Slovakia doctored to include an African man brandishing a machete.
 
-   The order, she said, followed other efforts, largely from Republicans,
-   that are “part of an organized campaign pushing back on the idea of
-   disinformation as a whole.”
+   As Slovakia heads toward an election on Saturday, the country has been
+   inundated with disinformation and other harmful content on social media
+   sites. What is different now is a new European Union law that could
+   force the world’s social media platforms to do more to fight it — or
+   else face fines of up to 6 percent of a company’s revenue.
 
-   Judge Terry A. Doughty granted a preliminary injunction on Tuesday,
-   saying the Department of Health and Human Services and the Federal
-   Bureau of Investigation, along with other parts of the government, must
-   stop corresponding with social media companies for “the purpose of
-   urging, encouraging, pressuring or inducing in any manner the removal,
-   deletion, suppression or reduction of content containing protected free
-   speech.”
+   The law, the Digital Services Act, is intended to force social media
+   giants to adopt new policies and practices to address accusations that
+   they routinely host — and, through their algorithms, popularize —
+   corrosive content. If the measure is successful, as officials and
+   experts hope, its effects could extend far beyond Europe, changing
+   company policies in the United States and elsewhere.
 
-   We are having trouble retrieving the article content.
+   The law, years of painstaking bureaucracy in the making, reflects a
+   growing alarm in European capitals that the unfettered flow of
+   disinformation online — much of it fueled by Russia and other foreign
+   adversaries — threatens to erode the democratic governance at the core
+   of the European Union’s values.
 
-   Please enable JavaScript in your browser settings.
+   Europe’s effort sharply contrasts with the fight against disinformation
+   in the United States, which has become mired in political and legal
+   debates over what steps, if any, the government may take in shaping
+   what the platforms allow on their sites.
 
-   We are confirming your access to this article, this will take just a
-   moment. However, if you are using Reader mode please log in, subscribe,
-   or exit Reader mode since we are unable to verify access in that state.
+   A federal appeals court ruled this month that the Biden administration
+   had very likely violated the First Amendment guarantee of free speech
+   by urging social media companies to remove content.
 
-   Confirming article access.
+   Europe’s new law has already set the stage for a clash with Elon Musk,
+   the owner of X, formerly known as Twitter. Mr. Musk withdrew from a
+   voluntary code of conduct this year but must comply with the new law —
+   at least within the European Union’s market of nearly 450 million
+   people.
 
-   If you are a subscriber, please log in.
+   “You can run but you can’t hide,” Thierry Breton, the European
+   commissioner who oversees the bloc’s internal market, warned on the
+   social network shortly after Mr. Musk’s withdrawal.
+
+   Image
+   Elon Musk, who owns X, formerly known as Twitter, withdrew from a
+   voluntary code of conduct this year but must comply with the new E.U.
+   law within the market of nearly 450 million people.Credit...Kenny
+   Holston/The New York Times
+
+   The election in Slovakia, the first in Europe since the law went into
+   effect last month, will be an early test of the law’s impact. Other
+   elections loom in Luxembourg and Poland next month, while the bloc’s 27
+   member states will vote next year for members of the European
+   Parliament in the face of what officials have described as sustained
+   influence operations by Russia and others.
+
+   While the law’s intentions are sweeping, enforcing the behavior of some
+   of the world’s richest and most powerful companies remains a daunting
+   challenge.
+
+   That task is even more difficult for policing disinformation on social
+   media, where anybody can post their views and perceptions of truth are
+   often skewed by politics. Regulators would have to prove a platform had
+   systemic problems that caused harm, an untested area of law that could
+   ultimately lead to years of litigation.
+
+   Enforcement of the European Union’s landmark data privacy law, known as
+   the General Data Protection Regulation and adopted in 2018, has been
+   slow and cumbersome, though regulators in May imposed the harshest
+   penalty yet, fining Meta 1.2 billion euros, or $1.3 billion. (Meta has
+   appealed.)
+
+   Dominika Hajdu, the director of the Center for Democracy and Resilience
+   at Globsec, a research organization in Slovakia’s capital, Bratislava,
+   said only the prospect of fines would force platforms to do more in a
+   unified but diverse market with many smaller nations and languages.
+
+   “It actually requires dedicating quite a large sum of resources, you
+   know, enlarging the teams that would be responsible for a given
+   country,” she said. “It requires energy, staffing that the social media
+   platforms will have to do for every country. And this is something they
+   are reluctant to do unless there is a potential financial cost to it.”
+
+   The law, as of now, applies to 19 sites with more than 45 million
+   users, including the major social media companies, shopping sites like
+   Apple and Amazon, and the search engines Google and Bing.
+
+   The law defines broad categories of illegal or harmful content, not
+   specific themes or topics. It obliges the companies to, among other
+   things, provide greater protections to users, giving them more
+   information about algorithms that recommend content and allowing them
+   to opt out, and ending advertising targeted at children.
+
+   It also requires them to submit independent audits and to make public
+   decisions on removing content and other data — steps that experts say
+   would help combat the problem.
+
+   Mr. Breton, in a written reply to questions, said he had discussed the
+   new law with executives from Meta, TikTok, Alphabet and X, and
+   specifically mentioned the risks posed by Slovakia’s election.
+
+   Image
+   Thierry Breton, an E.U. commissioner, said he had discussed the new law
+   with tech executives and specifically mentioned the risks posed by
+   Slovakia’s election.Credit...Josh Edelson/Agence France-Presse — Getty
+   Images
+
+   “I have been very clear with all of them about the strict scrutiny they
+   are going to be subject to,” Mr. Breton said.
+
+   In what officials and experts described as a warning shot to the
+   platforms, the European Commission also released a damning report that
+   studied the spread of Russian disinformation on major social media
+   sites in the year after Russia invaded Ukraine in February 2022.
+
+   “It clearly shows that tech companies’ efforts were insufficient,” said
+   Felix Kartte, the E.U. director with Reset, the nonprofit research
+   group that prepared the report.
+
+   Engagements with Kremlin-aligned content since the war began rose
+   marginally on Facebook and Instagram, both owned by Meta, but jumped
+   nearly 90 percent on YouTube and more than doubled on TikTok.
+
+   “Online platforms have supercharged the Kremlin’s ability to wage
+   information war, and thereby caused new risks for public safety,
+   fundamental rights and civic discourse in the European Union,” the
+   report said.
+
+   Meta and TikTok declined to comment on the enactment of the new law. X
+   did not respond to a request. Ivy Choi, a spokeswoman for YouTube, said
+   that the company was working closely with the Europeans and that the
+   report’s findings were inconclusive. In June, YouTube removed 14
+   channels that were part of “coordinated influence operations linked to
+   Slovakia.”
+
+   Nick Clegg, president of global affairs at Meta, said in a blog post
+   last month that the company welcomed “greater clarity on the roles and
+   responsibilities of online platforms” but also hinted at what some saw
+   as the new law’s limits.
+
+   “It is right to seek to hold large platforms like ours to account
+   through things like reporting and auditing, rather than attempting to
+   micromanage individual pieces of content,” he wrote.
+
+   Slovakia, with fewer than six million people, has become a focus not
+   just because of its election on Saturday. The country has become
+   fertile ground for Russian influence because of historical ties. Now it
+   faces what its president, Zuzana Caputova, described as a concerted
+   disinformation campaign.
+
+   Image
+   A World War II monument outside Ladomirova, Slovakia. The country, with
+   fewer than six million people, has become fertile ground for Russian
+   influence. Credit...Akos Stiller for The New York Times
+
+   In the weeks since the new law took effect, researchers have documented
+   instances of disinformation, hate speech or incitement to violence.
+   Many stem from pro-Kremlin accounts, but more are homegrown, according
+   to Reset.
+
+   They have included a vulgar threat on Instagram directed at a former
+   defense minister, Jaroslav Nad. The false accusation on Facebook about
+   the Ukrainian president’s buying luxury property in Egypt included a
+   vitriolic comment typical of the hostility in Slovakia that the war has
+   stoked among some. “He only needs a bullet in the head and the war will
+   be over,” it said. Posts in Slovak that violate company policies,
+   Reset’s researchers said, had been seen at least 530,000 times in two
+   weeks after the law went into effect.
+
+   Although Slovakia joined NATO in 2004 and has been a staunch supporter
+   and arms supplier for Ukraine since the Russian invasion, the current
+   front-runner is SMER, a party headed by Robert Fico, a former prime
+   minister who now criticizes the alliance and punitive steps against
+   Russia.
+
+   Facebook shut down the account of one of SMER’s candidates, Lubos
+   Blaha, in 2022 for spreading disinformation about Covid. Known for
+   inflammatory comments about Europe, NATO and L.G.B.T.Q. issues, Mr.
+   Blaha remains active in Telegram posts, which SMER reposts on its
+   Facebook page, effectively circumventing the ban.
+
+   Jan Zilinsky, a social scientist from Slovakia who studies the use of
+   social media at the Technical University of Munich in Germany, said the
+   law was a step in the right direction.
+
+   “Content moderation is a hard problem, and platforms definitely have
+   responsibilities,” he said, “but so do the political elites and
+   candidates.”
+
+   Steven Lee Myers covers misinformation for The Times. He has worked in
+   Washington, Moscow, Baghdad and Beijing, where he contributed to the
+   articles that won the Pulitzer Prize for public service in 2021. He is
+   also the author of “The New Tsar: The Rise and Reign of Vladimir
+   Putin.” More about Steven Lee Myers
+   A version of this article appears in print on  , Section A, Page 1 of
+   the New York edition with the headline: New E.U. Law Forces Big Tech To
+   Police Truth. Order Reprints | Today’s Paper | Subscribe
+   276
+     * (BUTTON) Share full article
+     * (BUTTON)
+     * (BUTTON)
+     * 276
 
    Advertisement
    SKIP ADVERTISEMENT
@@ -78,8 +260,25 @@ Site Index
 
 Site Information Navigation
 
+     * © 2023 The New York Times Company
 
+     * NYTCo
+     * Contact Us
+     * Accessibility
+     * Work with us
+     * Advertise
+     * T Brand Studio
+     * Your Ad Choices
+     * Privacy Policy
+     * Terms of Service
+     * Terms of Sale
+     * Site Map
+     * Canada
+     * International
+     * Help
+     * Subscriptions
 
+     * Manage Privacy Preferences
 
    IFRAME:
    https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm_auth=tfAzqo1

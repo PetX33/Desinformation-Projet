@@ -1,15 +1,16 @@
    Menu
    Libération
+   ____________________
    Lire l'édition du jour
    Se connecter
    S'abonner
    Se connecter
+   (BUTTON)
    Rechercher
    Fil info
    1 mois pour 1€
    S’abonner
    Accueil
-   Fil Info
    Politique
    Elections
    Extrême droite
@@ -82,18 +83,18 @@
    Biologie
    Espace
    Histoire
-   Forums & événements
+   Plus
+   Séries d'été
+   Numéros spéciaux
+   Les 50 ans de Libé
+   Nos 50 combats
    Lire le journal
    Lire le journal
    Archives
    2023
    2022
    2021
-   Plus
-   Séries d'été
-   Numéros spéciaux
-   Les 50 ans de Libé
-   Nos 50 combats
+   Forums & événements
    La boutique Libé
    Evénements Libé
    Les newsletters
@@ -115,144 +116,238 @@
    Contactez-nous
    Télécharger l’application :
    Suivez nous sur :
+     * Politique
+     * International
+     * Guerre Hamas-Israël
+     * CheckNews
+     * Culture
+     * Idées et Débats
+     * Société
+     * Enquêtes
+     * Environnement
+     * Economie
+     * Lifestyle
+     * Portraits
+     * Sports
 
-   Accueil / Economie / Economie numérique
+   Accueil / International / Europe
    Fake news
 
-Twitter pourrait quitter le code de l’Union européenne contre la
-désinformation
+A quelques jours des élections législatives, la Slovaquie visée par des
+campagnes de désinformation
 
-   Le réseau social envisage de quitter le code de bonnes pratiques de
-   l’Union européenne, qui vise à lutter contre la désinformation en
-   ligne. Une décision qui s’inscrit dans la lignée des choix de Musk ces
-   derniers mois.
+   Guerre entre l'Ukraine et la Russiedossier
+   Dossiers liés
+   LGBT +
+   Des campagnes prorusses, anti-LGBT + ou anti-migrants sont légion sur
+   les réseaux sociaux du pays. Des opérations de désinformation qui
+   inquiètent à l’approche des élections législatives qui auront lieu
+   samedi 30 septembre.
 
-   Le logi de Twitter, photo d'illustration. (Jeff Chiu/AP)
-   par LIBERATION et AFP
-   publié le 25 mai 2023 à 20h27
+   L'ancien Premier ministre slovaque et actuel chef du parti Smer, Robert
+   Fico, auteur de nombreuses déclarations prorusses, à un meeting
+   électoral, le 14 septembre. (Radovan Stoklasa/Reuters)
+   par Sarah Laurent et AFP
+   publié le 28 septembre 2023 à 7h32
 
-   Twitter en marche arrière. Le réseau social envisage de quitter le code
-   de bonnes pratiques de l’Union européenne contre la désinformation en
-   ligne, un accord regroupant les principales plateformes sur une base
-   volontaire, selon des sources européennes. Selon ces dernières, la
-   plateforme aux mains du milliardaire américain Elon Musk a informé la
-   Commission européenne de ses intentions mais n’a pas encore notifié
-   formellement la décision.
+   C’est un phénomène qui alerte les experts en désinformation et les
+   associations de défense de la démocratie. Alors que les Slovaques sont
+   appelés aux urnes samedi 30 septembre, ils sont inondés d’informations
+   fausses, venant aussi bien des personnalités politiques en campagne que
+   de l’étranger.
 
-   Lancé en 2018, ce code européen de bonnes pratiques regroupe une
-   trentaine de signataires, parmi lesquels des géants comme Meta, Google,
-   Twitter, Microsoft, TikTok, mais aussi de plus petites plateformes,
-   ainsi que des professionnels de la publicité, des fact-checkeurs et des
-   ONG. Les signataires ont eux-mêmes participé à la rédaction du texte,
-   qui contient une quarantaine d’engagements visant notamment à mieux
-   coopérer avec les fact-checkeurs et à priver de publicité les sites
-   diffusant des infox.
+   Peter Duboczi, rédacteur en chef du site luttant contre la
+   désinformation Infosecurity.sk, cité par l’AFP, constate ainsi, que
+   «l’écosystème de désinformation en Slovaquie […] atteint aujourd’hui
+   son apogée». Il craint que l’élection législative de ce week-end soit
+   la première à «refléter le plein potentiel de la désinformation». Selon
+   lui, les principaux propagateurs de ces fake news sont les hommes
+   politiques slovaques. Le favori pour le poste de Premier ministre,
+   Robert Fico, leader du Smer, le parti de gauche populiste accusé de
+   corruption lorsqu’il était au pouvoir de 2006 à 2010 et de 2012 à 2018,
+   multiplie les déclarations prorusses. Parmi elles, l’idée que la guerre
+   en Ukraine a commencé en 2014 car des «fascistes» ukrainiens ont tué
+   des civils russes. Une accusation non fondée mais souvent utilisée par
+   le Kremlin et les médias affiliés.
 
-Emoji crotte
+Des messages prorusses plus visibles sur les réseaux sociaux
 
-   Depuis qu’il a acheté Twitter il y a six mois, le milliardaire Elon
-   Musk a assoupli la modération des contenus problématiques, amplifiant
-   la voix de propagateurs notoires de désinformation sur la plateforme.
-   Twitter a indiqué préférer faire appel à sa propre communauté
-   d’internautes plutôt qu’à des fact-checkeurs, indique une source
-   européenne. Les rapports qu’il rendait sur la désinformation dans le
-   cadre du code de bonnes pratiques étaient très lacunaires.
+   Robert Fico n’est d’ailleurs pas seul à emprunter des éléments de
+   langage de Moscou. Andrej Danko, le président du Parti national
+   slovaque (SNS), un parti d’extrême droite qui devrait recueillir assez
+   de voix pour avoir des sièges au Parlement, a ainsi déclaré en juillet
+   que les territoires actuellement occupés par la Russie n’étaient pas
+   «historiquement ukrainiens», reprenant l’un des principaux arguments
+   avancés par Moscou pour justifier l’invasion de l’Ukraine. Peter
+   Duboczi les accuse même d’être «des bras armés de la propagande russe».
+   A lire aussi
 
-   «Si [Elon Musk] n’est pas sérieux sur le code, c’est peut-être mieux
-   qu’il le quitte», commente un responsable à la Commission européenne.
-   L’adhésion au code reste volontaire, en revanche «on ne peut pas se
-   soustraire au DSA», la nouvelle loi sur les services numériques entrée
-   en vigueur mi-novembre dans l’UE, rappelle-t-il. Le DSA contraint les
-   plateformes à déployer des efforts pour «réduire les risques» de
-   désinformation et prévoit des amendes pouvant aller jusqu’à 6 % de leur
-   chiffre d’affaires mondial.
+   Plus largement, selon l’organisation à but non lucratif londonienne
+   contre la désinformation Reset, 15 % des 365 000 messages de
+   désinformation liés aux élections enregistrés au cours des deux
+   premières semaines de septembre venaient de comptes prorusses. Ces
+   messages sont aussi beaucoup plus vus, générant cinq fois plus
+   d’exposition qu’un message moyen.
 
-   Fin avril, la vice-présidente de la Commission européenne chargée de la
-   transparence, Vera Jourova, avait indiqué se sentir «de plus en plus
-   mal à l’aise sur Twitter» en raison de la propagande russe sur cette
-   plateforme. Elle s’était aussi inquiétée de voir Twitter manquer de
-   personnel dédié à la lutte contre la désinformation, après les
-   licenciements massifs opérés par Musk. Contacté, le service de presse
-   de la firme a répondu - comme à son habitude - par un courriel généré
-   automatiquement avec un emoji en forme de crotte.
+Une ambassade russe très active sur Facebook
+
+   Une partie de la désinformation prorusse diffusée en Slovaquie depuis
+   l’invasion de l’Ukraine peut même être directement attribuée à Moscou.
+   Selon Tomas Krissak, analyste chez Gerulata Technologies, une start-up
+   spécialisée dans la désinformation, l’ambassade russe en Slovaquie est
+   «la plus active de toutes les ambassades russes dans le monde si l’on
+   examine les données de Facebook» et diffuse «beaucoup de désinformation
+   et de récits manipulateurs». Une propagande efficace, puisque selon une
+   enquête du groupe de réflexion slovaque Globsec, seulement 31 % des
+   Slovaques ont une opinion positive du président ukrainien Volodymyr
+   Zelensky.
+
+   Les candidats ne sont néanmoins pas inspirés que par Vladimir Poutine.
+   Prenant des notes sur la stratégie de Donald Trump à l’élection
+   présidentielle américaine de 2020, Robert Fico ainsi que l’eurodéputé
+   et membre du parti nationaliste Republika Milan Uhrik ont d’ores et
+   déjà mis en garde sur d’éventuelles fraudes électorales, sans fournir
+   aucune preuve de ce qu’ils avançaient.
+
+   Autre névrose importée d’outre-Atlantique, cette fois-ci du côté de la
+   Floride et de son gouverneur républicain, Ron DeSantis, les discours
+   contre la communauté LGBT + se sont aussi multipliés. Dans sa dernière
+   vidéo de campagne Robert Fico se moque ainsi du chef du parti libéral
+   Slovaquie Progressive (PS), Michal Simecka, en se demandant s’il
+   «s’identifie comme un garçon, une fille ou un hélicoptère». Il a aussi
+   déclaré que «l’idéologie du genre dans les écoles est inacceptable».
+   L’ex Premier ministre centriste Igor Matovic, en exercice de mars 2020
+   à mars 2021, a aussi posté sur les réseaux sociaux : «73 genres ?
+   Malade. Convertir des filles de 12 ans en garçons ? Malade.»
+
+   Les analystes et experts alertent aussi sur d’autres campagnes de
+   désinformation, notamment relatives à l’arrivée de migrants du
+   Moyen-Orient. Le chef de la police slovaque, Stefan Hamran, a même
+   récemment dû demander aux responsables politiques d’arrêter de propager
+   de fausses informations relatives à l’immigration, car elles
+   commençaient à entraver le travail de la police.
 
 Pour aller plus loin :
 
-   Elon Musk
+   SlovaquieGuerre entre l'Ukraine et la RussieRussieLGBT +
+   (BUTTON)
 
 Dans la même rubrique
 
-   Recherche
+   Guerre
 
-IA : Xavier Niel et Rodolphe Saadé propulsent «Kyutai», labo de l’algo dans
-l’Hexagone
+A Kyiv, les autorités ukrainiennes dénoncent la plus grosse attaque de drones
+russes depuis le début de la guerre
 
-   il y a 25minabonnés
-   L'édito de Dov Alfon
+   25 nov. 2023
+   Récap'
 
-La bataille d’OpenAI : l’intelligence artificielle tourne avide
+Cessez-le-feu et libération d’otages à Gaza, l’Etat encore condamné pour la
+pollution de l’air, le changement du calendrier scolaire à l’étude… L’actu de
+ce vendredi 24 novembre
 
-   il y a 34min
-   Analyse
+   24 nov. 2023
+   Nuit brune
 
-Sam Altman et l’IA : la victoire des «pressés» face aux «prudents»
+L’extrême droite sème le chaos à Dublin après l’attaque au couteau, une
+«honte pour l’Irlande»
 
-   il y a 35minabonnés
-   Big Money
+   24 nov. 2023
+   Libé Matin
 
-OpenAI : Microsoft sort encore plus fort de la saga Altman
+La trêve à Gaza est entrée en vigueur, l’extrême droite sème le chaos �
+Dublin, le Nord en vigilance orange pour vagues-submersion… L’actu de ce
+vendredi matin
 
-   22 nov. 2023
+   24 nov. 2023
    À la une
-   Analyse
+   Mobilisation
 
-Sam Altman et l’IA : la victoire des «pressés» face aux «prudents»
+Violences faites aux femmes : les associations déplorent une réponse trop
+«timide» de l’Etat
 
-   il y a 35minabonnés
-   Précédents
+   24 nov. 2023abonnés
+   Reportage
 
-Silicon Valley: la valse rituelle des patrons
+«Ici, on m’aide à reprendre ma vie en main» : dans le Nord, un toit pour les
+victimes de violences conjugales
 
-   il y a 31minabonnés
+   24 nov. 2023abonnés
    Au fil de la journée
 
-EN DIRECT - Guerre Hamas-Israël : la France appelle à «un cessez-le-feu
-durable»
+EN DIRECT - Guerre Hamas-Israël : l’Egypte a reçu la liste des 14 otages
+israéliens qui doivent être libérés samedi
 
-   il y a 17min
-   Décryptage
+   il y a 1min
+   Témoignage Libé
 
-Que prévoit l’accord de «trêve humanitaire» entre Israël et le Hamas ?
+Pascal Hundt, responsable du CICR envoyé vendredi à Gaza : «Les enfants
+otages ne savaient pas où ils étaient»
 
-   22 nov. 2023abonnés
+   25 nov. 2023abonnés
 
 Les plus lus
 
-   Biopic
-   «Napoléon» de Ridley Scott, le crash de l’empereur
+   L'essentiel
+   Israël a reçu du Hamas une liste d’otages qui devraient être libérés
+   samedi
+   Echange
+   Qui sont les treize otages israéliens libérés ?
+   Chez Pol
+   «On va se fracasser» : pour Les Républicains, une loi immigration �
+   haut risque
    Abonnés
-   Au fil de la journée
-   EN DIRECT - Guerre Hamas-Israël : la France appelle à «un cessez-le-feu
-   durable»
-   Le billet de Jonathan Bouchet-Petersen
-   Face aux faits divers, les (ir)responsables politiques en roue libre
-   Abonnés
-   Arrestations
-   Mort de Thomas à Crépol : l’auteur présumé des coups de couteau mortels
-   parmi les neuf interpellés
+   CheckNews
+   Que nous apprennent les images des tunnels découverts par Tsahal sous
+   l’hôpital Al-Shifa, et désormais détruits ?
 
+   © Libé 2023
 
+   © Libé 2023
 
 Dans l'actu
 
+     * Conflit Hamas-Israël
+     * Guerre en Ukraine
+     * Coupe du monde de rugby
+     * Budget 2024
+     * Réchauffement climatique
+     * La menace de l'extrême droite
+     * Lutte contre les violences sexistes
+     * Inflation
+     * Crise de l'énergie
+     * Intelligence artificielle
+     * Autoroute A69
 
 Services
 
+     * S'abonner(Opens in new window)
+     * Annonces légales(Opens in new window)
+     * Donnez-nous votre avis(Opens in new window)
+     * Foire aux questions(Opens in new window)
+     * Proposer une tribune(Opens in new window)
+     * Evénements Libé(Opens in new window)
+     * Publicité(Opens in new window)
+     * Cours d'anglais(Opens in new window)
+     * Petites annonces(Opens in new window)
 
 Conditions générales
 
+     * Mentions légales(Opens in new window)
+     * Charte éthique(Opens in new window)
+     * Pacte d'indépendance éditoriale(Opens in new window)
+     * CGVU(Opens in new window)
+     * Protection des données personnelles(Opens in new window)
+     * Gestion des cookies(Opens in new window)
+     * Licence(Opens in new window)
 
 Où lire Libé?
 
+     * Evénements Libé(Opens in new window)
+     * Les newsletters(Opens in new window)
+     * Présentation de l'application(Opens in new window)
+     * Application sur Android(Opens in new window)
+     * Application sur iPhone / iPad(Opens in new window)
+     * Archives
 
    Libération

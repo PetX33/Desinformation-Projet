@@ -1,70 +1,461 @@
+   #alternate TF1 INFO - L'info pour tous et pour chacun
 
-   Afis Science - Association française pour l'information scientifique
-   Association Française pour l’Information Scientifique
+   logo_burger
+   L'info passée au crible
+   [ ]
+
+   Découvrez tout
+   l’univers TF1 INFO
+   ____________________
+   (BUTTON) loupe
+   Créer un compte (BUTTON) Se connecter
+   Regarder le direct Regarder les JT en direct Regarder votre JT
+   personnalisé
+   Directs
+     * Guerre Israël-Hamas
+     * Guerre en Ukraine
+
+   [X]
+   Dans l’actualité en ce moment
+     * Libération d'otages, trêve temporaire… Un premier accord trouvé
+       entre Israël et le Hamas
+     * Israël et le Hamas en guerre
+     * Miss France 2024 : qui succèdera à Indira Ampiot ?
+     * Ukraine : plus de 600 jours de guerre
+     * Star Academy 2023
+       Tous les sujets
+
+   [X]
+   Rubriques
+     * Politique
+     * Économie
+     * International
+     * Police - justice & faits divers
+     * Météo & intempéries
+     * Culture, médias et divertissement
+     * Conso & tendances
+     * Environnement
+     * Nouvelles technologies
+     * Santé & bien être
+     * Sujets de société
+     * Famille & éducation
+     * Sports
+     * Traditions et patrimoine
+     * Transports
+     * Logement et immobilier
+     * Sciences
+     * Voyages
+     * Au coeur des Régions
+     * Vie pro et emploi
+     * Dans mon assiette
+     * Mon argent et mes droits
+     * Initiatives positives
+     * Les Vérificateurs
+     * Coupe du Monde Rugby 2023
+
+   [ ]
+   Replay
+     * JT TF1
+
+     * Le 13h
+     * Le 20h
+     * Le WE
+
+     Revoir LCI
+     * Le 6-9 avec Jean-Baptiste Boursier
+     * L'invité d'Adrien Gindre
+     * Le Temps de l'Info
+     * LCI Midi
+     * Le Club
+     * 24H Pujadas
+     * Un Oeil sur le Monde
+     * Brunet, Broussouloux & CIE
+     * Le 20h de Darius Rochebin
+     * 22h-minuit Darius Rochebin avec Alexia Mayer
+     * Les Matins LCI - Week-end
+     * Impact Positif
+     * En toute franchise
+     * 18H Darius Rochebin
+     * L’évènement du dimanche LCI
+     * Vis leurs vies
+     * Fourest en liberté
 
 
-   Afis facebook Afis twitter Afis Youtube Afis Android Afis ios Afis RSS
-   Mon compte
 
-   Accueil / IA génératives : un risque accru de désinformation ?
+   Magazines TF1
 
-IA génératives : un risque accru de désinformation ?
+     * Sept à huit
+     * Grands Reportages
 
-   Publié en ligne le 29 septembre 2023 - Intelligence Artificielle -
-   IA génératives : un risque accru de désinformation ?
+   [ ]
+   Nos dossiers
+     * Notre planète
+     * Le 20H vous répond
+     * Le 13H à vos côtés
+     * LCI vous répond
+     * Impact positif
+     * Avec Elles
+     * Le 13H au jardin
 
-   Les systèmes d’intelligence artificielle génératives suscitent de
-   nombreuses craintes et interrogations, tant le contenu généré est
-   saisissant de réalisme. S’il devient encore plus difficile de
-   distinguer le vrai du faux, la désinformation ne risque-t-elle pas de
-   se propager encore plus largement ? On peut imaginer la prolifération
-   de vidéos mettant en scène un homme politique, un artiste, ou tout
-   simplement soi-même ou un proche, avec un contenu factice, une voix
-   similaire à la vraie voix, mais avec des propos, des situations et des
-   comportements complètement inventés. Les photos du président Trump en
-   état d’arrestation, du président Macron en éboueur ou du pape en
-   doudoune ont déjà été largement médiatisées. Plus sordide : des vidéos
-   truquées apparaissent mettant en scène des personnes, célèbres ou non,
-   dans des situations dégradantes [1]. Ces scénarios, déjà réalisables
-   avec les technologies existantes, deviendraient ainsi à la portée de
-   tous et pourraient être déployées à très grande échelle.
+   [ ]
+   Podcasts
+     * Impact Positif
+     * Le cinéma c'est la vie en mieux
+     * Info et vous
+     * 24H Pujadas - Les partis pris
+     * L'interview Politique
+     * Expertes à la une
+     * Lenglet déchiffre
+     * Les gens qui lisent sont plus heureux
 
-Un risque de désinformation accru ?
+   [ ]
+   Jeux
+     * Jeux
 
-   Soulignons en préalable que le problème rencontré par ceux qui veulent
-   propager des fausses informations n’a jamais été la création de
-   contenu, mais sa diffusion. En ce qui concerne la création de contenu,
-   de façon évidente, les possibilités offertes par les IA génératives
-   peuvent s’avérer d’une grande efficacité et il importe de ne pas les
-   minimiser. En brouillant la frontière entre le vrai et le faux et en
-   permettant la production à une échelle industrielle de fausses photos,
-   de fausses vidéos, les IA génératives démocratisent largement ce qui,
-   avant, requérait une expertise pointue, des logiciels spécialisés et
-   une main-d’œuvre coûteuse.
+     * Solitaire
+     * Mots-fléchés
+     * Puzzle
+     * Mots-croisés
+     * Sudoku
 
-   Mais il s’agit ensuite de diffuser les « informations » ainsi obtenues.
-   Là, l’aide apportée semble plus limitée. Certes, les IA génératives
-   permettent d’individualiser les interactions sur les réseaux sociaux,
-   rendant plus performantes les interventions des robots informatiques en
-   les faisant apparaître plus « humaines ». Elles produisent également
-   des messages plus crédibles, plus vraisemblables, qui se diffuseront
-   plus facilement. Cependant, le support principal pour diffuser la
-   désinformation reste Internet et les réseaux sociaux tels qu’ils
-   existent déjà.
-   Les Tricheurs (détail), Valentin de Boulogne (1591-1632)
+   [ ]
+   Sites du groupe
+     * MYTF1
+     * TF1 Météo
+     * La médiatrice vous répond
+     * SOS Villages
+     * Vos vidéos à la Une
 
-   Le problème ne date pas d’aujourd’hui, comme en atteste, par exemple,
-   la proportion de faux comptes ou de doublons sur les réseaux sociaux
-   (sur Facebook, ils sont estimés à 16 %, une partie d’entre eux servant
-   au spam et à la désinformation [2]) ainsi que toutes les controverses
-   relatives à la régulation et l’autorégulation face à des contenus
-   problématiques.
+   (BUTTON)
+   Paramétrer mes cookies
+   (BUTTON) Gérer les options d'affichage ADAPTEZ L'AFFICHAGE
+   Télécharger l'application TF1 info
+   Logo Apple Store Logo PlayStore
 
-   Par ailleurs, ne l’oublions pas, le succès de la désinformation dépend
-   également des attentes des personnes visées. Une vidéo truquée
-   rencontrera son public si elle est crédible aux yeux des personnes
-   ciblées et si elle correspond à leur état d’esprit et à leurs
-   aspirations.
+   Verif'
 
-   La désinformation n’a attendu ni Internet ni les réseaux sociaux pour
-   se propager à très grande échelle. Certaines « théories du complot »^ 1
+Après l'Ukraine, la campagne de désinformation russe "Doppelgänger" s'empare
+du conflit entre Israël et Hamas
+
+   par Thomas DESZPOT & Samira El Gadir
+   Publié le 16 novembre 2023 à 17h37
+
+   Source : TF1 Info
+
+   Personnalisez votre expérience TF1 Infoet créez votre JT rien que pour
+   vous.
+
+   Il y a quelques mois, les dessous d'une vaste campagne russe de
+   désinformation étaient révélés.
+   Surnommée "Doppelgänger", elle portait sur la guerre en Ukraine et
+   cherchait à déstabiliser les pays occidentaux.
+   Basées sur le clonage de site de presse et institutionnels, ces
+   manœuvres sont aujourd'hui étendues au conflit entre Israël et le
+   Hamas.
+
+   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore �
+   lʼidée dʼun double maléfique. Mais cʼest aussi le nom donné à une vaste
+   campagne de désinformation, menée par la Russie depuis 2022. À
+   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant �
+   déstabiliser les pays occidentaux, mais nous observons depuis plusieurs
+   semaines quʼelle tente dʼinstrumentaliser le conflit entre Israël et le
+   Hamas.
+
+Des sites de médias "clonés"
+
+   En juin dernier, TF1info décrivait les rouages de cette campagne de
+   désinformation en ligne. Le principe était assez simple : des sites de
+   presse (français, allemands ou encore italiens) ont été reproduits
+   presque à lʼidentique, avec des adresses web différentes pour seul
+   signe distinctif. Le Monde, 20 Minutes, le Guardian ou encore le
+   Spiegel ont ainsi été "clonés" puis utilisés afin de publier de faux
+   articles. Ces publications étaient à lʼorigine centrées sur la guerre
+   en Ukraine : elles se montraient très critiques vis-à-vis de Kiev et du
+   soutien qui lui était apporté par ses alliés.
+
+   Parmi les multiples articles ingénieusement relayés sur les réseaux
+   sociaux par des comptes pro-russes, certains ont évoqué le "véritable
+   désastre" de la contre-offensive ukrainienne, ou encore le fait que
+   Zelensky et son gouvernement avaient perdu la confiance de la
+   population. Des méthodes de déstabilisation à grande échelle, qui ont
+   évolué avec le temps.
+
+Le conflit Israël / Hamas à son tour instrumentalisé
+
+   Depuis quelques semaines, cette campagne a évolué. De nouveaux articles
+   ont émergé, cette fois centrés sur le conflit entre Israël et le Hamas.
+   Un faux-site imitant le quotidien Le Parisien nous explique par exemple
+   que "le sang palestinien est sur les mains de Macron", et que "la
+   France risque dʼêtre déclarée complice du génocide palestinien". En
+   raison dʼune position "pro-américaine" du président de la République,
+   une "guerre civile" serait à redouter dans lʼhexagone.
+     * Lire aussi
+       Lire aussi
+       24H Pujadas du mercredi 14 juin 2023 : Guerre - Qu'est-ce que la
+       campagne de désinformation "Doppelgänger" ?
+
+   Des articles trompeurs ont été repérés en français, mais aussi en
+   allemand, hébreu, russe ou encore anglais et ukrainien. Leur point
+   commun : laisser entendre que le soutien (financier et militaire) des
+   puissances occidentales est aujourdʼhui détourné au profit dʼIsraël. Et
+   que lʼUkraine, dans le même temps, ne pourrait bientôt plus en
+   bénéficier. Les individus à lʼorigine de ces détournements sont des
+   acteurs "qui aiment souffler sur les braises, démarrer le plus
+   dʼincendies possibles" dans le but de "polariser", témoigne auprès de
+   TF1info Alexandre Alaphilippe, directeur exécutif de EU DisinfoLab,
+   lʼONG qui a en premier évoqué (et nommé) lʼopération Doppelgänger lʼan
+   passé. En clair, le but est de faire en sorte que "les gens se
+   détestent entre eux à lʼintérieur dʼun pays", en accentuant les
+   divisons.
+
+   Le dernier exemple en date remonte à quelques jours. Sur le réseau
+   social X, les photos dʼune série d’étoiles de David bleues taguées sur
+   des murs de Paris et dʼÎle-de-France ont été très largement
+   repartagées. Le Quai dʼOrsay a rapidement réagi et imputé "avec un haut
+   degré de confiance" ces relais massifs au réseau Doppelgänger. Les
+   nombreux comptes qui lui ont été associés ont été les premiers �
+   partager ces clichés, a fait savoir Viginum, l’organisme français de
+   lutte en charge de la lutte contre les opérations d’influence.
+
+Des bots sont aujourd'hui utilisés
+
+   La multiplication en ligne de ces contenus trompeurs a attiré
+   lʼattention dʼune série dʼinternautes, qui se sont rassemblés afin
+   dʼétudier les méthodes utilisées pour tenter dʼinfluencer les opinions
+   publiques. Un collectif se faisant appeler  "Antibot4Navalny" sur les
+   réseaux sociaux a par exemple révélé que les méthodes employées ont
+   évolué au fil du temps. Avec en particulier un usage généralisé de
+   bots, ces programmes informatiques automatisés.
+
+   Les Vérificateurs ont pu échanger avec des représentants de ce groupe
+   dʼenquêteurs : ils soulignent en préambule que le recours à des bots
+   permet "de diffuser les fausses informations plus rapidement", mais
+   aussi de rendre ces campagnes de manipulation plus discrètes. Afin de
+   multiplier la propagation des articles fallacieux sur des plateformes
+   comme X, les individus à lʼorigine de lʼopération Doppelgänger ont
+   recours à des machines qui vont se charger de rédiger les messages
+   destinés aux réseaux sociaux (et qui les traduisent également dans
+   diverses langues). La conséquence ? Seulement "15% de textes dupliqués"
+   sur le quelque "27.000 qui ont été recensés et analysés", nous
+   confie-t-on du côté de "Antibot4Navalny". Le nombre de bots utilisés
+   dépasserait quant à lui les 8.000.
+
+Un lien avéré avec la Russie
+
+   À la fin du printemps déjà, le ministère des Affaires étrangères
+   confimait le lien entre ces opérations de déstabilisation en ligne et
+   la Russie. "Les autorités françaises ont mis en évidence lʼexistence
+   dʼune campagne numérique de manipulation de lʼinformation contre la
+   France impliquant des acteurs russes", nous expliquait-on. Une campagne
+   "à laquelle des entités étatiques ou affiliées à lʼÉtat russe ont
+   participé en amplifiant de fausses informations". Les autorités
+   françaises affirmaient par ailleurs à lʼépoque quʼelles se trouvaient
+   en "lien étroit" avec leurs alliés "pour mettre en échec la guerre
+   hybride menée par la Russie".
+
+   En juin toujours, il était aussi fait référence à une enquête du groupe
+   Meta (propriétaire notamment de Facebook), évoquant lʼimplication de
+   deux entreprises russes, détenues par un certain Ilya Andreevitch
+   Gambachidze. Cet homme, qui affiche aussi une casquette de stratège
+   politique, gravite autour du pouvoir : il a entre autres occupé un
+   poste de conseiller du vice-président de la Douma Piotr Tolstoï.
+
+   Vous souhaitez nous poser des questions ou nous soumettre une
+   information qui ne vous paraît pas fiable ? Nʼhésitez pas à nous écrire
+   à lʼadresse lesverificateurs@tf1.fr. Retrouvez-nous également sur X :
+   notre équipe y est présente derrière le compte @verif_TF1LCI.
+     __________________________________________________________________
+
+   Thomas DESZPOT & Samira El Gadir
+
+   Sur le
+   même thème
+     * #L'info passée au crible
+     * #Fake news
+
+     * InternationalIsraël et le Hamas en guerre
+     * InternationalUkraine : plus de 600 jours de guerre
+     * Sujets de société"FAKE NEWS !" : un voyage en post-vérité
+
+   [ ]
+     * EN DIRECT - Guerre Israël-Hamas : l'État hébreu confirme "avoir
+       reçu une première liste de noms" d'otages
+       Publié le 23 novembre 2023 à 5h51
+     * EN DIRECT - Guerre en Ukraine : l'UE et le Canada promettent un
+       soutien "inébranlable" à l'Ukraine
+       Publié hier à 6h45
+     * EN DIRECT - Israël-Gaza : les otages libérés transférés vers des
+       hôpitaux
+       Publié hier à 5h45
+     * Les actrices Melissa Barrera et Susan Sarandon lâchées par
+       Hollywood après leurs déclarations sur Israël
+       Publié le 22 novembre 2023 à 13h55
+     * Une nouvelle épidémie en Chine ? La hausse des maladies
+       respiratoires inquiète l'OMS
+       Publié le 23 novembre 2023 à 9h17
+     * Paris : la vitesse maximale autorisée sur le périphérique abaissée
+       à 50 km/h à partir du 14 septembre 2024
+       Publié le 22 novembre 2023 à 15h48
+     * Guerre Israël-Hamas : sur Twitter, la désinformation bat son plein
+       Publié le 10 octobre 2023 à 20h56
+     * "Doppelganger", la campagne de désinformation russe qui a visé la
+       France
+       Publié le 13 juin 2023 à 17h23
+     * Guerre en Ukraine : comment des médias occidentaux sont plagiés
+       pour relayer la propagande russe
+       Publié le 19 mai 2023 à 15h09
+     * Guerre en Ukraine : les trolls, la deuxième armée de Prigojine, le
+       patron de Wagner
+       Publié le 24 février 2023 à 15h27
+
+   Voir plus
+
+   Tout
+   TF1 Info
+   (*) ( ) ( )
+   Les + lusDernière minuteTendance
+   [ ]
+     * 1
+       "Elle ne lutte plus vraiment" : Thomas Dutronc donne des nouvelles
+       de Françoise Hardy
+       Publié le 23 novembre 2023 à 11h55
+     * 2
+       EN DIRECT - Israël-Gaza : les otages libérés transférés vers des
+       hôpitaux
+       Publié hier à 5h45
+     * 3
+       REPORTAGE - Volcan en Islande : dans la ville-fantôme de Grindavik,
+       "certaines maisons n'ont plus de plancher"
+       Publié le 23 novembre 2023 à 11h21
+     * 4
+       Le célicouple, le nouveau mode de vie des Français pour faire durer
+       leur relation
+       Publié hier à 20h00
+     * 5
+       "Star Academy" : cette nouvelle règle qui va bouleverser le prime
+       des nommés samedi
+       Publié hier à 13h41
+     * 6
+       Météo : premières gelées, neige... un coup de froid attendu ce
+       week-end, mais jusqu'à quand ?
+       Publié hier à 16h00
+     * 7
+       EN DIRECT - Guerre en Ukraine : l'UE et le Canada promettent un
+       soutien "inébranlable" à l'Ukraine
+       Publié hier à 6h45
+     * 8
+       Mère pour la deuxième fois, Paris Hilton a donné à "sa princesse"
+       le nom d’une capitale européenne
+       Publié hier à 11h07
+     * 9
+       Tortue de compagnie : quatre infos à savoir avant d'adopter
+       Publié hier à 18h00
+     * 10
+       VIDÉO - "Héros irlandais" : Alan, le lycéen français, neutralise
+       l'auteur de l'attaque au couteau à Dublin
+       Publié hier à 18h40
+       Voir plus d'actualités
+
+     * 1
+       Mort de Thomas à Crépol : les neuf suspects présentés au parquet en
+       début d'après-midi
+       Publié aujourd'hui à 11h47
+     * 2
+       ENQUÊTE - Contrôles sanitaires de restaurants : à l'approche des
+       JO-2024, la "police de l'hygiène" met les bouchées doubles
+       Publié aujourd'hui à 11h36
+     * 3
+       Coup de bluff ou coup de maître ? Kim Jong-un vante les révélations
+       de son satellite espion
+       Publié aujourd'hui à 11h23
+     * 4
+       VIDÉO - Kangourou guitariste, oiseau boule de neige... Ces photos
+       d'animaux sont les plus drôles de 2023
+       Publié aujourd'hui à 11h06
+     * 5
+       XV de France : avec quel staff Fabien Galthié va lancer la campagne
+       pour le prochain Tournoi des VI Nations ?
+       Publié aujourd'hui à 10h44
+     * 6
+       Seine-Saint-Denis : trois morts et un enfant en urgence absolue
+       après un incendie
+       Publié aujourd'hui à 10h34
+     * 7
+       EN DIRECT - Israël-Hamas : 14 otages doivent être libérés samedi en
+       échange de 42 prisonniers palestiniens
+       Publié aujourd'hui à 9h58
+     * 8
+       Un maillot mal floqué, une nouvelle défaite... encore une soirée
+       compliquée pour Victor Wembanyama
+       Publié aujourd'hui à 9h53
+     * 9
+       Féminicide dans l'Eure-et-Loir : le conjoint de l'infirmière
+       étranglée mis en examen et écroué
+       Publié aujourd'hui à 9h51
+     * 10
+       Violences faites aux femmes : des manifestations dans toute la
+       France ce samedi
+       Publié aujourd'hui à 9h15
+       Voir plus d'actualités
+
+     * 1
+       REPORTAGE - Volcan en Islande : dans la ville-fantôme de Grindavik,
+       "certaines maisons n'ont plus de plancher"
+       Publié le 23 novembre 2023 à 11h21
+     * 2
+       EN DIRECT - Israël-Gaza : les otages libérés transférés vers des
+       hôpitaux
+       Publié hier à 5h45
+     * 3
+       Crimée : ce tunnel sous-marin que Moscou voudrait construire avec
+       l'aide de la Chine
+       Publié hier à 19h29
+     * 4
+       VIDÉO - "Héros irlandais" : Alan, le lycéen français, neutralise
+       l'auteur de l'attaque au couteau à Dublin
+       Publié hier à 18h40
+     * 5
+       États-Unis : Derek Chauvin, l'ex-policier qui a tué George Floyd,
+       poignardé en prison
+       Publié aujourd'hui à 7h26
+     * 6
+       EN DIRECT - Guerre en Ukraine : Kiev visé par la plus importante
+       attaque de drones depuis le début de l'invasion
+       Publié aujourd'hui à 6h45
+     * 7
+       EN DIRECT - Israël-Hamas : 14 otages doivent être libérés samedi en
+       échange de 42 prisonniers palestiniens
+       Publié aujourd'hui à 6h30
+     * 8
+       EN DIRECT - Guerre en Ukraine : l'UE et le Canada promettent un
+       soutien "inébranlable" à l'Ukraine
+       Publié hier à 6h45
+     * 9
+       VIDÉO - À la dérive depuis un an, le plus gros iceberg du monde est
+       aux portes de l'Atlantique
+       Publié hier à 18h31
+     * 10
+       VIDÉO - Guerre Israël-Hamas : qui sont les 13 otages israéliens
+       libérés au premier jour de la trêve ?
+       Publié hier à 19h12
+       Voir plus d'actualités
+
+     * InternationalLibération d'otages, trêve temporaire… Un premier
+       accord trouvé entre Israël et le Hamas
+     * Sujets de sociétéSemaine européenne pour l'emploi des personnes
+       handicapées
+     * InternationalJavier Milei, le fantasque ultralibéral devenu
+       président de l'Argentine
+     * Police, justice et faits diversDrôme : le choc après une rixe
+       mortelle lors d'une fête de village
+     * InternationalJavier Milei
+
+   Accueil-International-Après l'Ukraine, la campagne de désinformation
+   russe "Doppelgänger" s'empare du conflit entre Israël et Hamas
+
+   Mentions légalesConditions générales d'utilisationPolitique de
+   protection des données du service TF1 InfoNous contacterExercez vos
+   droitsPolitique cookiesLa médiatrice vous répondTous les tagsEspace
+   presse (BUTTON) Paramétrer mes choix
+   (BUTTON) Gérer les options d'affichage ADAPTEZ L'AFFICHAGE
+   TF1 Info Copyright ©2023

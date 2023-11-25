@@ -1,164 +1,179 @@
+   #alternate
 
-   BBC Homepage
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MJWQ5L2
 
+Skip links
 
+   Skip to Content
 
-   More menu
-   Search BBC
+Live
 
-   Close menu
-   BBC News
+   (BUTTON) Show navigation menu
 
-   Menu
+Navigation menu
 
-   More
+     * News (BUTTON) Show more news sections
+          + Middle East
+          + Africa
+          + Asia
+          + US & Canada
+          + Latin America
+          + Europe
+          + Asia Pacific
+     * Israel-Gaza war
+     * Features
+     * Economy
+     * Opinion
+     * Video
+     * (BUTTON) More (BUTTON) Show more sections
+          + Ukraine war
+          + Coronavirus
+          + Climate Crisis
+          + Investigations
+          + Interactives
+          + In Pictures
+          + Science & Technology
+          + Sport
+          + Podcasts
 
+Live
 
-EU gives Meta and TikTok formal Hamas disinformation deadline
+   (BUTTON) Click here to searchsearch
 
-       19 October
+   Navigation menu (BUTTON) caret-left
+     * Israel-Palestine conflict
+     * Live updates
+     * The truce deal explained
+     * Photos
+     * How can the truce be enforced?
+     * Live tracker
+     * What Palestinian symbols mean
+     * A simple guide
+     * The truce: The view from Gaza
+     * If Gaza was your city
 
-   Share page
-   About sharing
-   Young woman holding phone standing near EU flag Image source, Getty
-   Images
-   By Tom Gerken
-   Technology reporter
+   (BUTTON) caret-right
 
-   TikTok and Meta have been formally told to provide the EU with
-   information about the possible spread of disinformation on their
-   platforms relating to the Israel-Gaza conflict.
+   PodcastPodcast, The Take
+   News|Israel-Palestine conflict
 
-   Previously they were given 24 hours to provide answers to the bloc's
-   concerns.
+The Take: Censorship and disinformation – the online war on Gaza
 
-   But that request did not carry legal force, whereas this latest demand
-   does.
+   As Palestinians are censored and disinformation spreads rapidly, how is
+   the internet steering the Gaza conflict?
+   Women use social media to support Palestinian protests at the
+   Israel-Gaza border, in Gaza City April 14, 2018. Picture taken April
+   14, 2018
+   Women use social media to support Palestinian protests at the
+   Israel-Gaza border in 2018 [File: Samar Abo Elouf/Reuters]
+   Published On 23 Oct 202323 Oct 2023
 
-   Both firms have a week to respond. Under its new tech rules, the EU can
-   open a formal investigation if it is unsatisfied with their responses.
+   IFRAME:
+   https://omny.fm/shows/the-take/censorship-and-disinformation-the-online
+   -war-on-ga/embed
 
-   The EU is concerned about the possible spread of terrorist and violent
-   content, and hate speech, after Hamas' attack on Israel.
+   Social media have been one of the few available ways for Palestinians
+   to tell their stories under the Israeli occupation and blockade. But
+   censorship and account suspensions threaten that outlet. As the war on
+   Gaza escalates, social media companies have tightened their grip
+   further. This is mixed with the rapid spread of disinformation and
+   conflicting narratives like those about the deadly blast at the al-Ahli
+   Arab Hospital in Gaza. So how far is disinformation and censorship
+   steering the conflict?
 
-   "We'll publish our first transparency report under the [new law] next
-   week, where we'll include more information about our ongoing work to
-   keep our European community safe," a TikTok spokesperson said.
+Keep reading
 
-   A Meta spokesperson said: "Our teams are working around the clock to
-   keep our platforms safe, take action on content that violates our
-   policies or local law, and coordinate with third-party fact checkers in
-   the region to limit the spread of misinformation. We're happy to
-   provide further details of this work, beyond what we have already
-   shared, and will respond to the European Commission."
+   list of 4 items
 
-   The EU's latest demand comes a week after it contacted X, formerly
-   known as Twitter, over the same concerns.
+   list 1 of 4
 
-   X said at the time it had removed hundreds of Hamas-affiliated accounts
-   from the platform.
+The Take: The backlash to supporting Palestine
 
-   Social media firms have seen a surge in disinformation about the
-   conflict between Israel and Hamas, including doctored images and
-   mislabelled videos.
+   list 2 of 4
 
-   The chief executives of Meta, TikTok, X and Google each received
-   letters from EU commissioner Thierry Breton earlier in October, giving
-   them 24 hours to respond.
+The Take: Will the Gaza hospital attack be a turning point for the world?
 
-   But these letters were not formal, legally-binding requests under new
-   EU tech laws governing what kind of content is allowed online.
+   list 3 of 4
 
-   Now, under the Digital Services Act (DSA), the firms must respond by
-   the set deadlines.
+The Take: When it comes to Gaza, when is it called a war crime?
 
-   Failure to comply with the DSA can result in fines of as much as 6% of
-   a company's global turnover, or even suspension of the platform.
+   list 4 of 4
 
-Double deadlines
+The Take: The other blockade – As Gaza escalates, so does the West Bank
 
-   In this formal step under the DSA, the Commission has set Meta and
-   TikTok two deadlines.
+   end of list
 
-   First, the firms have been told to provide requested information on
-   "the crisis response" by 25 October, while they must respond to
-   questions about protecting election integrity by 8 November .
+   In this episode:
+     * Abdallah Ahmed, Al Jazeera senior investigation producer
+     * Marwa Fatafta (@marwasf), MENA policy manager at Access Now
+     * Marc Owen Jones (@marcowenjones), associate professor of Middle
+       East studies at Hamad bin Khalifa University
 
-   TikTok has additionally been tasked with telling the European
-   Commission how it is protecting minors online by the November deadline.
+   You can watch Al Jazeera’s investigative report on the hospital blast
+   in Gaza here.
 
-   When the social media firms were previously asked to provide more
-   information, Mr Breton said Meta must prove it had taken "timely,
-   diligent and objective action".
+   Episode credits:
 
-   He later said TikTok "has a particular obligation to protect children &
-   teenagers from violent content and terrorist propaganda".
+   This episode was produced by Sarí el-Khalili and our host Malika Bilal.
+   Miranda Lin fact-checked this episode.
 
-Related Topics
+   Our sound designer is Alex Roldan. Tim St Clair mixed this episode. Our
+   lead of audience development and engagement is Aya Elmileik, and Adam
+   Abou-Gad is our engagement producer.
 
+   Alexandra Locke is The Take’s executive producer, and Ney Alvarez is Al
+   Jazeera’s head of audio.
 
-More on this story
+   Connect with us:
 
-            12 October
-       TikTok logo on a phone
-            11 October
-       Mark Zuckerberg
+   @AJEPodcasts on Twitter, Instagram, Facebook, Threads and YouTube
+   Source: Al Jazeera
+     __________________________________________________________________
+     __________________________________________________________________
 
-Top Stories
+     * (BUTTON) About (BUTTON) Show more
+          + About Us
+          + Code of Ethics
+          + Terms and Conditions
+          + EU/EEA Regulatory Notice
+          + Privacy Policy
+          + Cookie Policy
+          + Cookie Preferences
+          + Sitemap
+          + Community Guidelines
+          + Work for us
+          + HR Quality
+     * (BUTTON) Connect (BUTTON) Show more
+          + Contact Us
+          + Advertise with us
+          + Apps
+          + Newsletters
+          + Channel Finder
+          + TV Schedule
+          + Podcasts
+          + Submit a Tip
+     * (BUTTON) Our Channels (BUTTON) Show more
+          + Al Jazeera Arabic
+          + Al Jazeera English
+          + Al Jazeera Investigative Unit
+          + Al Jazeera Mubasher
+          + Al Jazeera Documentary
+          + Al Jazeera Balkans
+          + AJ+
+     * (BUTTON) Our Network (BUTTON) Show more
+          + Al Jazeera Centre for Studies
+          + Al Jazeera Media Institute
+          + Learn Arabic
+          + Al Jazeera Centre for Public Liberties & Human Rights
+          + Al Jazeera Forum
+          + Al Jazeera Hotel Partners
 
-       Hamas says pause in Gaza fighting to begin at 10am on Thursday
-            17 minutes ago
-       Two dead in vehicle explosion at US-Canada border crossing
+   Follow Al Jazeera English:
+     *
+     *
+     *
+     *
+     *
 
-Features
-
-       Yahya Sinwar in 2021
-       VideoBBC assesses footage of tunnel and hostages released by Israel
-       Caroline Hawley stands in front of a screen with CCTV video
-       closer to solving JFK's assassination?
-       US President John F Kennedy and First Lady Jacqueline Kennedy
-       Arati Kumar-Rao
-       Rohit Sharma of India cuts a dejected figures following the ICC
-       Men's Cricket World Cup India 2023 Final between India and
-       Australia at Narendra Modi Stadium on November 19, 2023 in
-       Ahmedabad, India.
-       Binance new CEO, Richard Teng.
-       Romana Didulo
-       Southwest Airlines landing at Los Angeles International Airport
-       Sam Altman
-
-Elsewhere on the BBC
-
-       reading on car
-       fragmented
-       plate
-
-Most Read
-
-    1. 1
-       Anti-Islam populist leads Dutch election - exit poll
-    2. 2
-       Russian actress killed in strike while performing to troops
-    3. 3
-       Actress fired from Scream 7 over Israel-Gaza posts
-    4. 4
-       Dutch election promises new political era
-    5. 5
-       Pilot sentenced for decapitating skydiver with plane
-    6. 6
-       Vehicle explodes on bridge between US and Canada
-    7. 7
-       Dutch vote for new leaders in neck-and-neck race
-    8. 8
-       Remaining four BTS band members enlist in military
-    9. 9
-       ‘How I got dangerous chat site Omegle closed down’
-   10. 10
-       Ghana MP sorry for mocking footballer Harry Maguire
-
-BBC News Services
-
-
-
-
-   sites. Read about our approach to external linking.
+   Al Jazeera Media Network logo
+   © 2023 Al Jazeera Media Network

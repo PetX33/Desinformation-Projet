@@ -2,11 +2,13 @@ https://abcnews.go.com/Technology/wireStory/polish-government-warns-disinformati
 https://arabcenterdc.org/resource/disinformation-and-hate-speech-on-social-media-contribute-to-inciting-war-crimes-against-gaza/
 https://dialogo-americas.com/articles/russian-propaganda-and-disinformation/
 https://edition.cnn.com/2023/10/13/tech/google-youtube-hamas-israel-disinformation/index.html
+https://edition.cnn.com/2023/10/01/world/china-disinformation-us-response-intl-hnk/index.html
 https://nypost.com/2023/10/25/news/fbi-had-over-40-confidential-sources-providing-criminal-information-on-biden-family-sen-chuck-grassley-says/
 https://rsf.org/en/twitter-x-elon-musk-s-transformation-free-speech-defender-champion-disinformation
 https://www.aljazeera.com/podcasts/2023/10/23/the-take-censorship-and-disinformation-the-online-war-on-gaza
 https://www.bbc.com/news/technology-67157733
 https://www.bostonglobe.com/2023/10/26/opinion/israel-gaza-qatar-hamas-hostage-release-negotiations/
+https://www.bostonglobe.com/2023/02/14/business/combating-disinformation-wanes-social-media-giants/
 https://www.bu.edu/articles/2023/israel-hamas-war-misinformation/
 https://www.cbc.ca/news/politics/china-spamouflage-mps-1.7005066
 https://www.cbsnews.com/news/china-investing-disinformation-surveillance-censorship-new-report/
@@ -14,7 +16,6 @@ https://www.cbsnews.com/news/israel-social-media-disinformation-spreads-amid-war
 https://www.fox2detroit.com/news/a-i-and-deepfakes-could-damage-democracy-as-misinformation-spreads-faster
 https://www.foxnews.com/media/barack-obama-lectures-widespread-disinformation-world-press-freedom-day-truth-matters
 https://www.foxnews.com/politics/free-speech-concerns-dhs-disinformation-board-lawmakers-critics
-https://www.goerie.com/story/opinion/columns/2023/11/01/mercyhurst-professor-danger-disinformation-russia-israel-hamas-social-media-democracy-cisa-kgb/71312510007/
 https://www.hollywoodreporter.com/news/politics-news/israel-media-hamas-reporting-1235626933/
 https://www.jta.org/2023/10/23/israel/fearing-denial-and-disinformation-israel-shows-journalists-raw-footage-of-hamas-attacks
 https://www.latimes.com/politics/story/2023-10-20/supreme-court-biden-republican-social-media-covid-disinformation
@@ -32,7 +33,8 @@ https://www.nytimes.com/2023/07/05/business/media/disinformation-researchers-jud
 https://www.nytimes.com/2023/09/28/technology/china-disinformation-us-state-department.html
 https://www.nytimes.com/2023/07/05/us/politics/social-media-ruling-government.html
 https://www.nytimes.com/2023/10/26/technology/russian-disinformation-us-state-department-campaign.html
-https://www.nytimes.com/article/israel-attacks-video-disinformation.html
+https://www.theguardian.com/technology/2023/nov/07/85-of-people-worry-about-online-disinformation-global-survey-finds
+https://www.theguardian.com/commentisfree/2023/nov/15/disinformation-regulations-laws-tiktok-facebook-instagram-x
 https://www.theguardian.com/australia-news/2023/oct/01/why-is-labors-bill-on-combatting-disinformation-so-controversial
 https://www.theguardian.com/technology/2023/oct/10/eu-warns-elon-musk-over-disinformation-about-hamas-attack-on-x
 https://www.theguardian.com/technology/2023/oct/15/tiktok-says-it-has-acted-to-curb-disinformation-amid-israel-hamas-war
@@ -40,11 +42,9 @@ https://www.theguardian.com/technology/2023/sep/26/eu-warns-elon-musk-that-twitt
 https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections
 https://www.theguardian.com/world/2023/feb/15/revealed-disinformation-team-jorge-claim-meddling-elections-tal-hanan
 https://www.theguardian.com/world/2023/jul/10/republicans-fuel-the-disinformation-wars
-https://www.usatoday.com/story/news/nation/2023/10/23/to-counter-fears-of-election-fraud-officials-campaign-for-voter-trust/71207740007/
-https://www.usatoday.com/story/news/politics/2023/10/20/supreme-court-biden-social-media-over-disinformation/71145309007/
-https://www.usatoday.com/story/news/world/ukraine/2023/09/26/ukraine-russia-war-live-updates/70968159007/
 https://www.voanews.com/a/fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza/7328598.html
 https://www.voanews.com/a/media-among-victims-in-israel-hamas-conflict/7305234.html
 https://www.voanews.com/a/us-warns-of-china-s-plans-for-information-domination-/7289699.html
 https://www.voanews.com/a/fact-check-china-boosts-anti-us-conspiracy-theory-about-maui-fire/7278075.html
 https://www.voanews.com/a/press-freedom-climate-conspiracy-media-attacks/7273103.html
+https://news.yahoo.com/disinformation-part-parcel-social-medias-081424371.html?

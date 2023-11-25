@@ -1,17 +1,26 @@
-    4. Facebook
-
-         Réseaux sociaux : l’Europe durcit le ton sur la désinformation
-
-   Publié le 20/10/2023 09:28
+          + Confidentialité des données
+          + Cybersécurité
+          + Désinformation
+          + Infrastructures connectées
+          + Intelligence Artificielle
 --
-   Commission européenne va ouvrir une enquête visant TikTok, Instagram et
-   Facebook. - Réseaux sociaux : l’Europe durcit le ton sur la
-   désinformation Depuis les attaques du Hamas, on constate une large
-   prolifération de contenus haineux et de fausses informations sur les
-   réseaux sociaux. La Commission européenne va ouvrir une enquête visant
+    3. Politique
+    4. Institutions
+    5. Israël-Hamas : l’UE craint que la désinformation ne déstabilise les
+       démocraties
+
+Israël-Hamas : l’UE craint que la désinformation ne déstabilise les
+démocraties
+
 --
-   réseaux sociaux, Bruxelles vient d’ouvrir une enquête visant les
-   plateformes Meta et TikTok. "La diffusion généralisée de contenus
-   illicites et de désinformation liés à ces événements entraîne un risque
-   clair de stigmatisation de certaines communautés", remarque Thierry
-   Breton, commissaire européen chargé du Marché intérieur.
+   États membres de se coordonner rapidement sur le sujet.
+
+   « La diffusion généralisée de contenus illicites et de désinformation
+   liés à ces évènements entraîne un risque clair de stigmatisation de
+   certaines communautés, de déstabilisation de nos structures
+--
+
+     * attaque du Hamas
+     * Désinformation
+     * Digital Services Act (DSA)
+     * DSA

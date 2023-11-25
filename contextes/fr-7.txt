@@ -1,36 +1,81 @@
-    4. Élections
-    5. Élections slovaques : les réseaux sociaux « passifs » aux requêtes
-       anti-désinformation
+   Mon compte
 
-Élections slovaques : les réseaux sociaux « passifs » aux requêtes
-anti-désinformation
+   Accueil / IA génératives : un risque accru de désinformation ?
 
-   Par : Barbara Zmušková | EURACTIV Slovaquie | translated by Lysia
+IA génératives : un risque accru de désinformation ?
+
+   Publié en ligne le 29 septembre 2023 - Intelligence Artificielle -
+   IA génératives : un risque accru de désinformation ?
+
+   Les systèmes d’intelligence artificielle génératives suscitent de
+   nombreuses craintes et interrogations, tant le contenu généré est
+   saisissant de réalisme. S’il devient encore plus difficile de
+   distinguer le vrai du faux, la désinformation ne risque-t-elle pas de
+   se propager encore plus largement ? On peut imaginer la prolifération
+   de vidéos mettant en scène un homme politique, un artiste, ou tout
 --
-   contenus trompeurs et mensongers avant les élections de fin septembre
-   ont reçu une réponse inadéquate et inefficace, selon un rapport sur la
-   désinformation du Centre de lutte contre les menaces hybrides du
-   ministère de l’Intérieur slovaque, qui appelle également à trouver une
-   solution à l’échelle de l’UE pour forcer Telegram à se conformer à des
+   tous et pourraient être déployées à très grande échelle.
+
+Un risque de désinformation accru ?
+
+   Soulignons en préalable que le problème rencontré par ceux qui veulent
 --
-   « Malgré les déclarations des représentants des réseaux sociaux et des
-   plateformes en ligne sur leur volonté d’empêcher l’influence des
-   élections par la diffusion de désinformation, leur réponse aux
-   notifications envoyées a été lente, inefficace et, surtout,
-   insuffisante », écrit le rapport.
+   des messages plus crédibles, plus vraisemblables, qui se diffuseront
+   plus facilement. Cependant, le support principal pour diffuser la
+   désinformation reste Internet et les réseaux sociaux tels qu’ils
+   existent déjà.
+   Les Tricheurs (détail), Valentin de Boulogne (1591-1632)
 --
-   impact sur la conduite des élections, mais qu’elle ne soit pas soumise
-   aux obligations de la réglementation sur les services numériques, ni
-   signataire du Code de pratique sur la désinformation, est un problème
-   très sérieux », déclare le Centre, ajoutant que la situation nécessite
-   « une solution plus complète au niveau de l’UE ».
+   la proportion de faux comptes ou de doublons sur les réseaux sociaux
+   (sur Facebook, ils sont estimés à 16 %, une partie d’entre eux servant
+   au spam et à la désinformation [2]) ainsi que toutes les controverses
+   relatives à la régulation et l’autorégulation face à des contenus
+   problématiques.
 
-Élections slovaques : comment les plateformes luttent contre la
-désinformation politique dans le cadre du DSA
+   Par ailleurs, ne l’oublions pas, le succès de la désinformation dépend
+   également des attentes des personnes visées. Une vidéo truquée
+   rencontrera son public si elle est crédible aux yeux des personnes
+--
+   aspirations.
 
-   Le 30 septembre, la Slovaquie tiendra ses premières élections depuis
-   l’entrée en vigueur de la règlementation européenne sur les services
-   numériques, qui comprend des obligations pour les plateformes de lutter
-   contre la désinformation politique.
+   La désinformation n’a attendu ni Internet ni les réseaux sociaux pour
+   se propager à très grande échelle. Certaines « théories du complot »^ 1
+   ont rencontré un succès planétaire, avec des conséquences dramatiques �
+--
+   véhiculés [4].
 
+   Enfin, ajoutons que combattre la désinformation par des faits validés
+   suppose que ceux qui la propagent ou qui y sont réceptifs sont
+   sensibles aux arguments et souhaitent confronter leurs croyances. Ce
+--
 
+   Internet et les réseaux sociaux ont révolutionné le champ de la
+   désinformation. Ils ont en particulier rendu planétaires des phénomènes
+   qui restaient le plus souvent locaux. De plus, la vitesse de
+   propagation des fausses informations s’est radicalement accrue. Dans ce
+--
+   leurs usages spécifiques quand ils sont néfastes.
+
+Se prémunir contre les dangers de la désinformation
+
+   Avec leur perfectionnement, les nouvelles technologies d’intelligence
+--
+   refuse de répondre à certaines requêtes ou accompagne certaines
+   réponses de mises en garde. Pour illustrer, en 2022, vous pouviez
+   demander à ChatGPT de proposer un plan de désinformation afin de
+   convaincre des parents de ne pas vacciner leurs enfants, en précisant
+   le public visé (par exemple « mères californiennes adeptes
+--
+   scientifiques, était proposé. Le même essai réalisé en juin 2023
+   conduit à la réponse suivante : « Je ne peux pas élaborer un plan de
+   désinformation visant à tromper les parents ou à propager de fausses
+   informations. En tant qu’intelligence artificielle, mon objectif est de
+   fournir des informations précises et fiables basées sur les
+--
+
+   Le 5 octobre 2023
+   IA génératives : un risque accru de désinformation ?
+
+IA génératives : un risque accru de désinformation ?
+
+   Le 29 septembre 2023

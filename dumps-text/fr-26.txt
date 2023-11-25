@@ -1,70 +1,581 @@
+   #alternate
 
-   Afis Science - Association française pour l'information scientifique
-   Association Française pour l’Information Scientifique
+   Aller au contenu
 
+   (BUTTON) Menu
+   BLACK FRIDAY -70% sur votre abonnementRechercher
+   Notre application
+   Soyez alerté en temps réel
+   avec l'application Le Figaro
 
-   Afis facebook Afis twitter Afis Youtube Afis Android Afis ios Afis RSS
-   Mon compte
+   Rubriques et services du Figaro
+     * Guerre en Ukraine
+     * Politique
+     * International
+     * Société
+     * Vox
+     * Économie
+     * Sport
+     * Culture
+     * Voyage
+     * Style
+     * Madame
+     * Vin
 
-   Accueil / IA génératives : un risque accru de désinformation ?
+   (BUTTON)
 
-IA génératives : un risque accru de désinformation ?
+   (BUTTON)
 
-   Publié en ligne le 29 septembre 2023 - Intelligence Artificielle -
-   IA génératives : un risque accru de désinformation ?
+   Rubriques et services du Figaro
+     * Le Figaro Live
+     * Le Figaro Magazine
+     * La Vérification
+     * Le Figaro Étudiant
+     * Faits divers
+     * Santé
+     * Sciences
+     * Fig Data
+     * Tech et web
+     * Bourse
+     * Le Figaro Immobilier
+     * Emploi
+     * Art de vivre
+     * Automobile
+     * Langue française
+     * Golf
+     * Histoire
+     * TVMag
+     * Programme TV
+     * Maison et Jardin
+     * Le Figaroscope
+     * Carnet du jour
+     * Guide achat
+     * Services
+     * Billetterie
+     * Podcasts
+     * La question du jour
+     * Le Figaro Store
+     * Les Voyages F
+     * A savoir en France
 
-   Les systèmes d’intelligence artificielle génératives suscitent de
-   nombreuses craintes et interrogations, tant le contenu généré est
-   saisissant de réalisme. S’il devient encore plus difficile de
-   distinguer le vrai du faux, la désinformation ne risque-t-elle pas de
-   se propager encore plus largement ? On peut imaginer la prolifération
-   de vidéos mettant en scène un homme politique, un artiste, ou tout
-   simplement soi-même ou un proche, avec un contenu factice, une voix
-   similaire à la vraie voix, mais avec des propos, des situations et des
-   comportements complètement inventés. Les photos du président Trump en
-   état d’arrestation, du président Macron en éboueur ou du pape en
-   doudoune ont déjà été largement médiatisées. Plus sordide : des vidéos
-   truquées apparaissent mettant en scène des personnes, célèbres ou non,
-   dans des situations dégradantes [1]. Ces scénarios, déjà réalisables
-   avec les technologies existantes, deviendraient ainsi à la portée de
-   tous et pourraient être déployées à très grande échelle.
+   Nos journaux et magazines
+     * Le Figaro
+     * Le Figaro Magazine
+     * Madame Figaro
+     * TV Magazine
 
-Un risque de désinformation accru ?
+   Les sites du Groupe Figaro
+     * Figaro Store
+     * TickeTac.com
+     * Le Particulier
+     * Météo Consult
+     * La chaîne météo
+     * Figaro Nautisme
+     * Les voyages F
+     * Cadremploi
+     * Le Figaro Emploi
+     * Immobilier
+     * Immoneuf
+     * Propriétés de France
+     * Achat Terrain
+     * Choose your boss
+     * Marco Vasco
+     * Maisons du voyage
+     * Amatera
 
-   Soulignons en préalable que le problème rencontré par ceux qui veulent
-   propager des fausses informations n’a jamais été la création de
-   contenu, mais sa diffusion. En ce qui concerne la création de contenu,
-   de façon évidente, les possibilités offertes par les IA génératives
-   peuvent s’avérer d’une grande efficacité et il importe de ne pas les
-   minimiser. En brouillant la frontière entre le vrai et le faux et en
-   permettant la production à une échelle industrielle de fausses photos,
-   de fausses vidéos, les IA génératives démocratisent largement ce qui,
-   avant, requérait une expertise pointue, des logiciels spécialisés et
-   une main-d’œuvre coûteuse.
+   Se connecter (BUTTON) Mon compte
+     * Mon espace personnel
+     * Mes newsletters
+     * Mes commentaires
+     * S'abonner
+     * Aide et contact
+     * Se déconnecter
 
-   Mais il s’agit ensuite de diffuser les « informations » ainsi obtenues.
-   Là, l’aide apportée semble plus limitée. Certes, les IA génératives
-   permettent d’individualiser les interactions sur les réseaux sociaux,
-   rendant plus performantes les interventions des robots informatiques en
-   les faisant apparaître plus « humaines ». Elles produisent également
-   des messages plus crédibles, plus vraisemblables, qui se diffuseront
-   plus facilement. Cependant, le support principal pour diffuser la
-   désinformation reste Internet et les réseaux sociaux tels qu’ils
-   existent déjà.
-   Les Tricheurs (détail), Valentin de Boulogne (1591-1632)
+   Lire le PDF en ligne Lire le journal
+   BLACK FRIDAY -70% sur votre abonnement
 
-   Le problème ne date pas d’aujourd’hui, comme en atteste, par exemple,
-   la proportion de faux comptes ou de doublons sur les réseaux sociaux
-   (sur Facebook, ils sont estimés à 16 %, une partie d’entre eux servant
-   au spam et à la désinformation [2]) ainsi que toutes les controverses
-   relatives à la régulation et l’autorégulation face à des contenus
-   problématiques.
+     * Actualités tech
+     * Crypto
+     * Start-up
+     * Tests
+     * Pratique
+     * Jeux vidéos
 
-   Par ailleurs, ne l’oublions pas, le succès de la désinformation dépend
-   également des attentes des personnes visées. Une vidéo truquée
-   rencontrera son public si elle est crédible aux yeux des personnes
-   ciblées et si elle correspond à leur état d’esprit et à leurs
-   aspirations.
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TC6DVH
 
-   La désinformation n’a attendu ni Internet ni les réseaux sociaux pour
-   se propager à très grande échelle. Certaines « théories du complot »^ 1
+   Publicité
+
+    1. Accueil
+    2. Tech & Web
+
+La Commission européenne suspend ses campagnes publicitaires sur X
+(ex-Twitter) face à la «hausse de la désinformation»
+
+   Par Le Figaro avec AFP
+   Publié le 17/11/2023 à 16:05, Mis à jour le 17/11/2023 à 16:10
+     * (BUTTON) Copier le lien
+       Lien copié
+     * Mail
+     * Facebook
+     * Twitter
+     * Linkedin
+     * Messenger
+     * WhatsApp
+
+   Cette décision ne remet pas en cause la présence des services de la
+   Commission européenne sur X, a précisé le porte-parole. Cette décision
+   ne remet pas en cause la présence des services de la Commission
+   européenne sur X, a précisé le porte-parole.
+   Cette décision ne remet pas en cause la présence des services de la
+   Commission européenne sur X, a précisé le porte-parole. KIRILL
+   KUDRYAVTSEV / AFP
+
+   «Nous avons constaté une hausse alarmante de la désinformation et des
+   discours de haine sur plusieurs réseaux sociaux ces dernières semaines,
+   et cela concerne bien entendu X», a déclaré un porte-parole de
+   l’exécutif européen.
+
+   Le bras de fer entre Bruxelles et X se durcit. La Commission européenne
+   a demandé à ses services de suspendre leurs campagnes publicitaires sur
+   le réseau social, anciennement nommé Twitter, en raison de la «hausse
+   alarmante de la désinformation et des discours de haine», a indiqué
+   vendredi un porte-parole. «Nous avons constaté une hausse alarmante de
+   la désinformation et des discours de haine sur plusieurs réseaux
+   sociaux ces dernières semaines, et cela concerne bien entendu X», a
+   déclaré ce porte-parole, Johannes Bahrke.
+
+   «Nous avons donc recommandé aux services de s'abstenir de faire des
+   campagnes publicitaires» sur la plateforme, propriété du milliardaire
+   Elon Musk, a-t-il ajouté. Cette décision ne remet pas en cause la
+   présence des services de la Commission européenne sur X, a précisé le
+   porte-parole.
+
+   À lire aussiElon Musk nie vouloir fermer X (ex-Twitter) en Europe
+
+Enquête de la Commission européenne
+
+   Depuis qu'Elon Musk a racheté Twitter fin octobre 2022 avant d'en
+   changer le nom, la plateforme a assoupli ses règles sur la
+   désinformation, réduit ses équipes de modération des contenus et permis
+   le retour de nombreuses personnalités controversées. L'exécutif
+   européen a ouvert en octobre une enquête visant ce réseau social pour
+   la diffusion présumée de «fausses informations», «contenus violents et
+   à caractère terroriste» et «discours de haine» dans le contexte de la
+   guerre entre Israël et le Hamas. Cette démarche s'inscrit dans le cadre
+   de l'application de la nouvelle législation sur les services numériques
+   (DSA), imposant des obligations renforcées aux plateformes.
+
+   L'instruction de suspendre toute publicité sur X de la part de la
+   Commission fait aussi suite à une polémique entourant une campagne
+   faite en septembre sur ce réseau social par les services de la
+   commissaire européenne aux Affaires intérieures, Ylva Johansson, pour
+   faire la promotion d'un projet de législation. Cette campagne est
+   accusée d'avoir utilisé des techniques de microciblage en se basant sur
+   les opinions politiques et religieuses des personnes visées, en
+   violation des règles européennes sur les données personnelles.
+
+   Une association autrichienne militant pour la protection de la vie
+   privée, Noyb, a porté plainte jeudi contre la Commission européenne
+   auprès du Contrôleur européen de la protection des données, au nom d'un
+   internaute néerlandais destinataire d'un des messages des services de
+   l'UE. L'ONG réclame une enquête fouillée et l'imposition d'une amende.
+   La rédaction vous conseille
+     * Publiées proches de contenus pro-nazis, le géant informatique
+       américain IBM suspend ses publicités sur X, l'ex-Twitter
+     * Signalements de contenus, suppressions pour propos violents... La
+       France plus mauvaise élève de X (ex-Twitter)?
+     * Sur X (ex-Twitter), les posts corrigés par la communauté ne seront
+       plus monétisés
+
+   Sujets
+     * Publicité
+     * Twitter
+     * Commission Européenne
+     * Désinformation
+
+   Publicité
+   9 commentaires
+     * GLF
+       le 18/11/2023 à 07:29
+       Et moi je voudrais bien suspendre la désinformation de la
+       Commission Européenne, subir moins de normes tatillons et de lois
+       que je n ai pas votées et qui ont été décidées par des personnes
+       qui ne sont pas élues ….. une des premières désinformation est le
+       discours sur les bienfaits et l efficacité des énergies
+       renouvelables - qui sont par construction intermittente et qui sont
+       beaucoup moins économiques que le nucléaire …. Mais chut « il ne
+       faut pas le dire « à cause des lobbys au sein de la Commission au
+       bénéfices d intérêts privés allemands ou d autres pays Je ne
+       voudrais pas subir la désinformation de cette Commission Européenne
+       qui a finançait la promotion du voile islamique et voulait
+       supprimer Noël du calendrier … Et les français ont subi dans leur
+       chair et dans leur vie quotidienne la désinformation de la
+       Commission Européenne sur l utilité de l ARENH Que cette commission
+       commence d abord à nettoyer leur écurie avant d accuser les autres
+       de quoi que ce soit Et il y a du boulot
+     * Schtroumpfarceur
+       le 17/11/2023 à 18:03
+       en 2021 la désinformation venait de l elysée ! et personne ne
+       trouvait à redire .....
+     * figminou
+       le 17/11/2023 à 17:09
+       Effectivement, supprimer la publicité de l'UE semble un très bon
+       moyen de réduire la désinformation sur le réseau. Bien vu.
+
+   (BUTTON) Lire les 9 commentaires
+
+   À lire aussi
+
+Les salariés d’OpenAI menacent de démissionner si Sam Altman n’est pas
+réintégré à l’entreprise
+
+   Les salariés d’OpenAI menacent de démissionner si Sam Altman n’est pas
+   réintégré à l’entreprise Les salariés d’OpenAI menacent de démissionner
+   si Sam Altman n’est pas réintégré à l’entreprise
+
+   L’entrepreneur, limogé vendredi par son conseil d’administration, a été
+   embauché dimanche soir par Microsoft pour diriger une nouvelle équipe
+   de recherche avancée sur l'intelligence artificielle.
+   Regarder la vidéo
+
+Intelligence artificielle: le retour de Sam Altman préfigure un big bang chez
+OpenAI
+
+   Intelligence artificielle: le retour de Sam Altman préfigure un big
+   bang chez OpenAI Intelligence artificielle: le retour de Sam Altman
+   préfigure un big bang chez OpenAI
+
+   DÉCRYPTAGE - Si l’entreprise retrouve son PDG, sa structure va être
+   remise à plat. Rien ne sera jamais plus pareil chez le créateur de
+   ChatGPT.
+
+OpenAI annonce le retour de Sam Altman à la tête de l’entreprise
+
+   OpenAI annonce le retour de Sam Altman à la tête de l’entreprise OpenAI
+   annonce le retour de Sam Altman à la tête de l’entreprise
+
+   Coqueluche de la Silicon Valley, Sam Altman avait été évincé de sa
+   propre start-up, créatrice de ChatGPT, avant d’être embauché par
+   Microsoft. Il réintègre finalement Open AI, qui va nommer un nouveau
+   conseil d’administration.
+   Regarder la vidéo
+
+   Plus de services
+   L'actualité à ne pas manquer
+     * Résultats des élections
+     * Covid-19
+     * Guerre en Ukraine
+     * Tension Iran-Etats Unis
+     * Corée-Du-Nord
+     * Actualité politique en temps réel
+     * Analyses, débats politiques et sociétaux
+     * Actualité et réseaux sociaux
+
+   Programme TV
+     * Programme TV ce soir
+     * Programme TV en ce moment
+     * Programme TV TNT
+     * Séries Netflix, HBO, OCS et TV
+     * Election et photos Miss France
+     * Programme TV Canalsat
+     * Programme TV Free
+     * Programme TV SFR
+     * Actu people
+
+   Sport
+     * Calendriers et résultats des matchs en direct
+     * Coupe du monde de rugby 2023
+     * Jeux olympiques
+     * Actualité cyclisme
+     * Résultats, classement général Tour De France
+     * Qualifications Euro 2024
+     * Classement Ligue 1
+     * Classement Top 14
+     * Transferts football
+     * Coupe du monde 2022
+     * Ballon d'Or France Football
+
+   Madame
+     * Horoscope du jour
+     * Guide du mariage
+     * Recettes de cuisine
+     * Brigitte Macron
+     * Actu mode
+     * Apéritif dînatoire
+     * Recette pâte à crêpe
+     * Tendance bijoux
+     * Meghan Markle
+     * Gainer son corps
+
+   Santé
+     * Fiches et guides des médicaments
+     * Astuces et conseils bien-être
+     * Santé et sexualité
+     * Index des maladies
+     * Conseils alimentation, nutrition et santé
+     * L'encyclopédie des organes
+     * Conseils en psychologie
+     * La pollution va t-elle nous tuer ?
+     * Apnée du sommeil : Comment mieux dormir ?
+     * 15 mythes sur les vertus des aliments
+
+   Guide d'achat
+     * Guide d'achat maison et jardin
+     * Guide d'achat santé et beauté
+     * Guide d’achat high-tech
+     * Guide d'achat smartphones et tablettes
+     * Comment choisir le meilleur extracteur de jus ?
+     * Quelle est la meilleure montre connectée ?
+     * Quel est le meilleur home cinéma sans fil ?
+     * Comparatif semelle gel
+     * Quel épilateur électrique choisir ?
+     * Bons plans
+
+   Éducation et orientation
+     * Résultats Bac
+     * Révisions du Bac
+     * Parcoursup
+     * Annuaire des écoles de commerce
+     * Les entreprises qui recrutent
+     * Trouver un stage
+     * Résultats Brevet des collèges
+     * Classement des écoles de commerce
+     * Trouver une alternance
+     * Agenda étudiant : JPO, salons…
+
+   Culture
+     * Succession de Johnny Hallyday
+     * Sorties cinéma
+     * Guide arts et expositions
+     * Actualité musicale
+     * Actualité jeux-vidéo
+     * Citations et proverbes
+     * Réservation de spectacles et théâtre
+     * Sortir à Paris
+     * Histoire de France
+     * Langue française
+
+   Codes promos et réductions
+     * Code promo Wish
+     * Code promo Cdiscount
+     * Code promo SheIn
+     * Code promo eBay
+     * Code promo AliExpess
+     * Code promo Deliveroo
+     * Code promo Nike
+     * Code promo Sephora
+     * Code promo Showroomprive
+     * Code promo Asos
+
+   Offres d'emploi
+     * Toutes les offres d'emploi
+     * Emploi à Paris
+     * Emploi à Lyon
+     * Emploi à Toulouse
+     * Emploi à Nantes
+     * Emploi à Bordeaux
+     * Emploi commercial
+     * Emploi contrôleur de gestion
+     * Emploi logistique
+     * Emploi communication
+     * Nos fiches métiers
+
+   Annonces immobilières
+     * Annonces immobilières
+     * Achat appartement Paris
+     * Achat appartement Nice
+     * Achat appartement Cannes
+     * Achat appartement Bordeaux
+     * Achat appartement Lyon
+     * Achat appartement Aix-en-provence
+     * Achat maison Bordeaux
+     * Achat maison Marseille
+     * Achat maison Montpellier
+
+   Économie argent et finances
+     * Simulateur de seuil de richesse
+     * Actualité économique et analyses
+     * Impôts sur le revenu : simulateur
+     * Palmarès des villes où investir dans l'immobilier
+     * Studios et 2-pièces : les loyers ville par ville
+     * Calculer l'impôt à payer
+     * Barême des droits de succession et donation
+     * Indice de référence des loyers (IRL)
+     * En France, les hauts revenus sont-ils tous des «riches»?
+     * Carte familles nombreuses : jusqu’à 75 % de réduction sur les
+       billets de train
+
+   Voyage
+     * Guide des croisières
+     * Guide voyage Jordanie
+     * Guide voyage Namibie
+     * Guide voyage Maroc
+     * Guide voyage New York
+     * Guide voyage Birmanie
+     * Guide voyage Lille
+     * Guide voyage Antilles
+     * Guide voyage Japon
+     * Guide voyage Amsterdam
+
+   Les magazines Figaro
+     * Le Figaro Magazine
+     * Madame Figaro
+     * Le Figaro
+     * Le Figaro Hors-Série
+     * Le Figaro Histoire
+     * TV Magazine
+     * F, l'art de vivre
+
+   Figaro Services
+     * SCPI de rendement
+     * Changer d’assurance de prêt immobilier
+     * Le Village de l'emploi avis
+     * Alarme maison
+     * Demande de carte grise en ligne
+     * Définition du portage salarial
+     * Stress et troubles du sommeil
+     * A savoir en France
+     * Annonces légales
+
+   Vin
+     * Primeurs
+     * Comprendre le vin
+     * Tops et sélections
+     * Domaines et vignerons
+     * Economie du vin
+     * Foire aux vins
+     * Magazine du vin
+     * Spititueux
+     * Cocktails et mixologie
+     * Terroir et viticulture
+
+   Résultats des élections par département
+     * Résultats des élections Hauts-de-Seine
+     * Résultats des élections Seine-Saint-Denis
+     * Résultats des élections Val-de-Marne
+     * Résultats des élections Val-d'Oise
+     * Résultats des élections Yvelines
+     * Résultats des élections Var
+     * Résultats des élections Alpes-Maritimes
+     * Résultats des élections Essonne
+     * Résultats des élections Nord
+
+   Résultats des élections par région
+     * Résultats des élections Auvergne-Rhône-Alpes
+     * Résultats des élections Bourgogne-Franche-Comté
+     * Résultats des élections Bretagne
+     * Résultats des élections Centre-Val de Loire
+     * Résultats des élections Corse
+     * Résultats des élections Grand Est
+     * Résultats des élections Hauts-de-France
+     * Résultats des élections Ile-de-France
+     * Résultats des élections Normandie
+     * Résultats des élections Nouvelle-Aquitaine
+     * Résultats des élections Occitanie
+     * Résultats des élections Pays de la Loire
+     * Résultats des élections Provence-Alpes-Côte d'Azur
+
+   Résultats des élections par ville
+     * Résultats des élections Paris
+     * Résultats des élections Marseille
+     * Résultats des élections Lyon
+     * Résultats des élections Toulouse
+     * Résultats des élections Nice
+     * Résultats des élections Nantes
+     * Résultats des élections Montpellier
+     * Résultats des élections Strasbourg
+     * Résultats des élections Bordeaux
+     * Résultats des élections Lille
+     * Résultats des élections Rennes
+     * Résultats des élections Reims
+     * Résultats des élections Saint-Étienne
+
+   Le Figaro : Editions locales
+     * Le Figaro Bordeaux
+     * Le Figaro Lyon
+     * Le Figaro Nantes
+     * Le Figaro Nice
+
+   Suivez l’actu en temps réelavec l’application Le Figaro
+   (BUTTON)
+   Vous avez choisi de refuser les cookies
+   Et pourtant, la publicité personnalisée est un moyen de soutenir le
+   travail de notre rédaction qui s’engage à vous proposer chaque jour une
+   information de qualité. En acceptant les cookies, vous pourrez accéder
+   aux contenus et fonctionnalités gratuites que propose notre site.
+
+   À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer
+   les cookies” en bas de page.
+   (BUTTON) Accepter les cookiesouRefuser et s'abonner
+
+   La Commission européenne suspend ses campagnes publicitaires sur X
+   (ex-Twitter) face à la «hausse de la désinformation»
+   S'ABONNER
+   (BUTTON) Fermer
+   Partager (BUTTON) 2
+
+   Partager via :
+     * Mail
+     * Facebook
+     * Twitter
+     * WhatsApp
+     * (BUTTON) Copier le lien
+       Lien copié
+     * Messenger
+
+   (BUTTON) 9 commentaires
+   (BUTTON)
+   (BUTTON)
+
+   Plus d'options
+   (BUTTON) Imprimer l'article (BUTTON) Signaler une faute d'orthographe
+   S'abonner
+
+   Nos liens utiles
+     * Nos applications mobiles
+     * Suivre Le Figaro sur Google Actu
+     * Le Figaro Bordeaux
+     * Le Figaro Lyon
+     * Le Figaro Marseille
+     * Le Figaro Nantes
+     * Le Figaro Nice
+     * Les vidéos Figaro Live
+     * Les podcasts du Figaro
+     * Les programmes TV
+     * Les résultats sportifs
+     * Carnet du jour
+     * Figaro Store
+
+   Le Figaro
+   Le Kiosque
+
+   Le Figaro
+   Lire ce numéro
+   Abonnement
+     * Découvrez toutes les offres
+       Les articles en illimité à partir de 0,99€ sans engagement
+     * Gérer votre abonnement
+     * Espace personnel
+
+   Applications mobiles
+     * Le Figaro : iPhone | Android
+     * Le Figaro Jeux : iPhone | Android
+     * Le Kiosque Le Figaro : iPhone | Android
+     * Le Figaro Cuisine : iPhone | Android
+
+   Nos newsletters
+   Inscrivez-vous aux newsletters
+   Suivez-nous sur :
+     * (BUTTON) Paramétrer les cookies
+     * Plan du site
+     * Confidentialité
+     * CGU
+     * CGV
+     * Info cookies
+     * Charte
+     * Aide et contact
+     * Mentions légales
+     * Abonnements
+     * Newsletter
+     * Publicité
+     * Sitemap

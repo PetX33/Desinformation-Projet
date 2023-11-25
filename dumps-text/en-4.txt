@@ -1,3 +1,4 @@
+   #alternate alternate alternate alternate
 
 CNN values your feedback
 
@@ -8,18 +9,27 @@ CNN values your feedback
    ( )
    ( )
    2. Did you encounter any technical issues?
+   [ ]
    Video player was slow to load content [ ] Video content never loaded
+   [ ] Ad froze or did not finish loading [ ] Video content did not start
    after ad [ ] Audio on ad was too loud [ ] Other issues [ ]
    Ad never loaded [ ] Ad prevented/slowed the page from loading [ ]
    Content moved around while ad loaded [ ] Ad was repetitive to ads I've
    seen previously [ ] Other issues [ ]
 
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Cancel (BUTTON) Submit
    Thank You!
    Your effort and contribution in providing this feedback is much
    appreciated.
    Close
    Ad Feedback
 
+   (BUTTON) (BUTTON)
 
    Markets
    Tech
@@ -28,16 +38,28 @@ CNN values your feedback
    Videos
    More
    Markets Tech Media Calculators Videos
+   Audio Live TV (BUTTON)
 
+   (BUTTON) (BUTTON) (BUTTON) Log In
    My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
 
    Your CNN account Log in to your CNN account
+   ____________________ (BUTTON) Search
 
+   (BUTTON) (BUTTON) (BUTTON) Log In
    My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
 
    Your CNN account Log in to your CNN account
+     __________________________________________________________________
 
    Live TV Audio
+     __________________________________________________________________
 
    Edition
    US
@@ -45,6 +67,11 @@ CNN values your feedback
    Arabic
    Español
    Edition
+     * US
+     * International
+     * Arabic
+     * Español
+     __________________________________________________________________
 
    Markets
    Tech
@@ -52,7 +79,112 @@ CNN values your feedback
    Calculators
    Videos
    Follow CNN Business
+     *
+     *
+     *
+     __________________________________________________________________
 
+     * World
+          + Africa
+          + Americas
+          + Asia
+          + Australia
+          + China
+          + Europe
+          + India
+          + Middle East
+          + United Kingdom
+     * US Politics
+          + The Biden Presidency
+          + Facts First
+          + 2024 Elections
+     * Business
+          + Tech
+          + Media
+          + Calculators
+          + Videos
+     * Markets
+          + Pre-markets
+          + After-Hours
+          + Market Movers
+          + Fear & Greed
+          + World Markets
+          + Investing
+          + Markets Now
+          + Before the Bell
+          + Nightcap
+     * Health
+          + Life, But Better
+          + Fitness
+          + Food
+          + Sleep
+          + Mindfulness
+          + Relationships
+     * Entertainment
+          + Movies
+          + Television
+          + Celebrity
+     * Tech
+          + Innovate
+          + Gadget
+          + Foreseeable Future
+          + Mission: Ahead
+          + Upstarts
+          + Work Transformed
+          + Innovative Cities
+     * Style
+          + Arts
+          + Design
+          + Fashion
+          + Architecture
+          + Luxury
+          + Beauty
+          + Video
+     * Travel
+          + Destinations
+          + Food & Drink
+          + Stay
+          + News
+          + Videos
+     * Sports
+          + Football
+          + Tennis
+          + Golf
+          + Motorsport
+          + US Sports
+          + Olympics
+          + Climbing
+          + Esports
+          + Hockey
+     * Videos
+          + Live TV
+          + Digital Studios
+          + CNN Films
+          + HLN
+          + TV Schedule
+          + TV Shows A-Z
+          + CNNVR
+     * Features
+          + As Equals
+          + Call to Earth
+          + Freedom Project
+          + Impact Your World
+          + Inside Africa
+          + 2 Degrees
+          + CNN Heroes
+          + All Features
+     * Weather
+          + Climate
+          + Wildfire Tracker
+          + Video
+     * More
+          + Photos
+          + Longform
+          + Investigations
+          + CNN Profiles
+          + CNN Leadership
+          + CNN Newsletters
+          + Work for CNN
 
    Markets
    DOW
@@ -63,12 +195,11 @@ CNN values your feedback
    ----- is driving the US market
 
    Latest Market News
-   Spotify to slash royalties for rain sounds, white noise and other
-   non-music tracks
-   The NFL, Washington Post, and Walmart: Here are the major companies
-   still advertising on X despite Elon Musk’s antisemitic endorsement
-   Here are the dozen brands that have paused ads on X amid ongoing crisis
-   for Elon Musk’s platform
+   The tug-of-war is on between retailers wary of throw-away prices and
+   deal-hungry Black Friday shoppers
+   The surprising history of America’s biggest holiday shopping blitz
+   Best Buy’s simple strategy for beating shoplifting: More workers in
+   stores
    Something isn't loading properly. Please check back later.
    Ad Feedback
    Ad Feedback
@@ -80,7 +211,9 @@ graphic content
    By Brian Fung, CNN
    2 minute read
    Published 2:54 PM EDT, Fri October 13, 2023
+   (BUTTON) (BUTTON) (BUTTON)
    Link Copied!
+   (BUTTON) (BUTTON)
 
    The logo of the Youtube app
    The logo of the Youtube app
@@ -141,68 +274,175 @@ graphic content
    searches related to the war.
 
    Related
+   [231013144946-youtube-app-file-restricted.jpg?c=16x9&q=h_720,w_1280,c_f
    ill]
    Ad Feedback
    Ad Feedback
 
 More from CNN Business
 
-   Larry Summers, former U.S. Treasury secretary, listens during the New
-   Work Summit in Half Moon Bay, California, U.S., on Tuesday, Feb. 26,
-   2019. The event gathers powerful leaders to assess the opportunities
-   and risks that are now emerging as artificial intelligence accelerates
-   its transformation across industries.
-   David Paul Morris/Bloomberg/Getty Images
-   Economist Larry Summers joins the board of OpenAI as ousted CEO Sam
-   Altman returns
-   Nov 22, 2023
-   Single-family homes are seen in this aerial photograph taken over a
-   Lennar Corp. development in San Diego, California, U.S., on Tuesday,
-   Sept. 1, 2020.
-   Bing Guan/Bloomberg/Getty Images
-   Mortgage rates fall for fourth week but stay above 7%
-   Nov 22, 2023
+   Emma Hansson, chairman of IF Metall Stockholms lan, stands on strike
+   outside Teslaʼs Service Center in Segeltorp, as workshop workers at the
+   electric car company Tesla have gone on strike demanding that the
+   company sign a collective agreement, in Stockholm, Sweden, October 27,
+   2023. Jessica Gow/TT News Agency/via REUTERS ATTENTION EDITORS - THIS
+   IMAGE WAS PROVIDED BY A THIRD PARTY. SWEDEN OUT. NO COMMERCIAL OR
+   EDITORIAL SALES IN SWEDEN.
+   Jessica Gow/TT News Agency/Reuters
+   ‘This is insane.’ Swedish workers are getting under Elon Musk’s skin
+   Nov 24, 2023
+   Terry Gou, Foxconn founder and presidential candidate, speaks during a
+   press conference in Taipei, Taiwan November 23, 2023. REUTERS/Carlos
+   Garcia Rawlins
+   Carlos Garcia Rawlins/Reuters
+   Billionaire Foxconn founder drops out of Taiwan’s presidential race
+   Nov 24, 2023
    Ad Feedback
 
 CNN Business Videos
 
+   Foxconn Hon Hai tech day, Oct 2023, Taipei, Taiwan (Marketplace Asia
+   ep.29)
+   CNN
+   How iPhone maker Foxconn plans to become a global EV player
+   Nov 24, 2023
+   europe energy video card
+   CNN
+   Energy execs: Europe in a ‘better position’ this winter
+   Nov 24, 2023
    MPE dining london video card
    CNN
    Inside London’s ‘zero-waste’ fine dining restaurant
-   Nov 22, 2023
-   Sam Altman, CEO of OpenAI, attends the Asia-Pacific Economic
-   Cooperation (APEC) CEO Summit in San Francisco, California, U.S.
-   November 16, 2023.
-   Carlos Barria/Reuters
-   Former CEO Sam Altman to return to OpenAI
-   Nov 22, 2023
-   Elon Musk, chief executive officer of Tesla Inc., during a fireside
-   discussion on artificial intelligence risks with Rishi Sunak, UK prime
-   minister, not pictured, in London, UK, on Thursday, November 2, 2023.
-   Tolga Akmen/EPA/Bloomberg/Getty Images
-   Why the US government is still working with Elon Musk amid antisemitic
-   comments
-   Nov 22, 2023
-   exp TSR.Todd.OpenAI.CEO.Altman.fired_00004408.png
-   Top AI firm fires CEO, amid debate over AI
-   Nov 21, 2023
+   Nov 24, 2023
+   FST QWOW 1118
+   Reconnecting with British traditions
+   Nov 24, 2023
    Ad Feedback
    Ad Feedback
 
+   ____________________ (BUTTON) Search
 
+   (BUTTON) (BUTTON) (BUTTON) Log In
    My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
 
    Your CNN account Log in to your CNN account
+     __________________________________________________________________
 
    Live TV Audio
+     __________________________________________________________________
 
+     * World
+          + Africa
+          + Americas
+          + Asia
+          + Australia
+          + China
+          + Europe
+          + India
+          + Middle East
+          + United Kingdom
+     * US Politics
+          + The Biden Presidency
+          + Facts First
+          + 2024 Elections
+     * Business
+          + Markets
+          + Tech
+          + Media
+          + Calculators
+          + Videos
+     * Health
+          + Life, But Better
+          + Fitness
+          + Food
+          + Sleep
+          + Mindfulness
+          + Relationships
+     * Entertainment
+          + Movies
+          + Television
+          + Celebrity
+     * Tech
+          + Innovate
+          + Gadget
+          + Foreseeable Future
+          + Mission: Ahead
+          + Upstarts
+          + Work Transformed
+          + Innovative Cities
+     * Style
+          + Arts
+          + Design
+          + Fashion
+          + Architecture
+          + Luxury
+          + Beauty
+          + Video
+     * Travel
+          + Destinations
+          + Food & Drink
+          + Stay
+          + News
+          + Videos
+     * Sports
+          + Football
+          + Tennis
+          + Golf
+          + Motorsport
+          + US Sports
+          + Olympics
+          + Climbing
+          + Esports
+          + Hockey
+     * Videos
+          + Live TV
+          + Digital Studios
+          + CNN Films
+          + HLN
+          + TV Schedule
+          + TV Shows A-Z
+          + CNNVR
+     * Features
+          + As Equals
+          + Call to Earth
+          + Freedom Project
+          + Impact Your World
+          + Inside Africa
+          + 2 Degrees
+          + CNN Heroes
+          + All Features
+     * Weather
+          + Climate
+          + Wildfire Tracker
+          + Video
+     * More
+          + Photos
+          + Longform
+          + Investigations
+          + CNN Profiles
+          + CNN Leadership
+          + CNN Newsletters
+          + Work for CNN
+     __________________________________________________________________
 
    Audio Live TV
    Follow CNN Business
+     *
+     *
+     *
+     *
 
+   (BUTTON) (BUTTON) (BUTTON) Log In
    My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
 
    Your CNN account Log in to your CNN account
+     __________________________________________________________________
 
    Most stock quote data provided by BATS. US market indices are shown in
    real time, except for the S&P 500 which is refreshed every two minutes.
@@ -222,5 +462,6 @@ CNN Business Videos
    Terms of Use Privacy Policy Ad Choices Accessibility & CC About
    Newsletters Transcripts
 
+   © 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights
    Reserved.
    CNN Sans ™ & © 2016 Cable News Network.

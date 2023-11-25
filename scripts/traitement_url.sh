@@ -52,8 +52,8 @@ echo "<html>
 		<nav class=\"navbar is-light is-fixed-top\"><div class=\"navbar-menu\"><div class=\"navbar-start\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../index.html#introduction\">Introduction</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../index.html#analyse\">Analyse</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../scripts.html\">Scripts</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\">Tableaux</a><div class=\"navbar-dropdown\"><a class=\"navbar-item\" href=\"tableau_fr.html\">Français</a><a class=\"navbar-item\" href=\"tableau_en.html\">Anglais</a><a class=\"navbar-item\" href=\"tableau_zh.html\">Chinois</a></div></div></div><div class=\"navbar-end\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../index.html#aPropos\">À propos</a></div><div class=\"navbar-item\"><a href=\"https://github.com/PetX33/Desinformation-Projet\"><img src=\"../images/github_logo.png\" alt=\"Github\"></a></div></div></div></nav>" > "$fichier_tableau"
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
-		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: auto\">
-			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">compte</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
+		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
+			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">compte</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
 if [[ $lang == "zh" ]]
 then
@@ -64,10 +64,10 @@ then
 	do
 		echo -e "\tURL : $URL";
 		# réponse HTTP
-		code=$(curl -A "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0" -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
+		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
 		# récupération de l'encodage
-		charset=$(curl -A "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0" -Ls $URL -D - -o "../aspirations/fich-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
+		charset=$(curl -Ls $URL -D - -o "../aspirations/fich-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
 		# Déterminer le résultat en fonction du code de réponse HTTP
 		if [ "$code" -eq 200 ]; then
@@ -100,10 +100,10 @@ then
 
 			if [[ $charset == 'UTF-8' ]]
 			then
-				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×•]/d" | sed -E "/   \[/d")
+				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			else
 				# charset=$(curl $URL | urchardet)
-				dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×•]/d" | sed -E "/   \[/d")
+				dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			fi
 		else
 			echo -e "\tcode différent de 200 utilisation d'un dump vide"
@@ -169,10 +169,9 @@ else
 
 			if [[ $charset == 'UTF-8' ]]
 			then
-				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×•]/d" | sed -E "/   \[/d")
+				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			else
-				# charset=$(curl $URL | urchardet)
-				dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin -dump -nolist -assume_charset=utf-8 -display_charset=utf-8 | sed -E "/(BUTTON)/d" | sed -E "/   [*+#_©×•]/d" | sed -E "/   \[/d")
+				dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			fi
 		else
 			echo -e "\tcode différent de 200 utilisation d'un dump vide"

@@ -1,70 +1,29 @@
-   SKIP ADVERTISEMENT
+     * Ethics
 
-Disinformation Researchers Raise Alarms About A.I. Chatbots
-
-   Researchers used ChatGPT to produce clean, convincing text that
+   Thousands of FakeReporter volunteers sort through disinformation on
+   social media FakeReporter, which has been leaning on its thousands of
+   volunteers scattered across the world to try to bring some clarity to
 --
-   “Crafting a new false narrative can now be done at dramatic scale, and
-   much more frequently — it’s like having A.I. agents contributing to
-   disinformation.”
+World
 
-   Disinformation is difficult to wrangle when it’s created manually by
-   humans. Researchers predict that generative technology could make
-   disinformation cheaper and easier to produce for an even larger number
-   of conspiracy theorists and spreaders of disinformation.
-
-   Personalized, real-time chatbots could share conspiracy theories in
---
-
-   ChatGPT is far more powerful and sophisticated. Supplied with questions
-   loaded with disinformation, it can produce convincing, clean variations
-   on the content en masse within seconds, without disclosing its sources.
-   On Tuesday, Microsoft and OpenAI introduced a new Bing search engine
---
-   translate texts or conduct research.
-
-Disinformation From ChatGPT
-
-   When researchers at NewsGuard asked ChatGPT to write responses based on
---
-   OpenAI researchers have long been nervous about chatbots falling into
-   nefarious hands, writing in a 2019 paper of their “concern that its
-   capabilities could lower costs of disinformation campaigns” and aid in
-   the malicious pursuit “of monetary gain, a particular political agenda,
-   and/or a desire to create chaos or confusion.”
---
-
-   Researchers also worry that the technology could be exploited by
-   foreign agents hoping to spread disinformation in English. Some
-   companies already use multilingual chatbots to support customers
-   without translators.
---
-   2022 (ChatGPT is trained mostly on data through 2021), NewsGuard asked
-   the chatbot to write content advancing harmful health claims about
-   vaccines, mimicking propaganda and disinformation from China and Russia
-   and echoing the tone of partisan news outlets.
+Thousands of FakeReporter volunteers sort through disinformation on social
+media
 
 --
-Finding Its Voice
+   Bobby Allyn
 
-   ChatGPT was able to embody the language and voice of disinformation
-   peddlers, using popular phrases like “do your own research.” In this
-   example, researchers at NewsGuard asked for vaccine misinformation in
---
-   NewsGuard’s questions, ChatGPT was more likely to push back on the
-   prompts than when researchers originally ran the test, offering
-   disinformation in response to only 33 percent of the questions.
-   NewsGuard said that ChatGPT was constantly changing as developers
-   tweaked the algorithm and that the bot might respond differently if a
---
-   “available for anyone to use without any hard restrictions.” Stable
-   Diffusion, she wrote in an open letter, can and likely has already been
-   used to create “images used for disinformation and misinformation
-   campaigns.”
+Thousands of FakeReporter volunteers sort through disinformation on social
+media
 
 --
+   But there are also a lot of manipulated or misleading images and videos
+   spreading online, and there are groups in many countries trying to
+   fight all that disinformation. NPR's Bobby Allyn spoke to one man who
+   leads an Israel-based group known as FakeReporter.
 
-   Tiffany Hsu is a tech reporter covering misinformation and
-   disinformation. More about Tiffany Hsu
-
-   Stuart A. Thompson is a reporter on the Technology desk covering online
+--
+   ALLYN: Back in the kitchen, talking to his mother-in-law about the
+   phony kids-in-the-cage video really made Schatz understand the
+   importance of fighting against the spread of disinformation online. He
+   says it's not just about separating fact from fiction, but about
+   changing how people respond emotionally to a conflict.
