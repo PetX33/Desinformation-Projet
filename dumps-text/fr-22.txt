@@ -134,6 +134,10 @@
           + Bourse
           + International
           + Politique
+       Olivier Luansi
+       « Une réindustrialisation même réussie ne recréera pas les 2,5
+       millions d'emplois détruits depuis 1975 » (Olivier Lluansi, Mines
+       Paris)
        royaume-uni
        Opération séduction réussie pour le Royaume-Uni qui attire 30
        milliards de nouveaux investissements privés
@@ -142,9 +146,6 @@
        elections generales
        Christopher Luxon, un ex-patron de compagnie aérienne devient
        Premier ministre de la Nouvelle-Zélande 1
-       pétroliers
-       Guerre Israël Hamas : engagés dans le conflit, des rebelles
-       yéménites attaquent un pétrolier lié à Israël 1
      * Entreprises & Finance
           + Industrie
                o Automobile
@@ -166,16 +167,16 @@
                o Web TV
                o L'actualité
                o La Tribune de la COP21
+       TGV M - SNCF - Alstom
+       SNCF : les déboires d'Alstom ravivent les craintes d'un nouveau
+       retard des TGV du futur
        Manifestation des proches des disparus du vol mh370
        Vol MH370 : les familles chinoises exigent la reprise des
        recherches, dix ans après la mystérieuse disparition 1
-       La surélévation des résidences : une solution désormais explorée �
+       La surélévation des résidences : une solution désormais explorée à
        Nantes
        À Nantes, la surélévation des bâtiments comme réponse à la pénurie
        de logements
-       Le logo de veolia environnement a son siege a paris
-       Travaux publics : Veolia en passe de se séparer de SADE, l'une de
-       ses plus grosses filiales d'ingénierie 1
      * Tech
           + Médias
           + Publicité
@@ -215,7 +216,7 @@
        Chronique François Clemenceau
        Gaza : l'après a commencé
        Cop 28 patrons
-       COP28 : 60 présidents de grandes entreprises françaises appellent �
+       COP28 : 60 présidents de grandes entreprises françaises appellent à
        accélérer la transition écologique 4
      * Régions
           + Auvergne-Rhône-Alpes
@@ -265,11 +266,11 @@
      * Culture / Lifestyle
      * La Tribune Dimanche
 
-     * CAC 40 7 285,11 PTS -0,11%
-     * + FORTES HAUSSES CAC 40 SANOFI +1,27% UNIB-RODAM-WES STPL +0,85%
-     * + FORTES BAISSES CAC 40 STELLANTIS BR -1,12% BNP PARIBAS-A- -0,75%
-     * DOW JONES +0,33% NASDAQ 100 -0,12% EURONEXT 100 -0,18%
-     * Or +0,00% OAT 10 ans -0,36% Pétrole Brent -8,23%
+     * CAC 40 7 289,09 PTS -0,05%
+     * + FORTES HAUSSES CAC 40 UNIB-RODAM-WES STPL +1,22% SANOFI +0,98%
+     * + FORTES BAISSES CAC 40 STELLANTIS BR -0,89% THALES -0,85%
+     * DOW JONES +0,33% NASDAQ 100 -0,12% EURONEXT 100 -0,12%
+     * Or +0,83% OAT 10 ans -0,36% Pétrole Brent -8,23%
 
 
 
@@ -279,7 +280,7 @@
 
                                     Tribunes
 
-   « Sharp power » et désinformation : nouvelles armes de déstabilisation des
+ « Sharp power » et désinformation : nouvelles armes de déstabilisation des
                                   démocraties
 
    OPINION. Le « Sharp power », la nouvelle arme de désinformation massive
@@ -356,7 +357,7 @@ Le sharp power menace la stabilité des démocraties libérales
 
    La mise en application des régulations est difficile car l'espace
    numérique ne connaît pas de frontière. La législation est différente
-   pour chaque pays et la régulation peut être perçue comme une atteinte �
+   pour chaque pays et la régulation peut être perçue comme une atteinte à
    la liberté d'expression. Le pouvoir arbitraire des entreprises
    technologiques est confronté sur des marchés étrangers à des régimes
    autoritaires et à des choix entre opportunités économiques et pressions

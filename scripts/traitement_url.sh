@@ -28,14 +28,14 @@ fichier_tableau=$3
 basename=$(basename -s .txt $fichier_urls)
 lineno=1
 
-if [ $lang == 'zh' ]
+if [ "$lang" = 'zh' ]
 then
 	mot="虚假信息"
 	export LANG=C
-elif [ $lang == 'en' ]
+elif [ "$lang" = 'en' ]
 then
  	mot="([Dd]isinformation|[Pp]ropaganda)"
-elif [ $lang == 'fr' ]
+elif [ "$lang" = 'fr' ]
 then
 	mot="([Dd]ésinformation|[Pp]ropagande)"
 fi
@@ -55,7 +55,7 @@ echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $bas
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
 			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
-if [ $lang == "zh" ]
+if [ "$lang" = "zh" ]
 then
 	lang_base=$LANG
 	export LANG=C
@@ -110,20 +110,19 @@ then
 			dump=""
 			charset=""
 		fi
-
 		echo "$aspiration" > "../aspirations/$basename-$lineno.html"
-
 		echo "$dump" > "../dumps-text/$basename-$lineno.txt"
 
-		compte=$(grep -E -i -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
+		compte=$(grep -E -i -o "$mot" "../dumps-text/$basename-$lineno.txt" | wc -l)
 
-		grep -E -i -A 2 -B 2 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
+		grep -E -i -A 2 -B 2 "$mot" "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt"
 
-		sh ./concordancier.sh $lang "../dumps-text/$basename-$lineno.txt" $mot > "../concordances/$basename-$lineno.html"
-		
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
+		sh ./concordancier.sh "$lang" "../dumps-text/$basename-$lineno.txt" "$mot" > "../concordances/$basename-$lineno.html"
 
-		((lineno++));
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
+
+		lineno=$((lineno +1))
+
 	done < "$fichier_urls"
 
 echo "		</table>
@@ -167,7 +166,7 @@ else
 
 			echo $aspiration
 
-			if [ $charset == 'UTF-8' ]
+			if [ "$charset" = 'UTF-8' ]
 			then
 				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			else
@@ -191,7 +190,7 @@ else
 		
 		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
-		((lineno++));
+    	lineno=$((lineno + 1))
 	done < "$fichier_urls"
 
 	echo "		</table>
@@ -200,3 +199,4 @@ else
 
 	echo "motif : $mot"
 fi
+

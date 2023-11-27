@@ -192,7 +192,7 @@ Pourquoi tant de désinformation sur la guerre Israël-Hamas sur X ?
 
 Le surgissement de la vérité à travers le chaos : mission impossible ?
 
-   Alors que la guerre Israël-Hamas s’embrase, la demande d’informations �
+   Alors que la guerre Israël-Hamas s’embrase, la demande d’informations à
    ce sujet est plus forte que l’offre. Conséquence : cela crée un espace
    d’opportunités pour plusieurs acteurs cherchant une notoriété politique
    et/ou des gains financiers grâce à la désinformation.
@@ -223,7 +223,7 @@ Le surgissement de la vérité à travers le chaos : mission impossible ?
 Vous souhaitez être informé en temps réel ?
 
      * Nom*
-       ____________________ Prénom_____________________ Nom
+       ____________________ Prénom ____________________ Nom
      * E-mail*
        ____________________
      * RGPD*
@@ -379,7 +379,7 @@ Le département du Loiret victime d’une cyberattaque
 
 Qui a débranché le botnet Mozi ?
 
-   Un mystérieux kill switch a mis fin au réseau de machines zombies, �
+   Un mystérieux kill switch a mis fin au réseau de machines zombies, à
    l’été 2023.
    L’opération Triangulation met au jour les vulnérabilités d’Apple
    13 novembre 2023
@@ -733,7 +733,7 @@ La Global Privacy Assembly présente ses résolutions pour 2023
    spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
    le seul but d’effectuer la transmission d’une communication sur un
    réseau de communications électroniques.
-   Préférence[ ]_] Préférences
+   Préférences [ ] Préférences
    Le stockage ou l’accès technique est nécessaire dans la finalité
    d’intérêt légitime de stocker des préférences qui ne sont pas demandées
    par l’abonné ou l’utilisateur.

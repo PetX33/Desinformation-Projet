@@ -57,36 +57,30 @@
    [ ]
    Replay
      * JT TF1
-
-     * Le 13h
-     * Le 20h
-     * Le WE
-
-     Revoir LCI
-     * Le 6-9 avec Jean-Baptiste Boursier
-     * L'invité d'Adrien Gindre
-     * Le Temps de l'Info
-     * LCI Midi
-     * Le Club
-     * 24H Pujadas
-     * Un Oeil sur le Monde
-     * Brunet, Broussouloux & CIE
-     * Le 20h de Darius Rochebin
-     * 22h-minuit Darius Rochebin avec Alexia Mayer
-     * Les Matins LCI - Week-end
-     * Impact Positif
-     * En toute franchise
-     * 18H Darius Rochebin
-     * L’évènement du dimanche LCI
-     * Vis leurs vies
-     * Fourest en liberté
-
-
-
-   Magazines TF1
-
-     * Sept à huit
-     * Grands Reportages
+          + Le 13h
+          + Le 20h
+          + Le WE
+     * Revoir LCI
+          + Le 6-9 avec Jean-Baptiste Boursier
+          + L'invité d'Adrien Gindre
+          + Le Temps de l'Info
+          + LCI Midi
+          + Le Club
+          + 24H Pujadas
+          + Un Oeil sur le Monde
+          + Brunet, Broussouloux & CIE
+          + Le 20h de Darius Rochebin
+          + 22h-minuit Darius Rochebin avec Alexia Mayer
+          + Les Matins LCI - Week-end
+          + Impact Positif
+          + En toute franchise
+          + 18H Darius Rochebin
+          + L’évènement du dimanche LCI
+          + Vis leurs vies
+          + Fourest en liberté
+     * Magazines TF1
+          + Sept à huit
+          + Grands Reportages
 
    [ ]
    Nos dossiers
@@ -112,12 +106,11 @@
    [ ]
    Jeux
      * Jeux
-
-     * Solitaire
-     * Mots-fléchés
-     * Puzzle
-     * Mots-croisés
-     * Sudoku
+          + Solitaire
+          + Mots-fléchés
+          + Puzzle
+          + Mots-croisés
+          + Sudoku
 
    [ ]
    Sites du groupe
@@ -132,7 +125,6 @@
    (BUTTON) Gérer les options d'affichage ADAPTEZ L'AFFICHAGE
    Télécharger l'application TF1 info
    Logo Apple Store Logo PlayStore
-
    Verif'
 
 Après l'Ukraine, la campagne de désinformation russe "Doppelgänger" s'empare
@@ -142,7 +134,6 @@ du conflit entre Israël et Hamas
    Publié le 16 novembre 2023 à 17h37
 
    Source : TF1 Info
-
    Personnalisez votre expérience TF1 Infoet créez votre JT rien que pour
    vous.
 
@@ -154,10 +145,10 @@ du conflit entre Israël et Hamas
    manœuvres sont aujourd'hui étendues au conflit entre Israël et le
    Hamas.
 
-   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore �
+   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore à
    lʼidée dʼun double maléfique. Mais cʼest aussi le nom donné à une vaste
    campagne de désinformation, menée par la Russie depuis 2022. À
-   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant �
+   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant à
    déstabiliser les pays occidentaux, mais nous observons depuis plusieurs
    semaines quʼelle tente dʼinstrumentaliser le conflit entre Israël et le
    Hamas.
@@ -214,7 +205,7 @@ Le conflit Israël / Hamas à son tour instrumentalisé
    des murs de Paris et dʼÎle-de-France ont été très largement
    repartagées. Le Quai dʼOrsay a rapidement réagi et imputé "avec un haut
    degré de confiance" ces relais massifs au réseau Doppelgänger. Les
-   nombreux comptes qui lui ont été associés ont été les premiers �
+   nombreux comptes qui lui ont été associés ont été les premiers à
    partager ces clichés, a fait savoir Viginum, l’organisme français de
    lutte en charge de la lutte contre les opérations d’influence.
 
@@ -357,35 +348,35 @@ Un lien avéré avec la Russie
        Voir plus d'actualités
 
      * 1
+       EN DIRECT - Guerre en Ukraine : Kiev continue d'infliger de
+       "lourdes pertes" à la Russie, selon l'Otan
+       Publié aujourd'hui à 13h09
+     * 2
        Comment dissimuler votre bac à compost dans son jardin, sans
        détruire son travail harmonieux ?
        Publié aujourd'hui à 13h00
-     * 2
+     * 3
        VIDÉO - 4 ans après, le voisin avoue le double meurtre : l'énorme
        coup de théâtre de l'affaire Muller
        Publié aujourd'hui à 12h59
-     * 3
+     * 4
        Variole du singe : épidémie record en République démocratique du
        Congo, l'OMS craint une propagation mondiale
        Publié aujourd'hui à 12h56
-     * 4
+     * 5
        Le 13H fête Noël : à vos votes pour désigner votre recette préférée
        de Noël
        Publié aujourd'hui à 12h52
-     * 5
+     * 6
        VIDÉO - Drive-in aux États-Unis : retour vers le futur !
        Publié aujourd'hui à 12h51
-     * 6
+     * 7
        "J'ai purgé ma dette" : Jérôme Cahuzac de retour sur la scène
        publique après dix ans passés dans l'ombre
        Publié aujourd'hui à 12h51
-     * 7
-       VIDÉO - Mort de Thomas : la minute de silence en hommage �
-       l'adolescent tué à Crépol
-       Publié aujourd'hui à 12h43
      * 8
-       EN DIRECT - Guerre en Ukraine : deux millions de personnes sans
-       électricité en Russie et en Ukraine occupée
+       VIDÉO - Mort de Thomas : la minute de silence en hommage à
+       l'adolescent tué à Crépol
        Publié aujourd'hui à 12h43
      * 9
        VIDÉO - Relance du nucléaire : le secteur recrute avec des
@@ -418,8 +409,8 @@ Un lien avéré avec la Russie
        Le point de situation au Proche-Orient
        Publié aujourd'hui à 7h56
      * 6
-       EN DIRECT - Guerre en Ukraine : deux millions de personnes sans
-       électricité en Russie et en Ukraine occupée
+       EN DIRECT - Guerre en Ukraine : Kiev continue d'infliger de
+       "lourdes pertes" à la Russie, selon l'Otan
        Publié aujourd'hui à 6h41
      * 7
        EN DIRECT - Israël-Gaza : l'État hébreu dit avoir libéré 39
@@ -451,7 +442,6 @@ Un lien avéré avec la Russie
 
    Accueil-International-Après l'Ukraine, la campagne de désinformation
    russe "Doppelgänger" s'empare du conflit entre Israël et Hamas
-
    Mentions légalesConditions générales d'utilisationPolitique de
    protection des données du service TF1 InfoNous contacterExercez vos
    droitsPolitique cookiesLa médiatrice vous répondTous les tagsEspace
