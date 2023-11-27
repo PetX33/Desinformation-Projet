@@ -43,13 +43,15 @@ Live
    Navigation menu (BUTTON) caret-left
      * Israel-Palestine conflict
      * Live updates
-     * The truce deal explained
+     * A brief history
+     * Will the truce be extended?
+     * Reporter's notebook
+     * Key events
      * Photos
-     * How can the truce be enforced?
+     * The truce deal explained
      * Live tracker
      * What Palestinian symbols mean
      * A simple guide
-     * The truce: The view from Gaza
      * If Gaza was your city
 
    (BUTTON) caret-right

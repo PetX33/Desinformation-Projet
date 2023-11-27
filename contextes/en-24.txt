@@ -6,12 +6,15 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    as the Russian-dominated Donbas and Crimea regions of Ukraine.
    Get more newson
 --
+   connections to Belarus, the companies said.
+
    One of the operations, a propaganda campaign featuring a website
    pushing anti-Ukraine talking points, was an offshoot of a known Russian
    disinformation operation. A Facebook spokesperson said it used
    computer-generated faces to bolster the credibility of fake columnists
    across several platforms, including Instagram.
---
+
+   The other campaign used hacked accounts to push similar anti-Ukraine
    propaganda and was tied to a known Belarusian hacking group.
 
    Disinformation experts warned that Russia is expected to continue to
@@ -31,6 +34,10 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    designated as part of a broader disinformation effort that had
    connections to Russian intelligence. (Meta is the parent company of
    Facebook.)
+
+   Gleicher said in an interview that the propaganda campaign was able to
+   “seed stories across the internet that Ukraine isn’t doing well” by
+   “pretending to be journalists based in Kyiv.”
 --
    have pushed misleading articles, questioning the results of the 2020
    presidential election and the efficacy of Covid-19 vaccines. The State
@@ -44,11 +51,20 @@ Facebook, Twitter remove disinformation accounts targeting Ukrainians
    operation, saying the profiles were a small part of a larger
    persona-building operation that spread across Twitter, Instagram,
 --
+   Twitter said it banned more than a dozen accounts tied to the News
+   Front and South Front Russian operation, which were pushing links to a
+   new propaganda site called Ukraine Today.
+
+   “On Feb. 27, we permanently suspended more than a dozen accounts and
+--
    though the channels have very low numbers of subscribers.
 
    Facebook said it took down a separate multipronged disinformation
    operation by a known hacking group based out of Belarus that targeted
    Ukrainians. The company said it hacked social media accounts to use
+   them to spread pro-Russian propaganda.
+
+   The hackers targeted journalists, military personnel and local public
 --
 
    Facebook attributed the efforts to the hacking group Ghostwriter, which

@@ -34,10 +34,10 @@ then
 	export LANG=C
 elif [[ $lang == 'en' ]]
 then
- 	mot="([Dd]isinformation)"
+ 	mot="([Dd]isinformation|[Pp]ropaganda)"
 elif [[ $lang == 'fr' ]]
 then
-	mot="([Dd]ésinformation)"
+	mot="([Dd]ésinformation|[Pp]ropagande)"
 fi
 
 
@@ -53,7 +53,7 @@ echo "<html>
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
-			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">compte</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
+			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
 if [[ $lang == "zh" ]]
 then

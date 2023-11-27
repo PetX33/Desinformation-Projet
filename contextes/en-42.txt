@@ -3,6 +3,10 @@
 Disinformation reimagined: how AI could erode democracy in the 2024 US
 elections
 
+   Advances in generative artificial intelligence could supercharge the
+   propaganda playbook, experts warn
+
+
 --
 
    Now, as the 2024 presidential election comes into view, experts warn
@@ -19,6 +23,9 @@ elections
    formerly faced a range of logistic hurdles – creating individualized
    messages for social media was incredibly time consuming, as was
 --
+   guardrails or effective regulation to curtail it. The potential effect,
+   experts warn, is a sort of democratization and acceleration of
+   propaganda right at a time when several countries enter major election
    years.
 
 AI lowers the bar for disinformation

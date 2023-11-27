@@ -3,7 +3,13 @@
 EU warns Elon Musk after Twitter found to have highest rate of disinformation
 
    This article is more than 1 month old
+
+   Musk is told his platform, now known as X, must comply with new laws
+   designed to combat fake news and Russian propaganda
+
+
 --
+
    The EU has issued a warning to Elon Musk to comply with sweeping new
    laws on fake news and Russian propaganda, after X – formerly known as
    Twitter – was found to have the highest ratio of disinformation posts
@@ -24,18 +30,26 @@ EU warns Elon Musk after Twitter found to have highest rate of disinformation
    mis/disinformation followed by Facebook,” she told reporters.
 
    The 200-page report is an account of the work the large platforms have
---
+   done in the first six months of 2023 to prepare for compliance with the
    new law and lifts the lid on the behind-the-scenes efforts made by
    Facebook and others to crack down on Russian propaganda, hate speech
    and other disinformation.
 
    “The Russian state has engaged in the war of ideas to pollute our
 --
+
+   Google removed advertising from almost 300 sites linked to
+   “state-funded propaganda sites” and rejected more than 140,000
+   political advertisers for “failing identity verification processes”.
+
+--
    It reported that 37% of users also cancelled sharing when notified of
    fake news, a sign the EU says of the value consumers put on labelling
    disinformation.
 
    The EU is particularly concerned about continued Russian propaganda in
+   social media before key elections in Slovakia on Sunday and in Poland
+   on 15 October.
 --
 
    Jourová said the report was evidence that Russia was engaged in a “war
@@ -48,7 +62,12 @@ EU warns Elon Musk after Twitter found to have highest rate of disinformation
    year, and the “risk of disinformation”.
 
    She said the Kremlin propaganda was “a multimillion-euro weapon of mass
---
+   manipulation aimed both internally at the Russians as well as Europeans
+   and the rest of the world. And we must address this. The very large
+   platforms must address this risk.”
+
+   The war in Ukraine was the most frequent topic for propaganda but the
+   platforms also reported hate speech in relation to migration, LBGTQ+
    communities and the climate crisis.
 
    “I think it is one of the advantages of disinformation, is that they

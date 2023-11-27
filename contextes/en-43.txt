@@ -87,6 +87,9 @@ Revealed: the hacking and disinformation team meddling in elections
    early iteration of the social media disinformation software it now
    markets as Aims. Hanan said in an email that the tool, which enabled
    users to create up to 5,000 bots to deliver “mass messages” and
+   “propaganda”, had been used in 17 elections.
+
+   “It’s our own developed Semi-Auto Avatar creation and network
 --
      *
 
