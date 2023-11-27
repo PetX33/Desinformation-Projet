@@ -1,120 +1,187 @@
-    En directProgrammesIsraël
-   (BUTTON)
-   (BUTTON)
-   En direct
-     * Programmes et podcasts
-     * Direct radio
-     * Grille des programmes
-     * Tous les animateurs
-     * Dossiers
+   (BUTTON) Accéder aux raccourcis
+     * aller au contenu principal
+     * aller au menu de navigation
+     * aller au moteur de recherche
+     * aller à la page Direct tv
+     * aller à la page Direct radio
 
-     * Politique
-     * Société
-     * Économie
-     * International
-     * Médias
-     * Culture
-     * Santé
-     * Sport
-     * Faits divers
-     * Immobilier
-     * People
-     * Guide shopping
-     * Dossiers
+   (BUTTON) Menu principal
+   Accueil France Info
+     * vidéos
+     * radio
+     * jt
+     * émissions
 
-     * Club Europe 1
+   Rechercher une actualité
+   TV
+   Radio
+   Le live
+   ____________________ (BUTTON) Rechercher
+     * accueil
+     * le live
+     * direct tv
+     * direct radio
+     * vidéos
+     * radio
+     * jt
+     * émissions
+
+   Accueil
+     * politique (BUTTON) Sous-menu politique
+     * vrai ou faux
+     * société (BUTTON) Sous-menu société
+     * faits-divers (BUTTON) Sous-menu faits-divers
+     * santé (BUTTON) Sous-menu santé
+     * éco/conso (BUTTON) Sous-menu éco/conso
+     * monde (BUTTON) Sous-menu monde
+     * europe (BUTTON) Sous-menu europe
+     * culture (BUTTON) Sous-menu culture
+     * sport (BUTTON) Sous-menu sport
+     * environnement (BUTTON) Sous-menu environnement
+     * météo (BUTTON) Sous-menu météo
+     * jeux (BUTTON) Sous-menu jeux
+     * l'actu pour les jeunes
+
+   LE LIVE
+     * Confidentialité
      * Newsletters
-     * Formulaire de contact
-     * Dossiers
 
-     * Accueil
-     * médias télé
+    1. Accueil
+    2. Tech / Web
+    3. Réseaux Sociaux
+    4. Facebook
 
-#NoTwitterDay : pourquoi un collectif appelle au boycott de X ce vendredi ?
+Réseaux sociaux : l’Europe durcit le ton sur la désinformation
 
-   x twitter
-   Cela fait un an jour pour jour qu'Elon Musk a racheté Twitter. © Jakub
-   Porzycki / NurPhoto / NurPhoto via AFP
-     *
-     *
-     *
-     *
-     * Copié
+   Publié le 20/10/2023 09:28
+   Durée de la vidéo : 1 min
+   Depuis les attaques du Hamas, on constate une large prolifération de
+   contenus haineux et de fausses informations sur les réseaux sociaux. La
+   Commission européenne va ouvrir une enquête visant TikTok, Instagram et
+   Facebook. - Réseaux sociaux : l’Europe durcit le ton sur la
+   désinformation Depuis les attaques du Hamas, on constate une large
+   prolifération de contenus haineux et de fausses informations sur les
+   réseaux sociaux. La Commission européenne va ouvrir une enquête visant
+   TikTok, Instagram et Facebook. - (France 2)
+   Article rédigé par France 2 - V. Astruc, S. Wolfahrt, L. Escoubes
+   France Télévisions
+   Depuis les attaques du Hamas, on constate une large prolifération de
+   contenus haineux et de fausses informations sur les réseaux sociaux. La
+   Commission européenne va ouvrir une enquête visant TikTok, Instagram et
+   Facebook.
 
-   Ophélie Artaud / Crédit photo : Jakub Porzycki / NurPhoto / NurPhoto
-   via AFP 13h02, le 27 octobre 2023
-   Un an jour pour jour après le rachat de Twitter, devenu X, par Elon
-   Musk, un collectif français de spécialistes dans la lutte contre la
-   désinformation a appelé à boycotter le réseau social ce vendredi. Dans
-   une tribune publiée dans "Le Monde", ils regrettent notamment la
-   réduction du nombre de modérateurs et la hausse de contenus haineux ou
-   de fausses informations.
+   Une vidéo qui montrerait des enfants israéliens faits prisonniers par
+   le Hamas, vue par des centaines de milliers d’internautes. Si cette
+   fausse information a été retirée depuis, d’autres continuent de
+   circuler. Contenus haineux, appels à la violence, images
+   détournées... Pour tenter d’endiguer ce torrent qui déferle sur les
+   réseaux sociaux, Bruxelles vient d’ouvrir une enquête visant les
+   plateformes Meta et TikTok. "La diffusion généralisée de contenus
+   illicites et de désinformation liés à ces événements entraîne un risque
+   clair de stigmatisation de certaines communautés", remarque Thierry
+   Breton, commissaire européen chargé du Marché intérieur.
 
-   Le 27 octobre 2022, le milliardaire Elon Musk rachetait le réseau
-   social Twitter, pour la modique somme de 44 milliards de dollars. Un an
-   plus tard, l'oiseau bleu de Twitter a laissé sa place à la croix
-   blanche sur fond noire de X, le nouveau nom de la plateforme. Une année
-   également marquée par de nombreuses polémiques, avec les licenciements
-   de nombreux modérateurs, le nouveau système de certification ou encore
-   la hausse de contenus haineux et de désinformation.
+Une amende en cas d’infraction prolongée
 
-La réduction du nombre de modérateurs pointée du doigt
+   La semaine dernière, ce dernier avait lancé une même enquête visant le
+   réseau social X (ex-Twitter). Ce tour de vis s’inscrit dans le cadre de
+   la nouvelle réglementation européenne : tout ce qui est illégal dans la
+   vie réelle, doit l’être sur internet et les plateformes digitales
+   doivent donc retirer tout contenu illicite. L’ouverture d’enquête est
+   la première étape de la procédure. En cas d’infraction prolongée, les
+   plateformes encourent une amende pouvant aller jusqu’à 6 % de leur
+   chiffre d’affaires.
 
-   C'est justement ce dernier point qu'ont décidé d'attaquer trois
-   Français spécialistes de la lutte contre la désinformation, en appelant
-   à ne pas utiliser X pendant 24 heures ce vendredi. Dans une tribune
-   publiée dans Le Monde, l'enseignant Tristan Mendès France, le
-   journaliste Julien Pain et le fondateur du site ConspiracyWatch, Rudy
-   Reichstadt, ont invité les internautes à boycotter le réseau social
-   dont les "évolutions suscitent les plus vives inquiétudes".
+   Voir les commentaires
 
-   >> LIRE AUSSI - Perte de valeur, annonceurs disparus, utilisateurs
-   mécontents... Twitter dans la tourmente
+   Partager : l'article sur les réseaux sociaux
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
+     * (BUTTON)
 
-   Ils regrettent notamment "la réduction significative des équipes de
-   modération" qui "ne permet pas de réagir aussi diligemment qu’il le
-   faudrait s’agissant de la suppression ou de la restriction des
-   contenus qui contreviennent à la législation en vigueur dans l’Union
-   européenne". La présence sur la plateforme de posts de "désinformation,
-   apologie du terrorisme, pédopornographie, incitation à la violence ou �
-   la haine" sont pointés du doigt.
+   Le JT 20h
 
-Augmentation des contenus de désinformation
+   Retrouvez tous les jours, l'essentiel du JT de 20 heures
+   Votre adresse e-mail ____________________
 
-   De même que la présence de contenus "à caractère complotiste" et la
-   diffusion d'images violentes, toujours sans modération. Le collectif
-   regrette également le nouveau système de certification payant qui "a
-   instauré une sorte de système censitaire peu compatible avec le souci
-   sincère de garantir un accès équitable à la liberté d’expression".
+   (BUTTON) s'inscrire
 
-   Ils se sont donc engagés à ne pas poster de message sur X, ni se
-   connecter sur la plateforme ce vendredi. Reste à savoir si le mouvement
-   sera suivi par les internautes. À la mi-journée, le hashtag
-   #NoTwitterDay était en tendance France sur le réseau... même si de
-   nombreux posts critiquaient le mouvement.
+   Découvrez nos newsletters
+   France Télévisions collecte votre adresse e-mail pour vous adresser la
+   newsletter "Le JT 20h". À tout moment, vous pouvez vous désinscrire via
+   le lien en bas de ces newsletters. Pour en savoir plus, consultez notre
+   politique de confidentialité.
 
-     * Aide (FAQ)
-     * CGU
-     * Charte sur les données personnelles
-     * Politique cookies
-     * Gestion des cookies
-     * Mentions légales
-     * Charte déontologique
-     * Annonceurs
-     * Fréquences
-     * Archives sonores
-     * Guide shopping
-
+   les sujets associés
+     * Réseaux Sociaux
+     * Tech / Web
+     * Europe
      * Facebook
-     * Twitter
-     * Instagram
-     * Youtube
-     * Snapchat
-     * Linkedin
-     * Flux RSS
 
-   © 2023 Europe 1 Digital
+   contenus sponsorisés
 
-   IFRAME:
-   //redirect447.tagcommander.com/utils/noscript.php?id=5&mode=iframe&cont
-   ent_type=&content_id=&content_level1=&content_level2=&content_level3=
+   Commentaires
+
+   Connectez-vous à votre compte franceinfo pour participer
+   à la conversation.
+   (BUTTON) Voir les commentaires
+
+   Découvrez l’application France Info
+
+   Toute l’actu en direct et en continu, où et quand vous voulez.
+     * Sauvegardez vos articles à lire plus tard
+     * Recevez les alertes uniquement sur ce qui vous intéresse
+
+     * Télécharger dans l'App Store Télécharger dans l'App Store
+     * Disponible sur Google Play Disponible sur Google Play
+
+   Télécharger l'application
+
+   Abonnement Newsletter
+
+   toute l’actu dès 7h30
+   Votre adresse e-mail ____________________
+
+   (BUTTON) s'inscrire
+   France Télévisions utilise votre adresse e-mail afin de vous adresser
+   des newsletters.
+   Pour exercer vos droits, contactez-nous.
+   Notre politique de confidentialité
+
+   Suivez-nous sur les réseaux sociaux :
+     *
+     *
+     *
+     *
+
+   Suivez l'actualité en direct :
+     * le live
+     * direct tv
+     * direct radio
+
+   Retrouvez aussi
+     * Accéder au service météo Accéder au service météo La météo
+     * Accéder au service jeux Accéder au service jeux Les jeux
+
+     * Politique de confidentialité
+     * CGU et mentions légales
+     * Gérer mes traceurs
+     * Index
+     * Qui sommes-nous ?
+     * Nous contacter
+
+     * Charte déontologique
+     * Assistant vocal
+     * Devenir annonceur
+     * Recrutement
+
+   [hit.xiti?s=573499&s2=17&p=reseaux-sociaux::videos::reseaux_sociaux_l_e
+   urope_durcit_le_ton_sur_la_desinformation__6133656]
+
+   (BUTTON)
+   L'application France Info
+
+   Tout France Info, et bien plus. Sauvegardez vos articles à lire plus
+   tard et filtrer l’actualité qui vous intéresse
+   télécharger

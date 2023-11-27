@@ -1,484 +1,325 @@
-    #publisher L'Obs alternate alternate
+   #Une information fiable et indépendante sur... » Flux Une information
+   fiable et indépendante sur... » Flux des commentaires Une information
+   fiable et indépendante sur... » Médias et lutte contre la corruption :
+   le sensationnel l’emporte Flux des commentaires alternate alternate
+   alternate
 
-   L'Obs en numérique Lire le magazine[ ]]
+   fbpx
 
-   (BUTTON) ____________________
-     * [ ] société
-          + Société
-          + Justice
-          + Faits divers
-          + Éducation
-          + Santé
-          + Rue89 - Vies intimes
-          + Féminisme
-          + Sciences
-          + Sport
-     * politique
-     * [ ] écologie
-          + Écologie
-          + Environnement
-          + Écologie politique
-          + La vie en vert
-          + Combien tu pollues ?
-          + Animaux
-     * [ ] international
-          + International
-          + Europe
-          + Guerre en Ukraine
-          + Le conflit israélo-palestinien
-          + Etats-Unis
-          + Chine
-          + Amérique
-          + Afrique
-          + Asie
-     * [ ] économie
-          + Économie
-          + Entreprises
-          + Social
-          + Numérique
-          + Immobilier
-          + Conso
-          + Votre argent
-     * [ ] opinions
-          + Opinions
-          + Éditos
-          + Chroniques
-          + Tribunes
-          + Dissensus
-          + Idées
-     * [ ] culture
-          + Culture
-          + BibliObs
-          + TéléObs
-          + Cinéma
-          + Musique
-          + Tendances
-          + Programme TV
-     * [ ] lab-o
-          + Lab-O
-          + 2049
-          + Les Cycles EcoloObs
-          + Une seule santé
-          + Rencontres
-     * podcasts
-     * videos
-     * dossier
-     * [ ] services
-          + Services
-          + Services L'Obs
-          + Boutique
-          + Mots croisés
-          + Programme TV
-          + Mon compte
-          + Newsletters
-          + Applications mobiles
-          + Club Abonnés
-          + Conjugaison et synonymes
-          + Traducteur
-          + Lettres gratuites
-          + Comparateur de PER
-          + Dictionnaire
-          + Services partenaires
-          + Blog Shopping
-          + Black Friday
-          + Codes promo
-          + Codes promo Cdiscount
-          + Codes promo Amazon
-          + Codes promo Rakuten
-          + Cours d'Anglais
-          + Cours d'Allemand
-          + Cours d'Espagnol
+   Se connecter
+     * Accueil
+     * Editorial
+     * Diplomatie
+     * Economie
+     * Education
+     * Santé
+     * Véri-Facts
+     * Idées et Opinions
+     * Audios
 
-   Nouveau
-   L’Obs du 23 novembre 2023
-   Nouveau
-   L’Obs
-   23 novembre 2023 S’abonner pour lire
+   Se connecter
+   Bienvenue!Connectez-vous à votre compte
+   ____________________votre nom d'utilisateur
+   ____________________votre mot de passe
+   [BUTTON Input] (not implemented)____________
+   Mot de passe oublié ?
+   Récupération de mot de passe
+   Récupérer votre mot de passe
+   ____________________votre email
+   [BUTTON Input] (not implemented)________________________
 
-   Nouveau
-   TéléObs du 23 novembre 2023
-   Nouveau
-   TéléObs
-   23 novembre 2023 S’abonner pour lire
+   Recherche ____________________
 
-   Supplément du 26 octobre 2023
-   Suppléments
-   26 octobre 2023 S’abonner pour lire
+   Logo Logo
+   Se connecter
+   Bienvenue ! Connectez-vous à votre compte :
+   ____________________votre nom d'utilisateur
+   ____________________votre mot de passe
+   [BUTTON Input] (not implemented)____________
+   Forgot your password? Get help
+   Récupération de mot de passe
+   Récupérer votre mot de passe
+   ____________________votre email
+   [BUTTON Input] (not implemented)________________________
+   Un mot de passe vous sera envoyé par email.
+     * Présentation
 
-   Hors-Série du 16 novembre 2023
-   Hors-Série
-   16 novembre 2023 S’abonner pour lire
+   Connecter / rejoindre
+   27.1 C
+   Dakar
+   Logo Logo
+   Facebook
+   Twitter
+   Youtube
+   ____________________
+   type here...
+   (BUTTON) Recherche
 
-   SpecialImmo du 16 novembre 2023
-   Régionaux
-   16 novembre 2023 S’abonner pour lire
-   Les magazines de L’Obs sont réservés aux abonnés.
-   JE M’ABONNE À PARTIR DE 1 €
-   Toute l'actualité en continu avec l'OBS
-   CONNEXION JE M'ABONNE SANS ENGAGEMENT
+   Une information fiable et indépendante sur les questions qui traversent
+   l'Afrique.
+     * Accueil
+     * Editorial
+     * Diplomatie
+     * Economie
+     * Education
+     * Santé
+     * Véri-Facts
+     * Idées et Opinions
+     * Audios
 
-   [ ]
+   Accueil Le fil Ouestaf Médias et lutte contre la corruption : le
+   sensationnel l’emporte
 
-   Toute l'actualité en continu avec l'OBS
-   ____________________ (BUTTON) RECHERCHER
+     * Le fil Ouestaf
+     * Médias
 
-   Toute l'actualité en continu avec l'OBS
-     * ·FIL INFO
-     * société
-     * politique
-     * écologie
-     * international
-     * économie
-     * opinions
-     * culture
-     * lab-o
-     * services
+Médias et lutte contre la corruption : le sensationnel l’emporte
 
-   CONNEXION Je m'abonne sans engagement
+   Par
+   Ouestafnews
+   -
+   14/11/2023
+   0
+   1380
+   Facebook
+   Twitter
+   Pinterest
+   WhatsApp
 
-     * Société
-       Justice Faits divers Éducation Santé Rue89 - Vies intimes Féminisme
-       Sciences Sports
-     * Écologie
-       Environnement Écologie politique La vie en vert Combien tu
-       pollues ? Animaux
-     * International
-       Europe Guerre en Ukraine Le conflit israélo-palestinien États-Unis
-       Afrique Asie
-     * Économie
-       Entreprises Social Numérique Immobilier Conso Votre argent
-     * Opinions
-       Éditos Chroniques Tribunes Dissensus Idées Histoire
-     * Culture
-       BibliObs TéléObs Cinéma Musique Tendances Programme TV
-     * Lab-O
-       2049 Les Cycles EcoloObs Une seule santé Rencontres
-     * Services L'Obs
-          + Boutique
-          + Mots croisés
-          + Programme TV
-          + Applications mobiles
-          + Traducteur
-          + Mon compte
-          + Club Abonnés
-          + Lettres gratuites
-          + Comparateur de PER
-          + Mes newsletters
-          + Conjugaison et synonymes
-          + Dictionnaire
-       Services partenaires
-          + Blog Shopping
-          + Black Friday
-          + Codes promo
-          + Codes promo Cdiscount
-          + Codes promo Amazon
-          + Codes promo Rakuten
-          + Cours d'Espagnol
-          + Cours d'Allemand
-          + Cours d'Anglais
+   Dans ce contexte marqué par la mésinformation et la désinformation,
+   l'exploitation des rapports de corps de contrôle de l’État, devient un
+   moment crucial pour le grand public et les médias. Photo/Ouestaf News
 
-     * 11:45
-       Madagascar: Andry Rajoelina réélu président au premier tour
-     * 11:41
-       Guerre Israël-Hamas : un navire israélien attaqué par un drone …
-     * 11:17
-       L’Ukraine dénonce la plus vaste attaque de drones russes sur …
-     * 11:00
-       De Napoléon à Joaquin Phoenix, petite histoire du bicorne impérial
-     * 11:00
-       Au Louvre-Lens, une expo pour ceux qui veulent encore croire …
-       VOIR PLUS
+   Ouestafnews – Il suffit d’être cité par un rapport d’un corps de
+   contrôle pour voir son nom associé à des termes qui renvoient au pire.
+   Dans cette précipitation, pas de différence ni de catégorisation entre
+   les manquements mineurs, les délits et les crimes ; encore moins de
+   précaution : être cité, c’est être coupable. Ce qui conduit souvent �
+   la mésinformation, voire à la désinformation.
 
-     * L'OBS
-     * Société
+   « Les faits relatés dans le présent rapport définitif présumés
+   constitutifs de fautes de gestion ou d’infractions pénales ont fait
+   l’objet, selon les cas, de projets de déférés ou de référés soumis aux
+   autorités compétentes conformément aux règles et procédures prévues par
+   la loi organique n°2012-23 du 27 décembre 2012 sur la Cour des
+   comptes ».
 
-« Beaucoup de désinformation » : le Planning familial s’alarme d’appels
-« oppressants » à couper ses subventions
+   Les enquêteurs de la Cour des comptes avertissent ainsi en début de
+   leur récent rapport sur la gestion des fonds de riposte à la pandémie
+   de Covid-19. Le rapport ne constitue pas une décision d’inculpation,
+   encore moins une condamnation des personnes qui y sont citées.
 
-   Je m’abonne pour 1€/semaine
-   Depuis le début de l’année, des attaques ont visé des antennes du
-   Planning familial. (XOSE BOUZAS / Hans Lucas via AFP)
-   Depuis le début de l’année, des attaques ont visé des antennes du
-   Planning familial. (XOSE BOUZAS / Hans Lucas via AFP)
-   [ ] [ ]
-     * Abonnez vous pour ajouter à vos favoris
-       Favoris
-     *
-     * Partager
-     *
-     * Commenter
-     *
-     * Nous suivre
+   Pourtant, les médias et le grand public ont souvent une autre
+   compréhension de cet état de fait. Plus catégorique. Plus tranchante.
+   Il est vrai que dans un pays comme le Sénégal où les ressources sont
+   rares, et où l’impunité est souvent la règle en matière de corruption,
+   être mêlé de près ou de loin à un quelconque délit ou abus sur ces
+   ressources constitue des actes impardonnables.
 
-     *
-     *
-     *
+   En 2017 déjà, Ouestaf News avait mis en lumière la gravité des faits et
+   la grande impunité qui règne dans ce pays.
 
-   Fondée en 1960, l’association féministe a été la cible à l’été 2022
-   d’une partie de la droite et de l’extrême droite qui a dénoncé des
-   « militants archi-subventionnés ».
-   Par L'Obs avec AFP
-   · Publié le 8 novembre 2023 à 19h17 · Mis à jour le 8 novembre 2023 �
-   19h21
-   Temps de lecture 2 min
-     *
-     *
-     *
-     *
-     *
-     *
+   Lire aussi : Lutte contre la corruption 2012-2017 au Sénégal: état des
+   lieux
 
-   Plus d’un an après la polémique suscitée par son affiche représentant
-   un homme transgenre enceint, le Planning familial s’alarme des appels �
-   couper ses financements et dénonce la désinformation entourant ses
-   ateliers d’éducation à la sexualité auprès des jeunes.
+   Souvent remontés, et à juste titre, contre tous ceux qui sont
+   soupçonnés ou cités dans ces rapports de contrôle, les médias n’y vont
+   pas de main morte pour relayer le contenu de ces documents à la
+   population. Ils utilisent certains termes juridiques en faisant fi des
+   différences et subtilités sémantiques. Résultat : les rapports des
+   corps de contrôle de l’État sont interprétés par chaque citoyen selon
+   sa propre compréhension. Une confusion qui peut conduire, dans l’espace
+   public, à de la mésinformation (usage et diffusion, souvent par
+   ignorance, d’une fausse information ou d’une information hors contexte,
+   sans vraiment avoir l’intention de nuire) ; ou plus grave, à de la
+   désinformation (volonté manifeste de manipuler ou de nuire).
 
-   « On a des appels à enlever les financements du Planning, ce qui est
-   très fragilisant et très oppressant pour les bénévoles et les
-   militantes », a déclaré ce mercredi 8 novembre Sarah Durocher,
-   présidente de l’association féministe, lors d’une audition devant la
-   commission des Finances de l’Assemblée nationale.
+   L’exploitation journalistique de documents officiels à des fins de
+   publication reste un moment crucial, autant pour le public que pour le
+   journaliste lui-même. Cela devient plus important encore dans un
+   contexte caractérisé par l’absence criarde de toute disposition légale
+   favorisant et encadrant l’accès à l’information. [DEL: :DEL]
 
-   La suite après la publicité
+   Pour Ibrahima Anne, rédacteur en chef du quotidien Wal fadjri (privé),
+   « la course au scoop avec des informations incomplètes ou sorties de
+   leur contexte est en elle-même un facteur de désinformation du
+   public ». M. Anne fustige : « un gestionnaire de fonds publics
+   simplement rappelé à l’ordre concernant un défaut de visa ou des
+   manquements mineurs est jeté en pâture à l’opinion avec des termes
+   comme ”épinglé”, ”scandale”, etc. Cette opinion l’assimile vite à un
+   délinquant… ».
 
-   « Si on enlevait les financements du Planning, 400 000 personnes
-   seraient dans des difficultés importantes, c’est très alarmant »,
-   a-t-elle ajouté, en référence au nombre de personnes accompagnées ou
-   accueillies par l’association chaque année.
-   Il y a 50 ans dans « l’Obs » : la droite contre Lucien Neuwirth, la
-   contraception et le Planning familial
+   La propension du grand public à vite qualifier de « délinquants » les
+   personnes citées dans ces rapports est aussi favorisée par la
+   persistance de la corruption au Sénégal. Malgré leurs promesses de
+   lutter contre ce fléau, les régimes d’Abdoulaye Wade (2000-2012) et de
+   Macky Sall (depuis 2012) n’ont rien pu faire.
 
-   A l’heure actuelle, « au niveau tête de réseau, on est plutôt sur un
-   maintien des financements », mais les antennes locales ne verront
-   « l’impact de ces appels qu’au premier semestre 2024 », précise-t-elle
-   auprès de l’AFP.
+    Selon un rapport d’Afrobaromètre en 2022, la perception de la
+   corruption est en hausse au Sénégal, avec 73 % des Sénégalais qui
+   affirment que la corruption « a augmenté »dans leur pays, dont 60% qui
+   déclarent qu’elle a « beaucoup augmenté ».
 
-Des « attaques et des propos transphobes »
+    Le même rapport précise que « le président et les officiels de la
+   présidence, les députés et les fonctionnaires sont perçus comme les
+   plus corrompus parmi les leaders et institutions publiques clés ».
 
-   Fondée en 1960, l’association féministe a été la cible à l’été 2022
-   d’une partie de la droite et de l’extrême droite qui a dénoncé des
-   « militants archi-subventionnés » et appelait à faire cesser ces
-   « dérives » notamment en réduisant les subventions de l’Etat.
+   Hormis pour le président, qui, au Sénégal fait rarement, voire jamais,
+   l’objet d’enquête, les corps de contrôle, à travers leur rapport sur
+   l’évaluation et l’audit de la gestion de ces personnalités, apportent
+   des éléments factuels sur la corruption, différents de la seule
+   « perception » utilisée par certains organismes internationaux
+   (Transparency international, Afrobaromètre).
 
-   Dans leur collimateur, une affiche portant le slogan « Au Planning, les
-   hommes aussi peuvent être enceints », avec un dessin représente un
-   homme transgenre (c’est-à-dire né biologiquement femme mais dont
-   l’identité de genre est masculine) pendant sa grossesse.
+   Qu’à cela ne tienne ! Le directeur du site impact.sn, Momar Dieng (par
+   ailleurs spécialisé dans l’investigation et collaborateur à Ouestaf
+   News), admet plutôt qu’« une mauvaise exploitation des rapports des
+   corps de contrôle peut donner lieu à la publication de fausses
+   informations » mais pas forcément à la désinformation. Selon lui, la
+   désinformation nécessite une intention manifeste de tromper l’opinion.
+   Sinon, on est simplement  dans « le  registre de
+   l’incompétence journalistique ».
 
-   La suite après la publicité
-   « Elle sait qu’elle vient de mon ventre » : en France, cela fait
-   six ans que des hommes à l’état civil peuvent tomber enceints
+   « De manière générale, il y a toujours le risque d’altérer un message
+   complexe ou un résultat quand on le rapporte en le simplifiant ou sans
+   en faire ressortir les nuances », précise Coumba Sylla, rédactrice en
+   chef adjointe du bureau francophone d’Africa Check, site spécialisé en
+   fact-checking.
 
-   L’organisation reçoit à l’inverse le soutien d’Isabelle Rome, alors
-   ministre déléguée chargée de l’Egalité femmes-hommes, et d’un collectif
-   d’universitaires, de médecins, de sociologues et d’écrivains, parmi
-   lesquels Annie Ernaux.
+   Par conséquent, ajoute Coumba Sylla, « ce peut être une altération
+   accidentelle ou non intentionnelle, qui relève de la mésinformation. Ce
+   peut être aussi délibéré, pour induire en erreur, choquer ou jouer sur
+   des sentiments négatifs, ce qui relève de la désinformation »[DEL: .
+   :DEL]
 
-   « L’idée avec cette affiche c’était de dire que le planning accueille
-   les personnes trans et de leur dire qu’elles pouvaient venir au
-   planning, ça a été fait dans cette démarche », explique à l’AFP Sarah
-   Durocher, qui évoque des « attaques et des propos transphobes » d’une
-   « rare violence » à la fois pour les bénévoles et pour les personnes
-   concernées.
+   Désinformation ? Ce n’est point l’avis du journaliste Assane Diagne
+   ancien rédacteur en chef de l’Agence de presse sénégalaise et du bureau
+   francophone d’Africa-Check. Il dénonce plutôt « un traitement partisan
+   voire incomplet » des rapports publics des corps de contrôle de l’État
+   sénégalais.
 
-Plusieurs antennes visées
+   « Souvent, la presse parle du contenu de ces documents alors qu’elle ne
+   dispose que d’informations parcellaires et incomplètes. Il s’agit
+   d’informations incriminant des responsables politiques ». Pour Assane
+   Diagne, « l’idéal serait de disposer des rapports complets pour un
+   traitement plus professionnel et non de bribes d’informations, même
+   vraies, mais qui ne contribuent pas à une information équilibrée ».
 
-   La perspective d’une baisse des subventions est d’autant plus
-   problématique qu’elle survient dans un contexte d’inflation et « de
-   précarité des femmes seules avec enfants », poursuit Sarah Durocher.
-   « On est obligés de faire des choix [d’accueil et d’accompagnement,
-   NDLR] puisque les financements localement parfois n’augmentent pas
-   alors que la pauvreté est grandissante. »
-   Contre la désinformation en ligne sur l’IVG, le Planning familial lance
-   un nouveau site
+   Désaffection du public
 
-   Depuis le début de l’année, des attaques ont par ailleurs visé des
-   antennes du Planning familial - en février en Gironde, en mars �
-   Strasbourg et en août dans les Hautes-Alpes. De nouvelles dégradations
-   ont été commises ces derniers mois et des plaintes ont été déposées,
-   indique Sarah Durocher, sans donner plus de détails.
+   Les nombreuses autosaisines et les plaintes de tiers auprès du Conseil
+   pour l’observation des règles d’éthique et de déontologie dans les
+   médias au Sénégal (Cored) constituent une preuve de la défiance et de
+   la désaffection du public vis-à-vis des médias, dans un contexte où la
+   désinformation est exacerbée par les réseaux et médias sociaux et où
+   une pléthore de médias se crée au gré du vent.
 
-   La suite après la publicité
+   Sur son site, le Cored publie une trentaine d’avis d’autosaisines et de
+   plaintes contre des journalistes et des organes de presse, entre 2021
+   et 2023. Les griefs ont souvent pour noms : « accusations non fondées,
+   non-respect des règles éthiques et déontologiques et traitement
+   déséquilibré ou tendancieux de l’information ».
 
-   La présidente du Planning dénonce également la désinformation entourant
-   les ateliers d’éducation à la sexualité que l’association anime auprès
-   de 150 000 jeunes dans quelque 3 000 établissements scolaires.
+   On énumère au Sénégal une quarantaine de journaux dont une trentaine de
+   quotidiens, plus de 200 radios (publiques, privées commerciales et
+   communautaires), plus d’une vingtaine de chaînes de télévision et entre
+   200 et 300 sites qui se disent « sites d’information », selon une
+   récente étude du laboratoire du numérique et des nouveaux médias de
+   l’École Supérieure de Journalisme des Métiers de l’Internet et de la
+   Communication (E-jicom), pour un pays de 18 millions d’habitants avec
+   un taux d’analphabétisme des 15 ans ou plus estimé à 57,2% en 2014
+   selon l’Agence nationale de la statistique et de la démographie (ANSD).
 
-« Beaucoup de fantasmes »
+   Cette floraison de médias, dont une bonne partie gérée par des
+   non-professionnels, plus soucieux de clics que d’information, explique
+   aussi en partie ce traitement sensationnel et racoleur des différents
+   rapports, au détriment de la rigueur et de la précision journalistique.
 
-   « Il y a beaucoup de désinformation, de fantasmes », de la part de
-   « certaines associations », a déclaré à l’Assemblée nationale Sarah
-   Durocher, citant notamment Parents Vigilants, un réseau proche du parti
-   Reconquête ! d’Eric Zemmour qui s’inquiète régulièrement d’un « grand
-   endoctrinement » des élèves dans le cadre de l’éducation sexuelle.
+   « Le langage juridique a ses spécificités que même certains, malgré
+   quelques années passées en faculté de droit, ne parviennent pas �
+   comprendre », précise Ibrahima Anne de Wal Fadjri. Donc, il y a « un
+   décalage entre ce qui est contenu (dans les) rapports et les versions
+   livrées à l’opinion », relève le journaliste, par ailleurs titulaire
+   d’une maîtrise en droit.
 
-   Le Syndicat de la famille (nouveau nom de la Manif pour tous) estime de
-   son côté que les associations animant les ateliers d’éducation sexuelle
-   dans les établissements scolaires en profitent « pour faire de la
-   propagande » en faveur de « l’idéologie du genre », selon un récent
-   communiqué.
+   La complexité de ces rapports publics devient donc un défi pour les
+   journalistes, qui n’en comprennent pas toujours toutes les subtilités.
 
-   Auprès des « tout-petits », on parle du « vivre ensemble », de « la
-   question de “mon corps c’est mon corps”, on s’adapte vraiment aux
-   enfants, on ne parle pas de sexualité en primaire », explique Sarah
-   Durocher. « Ça, ça fait partie de la désinformation qui fait peur aux
-   parents. »
+   Face à ces légèretés qui pourraient éventuellement nuire à l’image de
+   la profession, Mamadou Thior, président du Conseil pour l’observation
+   des règles d’éthique et de déontologie dans les médias (Cored),
+   préconise que « le journaliste qui s’intéresse á ces questions ait déj�
+   les prérequis pour bien expliquer, en des termes simples, la complexité
+   de ces rapports. »
 
-   Par L'Obs avec AFP
+   « Quand un journaliste décide de publier un article en partant de
+   rapports publics, soit il maîtrise ce dont il est question dans les
+   documents à sa disposition, soit il travaille en binôme avec une
+   personne plus compétente comme des experts », recommande Momar Dieng.
 
-   Les plus lus
-     * Charge de travail, intensification… Pourquoi la santé mentale des
-       salariés est au plus bas
-     * Les personnes condamnées pour homosexualité entre 1942 et 1982 en
-       France bientôt réhabilitées ?
-     * Info Obs | Affaire Cauet : une plainte pour viol a été déposée
-       contre l’animateur
+   L’exigence d’honnêteté et de clarté qui s’impose aux professionnels des
+   médias est inséparable du traitement de l’information alors que les
+   critiques contre la presse atteignent des niveaux élevés dans l’opinion
+   publique. Coumba Sylla reconnaît cet état de fait en mettant en exergue
+   le peu d’implication de certains journalistes dans le travail de
+   clarification des termes et des enjeux qu’ils peuvent porter.
 
-   Partenaires
-   Cours d'espagnol Gymglish Cours d'espagnol avec Gymglish.com
+   Les journalistes sont « censés rendre intelligibles pour le public les
+   faits rapportés, les données vérifiées mais cela n’est pas toujours le
+   cas (…) pour diverses raisons ». La cause, « il y a des journalistes
+   qui reprennent le jargon des experts par paresse, d’autres parce qu’ils
+   ne se disent pas que le grand public, ou une partie du public ne
+   comprend pas ce vocabulaire technique ou spécialisé », explique la
+   rédactrice en chef adjointe d’Africa Check.
 
-   A lire ensuite
-     * Charge de travail, intensification… Pourquoi la santé mentale des
-       salariés est au plus bas
-     * On sait enfin pourquoi le vin rouge donne parfois mal à la tête
-     * Troubles « dys » : lettre ouverte d’une mère qui n’en peut plus de
-       voir la société rejeter son fils
+   « Les auteurs (des rapports, NDLR) sont des professionnels qui
+   emploient leur langage, leur propre jargon. Il appartient donc aux
+   journalistes qui traitent ces documents d’expliquer et d’expliciter ces
+   termes pour permettre au lecteur non initié de comprendre », renchérit
+   Assane Diagne
 
-   En kiosque
-   Je m'abonne
-   Codes Promo
-     * HUGO BOSS
+   Une orientation à laquelle souscrit Mamadou Thior du Cored, soucieux de
+   mettre en garde contre ces « journalistes superficiels qui finissent
+   par désinformer au lieu d’informer. » FD/md/ts
 
-Code promo HUGO BOSS
-       Recevez un code promo HUGO BOSS de 10%
-     * Bose
+   Facebook
+   Twitter
+   Pinterest
+   WhatsApp
 
-Code promo Bose
-       10€ de remise pour une première commande chez Bose
-     * ManoMano
+   Article précédentL’université Cheikh Anta Diop de Dakar ou le grand
+   dérèglement (Libre opinion)
+   Article suivantSénégal-Dissolution du Pastef : la justice de la Cedeao
+   déboute Ousmane Sonko
+   Ouestafnews
+   https://ouestaf.com/
 
-Code promo ManoMano
-       Code promo Manomano nouveau client : 25€ offerts aux professionnels
-     * Pandora
+LAISSER UN COMMENTAIRE Annuler la réponse
 
-Code promo Pandora
-       +10% de remise sur votre première commande Pandora
-     * OCEANSAPART
 
-Code promo OCEANSAPART
-       Recevez un code promo de 30€ en vous inscrivant à la newsletter
-       OCEANSAPART
-     * Maisons du Monde
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   S'il vous plaît entrez votre commentaire!
+   ______________________________
+   S'il vous plaît entrez votre nom ici
+   ______________________________
+   Vous avez entré une adresse email incorrecte!
+   Veuillez entrer votre adresse email ici
+   ______________________________
 
-Code promo
-       Black Friday Maisons du Monde : 50€ offerts sur le relooking déco
+   [ ] Enregistrer mon nom, email et site web dans ce navigateur pour la
+   prochaine fois que je commenterai.
 
-   Services
-     * ManoMano Code promo ManoMano Code promo Manomano nouveau client :
-       25€ offerts aux professionnels
-     * Pandora Code promo Pandora +10% de remise sur votre première
-       commande Pandora
+   Poster un commentaire
 
-     * Bose Code promo Bose 10€ de remise pour une première commande chez
-       Bose
-     * Cours d'allemand Gymglish Cours d'allemand avec Gymglish.com
-     * Cours d'espagnol Gymglish Cours d'espagnol avec Gymglish.com
-     __________________________________________________________________
+   ____________________ Recherche
 
-   Les commentaires ont été déplacés,
-   retrouvez-les dans leur espace dédié.
-   COMMENTER
+     * Présentation
 
-   être faire dire venir donner
-
-   Toute l'actualité en continu avec l'OBS
-   Retour haut de page
-     * Toute l'actualité en continu avec l'OBS
-     * Abonnement
-     * Newsletters
-     * Boutique
-     * Mots croisés
-     * Bilan retraite
-     * Nos archives
-
-   NOS SERVICES
-     * [ ] Programme TV
-          + Programme TNT ce soir
-          + Programme Canal
-          + Programme Orange
-          + Programme Free
-          + Programme TV toutes les chaines
-     * [ ] Bon plan
-          + Blog Shopping
-          + Black Friday
-          + Soldes
-          + Codes promo Rue Du Commerce
-          + Codes promo Ebay
-          + Codes promo Emma Matelas
-          + Codes promo Foot Locker
-          + Codes promo Shein
-     * [ ] Modèles de lettre
-          + Lettre de motivation
-          + Lettre de recommandation
-          + Formule de politesse
-          + Code postal France
-          + Lettre de remerciement
-          + Lettre de réclamation
-          + Lettre de demande administrative
-          + Lettre d'invitation à une cérémonie
-          + Discours
-     * [ ] Conjugaison
-          + être
-          + faire
-          + travailler
-          + passer
-          + reconnaître
-          + Ser
-          + Estar
-     * [ ] Langues
-          + Apprendre l'Anglais
-          + Apprendre l'Allemand
-          + Apprendre l'Espagnol
-          + Conjugaison espagnole
-          + Conjugaison portugaise
-          + Conjugaison anglaise
-          + Conjugaison italienne
-          + Conjugaison allemande
-
-   SUIVEZ-NOUS
-     * Facebook
-     * Instagram
-     * Twitter
-     * Youtube
-     * Fils RSS
-
-   [ ]
-   LES SITES DU GROUPE
-     * Le Monde
-     * Courrier International
-     * Télérama
-     * Le HuffPost
-     * La Vie
-     * Le Monde diplomatique
-
-     * S’abonner / Se désabonner
-     *
-     * Mentions légales
-     *
-     * CGV
-     *
-     * Copyright
-     *
-     * Publicité
-     *
-     * Politique de confidentialité
-     *
-     * Gestion des cookies
-     *
-     * Aide/Contact
-
-   L'Obs - Les marques ou contenus du site nouvelobs.com sont soumis à la
-   protection de la propriété intellectuelle
-   [ ]
-   (BUTTON)
-   (BUTTON)
+   © Newspaper WordPress Theme by TagDiv

@@ -4,46 +4,29 @@
           + Infrastructures connectées
           + Intelligence Artificielle
 --
-    4. Élections
-    5. Élections slovaques : les réseaux sociaux « passifs » aux requêtes
-       anti-désinformation
+    3. Politique
+    4. Institutions
+    5. Israël-Hamas : l’UE craint que la désinformation ne déstabilise les
+       démocraties
 
-Élections slovaques : les réseaux sociaux « passifs » aux requêtes
-anti-désinformation
+Israël-Hamas : l’UE craint que la désinformation ne déstabilise les
+démocraties
 
-   Par : Barbara Zmušková | EURACTIV Slovaquie | translated by Lysia
 --
-   contenus trompeurs et mensongers avant les élections de fin septembre
-   ont reçu une réponse inadéquate et inefficace, selon un rapport sur la
-   désinformation du Centre de lutte contre les menaces hybrides du
-   ministère de l’Intérieur slovaque, qui appelle également à trouver une
-   solution à l’échelle de l’UE pour forcer Telegram à se conformer à des
+   États membres de se coordonner rapidement sur le sujet.
+
+   « La diffusion généralisée de contenus illicites et de désinformation
+   liés à ces évènements entraîne un risque clair de stigmatisation de
+   certaines communautés, de déstabilisation de nos structures
 --
-   « Malgré les déclarations des représentants des réseaux sociaux et des
-   plateformes en ligne sur leur volonté d’empêcher l’influence des
-   élections par la diffusion de désinformation, leur réponse aux
-   notifications envoyées a été lente, inefficace et, surtout,
-   insuffisante », écrit le rapport.
---
-   impact sur la conduite des élections, mais qu’elle ne soit pas soumise
-   aux obligations de la réglementation sur les services numériques, ni
-   signataire du Code de pratique sur la désinformation, est un problème
-   très sérieux », déclare le Centre, ajoutant que la situation nécessite
-   « une solution plus complète au niveau de l’UE ».
+   contenus terroristes ».
 
-Élections slovaques : comment les plateformes luttent contre la
-désinformation politique dans le cadre du DSA
+Guerre Israël-Hamas : Telegram, vecteur de propagande brute
 
-   Le 30 septembre, la Slovaquie tiendra ses premières élections depuis
-   l’entrée en vigueur de la règlementation européenne sur les services
-   numériques, qui comprend des obligations pour les plateformes de lutter
-   contre la désinformation politique.
-
-   [Édité par Théophane Hartmann.]
+   En cas d’attaque, c’est sans doute sur la mystérieuse messagerie
 --
 
-     * Deepfake
+     * attaque du Hamas
      * Désinformation
-     * désinformation
-     * Élections
-     * élections slovaques
+     * Digital Services Act (DSA)
+     * DSA

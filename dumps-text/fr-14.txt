@@ -1,266 +1,460 @@
-   #Flux RSS pour capital.fr
+    #alternate alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WKQXL3P
+   [tr?id=307743630704587&ev=PageView&noscript=1]
 
-   (BUTTON)
-   Menu
-   ____________________ (BUTTON) Réinitialiser la recherche
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-THJBSRW
 
-   (BUTTON) Rechercher
+   EURACTIV logo
 
-     * FIL D'INFOS
-     * (BUTTON) Rubriques
-          + Economie et Politique
-          + Entreprises et marchés
-          + Votre argent
-          + Management
-          + Immobilier
-          + Crypto
-          + Votre retraite
-          + Auto
-          + Conso
-     * (BUTTON) Newsletters
-          + Momentum : La newsletter bourse
-          + 21 Millions : La newsletter crypto
-          + Les autres newsletters
-     * (BUTTON) Podcasts
-          + Tous les podcasts
-          + Flash Eco
-     * (BUTTON) Videos
-          + Le débat Capital
-          + Le grand rendez-vous de l’immobilier
-          + La chaine auto
-          + Le grand rendez-vous de l’épargne
-     * (BUTTON) Services capital.fr
-          + Les services partenaires
-          + Devises
-          + La boutique Capital
-          + Jeux concours
-          + Quiz
-
-   S'ABONNER
-     * facebook
-     * linkedin
-     * twitter
-     * instagram
-     * fluxrss
-     * newsletter
-
-   Capital
-   Publicité
-   Se connecter (BUTTON) Mon compte
-   (BUTTON) MON PROFIL (BUTTON) MES ARTICLES SAUVEGARDÉS (BUTTON) MES
-   SUJETS SUIVIS (BUTTON) MES MAGAZINES MES PRÉFÉRENCES DE COMMUNICATION
-   (BUTTON) DÉCONNEXION
-   S'abonner
-
-     * Economie et politique
-     * Entreprises et marchés
-     * Votre argent
-     * Management
-     * Immobilier
-     * Crypto
-     * Votre retraite
-     * Auto
-     * Conso
-
-   Publicité
-
-   Accueil > Economie et politique
-
-Désinformation et contenus illégaux : l'UE ouvre une enquête sur Meta et
-TikTok
-
-   RÉSEAUX SOCIAUX
-   (BUTTON) SUIVRE CE SUJET (BUTTON) SUIVI SUIVI
-   tashatuvango/Adobe Stock
-   (BUTTON)
-   Sauvegarder
-   (BUTTON)
-   Sauvegardé
-   (BUTTON)
-   Partager
-     * (BUTTON) Partager cet article sur Facebook
-     * (BUTTON) Partager cet article sur Twitter
-     * (BUTTON) Partager cet article sur Linkedin
-     * (BUTTON) https://www.capital.
-       Copier le lien Lien copié
-
-L'Union européenne enquête sur Meta et TikTok pour leur réponse aux "fausses
-informations" dans le contexte de la crise Israël-Hamas.
-
-   Par Pierre Fougères
-   Publié le 19/10/2023 à 15h31
-   Publicité
-
-   Il y a de la friture sur la ligne entre l’Europe et les réseaux
-   sociaux. Bruxelles a récemment ouvert une enquête concernant les
-   réseaux sociaux Meta (Facebook, Instagram) et TikTok, rapporte Le
-   Parisien, le 19 octobre 2023. Cette action a été déclenchée en réponse
-   aux attaques du Hamas contre Israël, et l'Union européenne (UE) a
-   demandé des éclaircissements sur les mesures prises par ces plateformes
-   pour lutter contre la diffusion de "fausses informations" et de
-   "contenus illégaux". La Commission européenne a émis une demande
-   formelle d'informations à ces deux entreprises, conformément à la
-   nouvelle législation européenne sur les services numériques (DSA).
-
-   Le commissaire au Numérique Thierry Breton a intensifié la pression sur
-   les géants du Web en envoyant des mises en garde aux dirigeants de
-   quatre grandes plateformes en ligne : X (anciennement Twitter), Meta,
-   TikTok et YouTube (d'Alphabet). Pour l'instant, la demande
-   d'informations adressée aux trois premières plateformes ne constitue
-   pas encore une mise en cause officielle, mais elle marque le début
-   d'une procédure qui, en cas d'infractions avérées et persistantes,
-   pourrait entraîner des sanctions financières substantielles, pouvant
-   aller jusqu'à 6 % du chiffre d'affaires mondial du groupe.
-   Publicité
-   Publicité
-   À LIRE AUSSI Les jeunes influencés par les stars de TikTok ? Voici
-   comment des milliers d’euros leur sont soutirés
-
-   La Commission européenne exige que Meta et TikTok expliquent en détail
-   les mesures qu'elles ont prises pour respecter leurs obligations en
-   matière d'évaluation et de réduction des risques. Elles ont jusqu'au 25
-   octobre pour fournir ces réponses, étant donné l'urgence de la
-   situation liée au conflit Israël-Hamas. Cette guerre a créé un
-   environnement propice à la désinformation, avec la diffusion d'images
-   violentes, d'informations erronées et de tentatives de manipulation de
-   l'opinion, ce qui représente un défi majeur pour ces plateformes.
-
-Une menace terroriste sur le sol européen
-
-   Thierry Breton, lors d'un discours au Parlement européen à Strasbourg,
-   a souligné que la diffusion généralisée de contenus illicites et de
-   désinformation liés à ces événements comporte un risque évident de
-   stigmatisation de certaines communautés, de déstabilisation des
-   structures démocratiques et de l'exposition des enfants à des contenus
-   violents. De plus, les attaques terroristes récentes à Arras
-   (Pas-de-Calais) et à Bruxelles (Belgique) ont rappelé la menace réelle
-   qui pèse sur le sol européen.
-   Publicité
-   À LIRE AUSSI Meta : va-t-on devoir payer un abonnement à Facebook et
-   Instagram ?
-
-   Dans le cadre de ces enquêtes, Meta a déclaré avoir mis en place un
-   centre d'opérations spéciales composé d'experts parlant couramment
-   l'hébreu et l'arabe. De son côté, le réseau X a répondu en détail à la
-   première lettre d'avertissement de la Commission, expliquant avoir
-   supprimé ou signalé des dizaines de milliers de messages liés �
-   l'attaque du Hamas. Il convient de noter que le réseau social X est
-   particulièrement scruté par les experts de la Commission européenne,
-   qui s'inquiétaient déjà en septembre du taux élevé de désinformation
-   sur cette plateforme, soulignant ses performances insatisfaisantes lors
-   de tests menés sur plusieurs plateformes.
-
-   A découvrir :
-     * TWITTER
-     * UNION EUROPÉENNE
-     * TIKTOK
-     * LE GUIDE FISCAL CRYPTO
-     * NOS CONSEILS BOURSIERS
-     * DÉBATTEZ !
-
-   © Capital (avec 6medias)
-   Outbrain
-   Débat des lecteurs
-   34 débatteurs en ligne34 en ligne
-   L'Union Européenne est-elle l'échelon le plus efficace pour répondre �
-   la crise économique ?
-   Oui
-   Non
-   618 votes - Voir le résultat
-   Photo de profil de Monicmonac Demonaco
-   Monicmonac Demonaco
-   Non
-   L'Europe à 27 est un monument d'inertie qui ne peut répondre aux
-   situations d'urgence. On le voit pour le covid et les vaccins. Le
-   conseil de l'Europe...
-   Lire plus
-   Recevez nos dernières news Tous les jours, la sélection des principales
-   infos de la journée.
-
-   A lire aussi
-     * Désinformation : l'UE ouvre une enquête visant X (ex-Twitter)
-     * Bruxelles rappelle à l'ordre Meta sur la désinformation sur ses
-       plateformes
-     * Désinformation : Twitter envisage de sortir du code de l'UE
-
-   Outbrain
-   D'autres articles qui pourraient vous intéresser
+   (BUTTON) Toggle navigation
+     * [4.png] Français
+          + [19.png] English
+          + [2.png] Deutsch
+          + [4.png] Français
+          + [3.png] Español
+          + [8.png] Italiano
+          + [5.png] Polski
+          + [6.png] български
+          + [7.png] Čeština
+          + [10.png] Ελληνικά
+          + [9.png] Hrvatski
+          + [11.png] Română
+          + [12.png] Српски
+          + [17.png] Slovenský
+     * Events
+     * Jobs
      *
-   L'UE pourrait ouvrir une enquête sur McDonald's
-       Entreprises et marchés
-     *
-   L'UE ouvre une "enquête de sauvegarde" sur l'acier
-       Entreprises et marchés
-     *
-   TikTok veut mieux filtrer les contenus accessibles aux mineurs
-       Entreprises et marchés
-     *
-   Affaire Ferrand: un juge ouvre une enquête pour "prise illégale
-       d'intérêts"
-       Economie et politique
-     *
-   L'UE ouvre une enquête sur le traitement fiscal de McDonald's
-       Entreprises et marchés
-     *
-   Concurrence: l'UE ouvre une "enquête approfondie" sur Amazon
-       Entreprises et marchés
-     * Publicité
-     *
-   Concurrence: l'UE ouvre une "enquête approfondie" sur Amazon
-       Entreprises et marchés
-     *
-   "Désillusion totale" : les utilisateurs de TikTok déplorent la faible
-       rémunération de leurs contenus
-       Entreprises et marchés
-     *
-   L'UE ouvre une enquête approfondie sur le rachat d'Ilva par
-       ArcelorMittal
-       Economie et politique
-     *
-   L'UE ouvre une enquête approfondie sur la fusion FexEx-TNT
-       Entreprises et marchés
-     *
-   L'UE ouvre une enquête sur Ryanair et l'aéroport de Francfort-Hahn
-       Entreprises et marchés
-     *
-   L'UE ouvre une enquête approfondie sur le projet Vodafone-Liberty
-       Entreprises et marchés
-     *
-   L'UE ouvre une enquête sur la fusion Deutsche Börse-LSE
-       Entreprises et marchés
-     *
-   Désinformation: l'UE accentue la pression sur les géants d'internet
-       Economie et politique
-     *
-   Twitter : nouvelle mise en garde de l'UE contre la désinformation
-       Entreprises et marchés
 
-   Logo capital 30 ans Inscrivez-vous gratuitement pour accéder aux
-   articles exclusifs des 30 ans de Capital Ou je vais sur capital.fr
+     * ____________________ (BUTTON)
+       [loading.gif]
+       Chercher
 
-   Publicité
-   Publicité
-   Publicité
-   Publicité
+   (BUTTON) EURACTIV.fr
+     * L'Expresso
+     * L'Expresso
+     * Newsletters
+     * Newsletters
 
-   Connexion à Prisma Connect
-   (BUTTON) Fermer
+     * ____________________ (BUTTON)
+       [loading.gif]
+       Chercher
 
-   Publicité
+     * Actualités
+          + L’Expresso
+          + Agriculture
+          + Économie
+          + Energie & Climat
+          + International
+          + Politique
+          + Santé
+          + Tech
+          + Transport
+     * Newsletters
+     * Evénements
+     * Jobs
 
-     * Conditions générales d'utilisation
-     * Charte pour la protection des données
-     * (BUTTON) Paramétrer vos cookies
-     * Mentions légales
-     * Tous vos magazines
-     * Abonnement magazine
-     * Publicité
-     * Contact
-     * FAQ
-     * Équipe éditoriale
-     * CONDITIONS GÉNÉRALES DE VENTES ABONNEMENT ESSENTIEL, NOMADE &
-       INTÉGRAL
+     * Connexion / Inscription
+     * [4.png] Français
+          + [19.png] English
+          + [2.png] Deutsch
+          + [4.png] Français
+          + [3.png] Español
+          + [8.png] Italiano
+          + [5.png] Polski
+          + [6.png] български
+          + [7.png] Čeština
+          + [10.png] Ελληνικά
+          + [9.png] Hrvatski
+          + [11.png] Română
+          + [12.png] Српски
+          + [17.png] Slovenský
+     *
 
-   © Prisma Media - Groupe Vivendi 2023 Tous droits réservés
+     * Agriculture
+       Agriculture
+         ______________________________________________________________
+
+          + Agroécologie
+          + Alimentation
+          + Bien être animal
+          + Elevage
+          + Innovation
+          + OGM / NBT
+          + Pêche
+          + Pesticides / produits phytosanitaires
+          + Politique agricole commune (PAC)
+          + Renouvellement des générations
+          + Sols
+          + Stratégie "De la ferme à la table"
+          + Vie de l'agriculteur
+     * Économie
+       Économie
+         ______________________________________________________________
+
+          + Concurrence
+          + Economie des plateformes
+          + Éducation
+          + Emploi
+          + Entreprises
+          + Finance
+          + Fiscalité
+          + Industrie spatiale
+          + Macroéconomie
+          + Politique commerciale
+          + Zone euro
+     * Energie & Climat
+       Energie & Climat
+         ______________________________________________________________
+
+          + Batiments
+          + Batteries
+          + Biodiversité
+          + Chaleur et froid
+          + COP
+          + Économie circulaire
+          + Efficacité énergétique
+          + Energies fossiles
+          + Energies renouvelables
+          + Géopolitique des énergies
+          + Gestion de l'eau
+          + Hydrogène
+          + Infrastructures et interconnexions
+          + Métaux critiques et stratégiques
+          + Nucléaire
+          + Politique énergétique
+          + Politique environnementale
+          + Protection de l'environnement
+          + Qualité de l'air
+     * International
+       International
+         ______________________________________________________________
+
+          + Afrique
+          + Aide au développement
+          + Amérique Latine
+          + Asie
+          + Chine
+          + Défense
+          + Élargissement
+          + Etats Unis
+          + Europe de l'Ouest
+          + Guerre en Ukraine
+          + Méditerranée
+          + Migrations
+          + Moyen Orient
+          + Russie
+     * Politique
+       Politique
+         ______________________________________________________________
+
+          + Brexit
+          + Élections
+          + Immigration
+          + Institutions
+          + Justice
+          + L'Expresso
+          + Non discrimination
+          + Présidence du Conseil de l'UE
+          + Sécurité
+     * Santé
+       Santé
+         ______________________________________________________________
+
+          + Droits et systèmes de santé
+          + Innovation en santé
+          + Maladies non transmissibles
+          + Maladies transmissibles
+          + Pharma
+          + Sport
+          + Tabac, alcool, drogues
+     * Tech
+       Tech
+         ______________________________________________________________
+
+          + Accessibilité du numérique
+          + Application de la loi
+          + Compétition
+          + Confidentialité des données
+          + Cybersécurité
+          + Désinformation
+          + Infrastructures connectées
+          + Intelligence Artificielle
+          + Médias & audiovisuel
+          + Numérisation de l'économie
+          + Plateformes
+          + Recherche & Innovation
+          + Stratégie industrielle
+          + Télécoms
+          + Transition numérique de l'État
+     * Transport
+       Transport
+         ______________________________________________________________
+
+          + Aviation
+          + Biocarburants
+          + Chemins de fer
+          + Maritime
+          + Mobilité du futur
+          + Mobilité urbaine
+          + Transport routier
+
+    1. Accueil
+    2. Actualités
+    3. Tech
+    4. Désinformation
+    5. Fatigués par la désinformation, certains politiques rêvent d’un
+       ciel « plus bleu »
+
+Fatigués par la désinformation, certains politiques rêvent d’un ciel « plus
+bleu »
+
+   Par : Théophane Hartmann | Euractiv France
+
+   12-10-2023
+
+   La société tchèque Bohemia Interactive, qui a produit le jeu Arma 3, a
+   reconnu la « circulation récente de vidéos qui étaient à l'origine
+   tirées de leur jeu Arma 3, et faussement utilisées comme des séquences
+   de conflits réels, principalement de la guerre actuelle en Ukraine ou
+   du conflit israélo-palestinien ». [Wachiwit / Shutterstock]
+   [Trust-Mark-400.webp] Euractiv fait partie de The Trust Project >>>
+
+   Langues : English | Deutsch
+
+   Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
+
+   Face à la recrudescence de contenus de désinformation sur le conflit
+   entre Israël et le Hamas, qui met à rude épreuve les réseaux sociaux et
+   les institutions européennes chargées de faire respecter les nouvelles
+   normes de modération de contenu, certaines personnalités politiques
+   envisagent de changer de réseau social.
+
+   Depuis l’entrée en vigueur du règlement sur les services numériques
+   (DSA) le 25 août, 19 « très grandes plateformes en ligne » sont tenues
+   de modérer tout contenu illégal en ligne signalé par ses utilisateurs.
+
+   À la suite de l’assaut du Hamas contre Israël le 7 octobre, qui a donné
+   lieu à une prolifération rapide de contenus de désinformation en ligne,
+   le commissaire européen chargé du marché intérieur, Thierry Breton, a
+   publié une lettre ouverte adressée à Facebook, Instagram et X.
+
+   « Nous assistons à une recrudescence de contenus illicites et de
+   désinformation diffusés dans l’UE par le biais de certaines
+   plateformes », écrit-il dans sa lettre adressée à Mark Zuckerberg, PDG
+   de Meta, propriétaire de Facebook et d’Instagram.
+
+   À Elon Musk, PDG de X, M. Breton a ajouté : « Nous détenons des
+   informations selon lesquelles votre plateforme est utilisée pour
+   diffuser des contenus illégaux et de désinformation dans l’UE ».
+
+   Dans les deux lettres, M. Breton exhorte Facebook, Instagram et X à se
+   conformer aux règles du DSA, à retirer rapidement les contenus illégaux
+   signalés par leurs utilisateurs et à se mettre en contact avec les
+   autorités chargées de l’application de la loi ainsi qu’Europol,
+   l’autorité de police de l’UE.
+
+   Il a donné à chacune des trois entreprises 24 heures « pour garantir
+   une réponse rapide, précise et complète » à ses demandes.
+
+   Dans un geste que certains pourraient décrire comme un passage �
+   l’acte, M. Breton a également décidé mercredi (11 octobre) de
+   promouvoir son nouveau compte sur la nouvelle plateforme de médias
+   sociaux Bluesky, souvent présentée comme une rivale de X.
+
+   À propos de cette plateforme et de l’ancien logo de Twitter – un oiseau
+   bleu – il a écrit : « même si l’herbe n’est pas (toujours) plus verte
+   ailleurs, le ciel est parfois… plus bleu ».
+
+   De nombreux politiques allemands ont commencé à passer à Bluesky après
+   que Musk a soutenu le parti allemand d’extrême droite et anti-migrants
+   AfD.
+
+Le conflit Hamas-Israël génère une recrudescence de désinformation
+
+   Comme l’a prouvé CNN, une vidéo, visionnée plus d’un demi-million de
+   fois sur X, présente de manière trompeuse des combattants du Hamas
+   abattant un hélicoptère israélien alors que les images utilisées
+   proviennent d’un jeu vidéo appelé Arma 3.
+
+   L’AFP a également démenti plusieurs autres fausses vidéos circulant sur
+   YouTube, Facebook et X.
+
+   La société tchèque Bohemia Interactive, qui a produit le jeu Arma 3, a
+   reconnu la « circulation récente de vidéos qui étaient à l’origine
+   tirées de leur jeu Arma 3, et faussement utilisées comme des séquences
+   de conflits réels, principalement de la guerre actuelle en Ukraine ou
+   du conflit israélo-palestinien ».
+
+Règlement sur les services numériques : des défis subsistent alors que la
+législation entre en vigueur
+
+   Les très grandes plateformes en ligne et moteurs de recherche devront
+   se conformer au DSA, un règlement conçu pour lutter contre les discours
+   de haine et la désinformation en ligne, mais son application soulève
+   des défis.
+
+Meta : Désinformation et campagnes électorales
+
+   Dans sa lettre à Meta, M. Breton a profité de l’occasion pour insister
+   sur les dangers de la désinformation dans un contexte électoral.
+
+   Alors que le commissaire « a pris note des mesures prises par Meta pour
+   augmenter les mesures d’atténuation dans la période précédant les
+   récentes élections en Slovaquie », il demande que l’équipe de Meta
+   soumette à la Commission les mesures prises par Facebook et Instagram
+   pour atténuer les deepfakes, citant les prochaines élections nationales
+   en Pologne, aux Pays-Bas, en Lituanie, en Belgique, en Roumanie, en
+   Autriche et les élections du Parlement européen.
+
+   Meta n’a pas répondu à une demande de commentaire d’Euractiv au moment
+   de la publication.
+
+« La désinformation vient de nos dirigeants politiques » : l'application du
+DSA en Slovaquie mise en difficulté
+
+   La réglementation européenne en matière de désinformation et de contenu
+   illégal est mise à l’épreuve en Slovaquie à l’approche des élections
+   générales, à un moment où certains considèrent que les dirigeants
+   politiques utilisent la désinformation pour renforcer leur popularité
+   auprès du corps électoral.
+
+X : retour aux b.a.-ba
+
+   Dans sa lettre ouverte adressée à X, Breton détaille les bases du
+   règlement sur les services numériques : la transparence des conditions
+   d’utilisation, le retrait rapide des contenus illégaux lorsqu’ils sont
+   signalés par des utilisateurs et la prise de mesures d’atténuation des
+   contenus de désinformation.
+
+   Si l’on met en parallèle cette lettre et la déclaration de Věra
+   Jourová, vice-présidente de la Commission européenne chargée des
+   valeurs et de la transparence, le 26 septembre, selon laquelle X est
+   « la plateforme qui affiche le plus grand nombre de messages de
+   désinformation », il semble que X soit en passe de devenir la bête
+   noire de l’UE.
+
+   Parallèlement à l’annonce de Bluesky, M. Breton a également publié sa
+   déclaration tant attendue sur un prochain règlement européen des
+   télécoms sur LinkedIn plutôt que sur X.
+
+   M. Breton a déclaré jeudi (12 octobre) que son équipe avait reçu la
+   réponse du média social X, que l’équipe de la Commission chargée de
+   l’application sur le règlement des services numériques analysera en
+   détail avant de « décider des prochaines étapes ».
+
+   L’équipe de la Commission peut décider d’appliquer les sanctions
+   prévues dans le règlement, qui peuvent aller jusqu’à une amende de 6 %
+   du chiffre d’affaires annuel global de l’entreprise et jusqu’à une
+   exclusion du marché unique de l’UE en cas de récidive.
+
+Assaut du Hamas : Thierry Breton exhorte Elon Musk à lutter contre la
+désinformation sur X
+
+   Suite à l’assaut du Hamas sur Israël, le Commissaire européen Thierry
+   Breton a exhorté Elon Musk, le propriétaire du réseau social X, à y
+   enrayer « dans les 24 heures » la propagation de la désinformation dans
+   l’UE.
+
+   Langues : English | Deutsch
+
+   Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
+
+Sujets
+
+     * Arma 3
+     * BlueSky
+     * Désinformation
+     * désinformation
+     * DSA
+     * Elon Musk
+     * Facebook
+     * fausses vidéos
+     * Instagram
+     * Mark Zuckerberg
+     * Plateformes
+     * Politique
+     * règlement sur les services numériques réèglement sur les services
+       numériques
+     * Tech
+     * Thierry Breton
+     * Twitter
+     * X
+
+Advertisement
+
+Supporters
+
+Membres EURACTIV
+
+Les plus lus
+
+     * 1Le controversé parc éolien de la baie de Saint-Brieuc va bientôt
+       entrer en fonctionnement
+     * 2Un eurodéputé de premier plan appelle à un « Swexit » si Bruxelles
+       obtenait « trop de pouvoir »
+     * 3L'UE doit réduire d'un tiers l'utilisation d'engrais azotés pour
+       concilier alimentation et environnement, selon une étude
+     * 4Les conservateurs tchèques bloquent l’adoption de l’euro
+     * 5Traités de l’UE : le Parlement européen adopte ses propositions de
+       réforme à une faible majorité
+     * 6Les « mini-Trumps » de l’UE se réjouissent de la victoire de Geert
+       Wilders aux Pays-Bas
+     * 7L’Italie et l’Allemagne relancent les discussions sur
+       l’hydrogénoduc Tunisie-Europe
+     * 8Règlement sur les pesticides : le Parlement européen rejette une
+       proposition déjà fortement affaiblie
+     * 9Renouvelables : la France négocie avec Bruxelles pour ne pas payer
+       de pénalités
+     * 10Les États membres doivent faire pression sur l’industrie de la
+       défense pour aider l’Ukraine, selon Thierry Breton
+
+Advertisement
+
+Inscrivez-vous à notre newsletter
+
+   S'inscrire
+     __________________________________________________________________
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     __________________________________________________________________
+
+À Propos d’EURACTIV
+
+     * À propos d’EURACTIV
+     * Mediahuis
+     * EURACTIV France
+     * Soumettre une opinion
+     * Rejoindre EURACTIV
+
+Communication
+
+     * Claire Boussagol nommée directrice générale d’Euractiv
+     * Partenariat et publicité
+     * Euractor
+     * Projets européens
+     * Le multimédia chez EURACTIV
+     __________________________________________________________________
+
+Réseau EURACTIV
+     __________________________________________________________________
+
+   © 1999 - 2023 | Efficacité et Transparence des Acteurs Européens .
+   EURACTIV MEDIA NETWORK BV. | Termes & conditions | Nous contacter
+   (BUTTON) ×
+
+Chercher
+
+   ____________________
+   (BUTTON) Close (BUTTON) Chercher
+
+   © 1999 - 2023 | Efficacité et Transparence des Acteurs Européens .
+   EURACTIV MEDIA NETWORK BV. | Termes & conditions | Nous contacter

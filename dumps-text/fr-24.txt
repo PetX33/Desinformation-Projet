@@ -1,315 +1,545 @@
-    #RSS
+   #alternate
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-5DKW8X
+   Aller au contenu
 
-   (BUTTON)
-   (BUTTON)
+   (BUTTON) Menu
+   BLACK FRIDAY -70% sur votre abonnementRechercher
+   Notre application
+   Soyez alerté en temps réel
+   avec l'application Le Figaro
 
-     * Accueil
-     * Opinion
-       Opinion
-          + Caricatures
-          + Chroniques
-          + Éditoriaux
-          + Idées
-          + Libre opinion
-          + Lettres
+   Rubriques et services du Figaro
+     * Guerre en Ukraine
      * Politique
-       Politique
-          + Canada
-          + Québec
-          + Montréal
-          + Ville de Québec
-          + Régions
-     * Environnement
+     * International
      * Société
-       Société
-          + Consommation
-          + Éducation
-          + Justice
-          + Le Devoir de...
-          + Santé
-          + Science
-          + Transports / Urbanisme
+     * Vox
      * Économie
-     * Monde
-       Monde
-          + Afrique
-          + Asie
-          + Moyen-Orient
-          + Amériques
-          + États-Unis
-          + Europe
+     * Sport
      * Culture
-       Culture
-          + Écrans
-          + Médias
-          + Arts visuels
-          + Cinéma
-          + Danse
-          + Musique
-          + Théâtre
-          + Suggestions de la semaine
-     * Lire
-     * Plaisirs
-       Plaisirs
-          + Recettes
-          + Alimentation
-          + Habitation
-          + Jardinage
-          + Restaurants
-          + Vin
-          + Voyage
-     * Sports
-     * Vidéos
-     * Balados
-     * Interactif
-     * Photoreportages
-     * Cahiers spéciaux
-     * Les as de l'info
-     * Infolettres
-     * Jeux
-       Jeux
-          + Mots-croisés
-          + Sudoku
-          + Jeu-questionnaire
-          + Épreuve de révision
-
-   (BUTTON) Sections Infolettres (BUTTON)
-
-Moyen-Orient La désinformation s’invite dans la guerre Israël-Hamas
-
-     *
-     *
-     *
-     *
+     * Voyage
+     * Style
+     * Madame
+     * Vin
 
    (BUTTON)
-   Que cherchez-vous? ____________________
-   (BUTTON) Rechercher
 
-     *
-     *
-     *
-     *
+   (BUTTON)
 
-La désinformation s’invite dans la guerre Israël-Hamas
+   Rubriques et services du Figaro
+     * Le Figaro Live
+     * Le Figaro Magazine
+     * La Vérification
+     * Le Figaro Étudiant
+     * Faits divers
+     * Santé
+     * Sciences
+     * Fig Data
+     * Tech et web
+     * Bourse
+     * Le Figaro Immobilier
+     * Emploi
+     * Art de vivre
+     * Automobile
+     * Langue française
+     * Golf
+     * Histoire
+     * TVMag
+     * Programme TV
+     * Maison et Jardin
+     * Le Figaroscope
+     * Carnet du jour
+     * Guide achat
+     * Services
+     * Billetterie
+     * Podcasts
+     * La question du jour
+     * Le Figaro Store
+     * Les Voyages F
+     * A savoir en France
 
-    1. [Accueil]
-    2. [Monde]
-    3. [Moyen-Orient]
+   Nos journaux et magazines
+     * Le Figaro
+     * Le Figaro Magazine
+     * Madame Figaro
+     * TV Magazine
 
-   Le corps de Mohammed Melhim est porté lors de ses funérailles dans le
-   village de Halhul, dans la bande de Gaza, mardi. Hazem Bader Agence
-   France-Presse Le corps de Mohammed Melhim est porté lors de ses
-   funérailles dans le village de Halhul, dans la bande de Gaza, mardi.
+   Les sites du Groupe Figaro
+     * Figaro Store
+     * TickeTac.com
+     * Le Particulier
+     * Météo Consult
+     * La chaîne météo
+     * Figaro Nautisme
+     * Les voyages F
+     * Cadremploi
+     * Le Figaro Emploi
+     * Immobilier
+     * Immoneuf
+     * Propriétés de France
+     * Achat Terrain
+     * Choose your boss
+     * Marco Vasco
+     * Maisons du voyage
+     * Amatera
 
-Sarah Boumedda et Zacharie Goudreault
+   Se connecter (BUTTON) Mon compte
+     * Mon espace personnel
+     * Mes newsletters
+     * Mes commentaires
+     * S'abonner
+     * Aide et contact
+     * Se déconnecter
 
-   17 octobre 2023
+   Lire le PDF en ligne Lire le journal
+   BLACK FRIDAY -70% sur votre abonnement
 
-     * Moyen-Orient
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TC6DVH
 
-     *
-     *
-     *
-     *
+   Publicité
 
-   Une guerre de l’information est en cours depuis que le groupe militant
-   Hamas a mené le 7 octobre des attaques meurtrières contre Israël, qui
-   bombarde depuis la bande de Gaza. Des experts déplorent que les réseaux
-   sociaux, au coeur de cette tempête, mettent trop peu de moyens en place
-   pour éviter que des images violentes soient ainsi partagées à des fins
-   pécuniaires ou de propagande sur ces plateformes.
+    1. Accueil
+    2. Actualité
+    3. Société
 
-   Difficile de rester impassible devant la déferlante de vidéos et
-   d’images troublantes qui circulent depuis une semaine et demie sur X,
-   Facebook, TikTok et YouTube, entre autres. Les auteurs de ces
-   publications affirment que celles-ci illustrent l’état des lieux sur le
-   terrain, dans la bande de Gaza et en Israël, où l’actuelle guerre a
-   fait plus de 4400 morts jusqu’à maintenant, dont au moins 3000
-   Palestiniens. Or, il s’agit dans plusieurs cas d’images trompeuses
-   sorties de leur contexte pour nourrir la cause des auteurs de ces
-   publications.
+Le pape François dénonce la désinformation, «premier péché du journalisme»
 
-   « Les réseaux sociaux, c’est un espace de prédilection pour tous les
-   propagandistes des conflits, explique le professeur adjoint en sciences
-   politiques à l’Université de Montréal, Simon Thibault, en entrevue au
-   Devoir. On veut tenter de cadrer l’événement en sa faveur, de rallier
-   la population à sa cause. »
-
-   Des images et des vidéos de la guerre en Ukraine ou de celle qui fait
-   rage en Syrie depuis 2011 ont ainsi été utilisées dans les derniers
-   jours pour illustrer le conflit entre Israël et le Hamas. Une vidéo
-   devenue virale montrait d’autre part des avions militaires américains
-   qui, selon la description accompagnant celle-ci, venaient d’arriver en
-   Israël. Or, il s’agissait plutôt d’images datant de 2019, filmées en
-   Californie.
-
-   « Cette situation nous montre, d’une part, que les entreprises qui
-   gèrent les réseaux sociaux ne se préoccupent pas [des fausses
-   nouvelles] et que deuxièmement, les mesures qu’elles ont mises en place
-   pour s’attaquer à cet enjeu ne fonctionnent pas », déplore Alex
-   Mahadevan, le directeur du projet MediaWise, l’initiative en littératie
-   médiatique de l’Institut Poynter, basé en Floride.
-
-   Les algorithmes des réseaux sociaux incitent même des créateurs de
-   contenu à partager des contenus violents ou émotifs, puisque ce sont
-   ceux qui circuleront le plus sur ces plateformes.
-
-   « Les contenus les plus évocateurs ont tendance à être ceux qui se
-   propagent le plus », qu’ils soient vrais ou faux, constate Scott Bade,
-   un analyste senior en géotechnologie pour l’entreprise Eurasia Group.
-   « Les plateformes peinent à s’adapter à ça. »
-
-Trop peu trop tard
-
-   Devant le déluge de désinformation qui s’est déversé sur les réseaux
-   sociaux en marge des attaques du Hamas en Israël, l’Union européenne a
-   sommé tour à tour X, Meta, TikTok et YouTube d’agir davantage pour
-   juguler les fausses informations et les contenus violents qui circulent
-   sur ces plateformes, en menaçant celles-ci d’écoper autrement d’amendes
-   salées.
-
-   Depuis, ces grands réseaux sociaux ont assuré avoir supprimé des
-   centaines de milliers de vidéos et de messages problématiques. Ces
-   mesures ont toutefois été prises tardivement et elles arrivent dans un
-   contexte où les réseaux sociaux ont négligé, dans les dernières années,
-   d’agir de façon frontale contre la propagation de fausses nouvelles sur
-   leur plateforme.
-
-   Une analyse de la compagnie américaine Alethea, qui se spécialise dans
-   le dépistage de la désinformation sur les réseaux sociaux, a d’ailleurs
-   détecté un réseau d’au moins 67 comptes sur X ayant répandu du contenu
-   trompeur et quasi identique sur la plateforme, même si ces comptes ne
-   semblaient pas liés entre eux avant l’offensive.
-
-   Selon l’analyse, ces comptes fournissaient à la fois du contenu
-   pro-Palestine et pro-Israël, suggérant que l’intention derrière
-   l’offensive numérique était plutôt d’attiser la colère de part et
-   d’autre du conflit, ou simplement de « capitaliser sur l’intérêt actuel
-   porté sur le sujet ».
-
-   « Sur X en particulier, Elon Musk a fait en sorte que les utilisateurs
-   vérifiés peuvent monétiser leur contenu et faire de l’argent, explique
-   Alex Mahadevan. Ils tirent avantage de la situation en partageant des
-   images violentes qui sont révélées être fausses. »
-
-   Le collectif de recherche Tech Transparency Project a lui aussi mené sa
-   propre enquête sur X, et a constaté que la plateforme laissait libre
-   cours à des comptes Premium de publier du contenu de propagande du
-   Hamas. Ces publications, montrant les attaques violentes du groupe en
-   Israël, sont en contradiction avec les politiques de la plateforme sur
-   le contenu violent et à caractère haineux, selon le collectif.
-
-   « Il y a des gens qui profitent de la situation pour faire de l’argent,
-   il y a les propagandistes qui tirent avantage de la situation pour
-   propager leur message politique. Et dans l’ensemble, les perdants, ce
-   sont les gens qui tentent de naviguer dans cette situation en ligne et
-   qui n’ont nulle part ailleurs où aller », souligne le directeur de
-   MediaWise.
-
-Des visées politiques
-
-   Le gouvernement israélien a pour sa part affirmé la semaine dernière
-   que des poupons avaient été « décapités » par le groupe militant Hamas.
-   Des informations qui n’ont pu être vérifiées de façon indépendante par
-   des médias spécialisés dans le traçage des fausses informations, comme
-   Snopes. Le gouvernement israélien a par la suite partagé des images
-   troublantes de nouveau-nés qui auraient été tués et brûlés par le
-   Hamas. Des photos qui ont été partagées par plusieurs chaînes
-   d’informations télévisées en continu, comme CNN et Sky News, qui ont
-   toutefois décidé de brouiller ces images.
-
-   Or, l’idée même que des enfants aient été « décapités » ou brûlés par
-   le Hamas correspond au message que souhaite véhiculer Israël, qui n’a
-   cessé dans les derniers jours de comparer ce groupe militant à l’État
-   islamique, « à des barbares », constate le professeur Simon Thibault.
-
-   « C’est pour dire qu’on a un ennemi qui est barbare, et donc que le
-   Hamas n’est plus ce que vous croyiez qu’il était, il est devenu Daesh,
-   d’où la justesse de notre cause d’en finir avec le Hamas. Donc, pour
-   les propagandistes israéliens, s’ils trouvent des photos qui vont
-   appuyer leur rhétorique propagandiste pour la destruction du Hamas, ils
-   vont le faire », relève l’expert.
-
-   Ce dernier rappelle ainsi l’importance de vérifier de façon
-   indépendante les photos et les vidéos qui circulent sur les réseaux
-   sociaux, même lorsque celles-ci sont partagées par des gouvernements.
-   « L’histoire nous a montré que les États pouvaient aussi faire de la
-   désinformation, particulièrement dans un contexte de guerre. »
-
-À voir en vidéo
-
-   Mots clés propagande, Hamas, désinformation, Israël (Pays), réseaux
-   sociaux, conflit israélo-palestinien, guerre Israël-Hamas
-
-Les plus populaires
-
-     * 1 Chronique La question de l’urne
-     * 2 De premiers otages libérés après l’entrée en vigueur de la trêve
-       à Gaza
-     * 3 Des leaders religieux d’ici s’unissent pour endiguer les
-       violences liées au conflit à Gaza
-     * 4 L’éléphant pétrolier dans la salle de la COP28
-     * 5 Chronique En attendant la cavalerie
-     * 6 Syndicats, football et élections: le Défi de l’info du 24
-       novembre
-     * 7 Chronique Pleurer les prophètes
-     * 8 Javier Milei ravive le spectre de la guerre des Malouines
-     * 9 L’article du projet de loi 31 sur les cessions de bail bientôt
-       adopté
-     * 10 Un mandat d’arrestation lancé contre le chanteur Corneliu
-
-   Votre courriel ____________________
-   Le courriel du destinataire ____________________
-   Commentaires
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Envoyer
-
-   S’abonner S’abonner (BUTTON)
-     * Abonnez-vous au Devoir
-     * Infolettres
-     * Gérer votre abonnement
-     * Le Devoir en classe
-     * Flux RSS
-
-   À propos À propos (BUTTON)
-     * Éditions précédentes
-     * Qui nous sommes (histoire)
-     * Politique de confidentialité
-     * Conditions d’utilisation
-     * Direction et rédaction
-     * Participation aux commentaires
-     * Plan du site
-     * Registre des publicités
-
-   Nous joindre Nous joindre (BUTTON)
-     * Service à la clientèle
-     * Service de la publicité
-     * Rédaction et autres services
-     * Aide
-     * FAQ
-
-   Services Services (BUTTON)
-     * Trousse média
-     * Avis publics et appels d'offres
-     * Avis de décès
-     * Carrières
-     * Jeux
-
-   Réseaux sociaux Réseaux sociaux (BUTTON)
+   Par Le Figaro avec AFP
+   Publié le 26/08/2023 à 12:17, Mis à jour le 28/08/2023 à 11:56
+     * (BUTTON) Copier le lien
+       Lien copié
+     * Mail
      * Facebook
-     * FlipBoard
-     * Instagram
-     * Threads
-     * TikTok
-     * YouTube
-     * X
+     * Twitter
+     * Linkedin
+     * Messenger
+     * WhatsApp
 
-   Que cherchez-vous? ____________________
-   (BUTTON) Rechercher
-   © Le Devoir 2002-2023
+   Le pape François a dénoncé samedi la «désinformation» et les fake news
+   à l’occasion de la remise d’un prix journalistique au Vatican. Le pape
+   François a dénoncé samedi la «désinformation» et les fake news �
+   l’occasion de la remise d’un prix journalistique au Vatican.
+   Le pape François a dénoncé samedi la «désinformation» et les fake news
+   à l’occasion de la remise d’un prix journalistique au Vatican. VATICAN
+   MEDIA / REUTERS
+
+   À l’occasion de la remise d’un prix journalistique au Vatican, le
+   souverain pontife a dénoncé les «quatre péchés du journalisme».
+
+   Le pape François a dénoncé samedi la «désinformation» et les fake news,
+   qui en tentant d'orienter l'opinion publique représentent selon lui «le
+   premier péché du journalisme». «La désinformation est le premier des
+   péchés, des erreurs - disons-le comme cela -, du journalisme», a-t-il
+   affirmé lors d'une audience au Vatican pour la remise d'un prix
+   journalistique en présence de journalistes italiens.
+
+   «La désinformation est l'un des péchés du journalisme, qui sont au
+   nombre de quatre : la désinformation, quand un journaliste n'informe
+   pas ou informe mal ; la calomnie (parfois utilisée) ; la diffamation,
+   qui est différente de la calomnie mais détruit ; et le quatrième est
+   (...) l'amour pour le scandale», a déclaré le pape argentin, cité dans
+   un communiqué du Vatican.
+
+Appel à «un sursaut de responsabilité»
+
+   «Par exemple, les manipulations de ceux qui propagent par intérêt des
+   fake news pour orienter l'opinion publique m'inquiètent», a-t-il
+   expliqué, appelant à «un sursaut de responsabilité» dans «la
+   conjoncture dramatique que traverse l'Europe, avec la poursuite de la
+   guerre en Ukraine». «Mon espoir est qu'on donne de la place aux voix de
+   la paix, à ceux qui s'engagent pour mettre fin à ce conflit comme �
+   tant d'autres», a-t-il insisté.
+
+   À lire aussiOrdination d’hommes mariés, diaconat féminin... La
+   révolution voulue par le pape François jette le trouble dans l’Église
+
+   Talentueux communiquant, le pape argentin de 86 ans, qui doit se rendre
+   la semaine prochaine en Mongolie, a depuis son élection accordé de
+   nombreuses interviews, se montrant bien plus prolixe et à l'aise dans
+   cet exercice que son prédécesseur Benoît XVI.
+   La rédaction vous conseille
+     * Féru de politique, fan de tango… La vie du pape François à 20 ans
+     * L’étrange interprétation de Blaise Pascal par le pape François
+     * Avec sa nouvelle promotion de cardinaux, François pérennise sa
+       ligne réformatrice de l'Église
+
+   Sujets
+     * Pape François
+     * Journalisme
+
+   Publicité
+   105 commentaires
+     * AnthonyDe
+       le 30/08/2023 à 04:54
+       Pour une fois que je peux approuver et soutenir les propos de
+       vérités de ce pape immigrationniste, cette plaie destructrice de
+       l'occident ...
+     * FRANCOIS PIEL
+       le 29/08/2023 à 14:18
+       Ces propos visent-ils ses amis Poutine et Xi Xi?
+     * anonyme
+       le 27/08/2023 à 10:25
+       Ne pas révéler au monde le troisième secret de sœur Lucie ….. n’est
+       ce pas un aveu de mensonge ?
+
+   (BUTTON) Lire les 105 commentaires
+
+   À lire aussi
+
+«On est là pour tuer les Blancs» : dans le Dauphiné libéré, des amis de
+Thomas racontent le raid mortel à Crépol
+
+   «On est là pour tuer les Blancs» : dans le Dauphiné libéré, des amis de
+   Thomas racontent le raid mortel à Crépol «On est là pour tuer les
+   Blancs» : dans le Dauphiné libéré, des amis de Thomas racontent le raid
+   mortel à Crépol
+
+   L’adolescent a été tué dans la nuit de samedi à dimanche dans l’attaque
+   d’un bal de village dans la Drôme. Ses amis, témoins de la scène,
+   reviennent dans un podcast du quotidien régional sur cette soirée
+   d’horreur.
+   Regarder la vidéo
+
+La vice-présidente de SOS Racisme démissionne pour désaccord sur le «droit
+d’Israël à se défendre»
+
+   La vice-présidente de SOS Racisme démissionne pour désaccord sur le
+   «droit d’Israël à se défendre» La vice-présidente de SOS Racisme
+   démissionne pour désaccord sur le «droit d’Israël à se défendre»
+
+   Saphia Ait Ouarabi a expliqué sa décision sur les réseaux sociaux en
+   déclarant refuser de «représenter une association qui piétine» ses
+   espoirs.
+   Regarder la vidéo
+
+Mort de Thomas à Crépol : Chaïd A., suspect principal du coup fatal dont
+l’identité se précise
+
+   Mort de Thomas à Crépol : Chaïd A., suspect principal du coup fatal
+   dont l’identité se précise Mort de Thomas à Crépol : Chaïd A., suspect
+   principal du coup fatal dont l’identité se précise
+
+   Âgé de 20 ans, déjà condamné à des amendes pour recel de vol et
+   possession d’un couteau, cet habitant de Romans qui «traîne dans la
+   cité de la Monnaie» réfute être l’auteur des coups mortels.
+   Regarder la vidéo
+
+   Plus de services
+   L'actualité à ne pas manquer
+     * Résultats des élections
+     * Covid-19
+     * Guerre en Ukraine
+     * Tension Iran-Etats Unis
+     * Corée-Du-Nord
+     * Actualité politique en temps réel
+     * Analyses, débats politiques et sociétaux
+     * Actualité et réseaux sociaux
+
+   Programme TV
+     * Programme TV ce soir
+     * Programme TV en ce moment
+     * Programme TV TNT
+     * Séries Netflix, HBO, OCS et TV
+     * Election et photos Miss France
+     * Programme TV Canalsat
+     * Programme TV Free
+     * Programme TV SFR
+     * Actu people
+
+   Sport
+     * Calendriers et résultats des matchs en direct
+     * Coupe du monde de rugby 2023
+     * Jeux olympiques
+     * Actualité cyclisme
+     * Résultats, classement général Tour De France
+     * Qualifications Euro 2024
+     * Classement Ligue 1
+     * Classement Top 14
+     * Transferts football
+     * Coupe du monde 2022
+     * Ballon d'Or France Football
+
+   Madame
+     * Horoscope du jour
+     * Guide du mariage
+     * Recettes de cuisine
+     * Brigitte Macron
+     * Actu mode
+     * Apéritif dînatoire
+     * Recette pâte à crêpe
+     * Tendance bijoux
+     * Meghan Markle
+     * Gainer son corps
+
+   Santé
+     * Fiches et guides des médicaments
+     * Astuces et conseils bien-être
+     * Santé et sexualité
+     * Index des maladies
+     * Conseils alimentation, nutrition et santé
+     * L'encyclopédie des organes
+     * Conseils en psychologie
+     * La pollution va t-elle nous tuer ?
+     * Apnée du sommeil : Comment mieux dormir ?
+     * 15 mythes sur les vertus des aliments
+
+   Guide d'achat
+     * Guide d'achat maison et jardin
+     * Guide d'achat santé et beauté
+     * Guide d’achat high-tech
+     * Guide d'achat smartphones et tablettes
+     * Comment choisir le meilleur extracteur de jus ?
+     * Quelle est la meilleure montre connectée ?
+     * Quel est le meilleur home cinéma sans fil ?
+     * Comparatif semelle gel
+     * Quel épilateur électrique choisir ?
+     * Bons plans
+
+   Éducation et orientation
+     * Résultats Bac
+     * Révisions du Bac
+     * Parcoursup
+     * Annuaire des écoles de commerce
+     * Les entreprises qui recrutent
+     * Trouver un stage
+     * Résultats Brevet des collèges
+     * Classement des écoles de commerce
+     * Trouver une alternance
+     * Agenda étudiant : JPO, salons…
+
+   Culture
+     * Succession de Johnny Hallyday
+     * Sorties cinéma
+     * Guide arts et expositions
+     * Actualité musicale
+     * Actualité jeux-vidéo
+     * Citations et proverbes
+     * Réservation de spectacles et théâtre
+     * Sortir à Paris
+     * Histoire de France
+     * Langue française
+
+   Codes promos et réductions
+     * Code promo Wish
+     * Code promo Cdiscount
+     * Code promo SheIn
+     * Code promo eBay
+     * Code promo AliExpess
+     * Code promo Deliveroo
+     * Code promo Nike
+     * Code promo Sephora
+     * Code promo Showroomprive
+     * Code promo Asos
+
+   Offres d'emploi
+     * Toutes les offres d'emploi
+     * Emploi à Paris
+     * Emploi à Lyon
+     * Emploi à Toulouse
+     * Emploi à Nantes
+     * Emploi à Bordeaux
+     * Emploi commercial
+     * Emploi contrôleur de gestion
+     * Emploi logistique
+     * Emploi communication
+     * Nos fiches métiers
+
+   Annonces immobilières
+     * Annonces immobilières
+     * Achat appartement Paris
+     * Achat appartement Nice
+     * Achat appartement Cannes
+     * Achat appartement Bordeaux
+     * Achat appartement Lyon
+     * Achat appartement Aix-en-provence
+     * Achat maison Bordeaux
+     * Achat maison Marseille
+     * Achat maison Montpellier
+
+   Économie argent et finances
+     * Simulateur de seuil de richesse
+     * Actualité économique et analyses
+     * Impôts sur le revenu : simulateur
+     * Palmarès des villes où investir dans l'immobilier
+     * Studios et 2-pièces : les loyers ville par ville
+     * Calculer l'impôt à payer
+     * Barême des droits de succession et donation
+     * Indice de référence des loyers (IRL)
+     * En France, les hauts revenus sont-ils tous des «riches»?
+     * Carte familles nombreuses : jusqu’à 75 % de réduction sur les
+       billets de train
+
+   Voyage
+     * Guide des croisières
+     * Guide voyage Jordanie
+     * Guide voyage Namibie
+     * Guide voyage Maroc
+     * Guide voyage New York
+     * Guide voyage Birmanie
+     * Guide voyage Lille
+     * Guide voyage Antilles
+     * Guide voyage Japon
+     * Guide voyage Amsterdam
+
+   Les magazines Figaro
+     * Le Figaro Magazine
+     * Madame Figaro
+     * Le Figaro
+     * Le Figaro Hors-Série
+     * Le Figaro Histoire
+     * TV Magazine
+     * F, l'art de vivre
+
+   Figaro Services
+     * SCPI de rendement
+     * Changer d’assurance de prêt immobilier
+     * Le Village de l'emploi avis
+     * Alarme maison
+     * Demande de carte grise en ligne
+     * Définition du portage salarial
+     * Stress et troubles du sommeil
+     * A savoir en France
+     * Annonces légales
+
+   Vin
+     * Primeurs
+     * Comprendre le vin
+     * Tops et sélections
+     * Domaines et vignerons
+     * Economie du vin
+     * Foire aux vins
+     * Magazine du vin
+     * Spititueux
+     * Cocktails et mixologie
+     * Terroir et viticulture
+
+   Résultats des élections par département
+     * Résultats des élections Hauts-de-Seine
+     * Résultats des élections Seine-Saint-Denis
+     * Résultats des élections Val-de-Marne
+     * Résultats des élections Val-d'Oise
+     * Résultats des élections Yvelines
+     * Résultats des élections Var
+     * Résultats des élections Alpes-Maritimes
+     * Résultats des élections Essonne
+     * Résultats des élections Nord
+
+   Résultats des élections par région
+     * Résultats des élections Auvergne-Rhône-Alpes
+     * Résultats des élections Bourgogne-Franche-Comté
+     * Résultats des élections Bretagne
+     * Résultats des élections Centre-Val de Loire
+     * Résultats des élections Corse
+     * Résultats des élections Grand Est
+     * Résultats des élections Hauts-de-France
+     * Résultats des élections Ile-de-France
+     * Résultats des élections Normandie
+     * Résultats des élections Nouvelle-Aquitaine
+     * Résultats des élections Occitanie
+     * Résultats des élections Pays de la Loire
+     * Résultats des élections Provence-Alpes-Côte d'Azur
+
+   Résultats des élections par ville
+     * Résultats des élections Paris
+     * Résultats des élections Marseille
+     * Résultats des élections Lyon
+     * Résultats des élections Toulouse
+     * Résultats des élections Nice
+     * Résultats des élections Nantes
+     * Résultats des élections Montpellier
+     * Résultats des élections Strasbourg
+     * Résultats des élections Bordeaux
+     * Résultats des élections Lille
+     * Résultats des élections Rennes
+     * Résultats des élections Reims
+     * Résultats des élections Saint-Étienne
+
+   Le Figaro : Editions locales
+     * Le Figaro Bordeaux
+     * Le Figaro Lyon
+     * Le Figaro Nantes
+     * Le Figaro Nice
+
+   Suivez l’actu en temps réelavec l’application Le Figaro
+   (BUTTON)
+   Vous avez choisi de refuser les cookies
+   Et pourtant, la publicité personnalisée est un moyen de soutenir le
+   travail de notre rédaction qui s’engage à vous proposer chaque jour une
+   information de qualité. En acceptant les cookies, vous pourrez accéder
+   aux contenus et fonctionnalités gratuites que propose notre site.
+
+   À tout moment, vous pouvez modifier vos choix via le bouton “paramétrer
+   les cookies” en bas de page.
+   (BUTTON) Accepter les cookiesouRefuser et s'abonner
+
+   Le pape François dénonce la désinformation, «premier péché du
+   journalisme»
+   S'ABONNER
+   (BUTTON) Fermer
+   Partager (BUTTON) 142
+
+   Partager via :
+     * Mail
+     * Facebook
+     * Twitter
+     * WhatsApp
+     * (BUTTON) Copier le lien
+       Lien copié
+     * Messenger
+
+   (BUTTON) 105 commentaires
+   (BUTTON)
+   (BUTTON)
+
+   Plus d'options
+   (BUTTON) Imprimer l'article (BUTTON) Signaler une faute d'orthographe
+   S'abonner
+
+   Nos liens utiles
+     * Nos applications mobiles
+     * Suivre Le Figaro sur Google Actu
+     * Le Figaro Bordeaux
+     * Le Figaro Lyon
+     * Le Figaro Marseille
+     * Le Figaro Nantes
+     * Le Figaro Nice
+     * Les vidéos Figaro Live
+     * Les podcasts du Figaro
+     * Les programmes TV
+     * Les résultats sportifs
+     * Carnet du jour
+     * Figaro Store
+
+   Le Figaro
+   Le Kiosque
+
+   Le Figaro
+   Lire ce numéro
+   Abonnement
+     * Découvrez toutes les offres
+       Les articles en illimité à partir de 0,99€ sans engagement
+     * Gérer votre abonnement
+     * Espace personnel
+
+   Applications mobiles
+     * Le Figaro : iPhone | Android
+     * Le Figaro Jeux : iPhone | Android
+     * Le Kiosque Le Figaro : iPhone | Android
+     * Le Figaro Cuisine : iPhone | Android
+
+   Nos newsletters
+   Inscrivez-vous aux newsletters
+   Suivez-nous sur :
+     * (BUTTON) Paramétrer les cookies
+     * Plan du site
+     * Confidentialité
+     * CGU
+     * CGV
+     * Info cookies
+     * Charte
+     * Aide et contact
+     * Mentions légales
+     * Abonnements
+     * Newsletter
+     * Publicité
+     * Sitemap

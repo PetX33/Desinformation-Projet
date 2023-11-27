@@ -1,395 +1,395 @@
-    [ ]
+   #alternate alternate SudOuest : rss actualités
 
-   Play Suisse À propos de la RTS
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-NG4RXS
 
-     * info
-     * sport
-     * culture
-     * play RTS
-     * Audio
-     * [ ] tv
-       Emissions A-Z
-       Programme tv
-       En direct
-     * Programme tv
-     * météo
-     * La RTS
-     * [ ] plus
-       Séries
-       tataki
-       Documentaires
-       Les archives de la RTS
-       RTS découverte
-       RTS FICTION
-       RTS kids
-       RTS religion
-       Webcréations et dossiers
-       RTS Avec Vous
-       Avis d'Expert
-       Play Suisse
-       Genève Vision
-     * info
-       sport
-       culture
-       play RTS
-       Audio
-       [ ] tv
-       Emissions A-Z
-       Programme tv
-       En direct
-       Programme tv
-       météo
-       La RTS
-       [ ] plus
-       Séries
-       tataki
-       Documentaires
-       Les archives de la RTS
-       RTS découverte
-       RTS FICTION
-       RTS kids
-       RTS religion
-       Webcréations et dossiers
-       RTS Avec Vous
-       Avis d'Expert
-       Play Suisse
-       Genève Vision
+   RubriquesLa chaînePodcasts
+   Mon compteS'identifierS'abonnerJournal
 
-   Submit ____________________
+   RechercherLa chaînePodcasts
+   JournalS'identifierMon compte
+   📍 Ma ville  Actualité  DéclicLa sélection  Faits diversSport  Loisirs
+   Services  Étudiant  Annonces
+   (*)
+     * Toutes les communes
+     * Agen
+     * Angoulême
+     * Arcachon
+     * Bayonne
+     * Bergerac
+     * Biarritz
+     * Bordeaux
+     * Dax
 
-   Retrouvez nous sur :
+     * Langon
+     * La Rochelle 📍
+     * Libourne
+     * Marmande
+     * Médoc
+     * Mont-de-Marsan
+     * Oloron
+     * Orthez
 
-   [ ]
+     * Pau
+     * Périgueux
+     * Rochefort 📍
+     * Royan 📍
+     * Saintes 📍
+     * Saint-Jean-de-Luz
+     * Villeneuve-sur-Lot
 
-L'INFO
+   ( )
+     * International
+     * Politique
 
-   naviguer
-     * Info
-     * [ ] TV
-       Le 19h30 Le 19h30
-       Le 12h45 Le 12h45
-       Couleurs locales
-       RTS Info en continu RTS Info en continu
-       Mise au Point
-       Infrarouge Infrarouge
-       #Helvetica
-       Géopolitis Géopolitis
-       basik
-       Forum (vidéo)
-       La Matinale (vidéo)
-       Le Rencard
-       Temps présent Temps présent
-       ABE ABE
-       36.9° 36.9°
-       Nouvo Nouvo
-       Histoire vivante
-       Couleurs d'été
-       L'actu en vidéo
-     * [ ] Radio
-       Forum
-       La Matinale
-       Le journal de 12h30
-       Le journal horaire
-       Tout un monde
-       L'invité de La Matinale
-       Quinze Minutes
-       Le point J
-       Le Short
-       Ici la Suisse
-       Alter Eco Alter Eco
-       La Presse
-       Sport Matin
-       On en parle
-       CQFD CQFD
-     * Fédérales
-     * Israël-Hamas
-     * Ukraine
-     * [ ] Suisse
-       Toute la Suisse
-       Suisse romande
-       Vaud
-       Genève
-       Valais
-       Fribourg
-       Neuchâtel
-       Jura
-       Berne
-       Suisse alémanique Tessin Grisons
-     * Monde
+     * Economie
      * Environnement
-     * Eco
-     * Sport
+
+     * Santé
+     * Société
+
+   ( )
+     * Sélection du jour
+     * Edition du soir
+
+     * Premium
+     * Bonne humeur
+
+     * Insolite
+     * Le vrai du faux
+
+   ( )
+     * Tout le sport
+     * Football
+     * Rugby
+     * Raffut
+
+     * Cyclisme
+     * Tennis
+     * Basket
+     * Surf
+
+     * Sports mécaniques
+     * Hockey
+     * Résultats
+     * Jeux Olympiques
+
+   ( )
      * Culture
-     * Sciences/tech.
-     * Infographies et données
-     * Grands formats et dossiers
-     * SSR Dialogue
-     * [ ] Podcasts
-       Le Point J
-       Le Short
-       Democracy! Démocratie! - détails
-       Micro sciences Micro sciences
-       Sur les pas
-       Huit femmes
-       Les Elles du pouvoir - Détails
-       L'esprit de la Datcha
-     * Suisse Good
-     * Ça change quoi pour toi?
-     * Info Verso
-     * Genève Vision
-     * Météo
-     * Infotrafic
-     * Source sûre
-     * Vos infos
-     * [ ] Social
-       Le fil Twitter RTSinfo
-       La page Facebook RTSinfo
-     * Flux RSS
-     * Contact
-     * Info
-       [ ] TV
-       [14256735.image] Le 19h30
-       [14256734.image] Le 12h45
-       Couleurs locales
-       [14438029.image] RTS Info en continu
-       Mise au Point
-       [1510710.image] Infrarouge
-       #Helvetica
-       [1755224.image] Géopolitis
-       basik
-       Forum (vidéo)
-       La Matinale (vidéo)
-       Le Rencard
-       [1510736.image] Temps présent
-       [7047133.image] ABE
-       [9327328.image] 36.9°
-       [1510719.image] Nouvo
-       Histoire vivante
-       Couleurs d'été
-       L'actu en vidéo
-       [ ] Radio
-       Forum
-       La Matinale
-       Le journal de 12h30
-       Le journal horaire
-       Tout un monde
-       L'invité de La Matinale
-       Quinze Minutes
-       Le point J
-       Le Short
-       Ici la Suisse
-       [8872019.image] Alter Eco
-       La Presse
-       Sport Matin
-       On en parle
-       [4197792.image] CQFD
-       [13850096.image] Fédérales
-       [14406308.image] Israël-Hamas
-       [12900970.image] Ukraine
-       [ ] Suisse
-       Toute la Suisse
-       Suisse romande
-       Vaud
-       Genève
-       Valais
-       Fribourg
-       Neuchâtel
-       Jura
-       Berne
-       Suisse alémanique Tessin Grisons
-       Monde
-       Environnement
-       Eco
-       Sport
-       Culture
-       Sciences/tech.
-       Infographies et données
-       Grands formats et dossiers
-       SSR Dialogue
-       [ ] Podcasts
-       Le Point J
-       Le Short
-       Democracy! Démocratie! - détails
-       [12246687.image] Micro sciences
-       Sur les pas
-       Huit femmes
-       Les Elles du pouvoir - Détails
-       L'esprit de la Datcha
-       Suisse Good
-       Ça change quoi pour toi?
-       Info Verso
-       Genève Vision
-       Météo
-       [3198787.image] Infotrafic
-       Source sûre
-       Vos infos
-       [ ] Social
-       Le fil Twitter RTSinfo
-       La page Facebook RTSinfo
-       Flux RSS
-       Contact
+     * Diverto
+     * Gastronomie
 
-   Monde
-   Modifié le 14 novembre 2023 à 07:03
+     * Idées
+     * Télévision
+     * Programme TV
 
-Des Etats utilisent la désinformation pour s'immiscer dans le conflit
-israélo-palestinien
+     * Tourisme
+     * Vin
+     * Auto-moto
 
-   Le conflit entre Israël et le Hamas s'intensifie aussi sur les
-   plateformes en ligne [RTS]
-   La désinformation s'intensifie en ligne autour du conflit entre Israël
-   et le Hamas / Forum / 2 min. / le 13 novembre 2023
+   ( )
+     * Archives
+     * Club abonnés
+     * Jeux
 
-   La désinformation autour du conflit entre Israël et le Hamas
-   s'intensifie sur les plateformes en ligne. Plusieurs recherches
-   montrent que l'Iran, la Russie et la Chine utilisent les médias d'Etat
-   et les réseaux sociaux pour propager de la désinformation et de la
-   propagande.
+     * Horoscope
+     * Évènements
+     * Billetterie
 
-   La guerre entre Israël et le Hamas se joue aussi sur les réseaux
-   sociaux, qui se retrouvent inondés de fausses affirmations.
+     * Bons plans
+     * Contenus partenaires
+     * Boutique
 
-   Jusqu'à présent, les auteurs de ces campagnes de désinformation
-   n'étaient pas connus, mais des recherches de l'Institut pour le
-   dialogue stratégique (ISD) démontrent désormais que la Russie, la Chine
-   et l'Iran, principalement, exploitent la guerre pour faire avancer
-   leurs propres lignes géopolitiques.
+   ( )
+     * Accueil
+     * Lycée
+     * Examens
 
-   Ces Etats utilisent la désinformation dans le but de soutenir le Hamas,
-   d'affaiblir Israël et, in fine, de dénigrer le principal allié
-   d'Israël, les Etats-Unis.
+     * Parcoursup
+     * Études supérieures
+     * Trouver votre école
 
-Différentes stratégies
+     * Résultats bac
+     * Résultats brevet
+     * Séries TV
 
-   Chaque pays possède sa propre stratégie de désinformation ou de
-   propagande. Les comptes affiliés à l'État iranien ont glorifié
-   l'attaque du Hamas du 7 octobre, parlant d'un "coup stratégique contre
-   Israël". Ces comptes accusent les Etats-Unis d'être responsables des
-   souffrances palestiniennes, selon les chercheurs britanniques de l'ISD.
+   ( )
+     * Avis de décès
+     * Emploi
 
-   >> Relire: L'Iran veut se rendre incontournable dans le conflit entre
-   Israël et le Hamas
+     * Immobilier
 
-   Les comptes affiliés à l'Etat russe prétendent eux que l'Ukraine a
-   fourni des armes au Hamas ou que l'attaque d'un hôpital à Gaza a été
-   réalisée avec une bombe fournie par les Etats-Unis à Israël. Les
-   agences de renseignement occidentales et des analystes indépendants ont
-   cependant depuis déclaré qu'un missile tiré de Gaza était plus
-   vraisemblablement à l'origine de l'explosion.
+     * Légales
 
-   En Chine, le message dépend de la plateforme utilisée. Sur Facebook,
-   les messages restent neutres, condamnant tous les actes portant
-   atteinte aux civils. Sur X, ces mêmes comptes ont dénoncé les
-   Etats-Unis pour leur "recherche d'opportunités économiques" dans
-   l'escalade du conflit.
+   ' +
+   '
+   Sud Ouest
 
-Faux comptes
+   Toute l'actualité de votre région en continu sur notre application
+   (BUTTON) Voir
 
-   Ces fausses informations circulent à l'aide de faux comptes et touchent
-   un énorme nombre d'utilisateurs et utilisatrices des plateformes en
-   ligne.
+Désinformation : la Commission européenne ne lancera plus de campagne de
+publicité sur X
 
-   Dans les 24 heures qui ont suivi l'explosion à l'hôpital al-Ahli Arab,
-   dans la bande de Gaza le 17 octobre, plus d'un compte sur trois qui
-   publiait des informations sur le conflit sur le réseau social X était
-   faux, selon Cyabra, une société de renseignement sur les médias sociaux
-   située à Tel Aviv.
+    Lecture 1 min
+   Accueil Sud Ouest Éco Réseaux sociaux
+   Désinformation : la Commission européenne ne lancera plus de campagne
+   de publicité sur X L’exécutif européen a ouvert en octobre une enquête
+   pour la diffusion présumée de « fausses informations » sur le réseau
+   social dirigé par Elon Musk. © Crédit photo : AFP
 
-   >> Revoir le sujet du 12h45 sur l'explosion de l'hôpital al-Ahli Arab:
-   À Gaza, des doutes planent autour de l’origine et du nombre de victimes
-   dans l’explosion de l’hôpital Al-Ahli [RTS]
-   À Gaza, des doutes planent autour de l’origine et du nombre de victimes
-   dans l’explosion de l’hôpital Al-Ahli / 12h45 / 2 min. / le 19 octobre
-   2023
+   Par Sudouest.fr avec AFP
+   Publié le 17/11/2023 à 15h43.
+     * Écouter
+     * Réagir
+     * Partager
+     * S'abonner
 
-   Selon la société, 40'000 robots ont partagé ces messages. "Ils sont vus
-   par des millions, des centaines de millions de personnes dans le monde
-   entier", affirme Rafi Mendelsohn, vice-président de Cyabra, cité dans
-   le New York Times.
+   La Commission européenne ne diffusera plus ses campagnes publicitaires
+   sur X en raison de la hausse de la désinformation sur le réseau social
+   et d’une polémique sur l’utilisation de données personnelles
 
-   "Et cela a un impact sur la guerre qui est probablement aussi efficace
-   que n'importe quelle autre tactique sur le terrain", poursuit-il.
+   Dénonçant la « hausse alarmante de la désinformation et des discours de
+   haine », la Commission européenne a demandé à ses services de suspendre
+   toute campagne publicitaire sur X (ex-Twitter), a indiqué vendredi un
+   porte-parole. « Nous avons constaté une hausse alarmante de la
+   désinformation et des discours de haine sur plusieurs réseaux sociaux
+   ces dernières semaines, et cela concerne bien entendu X », a déclaré ce
+   porte-parole, Johannes Bahrke.
+   Sur le même sujet
 
-   Ces campagnes ne sont pas forcément coordonnées, mais les algorithmes
-   et l'utilisation astucieuse de hashtags signifient que leur impact est
-   exponentiel, avec le risque important d'un embrasement régional.
+   Désinformation : la commission européenne ouvre une enquête visant X
+   (ex-Twitter)
+   Désinformation : la commission européenne ouvre une enquête visant X
+   (ex-Twitter)
+   Il s’agit de la première procédure lancée dans le cadre de la nouvelle
+   législation européenne sur les services numériques (DSA), deux jours
+   après une lettre d’avertissement adressé au réseau social d’Elon Musk
 
-   >> Revoir le sujet de La Matinale sur la prolifération de fausses
-   informations sur les réseaux sociaux:
-   La désinformation sur le conflit entre Israël et le Hamas inonde les
-   réseaux sociaux [RTS]
-   La désinformation sur le conflit entre Israël et le Hamas inonde les
-   réseaux sociaux / La Matinale / 4 min. / le 18 octobre 2023
+   Cette décision ne remet pas en cause la présence des services de la
+   Commission européenne sur X, a précisé le porte-parole. Depuis qu’Elon
+   Musk a racheté Twitter fin octobre 2022 avant d’en changer le nom, la
+   plateforme a assoupli ses règles sur la désinformation, réduit ses
+   équipes de modération des contenus et permit le retour de nombreuses
+   personnalités controversées.
 
-   mcc/edel
-   Publié le 14 novembre 2023 à 06:42 Modifié le 14 novembre 2023 à 07:03
+Une ancienne polémique impliquée
 
-À consulter également
+   L’exécutif européen a ouvert en octobre une enquête visant ce réseau
+   social pour la diffusion présumée de « fausses informations »,
+   « contenus violents et à caractère terroriste » et « discours de
+   haine » dans le contexte de la guerre entre Israël et le Hamas. Cette
+   démarche s’inscrit dans le cadre de l’application de la nouvelle
+   législation sur les services numériques (DSA), imposant des obligations
+   renforcées aux plateformes.
+   Sur le même sujet
 
-   De Twitter à X, comment l'information brute et exclusive a fait place
-   aux "fake news" [ETIENNE LAURENT - Keystone]
+   Désinformation : qu’est-ce que le #NoTwitterDay, qui vise le réseau
+   social X ce vendredi 27 octobre ?
+   Désinformation : qu’est-ce que le #NoTwitterDay, qui vise le réseau
+   social X ce vendredi 27 octobre ?
+   Un collectif de spécialistes de la désinformation, inquiets de
+   l’évolution de la plateforme d’Elon Musk, lance ce vendredi une journée
+   de « grève du tweet »
 
-   De Twitter à X, comment l'information brute et exclusive a fait place
-   aux "fake news"
+   L’instruction de suspendre toute publicité sur X de la part de la
+   Commission fait aussi suite à une polémique entourant une campagne
+   faite en septembre sur ce réseau social par les services de la
+   commissaire européenne aux Affaires intérieures, Ylva Johansson, pour
+   faire la promotion d’un projet de législation. Cette campagne est
+   accusée d’avoir utilisé des techniques de microciblage en se basant sur
+   les opinions politiques et religieuses des personnes visées, en
+   violation des règles européennes sur les données personnelles.
+   Sur le même sujet
 
-   Monde
+   Le réseau social X lance deux nouveaux abonnements mensuels
+   Le réseau social X lance deux nouveaux abonnements mensuels
+   Les utilisateurs peuvent désormais choisir entre trois formules :
+   Basic, Premium et Premium +, respectivement à 3, 8 et 16 dollars par
+   mois
 
-   le 28 octobre 2023
-   CTRL+Z (vidéo) - Le fonctionnement de la désinformation sur les réseaux
-   sociaux [RTS]
+   A lire aussi
+   Son locataire ne paye plus le loyer, le propriétaire s’installe avec
+   lui dans le studio et se déclare squatteur en colocation
+   Congés payés : cette nouvelle obligation pour les entreprises qui va
+   faire plaisir aux salariés
 
-   CTRL+Z (vidéo) - Le fonctionnement de la désinformation sur les réseaux
-   sociaux
+   Une association autrichienne militant pour la protection de la vie
+   privée, Noyb, a porté plainte jeudi contre la Commission européenne
+   auprès du Contrôleur européen de la protection des données, au nom d’un
+   internaute néerlandais destinataire d’un des messages des services de
+   l’UE. L’ONG réclame une enquête fouillée et l’imposition d’une amende.
+   Les sujets associés
 
-   La Matinale
+     * Réseaux sociaux
+     * Europe
+     * International
+     * Société
+     * Sciences et Technologie
+     * Economie
 
-   le 20 octobre 2023
-   Après X, Bruxelles rappelle à l'ordre Meta sur la désinformation.
-   [Laurent Gillieron - Keystone]
+LES DERNIÈRES VIDÉOS
 
-   Les fausses informations sur la situation entre la Palestine et Israël
-   se multiplient sur le réseau social X
+   Premium
+   La une de sudouest aujourd'hui
+   Sur Web, Tablette et Mobile
+     __________________________________________________________________
 
-   La Matinale
+     * Le journal et ses suppléments
+     * L'accès aux articles abonnés
+     * L'Édition du soir
+     * Le club Abonnés
+     * Les Formats Longs
+     * Les Archives depuis 1944
 
-   le 12 octobre 2023
-   Laurent Cordonier, directeur de recherche à la Fondation Descartes �
-   Paris. [@AntoineBeyeler]
+   Abonné papier ? Activez votre accès S'abonner à partir de 1€ Mon espace
+   premium
 
-   La désinformation menace "la vie démocratique", alerte un spécialiste
-   du sujet
+   Toutes les rubriques
+   Fermer
+   Mon compte
+   Déconnexion
+   Mon compte
+   Déconnexion
+   Devenez premium
+   Connexion
+   Devenez premium
+   ____________________ (BUTTON) (BUTTON)
+   Communes
+     * Bordeaux
+     * La Rochelle📍
+     * Mont-de-Marsan
+     * Périgueux
+     * Pau
+     * Angoulême
+     * Libourne
+     * Biscarrosse
+     * Royan 📍
+     * Langon
+     * Médoc
+     * Bayonne
 
-   Monde
+     * Biarritz
+     * Dax
+     * Agen
+     * Cognac
+     * Arcachon
+     * Saintes 📍
+     * Villeneuve s/ Lot
+     * Bergerac
+     * Mérignac
+     * Gradignan
+     * Trouver ma commune
 
-   le 26 février 2023
+   Chaînes TV
+     * TV7
+     * TVPI
 
-La RTS
+   Actualité & Services
+     * À la une
+     * Faits divers
+     * Économie
+     * Culture
+     * Politique
+     * International
+     * Resultats Élections
 
-   Submit ____________________
-     * À propos
-     * FAQ
-     * Conditions générales
-     * Charte de confidentialité
-     * Gérer les paramètres relatifs aux cookies
+     * Journal
+     * Premium
+     * Archives
+     * Société
+     * Environnement
+     * Technologies
+     * Santé
+     * Idées
+     * Coronavirus
+     * Tourisme
+     * Étudiant
+     * Billetterie
+     * Diverto
+     * Bons plans
 
-     * Contact
-     * Travailler à la RTS
-     * Communiqués de presse
-     * Newsletters
-     * Play Suisse
+   Formats spéciaux
+     * Formats longs
+     * Podcasts
 
-     * Recevoir nos programmes
-     * Comment écouter nos podcasts
-     * Ventes aux professionnels
-     * Visiter les studios
-     * Assister aux émissions
+   Sud Ouest et Vous
+     * Jeux
+     * Journal des lecteurs
+     * Club Abonnés
 
-     * RTS Avec Vous
-     * Valeur Publique
-     * SSR Suisse Romande
-     * Médiation
-     * Jurisprudence
+   Sport
+     * Tout le sport
+     * Sport Club
+     * Football
+     * Girondins
+     * Rugby
+     * Stade rochelais
+     * Union bordeaux bègles
+     * Section paloise
+     * SU Agen
+     * Basket
+     * Surf
+     * Clubs
+     * Résultats
+     * Directs
+     * Hippisme
+     * Où pratiquer
+     * Raffut
 
-   SRF RSI RTR SWI
-   RTS Radio Télévision Suisse, succursale de la Société suisse de
-   radiodiffusion et télévision
+   Autour du Journal
+     * Mon journal
+     * S'abonner
+     * Gérer mon abonnement
+     * Recherche Archives
+     * Photos Collectors
+     * Journal anniversaire
+     * Visiter le centre d'impression
+
+   Annonces
+     * Avis de décès
+     * Emploi/formation
+     * Immobilier
+     * Annonces légales
+
+   Suivre
+     * Applications
+     * Newsletter
+     * Facebook
+     * Twitter
+     * Instagram
+     * Youtube
+
+Vous avez choisi de refuser les cookies
+
+   Pourtant, comme les abonnements, ils permettent de soutenir le travail
+   des 250 journalistes de notre rédaction qui s'engagent à vous proposer
+   chaque jour une information de qualité, fiable et complète.
+
+   En acceptant les cookies, vous pourrez accéder aux contenus et
+   fonctionnalités gratuites que propose notre site.
+   À tout moment, vous pouvez modifier vos choix via le bouton “cookies”
+   en bas de page.
+   Accepter les cookies ou S'abonner
+
+   Répondre
+   Pour réagir à cet article, remplissez le champ ci-dessous. Vous pouvez
+   également, consulter notre charte des commentaires.
+   []
+   Auteur
+   Lire les règles de modération de sudouest.fr
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Réagir
+
+   Signaler un commentaire
+   Merci de nous décrire précisément ce qui vous paraît illégal dans ce
+   message.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Signaler

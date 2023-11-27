@@ -1,420 +1,270 @@
-   #alternate
-
-   Afis Science - Association française pour l'information scientifique
-   Association Française pour l’Information Scientifique
-
-     * L’association
-          + Qu’est-ce que l’AFIS ?
-          + Communiqués
-          + Agenda
-          + Liens internationaux
-          + Adhérer
-          + Contact
-     * ARTICLES
-          + Éditoriaux
-          + Notes de lecture
-          + Science et esprit critique
-          + Intégrité scientifique
-          + Sornettes sur Internet
-          + Un monde fou, fou, fou
-          + Regards sur la science
-          + Articles par thème
-     * REVUE
-          + Le dernier numéro
-          + Tous les numéros
-          + S'abonner
-     * BOUTIQUE
-     * LIBRAIRIE
-     * VIDÉOS
-     * Recherche
-
-   Afis facebook Afis twitter Afis Youtube Afis Android Afis ios Afis RSS
-   Mon compte
-
-   Accueil / IA génératives : un risque accru de désinformation ?
-
-IA génératives : un risque accru de désinformation ?
-
-   Publié en ligne le 29 septembre 2023 - Intelligence Artificielle -
-   IA génératives : un risque accru de désinformation ?
-
-   Les systèmes d’intelligence artificielle génératives suscitent de
-   nombreuses craintes et interrogations, tant le contenu généré est
-   saisissant de réalisme. S’il devient encore plus difficile de
-   distinguer le vrai du faux, la désinformation ne risque-t-elle pas de
-   se propager encore plus largement ? On peut imaginer la prolifération
-   de vidéos mettant en scène un homme politique, un artiste, ou tout
-   simplement soi-même ou un proche, avec un contenu factice, une voix
-   similaire à la vraie voix, mais avec des propos, des situations et des
-   comportements complètement inventés. Les photos du président Trump en
-   état d’arrestation, du président Macron en éboueur ou du pape en
-   doudoune ont déjà été largement médiatisées. Plus sordide : des vidéos
-   truquées apparaissent mettant en scène des personnes, célèbres ou non,
-   dans des situations dégradantes [1]. Ces scénarios, déjà réalisables
-   avec les technologies existantes, deviendraient ainsi à la portée de
-   tous et pourraient être déployées à très grande échelle.
-
-Un risque de désinformation accru ?
-
-   Soulignons en préalable que le problème rencontré par ceux qui veulent
-   propager des fausses informations n’a jamais été la création de
-   contenu, mais sa diffusion. En ce qui concerne la création de contenu,
-   de façon évidente, les possibilités offertes par les IA génératives
-   peuvent s’avérer d’une grande efficacité et il importe de ne pas les
-   minimiser. En brouillant la frontière entre le vrai et le faux et en
-   permettant la production à une échelle industrielle de fausses photos,
-   de fausses vidéos, les IA génératives démocratisent largement ce qui,
-   avant, requérait une expertise pointue, des logiciels spécialisés et
-   une main-d’œuvre coûteuse.
-
-   Mais il s’agit ensuite de diffuser les « informations » ainsi obtenues.
-   Là, l’aide apportée semble plus limitée. Certes, les IA génératives
-   permettent d’individualiser les interactions sur les réseaux sociaux,
-   rendant plus performantes les interventions des robots informatiques en
-   les faisant apparaître plus « humaines ». Elles produisent également
-   des messages plus crédibles, plus vraisemblables, qui se diffuseront
-   plus facilement. Cependant, le support principal pour diffuser la
-   désinformation reste Internet et les réseaux sociaux tels qu’ils
-   existent déjà.
-   Les Tricheurs (détail), Valentin de Boulogne (1591-1632)
-
-   Le problème ne date pas d’aujourd’hui, comme en atteste, par exemple,
-   la proportion de faux comptes ou de doublons sur les réseaux sociaux
-   (sur Facebook, ils sont estimés à 16 %, une partie d’entre eux servant
-   au spam et à la désinformation [2]) ainsi que toutes les controverses
-   relatives à la régulation et l’autorégulation face à des contenus
-   problématiques.
-
-   Par ailleurs, ne l’oublions pas, le succès de la désinformation dépend
-   également des attentes des personnes visées. Une vidéo truquée
-   rencontrera son public si elle est crédible aux yeux des personnes
-   ciblées et si elle correspond à leur état d’esprit et à leurs
-   aspirations.
-
-   La désinformation n’a attendu ni Internet ni les réseaux sociaux pour
-   se propager à très grande échelle. Certaines « théories du complot »^ 1
-   ont rencontré un succès planétaire, avec des conséquences dramatiques �
-   une époque où les ordinateurs n’existaient pas. On pense par exemple au
-   « protocole des sages de Sion », un texte inventé par la police
-   tsariste en 1903 et présenté comme étant la preuve matérielle d’un
-   complot juif visant à dominer le monde. Ce texte a largement alimenté
-   les discours antisémites du XX^e siècle [3]. Son succès s’explique en
-   grande partie par le contexte social : il a « rencontré son public »
-   dans des populations où l’antisémitisme était déjà bien présent. D’une
-   façon plus générale, les rumeurs et légendes urbaines ont traversé
-   toutes les sociétés, et ce, bien avant l’avènement d’Internet. Elles se
-   sont toujours alimentées d’un mélange de faits vérifiables et de faits
-   inventés pour produire un récit plausible qui va rencontrer un public
-   « concerné », objectivement ou subjectivement, par les messages
-   véhiculés [4].
-
-   Enfin, ajoutons que combattre la désinformation par des faits validés
-   suppose que ceux qui la propagent ou qui y sont réceptifs sont
-   sensibles aux arguments et souhaitent confronter leurs croyances. Ce
-   n’est malheureusement pas toujours le cas. Les controverses sur la
-   vaccination lors de la crise sanitaire l’illustrent.
-
-   Internet et les réseaux sociaux ont révolutionné le champ de la
-   désinformation. Ils ont en particulier rendu planétaires des phénomènes
-   qui restaient le plus souvent locaux. De plus, la vitesse de
-   propagation des fausses informations s’est radicalement accrue. Dans ce
-   contexte, les IA génératives pourront apporter leur contribution, c’est
-   évident, mais sans toutefois, à ce stade, bouleverser la situation. Il
-   importe cependant d’examiner comment il est possible de se prémunir de
-   leurs usages spécifiques quand ils sont néfastes.
-
-Se prémunir contre les dangers de la désinformation
-
-   Avec leur perfectionnement, les nouvelles technologies d’intelligence
-   artificielle rendent plus difficile la détection des fausses
-   informations qu’elles peuvent générer. Mais inversement, ces mêmes
-   techniques peuvent fournir par ailleurs des solutions aux problèmes
-   qu’elles créent. On assiste là à une sorte de course entre gendarmes et
-   voleurs, à l’image de ce que l’on a vu, par exemple, avec le
-   développement d’Internet et de Wikipédia : des outils automatiques ont
-   été mis au point pour détecter les plagiats qui s’étaient multipliés
-   dans le monde étudiant. Il en a été de même pour les images truquées �
-   l’aide de logiciels de retouche : d’autres logiciels permettent de
-   repérer ces trucages.
-
-   Insérer des filigranes
-   On pourrait imaginer l’obligation, pour les développeurs d’IA
-   génératives, d’insérer une sorte de filigrane dans leurs productions, �
-   l’image de ce qui se fait dans les billets de banque. Les filigranes
-   (ou tatouages) numériques ne sont pas des nouveautés. Pour une image,
-   ce pourrait par exemple être l’insertion discrète de pixels selon une
-   régularité prédéfinie qui marquerait la signature du logiciel [5]. Le
-   défi consiste alors à rendre le filigrane à la fois imperceptible �
-   l’œil, mais également robuste aux manipulations d’image fréquemment
-   faites par les utilisateurs (recadrage, changement de couleurs,
-   modification du contraste, etc.) [6]. Stable Diffusion, un système de
-   génération d’image, incorpore déjà un tel procédé [7]. Une piste
-   complémentaire pourrait consister à « tatouer » les enregistrements
-   vidéo authentiques lors de la prise de vue grâce à une caméra
-   spécialisée [5]. C’est la véritable information qui serait alors
-   marquée.
-
-   Pour la génération de textes, l’ajout de filigranes s’avère plus
-   difficile à réaliser. OpenAI, la société qui commercialise ChatGPT,
-   étudie un tel procédé. Une des pistes envisagées consiste à intervenir
-   dans la phase de génération d’un mot : au lieu d’un processus de choix
-   aléatoire parmi plusieurs propositions jugées compatibles, la sélection
-   se ferait en utilisant une fonction spécifique qui signerait en
-   quelques sortes la génération du texte par la machine [8]. Mais il
-   semble qu’OpenAI éprouve des difficultés techniques à implanter un tel
-   marquage [9]. Et quelles en seraient la fiabilité et l’efficacité ? En
-   l’état, ces réflexions restent encore assez théoriques.
-
-   Régulation et autorégulation des fournisseurs de logiciel
-   Au niveau européen, le projet « AI Act » qui vise à réglementer le
-   déploiement de systèmes d’intelligence artificielle [10] propose que
-   les « hypertrucages », c’est-à-dire les contenus générés qui présentent
-   « une ressemblance avec des personnes, des objets, des lieux ou
-   d’autres entités ou événements existants et pouvant être perçus à tort
-   comme authentiques ou véridiques » soient explicitement marqués lors de
-   leur production comme étant créés artificiellement (obligation dite de
-   « transparence »). La mise en œuvre technique peut toutefois, comme
-   nous l’avons mentionné, s’avérer complexe. Elle suppose, par ailleurs,
-   pour limiter les risques de contournement et de désactivation des
-   fonctions de tatouage par des utilisateurs malveillants, que les
-   logiciels restent entièrement fermés, que leur code source ne soit pas
-   rendu public. Or l’obligation de transparence en général prônée par les
-   régulateurs consiste souvent, à l’inverse, à promouvoir une diffusion
-   sous une forme dite « open source » [11].
-   Enseignement de la grammaire, enluminure du maître de Fauvel dans
-   L’Image du Monde (XIV^es.) Bibliothèque nationale de France
-
-   Une certaine autorégulation s’est mise en place. ChatGPT, par exemple,
-   refuse de répondre à certaines requêtes ou accompagne certaines
-   réponses de mises en garde. Pour illustrer, en 2022, vous pouviez
-   demander à ChatGPT de proposer un plan de désinformation afin de
-   convaincre des parents de ne pas vacciner leurs enfants, en précisant
-   le public visé (par exemple « mères californiennes adeptes
-   d’alimentation saine » [12]). Un plan détaillé, agrémenté de références
-   scientifiques, était proposé. Le même essai réalisé en juin 2023
-   conduit à la réponse suivante : « Je ne peux pas élaborer un plan de
-   désinformation visant à tromper les parents ou à propager de fausses
-   informations. En tant qu’intelligence artificielle, mon objectif est de
-   fournir des informations précises et fiables basées sur les
-   connaissances disponibles. » Le système présente ensuite des
-   recommandations pour orienter l’utilisateur vers « des sources fiables
-   et basées sur des preuves scientifiques » rappelant que « la
-   vaccination est un outil essentiel pour prévenir les maladies
-   infectieuses et protéger la santé de la population, y compris celle des
-   enfants ».
-
-   Cette autorégulation soulève néanmoins de nombreuses questions. En
-   particulier, selon quels critères certains sujets doivent-ils être
-   bannis ? Et cette régulation doit-elle être laissée à l’appréciation de
-   chacun des acteurs ? Cette question particulière n’est pas réellement
-   nouvelle : elle se pose régulièrement pour le contrôle de contenu des
-   réseaux sociaux, aujourd’hui réalisé par les opérateurs eux-mêmes. Ce
-   qui est spécifique, c’est qu’il s’agit non pas de réguler le contenu
-   produit par les humains participant au réseau, mais, d’une certaine
-   façon, d’éditorialiser de façon automatique les productions faites par
-   une machine.
-
-Faire preuve d’esprit critique
-
-   Les nouveaux systèmes d’IA vont permettre de démocratiser l’accès à des
-   outils de création de contenu pour de très nombreuses finalités utiles.
-   Mais cette accessibilité à une contrepartie : ils obligent les
-   utilisateurs à renforcer leur esprit critique. D’une certaine manière,
-   on peut estimer que tous les « pièges » que des millions d’utilisateurs
-   tendent aux IA pour s’amuser, et dont la presse s’est largement faite
-   écho, témoignent à leur manière de la volonté de nombre d’entre eux de
-   tester les limites des systèmes, de voir dans quelle mesure
-   l’information générée est fiable.
-   Le Penseur, Stanislas Torrents (1839-1916)
-
-   Les dispositifs techniques comme les tatouages numériques ne seront
-   toujours que des outils d’aide qui ne pourront se substituer à une
-   formation des utilisateurs et une adaptation des contextes d’usage de
-   ces logiciels [13].
-
-   Dans un monde où la frontière entre le vrai et le faux pourra être
-   rendue plus floue, l’importance de savoir identifier les sources
-   d’information fiables deviendra une exigence incontournable.
-
-   Cette éducation à l’esprit critique, sans être en soi suffisante, est
-   probablement nécessaire pour accompagner l’usage des IA génératives.
-   C’est d’ailleurs ainsi qu’est souvent envisagée l’introduction des
-   systèmes d’IA dans les établissements d’enseignement, en encourageant
-   « l’acquisition de “compétences préalables” à l’éducation à l’IA,
-   telles que les compétences de base en lecture, en écriture, en calcul,
-   en programmation et en technologie numérique, l’éducation aux médias et
-   à l’information, ainsi que les compétences relatives à la pensée
-   critique et créative, au travail en équipe et à la communication, les
-   compétences socioémotionnelles et les compétences en matière d’éthique
-   de l’IA » [14].
-
-   Et c’est aussi une des raisons d’être de l’Afis et de sa revue Science
-   et pseudosciences.
-   Références
-
-   1 | Cagan A, « Porno : avec l’IA, l’inquiétant boom des vidéos
-   truquées », L’Express, 4 mai 2023. Sur lexpress.fr
-   2 | Moore M, “Fake accounts on social media, epistemic uncertainty and
-   the need for an independent auditing of accounts”, Internet Policy
-   Review, 7 février 2023.
-   3 | Krivine JP, « Théories du complot, conspirationnisme : de quoi
-   parle-t-on ? », SPS n° 337, juillet 2021. Sur afis.org
-   4 | Renard JB, « Qui croit aux théories complotistes et pourquoi ? »,
-   SPS n° 337, novembre 2021. Sur afis.org
-   5 | “Watermaking ChatGPT, DALL-E and other generative AIs could help
-   protect against fraud and misinformation”, The Conversation, 27 mars
-   2023. Sur theconversation.com
-   6 | Evsutin O, Dzhanashia K, “Watermarking schemes for digital images :
-   robustness overview”, Signal Processing : Image Communication, 2022,
-   100 :116523. Sur sciencedirect.com
-   7 | Steins, “Stable diffusion : the invisible watermark in generated
-   images”, blog, 28 octobre 2022. Sur medium.com
-   8 | Aaronson S,“My AI safety lecture for UT effective altruism”, blog
-   Shtetl-Optimized. Sur scottaaronson.blog
-   9 | Wiggers K, “OpenAI’s attempts to watermark AI text hit limits”,
-   site TechCrunch, 10 décembre 2022. Sur techcrunch.com
-   10 | Commission européenne, « Proposition de règlement du Parlement
-   européen et du Conseil établissant des règles harmonisées concernant
-   l’intelligence artificielle et modifiant certains actes législatifs de
-   l’Union », 21 avril 2021.
-   11 | Spirling A, “Why open-source generative AI models are an ethical
-   way forward for science”, Nature, 18 avril 2023.
-   12 | Bubeck S et al., “Sparks of artificial general intelligence :
-   early experiments with GPT-4”, 13 avril 2023 (pré-publication non
-   évaluée par les pairs). Sur arxiv.org
-   13 | Lancaster T, “Artificial intelligence, text generation tools and
-   ChatGPT- Does digital watermaring offer a solution ?”, International
-   Journal for Educational Integrity, 2023, 19 :10.
-   14 | Unesco, « Éthique de l’intelligence artificielle », novembre 2021.
-
-   ^1 Sur les définitions que l’on peut donner aux « théories du
-   complot », se reporter au dossier « Théories du complot,
-   conspirationnisme : de quoi parle-t-on ? », Science et
-   pseudo-sciencesn° 337, juillet 2021.
-
-Publié dans le n° 345 de la revue
-     __________________________________________________________________
-
-Partager cet article
-
-   [partage-facebook.png] [partage-twitter.png] [partage-linkedin.png]
-   [partage-mail.png]
-     __________________________________________________________________
-
-L' auteur
-
-   portrait de l'auteur de cet article Jean-Paul Krivine
-
-Jean-Paul Krivine
-
-   Rédacteur en chef de la revue Science et pseudo-sciences (depuis 2001).
-   Président de l’Afis en 2019 et 2020. (...)
-   Plus d'informations
-     __________________________________________________________________
-
-Intelligence Artificielle
-
-   L’intelligence artificielle (IA) suscite curiosité, enthousiasme et
-   inquiétude. Elle est présente dans d’innombrables applications, ses
-   prouesses font régulièrement la une des journaux. Dans le même temps,
-   des déclarations médiatisées mettent en garde contre des machines qui
-   pourraient prendre le pouvoir et menacer la place de l’Homme ou, a
-   minima, porter atteinte à certaines de nos libertés. Les performances
-   impressionnantes observées aujourd’hui sont-elles annonciatrices de
-   comportements qui vont vite nous échapper ?
-   Intelligence artificielle
-
-Intelligence artificielle
-
-   Le 16 août 2020
-   IA génératives : une révolution en cours ?
-
-IA génératives : une révolution en cours ?
-
-   Le 17 octobre 2023
-   De l'analyse de la langue aux modèles génératifs
-
-De l’analyse de la langue aux modèles génératifs
-
-   Le 11 octobre 2023
-   Les systèmes d'intelligence artificielle pour la génération d'images
-
-Les systèmes d’intelligence artificielle pour la génération d’images
-
-   Le 5 octobre 2023
-   IA génératives : un risque accru de désinformation ?
-
-IA génératives : un risque accru de désinformation ?
-
-   Le 29 septembre 2023
-   Intelligence artificielle et controverse sur la fin de l'humanité
-
-Intelligence artificielle et controverse sur la fin de l’humanité
-
-   Le 23 septembre 2023
-
-Les articles les plus lus
-
-   Le nuage de Tchernobyl qui s'arrête à la frontière : une fable sans
-   cesse réitérée
-
-Le nuage de Tchernobyl qui s’arrête à la frontière : une fable sans cesse
-réitérée
-
-   Le 22 mars 2021 - Science et médias
-   Coronavirus : un nouveau paradoxe pour l'homéopathie
-
-Coronavirus : un nouveau paradoxe pour l’homéopathie
-
-   Le 6 mars 2020 - Homéopathie
-   Coronavirus – comment s'informer ?
-
-Coronavirus – comment s’informer ?
-
-   Le 11 mai 2020 - Covid-19
-   Iridologie : de la poudre aux yeux
-
-Iridologie : de la poudre aux yeux
-
-   Le 4 avril 2020 - Médecines alternatives
-   Savez-vous combien pèse votre âme ?
-
-Savez-vous combien pèse votre âme ?
-
-   Le 9 décembre 2019 - Science et religion
-     __________________________________________________________________
-
-Notes de lectures
-
-   Le traitement automatique des langues en question
-
-Le traitement automatique des langues en question
-
-   Marcel Cori
-   Des intelligences TRÈS artificielles
-
-Des intelligences TRÈS artificielles
-
-   Jean-Louis Dessalles
-   L'intelligence artificielle
-
-L’intelligence artificielle
-
-   Nicolas Spatola
-   Avec Internet, où allons nous ?
-
-Avec Internet, où allons nous ?
-
-   Serge Soudoplatoff
-   L'Intelligence et le calcul
-
-L’Intelligence et le calcul
-
-   Jean-Paul Delahaye
-   Toutes les notes de lecture
-
-     * Qui sommes-nous ?
+    (BUTTON) Menu Tech&Co
+   Replay Direct tv DirectTV
+
+     * Émissions
+     * Actualités
+     * Tests
+     * Guides
+     * Astuces
+     * Gaming
+     * Produits
+     * Smartphone
+     * Ordinateur
+     * Android
+     * Startup
+     * Crypto
+     * Podcasts
+     * Bons plans
+     * Espace Pro
+     * BFMTV
+
+   Regarder le direct
+   Regarder le direct
+   Replay Tech&Co
+   Replay Tech&Co
+     * Émissions
+     * Podcasts
+     * Newsletters
+     * Événements
+     * Services
+       Voir plus
+          + Bons Plans
+          + Tech&Co Pro
+          + Nous contacter
+          + Devenir annonceur
+          + Code promo
+
+   Rubriques
+     * Actualités
+     * Startup
+     * Produits
+     * Gaming
+     * Astuces
+     * Guides d'achat
+     * Tests
+     * Smartphone
+     * Androïd
+     * Apple
+     * Intelligence artificielle
+     * Ordinateur
+     * Microsoft
+     * Google
+     * Amazon
+     * Laboweeks
+
+   Suivez-nous sur
+   Instagram Newsletters IOS Android
+   Les sites du groupe
+   (BUTTON) Précédent
+     * BFMTV
+     * Iconic Business Iconic Business
+     * BFM Business
+     * BFM Crypto BFM Crypto
+     * BFM Bourse
+     * BFM Immo
+     * BFM Patrimoine BFM Patrimoine
+     * BFM Régions
+     * RMC
+     * RMC Sport
+     * RMC Crime RMC Crime
+     * RMC Découverte
+     * RMC Story
+
+   (BUTTON) Suivant
+
+   Réseaux sociaux
+
+L'Union européenne s'inquiète de la désinformation russe et épingle Twitter
+
+   Le 27/09/2023 à 17:08
+     * Partager
+     * Twitter
+     * Whatsapp
+     * LinkedIn
+     * Mail
+     * messenger
+
+   Les bons plans black friday
+   Désormais rebaptisé X, le réseau social est le mauvais élève européen
+   en termes de désinformation, notamment en provenance de la Russie.
+
+   Bruxelles s'est inquiété, mardi 26 septembre, du taux de désinformation
+   sur le réseau social X (anciennement Twitter) et a appelé l'ensemble
+   des grandes plateformes à mieux lutter contre les manipulations russes,
+   craignant qu'elles s'intensifient avant les élections européennes.
+
+   La vice-présidente de la Commission européenne, Vera Jourova, a épinglé
+   les mauvais résultats de X lors de tests, durant une conférence de
+   presse. Elle présentait les rapports fournis par des grandes
+   plateformes en ligne décrivant leurs efforts contre la désinformation
+   sur une période de six mois, dans le cadre du code de bonnes pratiques
+   de l'UE.
+
+Code de bonnes pratiques
+
+   Ce code, lancé en 2018, regroupe 44 signataires volontaires, des géants
+   comme Meta (Facebook, WhatsApp), Google (YouTube) ou TikTok, mais aussi
+   de plus petites plateformes, ainsi que des professionnels de la
+   publicité, des fact-checkeurs et des ONG.
+
+   Pour mesurer la désinformation en ligne, les signataires ont créé des
+   indicateurs et lancé une phase de test dans trois Etats membres
+   (Espagne, Pologne et Slovaquie). Le test montre que la plateforme X,
+   qui a quitté le code de bonnes pratiques en mai, est celle qui affiche
+   "le taux le plus élevé de fausses informations et de désinformation
+   dans ses publications", a souligné Vera Jourova.
+
+   Le propriétaire du réseau social, Elon Musk, "sait qu'il n'est pas tiré
+   d'affaire simplement parce qu'il a quitté le code de bonnes pratiques",
+   a-t-elle déclaré. "Vous devez respecter la loi, nous surveillerons ce
+   que vous faites", lui a-t-elle lancé, faisant référence à la nouvelle
+   réglementation sur les services numériques ("Digital Services Act",
+   DSA).
+
+   Le DSA contraint les plateformes à déployer des efforts contre la
+   désinformation sous peine d'amendes pouvant atteindre 6% de leur
+   chiffre d'affaires mondial.
+
+   Mme Jourova a demandé à toutes les plateformes d'intensifier la lutte
+   contre la désinformation russe avant des élections nationales en
+   Slovaquie et en Pologne, ainsi que dans la perspective des élections
+   européennes en juin prochain. "L'Etat russe s'est engagé dans une
+   guerre des idées pour polluer notre espace informationnel avec des
+   demi-vérités et des mensonges pour faire croire que la démocratie ne
+   vaut pas mieux que l'autocratie", a-t-elle averti.
+
+La désinformation russe pointée
+
+   Dans son rapport, Google a souligné que sa plateforme de partage de
+   vidéos YouTube avait désactivé de janvier à avril 400 chaînes
+   impliquées dans des opérations d'influence liées à l'Etat russe.
+
+   Meta a rapporté avoir étendu ses partenariats de fact-checking à 26
+   partenaires pour couvrir 22 langues de l'Union européenne, y compris
+   désormais le tchèque et le slovaque.
+
+   TikTok a annoncé avoir vérifié 832 vidéos liées à la guerre en Ukraine,
+   ce qui a conduit au retrait de 211 d'entre elles.
+   Sur le même sujet
+     * TikTok, Twitter: une étude pointe l'inefficacité des réseaux
+       sociaux face à la désinformation russe
+
+   Parmi les contenus retirés par les plateformes, le "narratif russe" est
+   "très dominant", a expliqué Vera Jourova. De nombreuses fausses
+   informations s'attaquent par ailleurs aux migrants, à la transition
+   écologique de l'Union européenne ou aux minorités sexuelles (LGBT...),
+   a-t-elle précisé.
+   Victoria Beurnez avec AFP
+
+Top Articles
+
+    1. Des impacts de balles dans l'entrée de l'immeuble où est mort un
+       homme de 55 ans, tué par une belle perdue tirée lors d'une
+       fusillade sur un point de deal à Dijon, le 26 novembre 2023. Des
+       impacts de balles dans l'entrée de l'immeuble où est mort un homme
+       de 55 ans, tué par une belle perdue tirée lors d'une fusillade sur
+       un point de deal à Dijon, le 26 novembre 2023.
+
+Ce que l'on sait de la mort à Dijon d'un homme tué d'une balle perdue alors
+qu'il dormait dans son lit
+    2.
+
+Tags antimusulmans, menaces... Comment la mort de Thomas à Crépol a mobilisé
+l'"ultradroite" ce week-end
+    3.
+
+Eurovision Junior 2023: Zoé Clauzure, gagnante française, s'exprime sur le
+harcèlement scolaire
+    4.
+
+Un corrigé via QR code: ces profs enregistrent des notes vocales sur les
+devoirs de leurs élèves
+    5.
+
+Lassé de Netflix? Voici cinq plateformes gratuites pour regarder des films et
+séries
+
+     * BFMTV
+     * Tech
+     * Actualités
+     * Réseaux sociaux
+
+A la Une
+
+   La Dreamcast a 25 ans: malgré son échec, la dernière console de Sega
+   est devenue mythique
+
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+   [Dijon-point-de-deal-impacts-de-balle-1756064.jpg]
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+   DIRECT
+
+   DIRECT
+
+   Tech&Co
+   La France a tout pour réussir
+     * Facebook
+     * Twitter
+     * Linkedin
+     * Flux RSS
+     * Newsletter
+
+   applications mobiles
+     * Apple
+     * Android
+
+   Tech&Co
+     * Nos dossiers
+     * Tech&Co Pro
+     * Partenaires
+     * Jeux-concours
      * Plan du site
-     * Liens favoris
-     * Contact
-     * Mentions
+
+   Nos services
+     * Comparateur
+     * Meilleur Rasoir électrique homme
+     * Meilleur Aspirateur
+     * Meilleure Alarme maison
+     * Meilleur Fauteuil gamer
+     * Comparatif Déshumidificateur
+     * Comparateur assurance
+     * Immobilier neuf
+     * Portage salarial
+     * Règlements
+
+   En savoir plus
+     * Nous contacter
+     * Devenir Annonceur
+     * Recrutement
+     * Mentions légales
+     * Données personnelles
+     * Cookies
+     * CGU
+     * Charte de déontologie
+
+   Les sites du groupe
+     * BFMTV
+     * BFM Patrimoine
+     * BFM Business
+     * BFM Immo
+     * RMC
+     * Verif
+     * RMC Sport
+     * BFM Bourse
+     * RMC BFM PLAY
+     * Zone Turf
+     * RMC Découverte
+     * Association RMC / BFM
+     * RMC Crime
+     * Tech&Co
+     * RMC Story
+     * BFM Régions
+     * BFM Crypto
+
+   © Copyright 2006-2023 BFMTV.com. Tous droits réservés. Site édité par
+   NextInteractive

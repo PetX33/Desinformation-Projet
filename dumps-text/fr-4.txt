@@ -17,15 +17,12 @@
      * Régions
      * Sport
      * Entertainment
-     * Economie
      * Planète
-     * T'as vu ?
      * Vie Pro
      * Tempo
-     * JO 2024
      * High-Tech
+     * JO 2024
      * Vidéos
-     * 20 Mint
      * Podcasts
      * En Images
      * Guide d'achat
@@ -60,15 +57,17 @@
      * Google
      * Méta
      * Apple
+     * 20 Mint
 
    (BUTTON) Voir les sous-sections précedentes (BUTTON) Voir les
    sous-sections suivantes
 
    Dans l’actu
+     * Mort de Thomas à Crépol
      * Guerre Hamas-Israël
-     * Biathlon
-     * Notre enquête sur les violences sexuelles entre enfants
      * Guerre en Ukraine
+     * Biathlon
+     * Ligue 1
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 

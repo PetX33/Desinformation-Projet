@@ -200,185 +200,110 @@
 
     1. Accueil
     2. Actualités
-    3. Tech
-    4. Désinformation
-    5. Fatigués par la désinformation, certains politiques rêvent d’un
-       ciel « plus bleu »
+    3. Politique
+    4. Élections
+    5. Élections slovaques : les réseaux sociaux « passifs » aux requêtes
+       anti-désinformation
 
-Fatigués par la désinformation, certains politiques rêvent d’un ciel « plus
-bleu »
+Élections slovaques : les réseaux sociaux « passifs » aux requêtes
+anti-désinformation
 
-   Par : Théophane Hartmann | Euractiv France
+   Par : Barbara Zmušková | EURACTIV Slovaquie | translated by Lysia
+   Fouilleul
 
-   12-10-2023
+   25-10-2023
 
-   La société tchèque Bohemia Interactive, qui a produit le jeu Arma 3, a
-   reconnu la « circulation récente de vidéos qui étaient à l'origine
-   tirées de leur jeu Arma 3, et faussement utilisées comme des séquences
-   de conflits réels, principalement de la guerre actuelle en Ukraine ou
-   du conflit israélo-palestinien ». [Wachiwit / Shutterstock]
+   Meta n’a « notoirement » pas supprimé en temps voulu les messages
+   contenant des affirmations manifestement fausses et trompeuses, ce qui
+   a permis à ces contenus d’être partagés, ajoute le rapport.
+   [Shutterstock/JRdes]
    [Trust-Mark-400.webp] Euractiv fait partie de The Trust Project >>>
 
-   Langues : English | Deutsch
+   Langues : English
 
    Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
 
-   Face à la recrudescence de contenus de désinformation sur le conflit
-   entre Israël et le Hamas, qui met à rude épreuve les réseaux sociaux et
-   les institutions européennes chargées de faire respecter les nouvelles
-   normes de modération de contenu, certaines personnalités politiques
-   envisagent de changer de réseau social.
+   Les demandes des autorités slovaques pour que Meta supprime les
+   contenus trompeurs et mensongers avant les élections de fin septembre
+   ont reçu une réponse inadéquate et inefficace, selon un rapport sur la
+   désinformation du Centre de lutte contre les menaces hybrides du
+   ministère de l’Intérieur slovaque, qui appelle également à trouver une
+   solution à l’échelle de l’UE pour forcer Telegram à se conformer à des
+   demandes similaires.
 
-   Depuis l’entrée en vigueur du règlement sur les services numériques
-   (DSA) le 25 août, 19 « très grandes plateformes en ligne » sont tenues
-   de modérer tout contenu illégal en ligne signalé par ses utilisateurs.
+   Pour rédiger son rapport, le Centre du ministère a observé les
+   plateformes Meta (Facebook), YouTube, TikTok et Telegram entre mai et
+   septembre 2023. Le Centre a transmis les contenus trompeurs et
+   mensongers au Conseil slovaque des services médiatiques, en demandant
+   aux plateformes de les retirer.
 
-   À la suite de l’assaut du Hamas contre Israël le 7 octobre, qui a donné
-   lieu à une prolifération rapide de contenus de désinformation en ligne,
-   le commissaire européen chargé du marché intérieur, Thierry Breton, a
-   publié une lettre ouverte adressée à Facebook, Instagram et X.
+   « Malgré les déclarations des représentants des réseaux sociaux et des
+   plateformes en ligne sur leur volonté d’empêcher l’influence des
+   élections par la diffusion de désinformation, leur réponse aux
+   notifications envoyées a été lente, inefficace et, surtout,
+   insuffisante », écrit le rapport.
 
-   « Nous assistons à une recrudescence de contenus illicites et de
-   désinformation diffusés dans l’UE par le biais de certaines
-   plateformes », écrit-il dans sa lettre adressée à Mark Zuckerberg, PDG
-   de Meta, propriétaire de Facebook et d’Instagram.
+   Meta n’a « notoirement » pas supprimé en temps voulu les messages
+   contenant des affirmations manifestement fausses et trompeuses, ce qui
+   a permis à ces contenus d’être partagés, ajoute le rapport.
 
-   À Elon Musk, PDG de X, M. Breton a ajouté : « Nous détenons des
-   informations selon lesquelles votre plateforme est utilisée pour
-   diffuser des contenus illégaux et de désinformation dans l’UE ».
+   Dans son rapport, le Centre a également souligné des incohérences dans
+   les décisions de Meta de retirer ou de conserver du contenu, comme la
+   vidéo « deepfake » de Michal Šimečka, à la tête du parti Slovaquie
+   progressiste, et de la journaliste Monika Tódová, dans laquelle ils
+   semblaient conspirer ensemble dans le but de manipuler le résultat des
+   élections, ce qui, selon le rapport, « a eu un impact significatif sur
+   la crédibilité des élections ».
 
-   Dans les deux lettres, M. Breton exhorte Facebook, Instagram et X à se
-   conformer aux règles du DSA, à retirer rapidement les contenus illégaux
-   signalés par leurs utilisateurs et à se mettre en contact avec les
-   autorités chargées de l’application de la loi ainsi qu’Europol,
-   l’autorité de police de l’UE.
+   Alors que le conseil a soumis un total de 48 réclamations à Meta
+   concernant ladite vidéo « deepfake », la plateforme en a retiré 13, en
+   a signalé 13 comme fausses, mais en a laissé 22 en ligne.
 
-   Il a donné à chacune des trois entreprises 24 heures « pour garantir
-   une réponse rapide, précise et complète » à ses demandes.
+   Le Centre note également que la vidéo peut toujours être visionnée sur
+   Telegram, bien que l’entreprise de réseaux sociaux ait reçu une demande
+   du Conseil slovaque des services médiatiques. Alors que les élections
+   slovaques étaient censées être les premières de l’UE à être couvertes
+   par la loi sur les services numériques (Digital Services Act, DSA),
+   Telegram n’est pas soumis à ses obligations.
 
-   Dans un geste que certains pourraient décrire comme un passage �
-   l’acte, M. Breton a également décidé mercredi (11 octobre) de
-   promouvoir son nouveau compte sur la nouvelle plateforme de médias
-   sociaux Bluesky, souvent présentée comme une rivale de X.
+   « Le fait que la plateforme en ligne Telegram soit devenue une source
+   majeure de diffusion d’informations trompeuses et fausses ayant un
+   impact sur la conduite des élections, mais qu’elle ne soit pas soumise
+   aux obligations de la réglementation sur les services numériques, ni
+   signataire du Code de pratique sur la désinformation, est un problème
+   très sérieux », déclare le Centre, ajoutant que la situation nécessite
+   « une solution plus complète au niveau de l’UE ».
 
-   À propos de cette plateforme et de l’ancien logo de Twitter – un oiseau
-   bleu – il a écrit : « même si l’herbe n’est pas (toujours) plus verte
-   ailleurs, le ciel est parfois… plus bleu ».
+Élections slovaques : comment les plateformes luttent contre la
+désinformation politique dans le cadre du DSA
 
-   De nombreux politiques allemands ont commencé à passer à Bluesky après
-   que Musk a soutenu le parti allemand d’extrême droite et anti-migrants
-   AfD.
+   Le 30 septembre, la Slovaquie tiendra ses premières élections depuis
+   l’entrée en vigueur de la règlementation européenne sur les services
+   numériques, qui comprend des obligations pour les plateformes de lutter
+   contre la désinformation politique.
 
-Le conflit Hamas-Israël génère une recrudescence de désinformation
+   [Édité par Théophane Hartmann.]
 
-   Comme l’a prouvé CNN, une vidéo, visionnée plus d’un demi-million de
-   fois sur X, présente de manière trompeuse des combattants du Hamas
-   abattant un hélicoptère israélien alors que les images utilisées
-   proviennent d’un jeu vidéo appelé Arma 3.
-
-   L’AFP a également démenti plusieurs autres fausses vidéos circulant sur
-   YouTube, Facebook et X.
-
-   La société tchèque Bohemia Interactive, qui a produit le jeu Arma 3, a
-   reconnu la « circulation récente de vidéos qui étaient à l’origine
-   tirées de leur jeu Arma 3, et faussement utilisées comme des séquences
-   de conflits réels, principalement de la guerre actuelle en Ukraine ou
-   du conflit israélo-palestinien ».
-
-Règlement sur les services numériques : des défis subsistent alors que la
-législation entre en vigueur
-
-   Les très grandes plateformes en ligne et moteurs de recherche devront
-   se conformer au DSA, un règlement conçu pour lutter contre les discours
-   de haine et la désinformation en ligne, mais son application soulève
-   des défis.
-
-Meta : Désinformation et campagnes électorales
-
-   Dans sa lettre à Meta, M. Breton a profité de l’occasion pour insister
-   sur les dangers de la désinformation dans un contexte électoral.
-
-   Alors que le commissaire « a pris note des mesures prises par Meta pour
-   augmenter les mesures d’atténuation dans la période précédant les
-   récentes élections en Slovaquie », il demande que l’équipe de Meta
-   soumette à la Commission les mesures prises par Facebook et Instagram
-   pour atténuer les deepfakes, citant les prochaines élections nationales
-   en Pologne, aux Pays-Bas, en Lituanie, en Belgique, en Roumanie, en
-   Autriche et les élections du Parlement européen.
-
-   Meta n’a pas répondu à une demande de commentaire d’Euractiv au moment
-   de la publication.
-
-« La désinformation vient de nos dirigeants politiques » : l'application du
-DSA en Slovaquie mise en difficulté
-
-   La réglementation européenne en matière de désinformation et de contenu
-   illégal est mise à l’épreuve en Slovaquie à l’approche des élections
-   générales, à un moment où certains considèrent que les dirigeants
-   politiques utilisent la désinformation pour renforcer leur popularité
-   auprès du corps électoral.
-
-X : retour aux b.a.-ba
-
-   Dans sa lettre ouverte adressée à X, Breton détaille les bases du
-   règlement sur les services numériques : la transparence des conditions
-   d’utilisation, le retrait rapide des contenus illégaux lorsqu’ils sont
-   signalés par des utilisateurs et la prise de mesures d’atténuation des
-   contenus de désinformation.
-
-   Si l’on met en parallèle cette lettre et la déclaration de Věra
-   Jourová, vice-présidente de la Commission européenne chargée des
-   valeurs et de la transparence, le 26 septembre, selon laquelle X est
-   « la plateforme qui affiche le plus grand nombre de messages de
-   désinformation », il semble que X soit en passe de devenir la bête
-   noire de l’UE.
-
-   Parallèlement à l’annonce de Bluesky, M. Breton a également publié sa
-   déclaration tant attendue sur un prochain règlement européen des
-   télécoms sur LinkedIn plutôt que sur X.
-
-   M. Breton a déclaré jeudi (12 octobre) que son équipe avait reçu la
-   réponse du média social X, que l’équipe de la Commission chargée de
-   l’application sur le règlement des services numériques analysera en
-   détail avant de « décider des prochaines étapes ».
-
-   L’équipe de la Commission peut décider d’appliquer les sanctions
-   prévues dans le règlement, qui peuvent aller jusqu’à une amende de 6 %
-   du chiffre d’affaires annuel global de l’entreprise et jusqu’à une
-   exclusion du marché unique de l’UE en cas de récidive.
-
-Assaut du Hamas : Thierry Breton exhorte Elon Musk à lutter contre la
-désinformation sur X
-
-   Suite à l’assaut du Hamas sur Israël, le Commissaire européen Thierry
-   Breton a exhorté Elon Musk, le propriétaire du réseau social X, à y
-   enrayer « dans les 24 heures » la propagation de la désinformation dans
-   l’UE.
-
-   Langues : English | Deutsch
+   Langues : English
 
    Imprimer Email Facebook Twitter LinkedIn WhatsApp Telegram
 
 Sujets
 
-     * Arma 3
-     * BlueSky
+     * Deepfake
      * Désinformation
      * désinformation
-     * DSA
-     * Elon Musk
-     * Facebook
-     * fausses vidéos
-     * Instagram
-     * Mark Zuckerberg
+     * Élections
+     * élections slovaques
+     * Meta
+     * Michal Šimečka
+     * Monika Tódová
      * Plateformes
      * Politique
-     * règlement sur les services numériques réèglement sur les services
-       numériques
+     * réseaux sociaux
+     * Slovaquie
      * Tech
-     * Thierry Breton
-     * Twitter
-     * X
+     * Telegram
 
 Advertisement
 
@@ -390,23 +315,23 @@ Les plus lus
 
      * 1Le controversé parc éolien de la baie de Saint-Brieuc va bientôt
        entrer en fonctionnement
-     * 2Sommet pour l’Afrique : l’Allemagne veut gagner les « cœurs et les
-       esprits »
-     * 3Le Parlement étend la liste des technologies clés pour la
-       décarbonation de l’UE, nucléaire compris
-     * 4L’UE à 35 : propositions de réforme contre les vetos qui
-       « paralysent »
-     * 5Une interview suggère que le président polonais ne veut pas de
-       Donald Tusk comme Premier ministre
-     * 6Pourquoi l’accord de commerce entre l’UE et la Nouvelle-Zélande
-       est insoutenable ?
-     * 7Traités de l’UE : le Parlement européen adopte ses propositions de
-       réforme à une faible majorité
-     * 8L'UE doit réduire d'un tiers l'utilisation d'engrais azotés pour
+     * 2Un eurodéputé de premier plan appelle à un « Swexit » si Bruxelles
+       obtenait « trop de pouvoir »
+     * 3L'UE doit réduire d'un tiers l'utilisation d'engrais azotés pour
        concilier alimentation et environnement, selon une étude
-     * 9La Chine mise sur la France dans ses relations avec l’UE
-     * 10Les « mini-Trumps » de l’UE se réjouissent de la victoire de
-       Geert Wilders aux Pays-Bas
+     * 4Les conservateurs tchèques bloquent l’adoption de l’euro
+     * 5Traités de l’UE : le Parlement européen adopte ses propositions de
+       réforme à une faible majorité
+     * 6Les « mini-Trumps » de l’UE se réjouissent de la victoire de Geert
+       Wilders aux Pays-Bas
+     * 7L’Italie et l’Allemagne relancent les discussions sur
+       l’hydrogénoduc Tunisie-Europe
+     * 8Règlement sur les pesticides : le Parlement européen rejette une
+       proposition déjà fortement affaiblie
+     * 9Renouvelables : la France négocie avec Bruxelles pour ne pas payer
+       de pénalités
+     * 10Les États membres doivent faire pression sur l’industrie de la
+       défense pour aider l’Ukraine, selon Thierry Breton
 
 Advertisement
 

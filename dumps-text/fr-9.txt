@@ -72,11 +72,13 @@
 
    (BUTTON) Suivant
 
-   Réseaux sociaux
+   Facebook
+   Alerte info
 
-L'Union européenne s'inquiète de la désinformation russe et épingle Twitter
+Désinformation: après Twitter, l'Union européenne ouvre une enquête contre
+Meta et Tiktok
 
-   Le 27/09/2023 à 17:08
+   Le 19/10/2023 à 12:19
      * Partager
      * Twitter
      * Whatsapp
@@ -84,121 +86,154 @@ L'Union européenne s'inquiète de la désinformation russe et épingle Twitter
      * Mail
      * messenger
 
-   Les bons plans black friday
-   Désormais rebaptisé X, le réseau social est le mauvais élève européen
-   en termes de désinformation, notamment en provenance de la Russie.
+   Cette enquête s'ajoute à celle ouverte par l'Union européenne contre
+   Twitter, dans un contexte de hausse de la désinformation lors du
+   conflit entre Israël et le Hamas.
 
-   Bruxelles s'est inquiété, mardi 26 septembre, du taux de désinformation
-   sur le réseau social X (anciennement Twitter) et a appelé l'ensemble
-   des grandes plateformes à mieux lutter contre les manipulations russes,
-   craignant qu'elles s'intensifient avant les élections européennes.
+   Bruxelles a annoncé jeudi l'ouverture d'une enquête visant les réseaux
+   sociaux Meta (Facebook, Instagram) et Tiktok, réclamant des précisions
+   sur les mesures qu'ils mettent en oeuvre contre la diffusion de
+   "fausses informations" et de "contenus illégaux", après les attaques du
+   Hamas contre Israël.
 
-   La vice-présidente de la Commission européenne, Vera Jourova, a épinglé
-   les mauvais résultats de X lors de tests, durant une conférence de
-   presse. Elle présentait les rapports fournis par des grandes
-   plateformes en ligne décrivant leurs efforts contre la désinformation
-   sur une période de six mois, dans le cadre du code de bonnes pratiques
-   de l'UE.
+   La Commission européenne a expliqué avoir adressé une demande formelle
+   d'informations à ces deux plates-formes, une semaine après le lancement
+   d'une procédure similaire visant X (ex-Twitter) dans le cadre de la
+   nouvelle législation européenne sur les services numériques (DSA).
 
-Code de bonnes pratiques
+   L'exécutif bruxellois poursuit un tour de vis entamé la semaine
+   dernière par des lettres de mises en garde du commissaire au Numérique
+   Thierry Breton envoyées aux dirigeants de quatre grands services en
+   ligne: X, Meta, Tiktok et Youtube (Alphabet).
 
-   Ce code, lancé en 2018, regroupe 44 signataires volontaires, des géants
-   comme Meta (Facebook, WhatsApp), Google (YouTube) ou TikTok, mais aussi
-   de plus petites plateformes, ainsi que des professionnels de la
-   publicité, des fact-checkeurs et des ONG.
+Pas une mise en cause
 
-   Pour mesurer la désinformation en ligne, les signataires ont créé des
-   indicateurs et lancé une phase de test dans trois Etats membres
-   (Espagne, Pologne et Slovaquie). Le test montre que la plateforme X,
-   qui a quitté le code de bonnes pratiques en mai, est celle qui affiche
-   "le taux le plus élevé de fausses informations et de désinformation
-   dans ses publications", a souligné Vera Jourova.
+   La demande d'informations envoyée aux trois premiers – Youtube étant
+   épargné pour l'instant – ne représente pas pour l'instant une mise en
+   cause.
 
-   Le propriétaire du réseau social, Elon Musk, "sait qu'il n'est pas tiré
-   d'affaire simplement parce qu'il a quitté le code de bonnes pratiques",
-   a-t-elle déclaré. "Vous devez respecter la loi, nous surveillerons ce
-   que vous faites", lui a-t-elle lancé, faisant référence à la nouvelle
-   réglementation sur les services numériques ("Digital Services Act",
-   DSA).
+   Mais elle constitue la première étape dans une procédure qui peut
+   conduire à de lourdes sanctions financières en cas d'infractions
+   avérées et prolongées à la réglementation. Dans des cas extrêmes, les
+   amendes peuvent atteindre 6% du chiffre d'affaires mondial du groupe.
 
-   Le DSA contraint les plateformes à déployer des efforts contre la
-   désinformation sous peine d'amendes pouvant atteindre 6% de leur
-   chiffre d'affaires mondial.
+   La Commission a demandé à Meta et Tiktok d'expliquer précisément "les
+   mesures prises pour respecter (leurs) obligations en matière
+   d'évaluation et de réduction des risques". Elles ont jusqu'au 25
+   octobre pour fournir des réponses réclamées d'urgence dans le contexte
+   du conflit Israël-Hamas.
 
-   Mme Jourova a demandé à toutes les plateformes d'intensifier la lutte
-   contre la désinformation russe avant des élections nationales en
-   Slovaquie et en Pologne, ainsi que dans la perspective des élections
-   européennes en juin prochain. "L'Etat russe s'est engagé dans une
-   guerre des idées pour polluer notre espace informationnel avec des
-   demi-vérités et des mensonges pour faire croire que la démocratie ne
-   vaut pas mieux que l'autocratie", a-t-elle averti.
+   Ce conflit, qui a fait de très nombreuses victimes civiles, suscite une
+   immense émotion à travers le monde, et est propice aux tentatives de
+   manipulation de l'opinion.
 
-La désinformation russe pointée
+   Vidéos humiliantes d'otages, corps décapités, assassinats filmés... Les
+   réseaux sociaux ont été inondés d'images violentes mais aussi de
+   tentatives de désinformation, un défi pour toutes les plates-formes.
 
-   Dans son rapport, Google a souligné que sa plateforme de partage de
-   vidéos YouTube avait désactivé de janvier à avril 400 chaînes
-   impliquées dans des opérations d'influence liées à l'Etat russe.
+   "La diffusion généralisée de contenus illicites et de désinformation
+   liés à ces événements entraîne un risque clair de stigmatisation de
+   certaines communautés, de déstabilisation de nos structures
+   démocratiques, sans parler de l'exposition de nos enfants à des
+   contenus violents", a mis en garde mercredi soir Thierry Breton, dans
+   un discours au Parlement européen à Strasbourg.
 
-   Meta a rapporté avoir étendu ses partenariats de fact-checking à 26
-   partenaires pour couvrir 22 langues de l'Union européenne, y compris
-   désormais le tchèque et le slovaque.
+   Les attaques terroristes perpétrées à Arras, en France, le 13 octobre,
+   et à Bruxelles lundi, "sonnent comme un sombre rappel que la menace est
+   réelle et présente sur notre sol", a-t-il souligné.
 
-   TikTok a annoncé avoir vérifié 832 vidéos liées à la guerre en Ukraine,
-   ce qui a conduit au retrait de 211 d'entre elles.
-   Sur le même sujet
-     * TikTok, Twitter: une étude pointe l'inefficacité des réseaux
-       sociaux face à la désinformation russe
+   Des règles plus strictes s'imposent à 19 très grands acteurs de
+   l'internet, dont X, Facebook, Instagram et Tiktok, depuis fin août,
+   notamment en matière de modération et de retrait de contenus.
 
-   Parmi les contenus retirés par les plateformes, le "narratif russe" est
-   "très dominant", a expliqué Vera Jourova. De nombreuses fausses
-   informations s'attaquent par ailleurs aux migrants, à la transition
-   écologique de l'Union européenne ou aux minorités sexuelles (LGBT...),
-   a-t-elle précisé.
-   Victoria Beurnez avec AFP
+   Un porte-parole de Meta avait expliqué la semaine dernière que le
+   groupe avait "rapidement mis en place un centre d'opérations spéciales
+   composé d'experts, dont des personnes parlant couramment l'hébreu et
+   l'arabe".
+
+   Le réseau X avait publié de son côté une réponse détaillée à la
+   première lettre d'avertissement de la Commission, expliquant avoir
+   "supprimé ou signalé des dizaines de milliers de messages" liés �
+   l'attaque du Hamas.
+
+Elon Musk scruté
+
+   "Il n'y a pas de place sur X pour des organisations terroristes ou des
+   groupes extrémistes violents et nous continuons à supprimer de tels
+   comptes en temps réel", s'est défendue la plate-forme, précisant avoir
+   mis en place "un groupe de travail pour prendre soin de la situation".
+
+   Le réseau social du milliardaire Elon Musk est pourtant
+   particulièrement scruté par les experts de la Commission européenne.
+   Bruxelles s'était inquiété fin septembre du taux élevé de
+   désinformation sur X, épinglant ses mauvais résultats lors de tests
+   effectués sur plusieurs plateformes.
+
+   Après avoir racheté Twitter l'an dernier, Elon Musk a procédé à une
+   vague massive de licenciements qui a décimé les équipes de modération
+   des contenus. Il réaffirme régulièrement sa vision de la liberté
+   d'expression, refusant toute "censure", même s'il assure respecter les
+   lois de chaque pays.
+   dossier :
+
+Attaques du 7 octobre 2023 du Hamas contre Israël
+
+     *
+
+Gaza: l'Iran veut pérenniser la trêve pour "stopper" les "crimes" d'Israël
+     *
+
+DIRECT. Israël demande au Hamas la libération de 50 otages supplémentaires
+contre une trêve allongée
+     *
+
+"Ce qu'elle a enduré est impensable": qui est Avigail Idan, 4 ans, ex-otage
+orpheline libérée dimanche?
+
+   L.C. avec AFP
 
 Top Articles
 
-    1. Des bouquets de fleurs devant la salle de réception de Crépol, dans
-       la Drôme, le 22 novembre 2023, où Thomas est décédé le 19 novembre.
-       Des bouquets de fleurs devant la salle de réception de Crépol, dans
-       la Drôme, le 22 novembre 2023, où Thomas est décédé le 19 novembre.
+    1. Des impacts de balles dans l'entrée de l'immeuble où est mort un
+       homme de 55 ans, tué par une belle perdue tirée lors d'une
+       fusillade sur un point de deal à Dijon, le 26 novembre 2023. Des
+       impacts de balles dans l'entrée de l'immeuble où est mort un homme
+       de 55 ans, tué par une belle perdue tirée lors d'une fusillade sur
+       un point de deal à Dijon, le 26 novembre 2023.
 
-"Ils sont venus pour tuer": à Crépol, le récit d'une nuit de fête subitement
-tombée dans l'horreur
+Ce que l'on sait de la mort à Dijon d'un homme tué d'une balle perdue alors
+qu'il dormait dans son lit
     2.
 
-Bière, vin... Des addictologues alertent sur les calendriers de l'avent
-alcoolisés: "C'est désastreux"
+Tags antimusulmans, menaces... Comment la mort de Thomas à Crépol a mobilisé
+l'"ultradroite" ce week-end
     3.
 
-Le froid arrive avec une baisse des températures à partir de vendredi soir,
-de la neige attendue par endroits
+Eurovision Junior 2023: Zoé Clauzure, gagnante française, s'exprime sur le
+harcèlement scolaire
     4.
 
-Irlande: ce que l'on sait des scènes de chaos à Dublin après une attaque au
-couteau
+Un corrigé via QR code: ces profs enregistrent des notes vocales sur les
+devoirs de leurs élèves
     5.
 
-Flambée des maladies respiratoires en Chine: faut-il craindre une nouvelle
-pandémie?
+Lassé de Netflix? Voici cinq plateformes gratuites pour regarder des films et
+séries
 
      * BFMTV
      * Tech
-     * Actualités
-     * Réseaux sociaux
+     * Facebook
 
 A la Une
 
-   Google, Samsung, Apple, Xiaomi, Honor: quel smartphone choisir pour la
-   photo?
+   La Dreamcast a 25 ans: malgré son échec, la dernière console de Sega
+   est devenue mythique
 
    (BUTTON)
    (BUTTON)
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
-   [Des-bouquets-de-fleurs-devant-la-salle-de-reception-de-Crepol-dans-la-
-   Drome-le-22-novembre-2023-ou-Thomas-est-decede-le-19-novembre-1753408.j
-   pg]
+   [Dijon-point-de-deal-impacts-de-balle-1756064.jpg]
 
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 

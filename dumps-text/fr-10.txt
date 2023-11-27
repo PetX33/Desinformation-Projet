@@ -72,13 +72,11 @@
 
    (BUTTON) Suivant
 
-   Facebook
-   Alerte info
+   Twitter
 
-Désinformation: après Twitter, l'Union européenne ouvre une enquête contre
-Meta et Tiktok
+Contenus pro-nazis sur Twitter: IBM suspend ses publicités
 
-   Le 19/10/2023 à 12:19
+   Le 17/11/2023 à 7:39
      * Partager
      * Twitter
      * Whatsapp
@@ -86,155 +84,94 @@ Meta et Tiktok
      * Mail
      * messenger
 
-   Cette enquête s'ajoute à celle ouverte par l'Union européenne contre
-   Twitter, dans un contexte de hausse de la désinformation lors du
-   conflit entre Israël et le Hamas.
+   Un rapport de l'ONG Media Matters a montré que des publicités pour de
+   grandes entreprises étaient diffusés aux côtés de publications vantant
+   Hitler et les nazis.
 
-   Bruxelles a annoncé jeudi l'ouverture d'une enquête visant les réseaux
-   sociaux Meta (Facebook, Instagram) et Tiktok, réclamant des précisions
-   sur les mesures qu'ils mettent en oeuvre contre la diffusion de
-   "fausses informations" et de "contenus illégaux", après les attaques du
-   Hamas contre Israël.
+   Le géant américain de l'informatique IBM a annoncé jeudi suspendre ses
+   publicités sur X après un rapport les montrant proches de publications
+   pro-nazis sur la plateforme, anciennement appelée Twitter.
 
-   La Commission européenne a expliqué avoir adressé une demande formelle
-   d'informations à ces deux plates-formes, une semaine après le lancement
-   d'une procédure similaire visant X (ex-Twitter) dans le cadre de la
-   nouvelle législation européenne sur les services numériques (DSA).
+   Des publicités pour les grandes entreprises de la tech (Apple, Oracle
+   et IBM) sont apparues près de publications favorables à Hitler et aux
+   nazis, selon un rapport publié jeudi de l'ONG Media Matters, qui lutte
+   contre la désinformation.
 
-   L'exécutif bruxellois poursuit un tour de vis entamé la semaine
-   dernière par des lettres de mises en garde du commissaire au Numérique
-   Thierry Breton envoyées aux dirigeants de quatre grands services en
-   ligne: X, Meta, Tiktok et Youtube (Alphabet).
+     "IBM applique une tolérance zéro pour les discours de haine et les
+     discriminations, et nous avons suspendu immédiatement toutes nos
+     publicités sur X pendant que l'on enquête sur cette situation
+     totalement inacceptable", a déclaré l'entreprise à l'AFP.
 
-Pas une mise en cause
+Pas de suppression
 
-   La demande d'informations envoyée aux trois premiers – Youtube étant
-   épargné pour l'instant – ne représente pas pour l'instant une mise en
-   cause.
+   Un responsable de X a dit à l'AFP avoir "passé un coup de balai" sur
+   les comptes cités par Media Matters, qui ne pourront plus monétiser des
+   publicités sur le réseau. Et les publications elles-mêmes seront
+   marquées "contenu sensible", a-t-il ajouté, sans annoncer sa volonté de
+   les supprimer.
 
-   Mais elle constitue la première étape dans une procédure qui peut
-   conduire à de lourdes sanctions financières en cas d'infractions
-   avérées et prolongées à la réglementation. Dans des cas extrêmes, les
-   amendes peuvent atteindre 6% du chiffre d'affaires mondial du groupe.
+   Depuis qu'Elon Musk a racheté Twitter fin octobre 2022 avant d'en
+   changer le nom, la plateforme a assoupli ses règles sur la
+   désinformation, réduit ses équipes de modération des contenus et permis
+   le retour de nombreuses personnalités controversées. Plusieurs
+   associations ont constaté une hausse de la désinformation et du
+   harcèlement.
 
-   La Commission a demandé à Meta et Tiktok d'expliquer précisément "les
-   mesures prises pour respecter (leurs) obligations en matière
-   d'évaluation et de réduction des risques". Elles ont jusqu'au 25
-   octobre pour fournir des réponses réclamées d'urgence dans le contexte
-   du conflit Israël-Hamas.
+   Une analyse de la plateforme internationale contre la désinformation
+   NewsGuard indique ainsi que les utilisateurs "certifiés" sur X
+   produisent 74% des affirmations fausses ou sans fondement les plus
+   virales liées à la guerre entre Israël et le Hamas.
 
-   Ce conflit, qui a fait de très nombreuses victimes civiles, suscite une
-   immense émotion à travers le monde, et est propice aux tentatives de
-   manipulation de l'opinion.
-
-   Vidéos humiliantes d'otages, corps décapités, assassinats filmés... Les
-   réseaux sociaux ont été inondés d'images violentes mais aussi de
-   tentatives de désinformation, un défi pour toutes les plates-formes.
-
-   "La diffusion généralisée de contenus illicites et de désinformation
-   liés à ces événements entraîne un risque clair de stigmatisation de
-   certaines communautés, de déstabilisation de nos structures
-   démocratiques, sans parler de l'exposition de nos enfants à des
-   contenus violents", a mis en garde mercredi soir Thierry Breton, dans
-   un discours au Parlement européen à Strasbourg.
-
-   Les attaques terroristes perpétrées à Arras, en France, le 13 octobre,
-   et à Bruxelles lundi, "sonnent comme un sombre rappel que la menace est
-   réelle et présente sur notre sol", a-t-il souligné.
-
-   Des règles plus strictes s'imposent à 19 très grands acteurs de
-   l'internet, dont X, Facebook, Instagram et Tiktok, depuis fin août,
-   notamment en matière de modération et de retrait de contenus.
-
-   Un porte-parole de Meta avait expliqué la semaine dernière que le
-   groupe avait "rapidement mis en place un centre d'opérations spéciales
-   composé d'experts, dont des personnes parlant couramment l'hébreu et
-   l'arabe".
-
-   Le réseau X avait publié de son côté une réponse détaillée à la
-   première lettre d'avertissement de la Commission, expliquant avoir
-   "supprimé ou signalé des dizaines de milliers de messages" liés �
-   l'attaque du Hamas.
-
-Elon Musk scruté
-
-   "Il n'y a pas de place sur X pour des organisations terroristes ou des
-   groupes extrémistes violents et nous continuons à supprimer de tels
-   comptes en temps réel", s'est défendue la plate-forme, précisant avoir
-   mis en place "un groupe de travail pour prendre soin de la situation".
-
-   Le réseau social du milliardaire Elon Musk est pourtant
-   particulièrement scruté par les experts de la Commission européenne.
-   Bruxelles s'était inquiété fin septembre du taux élevé de
-   désinformation sur X, épinglant ses mauvais résultats lors de tests
-   effectués sur plusieurs plateformes.
-
-   Après avoir racheté Twitter l'an dernier, Elon Musk a procédé à une
-   vague massive de licenciements qui a décimé les équipes de modération
-   des contenus. Il réaffirme régulièrement sa vision de la liberté
-   d'expression, refusant toute "censure", même s'il assure respecter les
-   lois de chaque pays.
-   dossier :
-
-Attaques du 7 octobre 2023 du Hamas contre Israël
-
-     *
-
-"J’ai des sentiments contradictoires": Marah Bakeer, détenue palestinienne
-emblématique, a été libérée par Israël en échange d'otages
-     *
-
-DIRECT. Israël-Hamas: 14 otages israéliens et 42 prisonniers palestiniens
-seront libérés ce samedi
-     *
-
-"Guérison physique et mentale": les otages israéliens libérés par le Hamas
-soumis à un suivi très strict
-
-   L.C. avec AFP
+   Dans le même temps, Elon Musk a provoqué la polémique mercredi en
+   soutenant sur X une publication aux relents antisémites et
+   conspirationnistes, puis a ensuite vivement critiqué l'organisation de
+   lutte contre l'antisémitisme Anti Defamation League, qui avait dénoncé
+   une hausse notable de la désinformation et des insultes homophobes et
+   racistes sur le réseau social depuis que les règles ont changé.
+   RG avec AFP
 
 Top Articles
 
-    1. Des bouquets de fleurs devant la salle de réception de Crépol, dans
-       la Drôme, le 22 novembre 2023, où Thomas est décédé le 19 novembre.
-       Des bouquets de fleurs devant la salle de réception de Crépol, dans
-       la Drôme, le 22 novembre 2023, où Thomas est décédé le 19 novembre.
+    1. Des impacts de balles dans l'entrée de l'immeuble où est mort un
+       homme de 55 ans, tué par une belle perdue tirée lors d'une
+       fusillade sur un point de deal à Dijon, le 26 novembre 2023. Des
+       impacts de balles dans l'entrée de l'immeuble où est mort un homme
+       de 55 ans, tué par une belle perdue tirée lors d'une fusillade sur
+       un point de deal à Dijon, le 26 novembre 2023.
 
-"Ils sont venus pour tuer": à Crépol, le récit d'une nuit de fête subitement
-tombée dans l'horreur
+Ce que l'on sait de la mort à Dijon d'un homme tué d'une balle perdue alors
+qu'il dormait dans son lit
     2.
 
-Bière, vin... Des addictologues alertent sur les calendriers de l'avent
-alcoolisés: "C'est désastreux"
+Tags antimusulmans, menaces... Comment la mort de Thomas à Crépol a mobilisé
+l'"ultradroite" ce week-end
     3.
 
-Le froid arrive avec une baisse des températures à partir de vendredi soir,
-de la neige attendue par endroits
+Eurovision Junior 2023: Zoé Clauzure, gagnante française, s'exprime sur le
+harcèlement scolaire
     4.
 
-Irlande: ce que l'on sait des scènes de chaos à Dublin après une attaque au
-couteau
+Un corrigé via QR code: ces profs enregistrent des notes vocales sur les
+devoirs de leurs élèves
     5.
 
-Flambée des maladies respiratoires en Chine: faut-il craindre une nouvelle
-pandémie?
+Lassé de Netflix? Voici cinq plateformes gratuites pour regarder des films et
+séries
 
      * BFMTV
      * Tech
-     * Facebook
+     * Twitter
 
 A la Une
 
-   Google, Samsung, Apple, Xiaomi, Honor: quel smartphone choisir pour la
-   photo?
+   La Dreamcast a 25 ans: malgré son échec, la dernière console de Sega
+   est devenue mythique
 
    (BUTTON)
    (BUTTON)
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 
-   [Des-bouquets-de-fleurs-devant-la-salle-de-reception-de-Crepol-dans-la-
-   Drome-le-22-novembre-2023-ou-Thomas-est-decede-le-19-novembre-1753408.j
-   pg]
+   [Dijon-point-de-deal-impacts-de-balle-1756064.jpg]
 
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
 

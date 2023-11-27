@@ -1,460 +1,460 @@
-   #alternate alternate SudOuest : rss actualités
+   #alternate TF1 INFO - L'info pour tous et pour chacun
 
-   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-NG4RXS
+   logo_burger
+   L'info passée au crible
+   [ ]
 
-   RubriquesLa chaînePodcasts
-   Mon compteS'identifierS'abonnerJournal
+   Découvrez tout
+   l’univers TF1 INFO
+   ____________________
+   (BUTTON) loupe
+   Créer un compte (BUTTON) Se connecter
+   Regarder le direct Regarder les JT en direct Regarder votre JT
+   personnalisé
+   Directs
+     * Guerre en Ukraine
+     * HOMMAGE THOMAS CREPOL
+     * Guerre Israël-Hamas
 
-   RechercherLa chaînePodcasts
-   JournalS'identifierMon compte
-   📍 Ma ville  Actualité  DéclicLa sélection  Faits diversSport  Loisirs
-   Services  Étudiant  Annonces
-   (*)
-     * Toutes les communes
-     * Agen
-     * Angoulême
-     * Arcachon
-     * Bayonne
-     * Bergerac
-     * Biarritz
-     * Bordeaux
-     * Dax
+   [X]
+   Dans l’actualité en ce moment
+     * Israël et le Hamas en guerre
+     * Libération d'otages, trêve temporaire… Un premier accord trouvé
+       entre Israël et le Hamas
+     * Drôme : le choc après une rixe mortelle lors d'une fête de village
+     * Dijon : un habitant tué dans son appartement par une balle perdue
+     * COP28 : l'action pour le climat en quête d'un nouvel élan
+       Tous les sujets
 
-     * Langon
-     * La Rochelle 📍
-     * Libourne
-     * Marmande
-     * Médoc
-     * Mont-de-Marsan
-     * Oloron
-     * Orthez
-
-     * Pau
-     * Périgueux
-     * Rochefort 📍
-     * Royan 📍
-     * Saintes 📍
-     * Saint-Jean-de-Luz
-     * Villeneuve-sur-Lot
-
-   ( )
-     * International
+   [X]
+   Rubriques
      * Politique
-
-     * Economie
+     * Économie
+     * International
+     * Police - justice & faits divers
+     * Météo & intempéries
+     * Culture, médias et divertissement
+     * Conso & tendances
      * Environnement
+     * Nouvelles technologies
+     * Santé & bien être
+     * Sujets de société
+     * Famille & éducation
+     * Sports
+     * Traditions et patrimoine
+     * Transports
+     * Logement et immobilier
+     * Sciences
+     * Voyages
+     * Au coeur des Régions
+     * Vie pro et emploi
+     * Dans mon assiette
+     * Mon argent et mes droits
+     * Initiatives positives
+     * Les Vérificateurs
+     * Le 13H fête noël
 
-     * Santé
-     * Société
+   [ ]
+   Replay
+     * JT TF1
 
-   ( )
-     * Sélection du jour
-     * Edition du soir
+     * Le 13h
+     * Le 20h
+     * Le WE
 
-     * Premium
-     * Bonne humeur
+     Revoir LCI
+     * Le 6-9 avec Jean-Baptiste Boursier
+     * L'invité d'Adrien Gindre
+     * Le Temps de l'Info
+     * LCI Midi
+     * Le Club
+     * 24H Pujadas
+     * Un Oeil sur le Monde
+     * Brunet, Broussouloux & CIE
+     * Le 20h de Darius Rochebin
+     * 22h-minuit Darius Rochebin avec Alexia Mayer
+     * Les Matins LCI - Week-end
+     * Impact Positif
+     * En toute franchise
+     * 18H Darius Rochebin
+     * L’évènement du dimanche LCI
+     * Vis leurs vies
+     * Fourest en liberté
 
-     * Insolite
-     * Le vrai du faux
 
-   ( )
-     * Tout le sport
-     * Football
-     * Rugby
-     * Raffut
 
-     * Cyclisme
-     * Tennis
-     * Basket
-     * Surf
+   Magazines TF1
 
-     * Sports mécaniques
-     * Hockey
-     * Résultats
-     * Jeux Olympiques
+     * Sept à huit
+     * Grands Reportages
 
-   ( )
-     * Culture
-     * Diverto
-     * Gastronomie
+   [ ]
+   Nos dossiers
+     * Notre planète
+     * Le 20H vous répond
+     * Le 13H à vos côtés
+     * LCI vous répond
+     * Impact positif
+     * Avec Elles
+     * Le 13H au jardin
 
-     * Idées
-     * Télévision
-     * Programme TV
+   [ ]
+   Podcasts
+     * Impact Positif
+     * Le cinéma c'est la vie en mieux
+     * Info et vous
+     * 24H Pujadas - Les partis pris
+     * L'interview Politique
+     * Expertes à la une
+     * Lenglet déchiffre
+     * Les gens qui lisent sont plus heureux
 
-     * Tourisme
-     * Vin
-     * Auto-moto
-
-   ( )
-     * Archives
-     * Club abonnés
+   [ ]
+   Jeux
      * Jeux
 
-     * Horoscope
-     * Évènements
-     * Billetterie
+     * Solitaire
+     * Mots-fléchés
+     * Puzzle
+     * Mots-croisés
+     * Sudoku
 
-     * Bons plans
-     * Contenus partenaires
-     * Boutique
+   [ ]
+   Sites du groupe
+     * MYTF1
+     * TF1 Météo
+     * La médiatrice vous répond
+     * SOS Villages
+     * Vos vidéos à la Une
 
-   ( )
-     * Accueil
-     * Lycée
-     * Examens
+   (BUTTON)
+   Paramétrer mes cookies
+   (BUTTON) Gérer les options d'affichage ADAPTEZ L'AFFICHAGE
+   Télécharger l'application TF1 info
+   Logo Apple Store Logo PlayStore
 
-     * Parcoursup
-     * Études supérieures
-     * Trouver votre école
+   Verif'
 
-     * Résultats bac
-     * Résultats brevet
-     * Séries TV
+Après l'Ukraine, la campagne de désinformation russe "Doppelgänger" s'empare
+du conflit entre Israël et Hamas
 
-   ( )
-     * Avis de décès
-     * Emploi
+   par Thomas DESZPOT & Samira El Gadir
+   Publié le 16 novembre 2023 à 17h37
 
-     * Immobilier
+   Source : TF1 Info
 
-     * Légales
+   Personnalisez votre expérience TF1 Infoet créez votre JT rien que pour
+   vous.
 
-   ' +
-   '
-   Sud Ouest
+   Il y a quelques mois, les dessous d'une vaste campagne russe de
+   désinformation étaient révélés.
+   Surnommée "Doppelgänger", elle portait sur la guerre en Ukraine et
+   cherchait à déstabiliser les pays occidentaux.
+   Basées sur le clonage de site de presse et institutionnels, ces
+   manœuvres sont aujourd'hui étendues au conflit entre Israël et le
+   Hamas.
 
-   Toute l'actualité de votre région en continu sur notre application
-   (BUTTON) Voir
+   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore �
+   lʼidée dʼun double maléfique. Mais cʼest aussi le nom donné à une vaste
+   campagne de désinformation, menée par la Russie depuis 2022. À
+   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant �
+   déstabiliser les pays occidentaux, mais nous observons depuis plusieurs
+   semaines quʼelle tente dʼinstrumentaliser le conflit entre Israël et le
+   Hamas.
 
-Un an après le rachat de Twitter par Elon Musk : climat de « peur »,
-désinformation… Comment a évolué le réseau social ?
+Des sites de médias "clonés"
 
-    Lecture 3 min
-   Accueil Sciences et technologie
-   Un an après le rachat de Twitter par Elon Musk : climat de « peur »,
-   désinformation… Comment a évolué le réseau social ? Elon Musk a racheté
-   Twitter pour 44 milliards de dollars le 27 octobre 2022. © Crédit photo
-   : OLIVIER DOULIERY/AFP
+   En juin dernier, TF1info décrivait les rouages de cette campagne de
+   désinformation en ligne. Le principe était assez simple : des sites de
+   presse (français, allemands ou encore italiens) ont été reproduits
+   presque à lʼidentique, avec des adresses web différentes pour seul
+   signe distinctif. Le Monde, 20 Minutes, le Guardian ou encore le
+   Spiegel ont ainsi été "clonés" puis utilisés afin de publier de faux
+   articles. Ces publications étaient à lʼorigine centrées sur la guerre
+   en Ukraine : elles se montraient très critiques vis-à-vis de Kiev et du
+   soutien qui lui était apporté par ses alliés.
 
-   Par SudOuest.fr avec AFP
-   Publié le 27/10/2023 à 8h48.
-     * Écouter
-     * Réagir
-     * Partager
-     * S'abonner
+   Parmi les multiples articles ingénieusement relayés sur les réseaux
+   sociaux par des comptes pro-russes, certains ont évoqué le "véritable
+   désastre" de la contre-offensive ukrainienne, ou encore le fait que
+   Zelensky et son gouvernement avaient perdu la confiance de la
+   population. Des méthodes de déstabilisation à grande échelle, qui ont
+   évolué avec le temps.
 
-   Racheté 44 milliards de dollars et rebaptisé « X », le réseau social
-   d’Elon Musk a subi de nombreuses mutations en une année, au point de
-   mettre l’entreprise en mauvaise posture financière
+Le conflit Israël / Hamas à son tour instrumentalisé
 
-   Il y a un an, le 27 octobre 2022, Elon Musk achetait Twitter pour
-   44 milliards de dollars, après des mois d’une saga hollywoodienne
-   marquée par les attaques au vitriol du milliardaire et les
-   rebondissements judiciaires. Ce vendredi, des internautes inquiets de
-   l’évolution de la plateforme, lance une journée de « grève du tweet ».
+   Depuis quelques semaines, cette campagne a évolué. De nouveaux articles
+   ont émergé, cette fois centrés sur le conflit entre Israël et le Hamas.
+   Un faux-site imitant le quotidien Le Parisien nous explique par exemple
+   que "le sang palestinien est sur les mains de Macron", et que "la
+   France risque dʼêtre déclarée complice du génocide palestinien". En
+   raison dʼune position "pro-américaine" du président de la République,
+   une "guerre civile" serait à redouter dans lʼhexagone.
+     * Lire aussi
+       Lire aussi
+       24H Pujadas du mercredi 14 juin 2023 : Guerre - Qu'est-ce que la
+       campagne de désinformation "Doppelgänger" ?
 
-   Retour sur l’année où l’oiseau bleu de Twitter est devenu X.
+   Des articles trompeurs ont été repérés en français, mais aussi en
+   allemand, hébreu, russe ou encore anglais et ukrainien. Leur point
+   commun : laisser entendre que le soutien (financier et militaire) des
+   puissances occidentales est aujourdʼhui détourné au profit dʼIsraël. Et
+   que lʼUkraine, dans le même temps, ne pourrait bientôt plus en
+   bénéficier. Les individus à lʼorigine de ces détournements sont des
+   acteurs "qui aiment souffler sur les braises, démarrer le plus
+   dʼincendies possibles" dans le but de "polariser", témoigne auprès de
+   TF1info Alexandre Alaphilippe, directeur exécutif de EU DisinfoLab,
+   lʼONG qui a en premier évoqué (et nommé) lʼopération Doppelgänger lʼan
+   passé. En clair, le but est de faire en sorte que "les gens se
+   détestent entre eux à lʼintérieur dʼun pays", en accentuant les
+   divisons.
 
-Licenciements et climat « de peur »
+   Le dernier exemple en date remonte à quelques jours. Sur le réseau
+   social X, les photos dʼune série d’étoiles de David bleues taguées sur
+   des murs de Paris et dʼÎle-de-France ont été très largement
+   repartagées. Le Quai dʼOrsay a rapidement réagi et imputé "avec un haut
+   degré de confiance" ces relais massifs au réseau Doppelgänger. Les
+   nombreux comptes qui lui ont été associés ont été les premiers �
+   partager ces clichés, a fait savoir Viginum, l’organisme français de
+   lutte en charge de la lutte contre les opérations d’influence.
 
-   À peine l’acquisition conclue, le patron de Tesla a licencié l’équipe
-   dirigeante, sorti l’entreprise de la Bourse et congédié des centaines
-   d’employés.
+Des bots sont aujourd'hui utilisés
 
-   Après plusieurs vagues de licenciements, il reste moins de 1 500
-   salariés sur les quelque 8 000 que comptait l’entreprise de San
-   Francisco. Les rescapés ont dû s’engager à travailler « à fond,
-   inconditionnellement » pour pouvoir rester, selon un ultimatum du chef.
-   Sur le même sujet
+   La multiplication en ligne de ces contenus trompeurs a attiré
+   lʼattention dʼune série dʼinternautes, qui se sont rassemblés afin
+   dʼétudier les méthodes utilisées pour tenter dʼinfluencer les opinions
+   publiques. Un collectif se faisant appeler  "Antibot4Navalny" sur les
+   réseaux sociaux a par exemple révélé que les méthodes employées ont
+   évolué au fil du temps. Avec en particulier un usage généralisé de
+   bots, ces programmes informatiques automatisés.
 
-   Désinformation : qu’est-ce que le #NoTwitterDay, qui vise le réseau
-   social X ce vendredi 27 octobre ?
-   Désinformation : qu’est-ce que le #NoTwitterDay, qui vise le réseau
-   social X ce vendredi 27 octobre ?
-   Un collectif de spécialistes de la désinformation, inquiets de
-   l’évolution de la plateforme d’Elon Musk, lance ce vendredi une journée
-   de « grève du tweet »
+   Les Vérificateurs ont pu échanger avec des représentants de ce groupe
+   dʼenquêteurs : ils soulignent en préambule que le recours à des bots
+   permet "de diffuser les fausses informations plus rapidement", mais
+   aussi de rendre ces campagnes de manipulation plus discrètes. Afin de
+   multiplier la propagation des articles fallacieux sur des plateformes
+   comme X, les individus à lʼorigine de lʼopération Doppelgänger ont
+   recours à des machines qui vont se charger de rédiger les messages
+   destinés aux réseaux sociaux (et qui les traduisent également dans
+   diverses langues). La conséquence ? Seulement "15% de textes dupliqués"
+   sur le quelque "27.000 qui ont été recensés et analysés", nous
+   confie-t-on du côté de "Antibot4Navalny". Le nombre de bots utilisés
+   dépasserait quant à lui les 8.000.
 
-   Et cela n’a pas forcément suffi : même l’ancienne responsable Esther
-   Crawford, qui avait dormi dans un sac de couchage au bureau les
-   premiers jours, a été remerciée fin février. En juillet, elle a décrit
-   comment Elon Musk a installé un climat de « peur » au sein de la
-   société autrefois plutôt connue pour son ambiance familiale. Le
-   dirigeant « audacieux » mais « lunatique » s’entoure de
-   « béni-oui-oui » et fonde ses décisions « essentiellement sur son
-   instinct », plutôt que sur les données ou l’expertise, a-t-elle
-   raconté.
+Un lien avéré avec la Russie
 
-Désinformation
+   À la fin du printemps déjà, le ministère des Affaires étrangères
+   confimait le lien entre ces opérations de déstabilisation en ligne et
+   la Russie. "Les autorités françaises ont mis en évidence lʼexistence
+   dʼune campagne numérique de manipulation de lʼinformation contre la
+   France impliquant des acteurs russes", nous expliquait-on. Une campagne
+   "à laquelle des entités étatiques ou affiliées à lʼÉtat russe ont
+   participé en amplifiant de fausses informations". Les autorités
+   françaises affirmaient par ailleurs à lʼépoque quʼelles se trouvaient
+   en "lien étroit" avec leurs alliés "pour mettre en échec la guerre
+   hybride menée par la Russie".
 
-   Le milliardaire défend une approche radicale de la liberté d’expression
-   qui s’est traduite par un assouplissement des règles sur la
-   désinformation, la réduction des équipes de modération des contenus et
-   le retour de nombreuses personnalités controversées. Plusieurs
-   associations ont constaté une hausse de la désinformation et du
-   harcèlement.
-   Sur le même sujet
+   En juin toujours, il était aussi fait référence à une enquête du groupe
+   Meta (propriétaire notamment de Facebook), évoquant lʼimplication de
+   deux entreprises russes, détenues par un certain Ilya Andreevitch
+   Gambachidze. Cet homme, qui affiche aussi une casquette de stratège
+   politique, gravite autour du pouvoir : il a entre autres occupé un
+   poste de conseiller du vice-président de la Douma Piotr Tolstoï.
 
-   Le réseau social X teste les appels audio et vidéo
-   Le réseau social X teste les appels audio et vidéo
-   Il est désormais possible de passer des appels via X, ex-Twitter. Cette
-   nouvelle option semble pour l’instant réservée aux abonnés à Blue
-
-   La coche bleue, qui était auparavant gratuite mais réservée aux comptes
-   authentifiés et notoires, est devenue payante et ouverte à tous, ce qui
-   a rendu la plateforme moins lisible.
-
-   Le conflit actuel entre Israël et le Hamas illustre bien le problème :
-   de multiples faux comptes soi-disant certifiés sèment la confusion,
-   diffusant des images de conflits passés, colportant des conclusions
-   hâtives sur des vidéos non vérifiées, etc.
-
-   La Commission européenne a annoncé le 12 octobre l’ouverture d’une
-   enquête sur le réseau social pour la diffusion présumée de « fausses
-   informations », « contenus violents et à caractère terroriste » ou
-   « discours de haine », après les attaques du Hamas contre Israël.
-
-   Linda Yaccarino, la nouvelle directrice générale, a récemment estimé �
-   225 millions le nombre d’utilisateurs actuel, soit 11 % de moins
-   qu’avant l’acquisition.
-
-Vers un réseau social payant ?
-
-   Le changement de vision a aussi mis l’entreprise en mauvaise posture
-   financière. Sa valeur est tombée à 20 milliards de dollars et les
-   recettes publicitaires ont chuté de moitié, selon Elon Musk. Un nouvel
-   abonnement, « Blue », a été lancé de façon chaotique. Les abonnés
-   déboursent entre 8 et 11 dollars par mois pour voir moins de publicité
-   et jouir de certains privilèges - outils d’édition, affichage
-   prioritaire de leurs messages, coche bleue, etc.
-   Sur le même sujet
-
-   Réseaux sociaux : des utilisateurs de certains pays devront payer pour
-   publier des posts sur X
-   Réseaux sociaux : des utilisateurs de certains pays devront payer pour
-   publier des posts sur X
-   Les nouveaux utilisateurs philippins et néo-zélandais devront verser
-   environ 0,75 dollar et 0,85 dollar respectivement chaque année pour
-   accéder aux fonctions basiques du réseau
-
-   Et le réseau pourrait devenir payant pour tous : en Nouvelle-Zélande et
-   aux Philippines, les nouveaux utilisateurs doivent déjà débourser un
-   dollar chaque année pour pouvoir publier des messages.
-
-   L’idée est de dissuader les inscriptions de « robots », ces comptes
-   automatisés qui peuvent servir à amplifier artificiellement des
-   messages politiques, par exemple.
-
-Avec des hommes politiques de droite
-
-   Pour relancer sa plateforme, Elon Musk encourage le développement des
-   formats audio et vidéo, organisant lui-même des entretiens avec des
-   personnalités - principalement de droite. Ron DeSantis, un candidat �
-   l’investiture républicaine, a ainsi discuté en direct avec lui en mai.
-
-   Le mois dernier, c’était au tour du Premier ministre israélien Benjamin
-   Netanyahu de vanter ses politiques lors d’échanges très amicaux avec le
-   patron de SpaceX.
-
-   Des commentateurs conservateurs ont aussi adopté le réseau social,
-   comme Tucker Carlson, un ex-présentateur de Fox News, aux opinions
-   radicales et parfois complotistes. Après son départ de la chaîne, il a
-   lancé sa nouvelle émission sur X.
-
-Un nouveau nom
-
-   En juillet, le fantasque dirigeant a rebaptisé Twitter « X », symbole
-   mathématique de l’inconnu et le nom d’une banque en ligne qu’il avait
-   fondée en 1999 (devenue PayPal). Elon Musk veut transformer le réseau
-   social en super-application, comme WeChat en Chine, qui sert aussi bien
-   de messagerie que de service de paiements.
-
-   Mais « la vision ambitieuse de Musk pour X est freinée par son style de
-   gestion et de communication », a commenté Jasmine Enberg, analyse
-   d’Insider Intelligence. « Les utilisateurs et les annonceurs ont perdu
-   confiance […], et Linda Yaccarino n’a pas été en mesure de la leur
-   redonner ».
-
-   A lire aussi
-   Son locataire ne paye plus le loyer, le propriétaire s’installe avec
-   lui dans le studio et se déclare squatteur en colocation
-   Congés payés : cette nouvelle obligation pour les entreprises qui va
-   faire plaisir aux salariés
-
-   Le milliardaire a célébré le nouveau blason avec une structure
-   métallique en forme de X sur le toit du siège, qu’il a dû faire retirer
-   au bout de quelques jours, après une plainte de la ville de San
-   Francisco.
-   Les sujets associés
-
-     * Réseaux sociaux
-     * Sciences et Technologie
-     * Economie
-
-LES DERNIÈRES VIDÉOS
-
-   Premium
-   La une de sudouest aujourd'hui
-   Sur Web, Tablette et Mobile
+   Vous souhaitez nous poser des questions ou nous soumettre une
+   information qui ne vous paraît pas fiable ? Nʼhésitez pas à nous écrire
+   à lʼadresse lesverificateurs@tf1.fr. Retrouvez-nous également sur X :
+   notre équipe y est présente derrière le compte @verif_TF1LCI.
      __________________________________________________________________
 
-     * Le journal et ses suppléments
-     * L'accès aux articles abonnés
-     * L'Édition du soir
-     * Le club Abonnés
-     * Les Formats Longs
-     * Les Archives depuis 1944
+   Thomas DESZPOT & Samira El Gadir
 
-   Abonné papier ? Activez votre accès S'abonner à partir de 1€ Mon espace
-   premium
+   Sur le
+   même thème
+     * #L'info passée au crible
+     * #Fake news
 
-   Toutes les rubriques
-   Fermer
-   Mon compte
-   Déconnexion
-   Mon compte
-   Déconnexion
-   Devenez premium
-   Connexion
-   Devenez premium
-   ____________________ (BUTTON) (BUTTON)
-   Communes
-     * Bordeaux
-     * La Rochelle📍
-     * Mont-de-Marsan
-     * Périgueux
-     * Pau
-     * Angoulême
-     * Libourne
-     * Biscarrosse
-     * Royan 📍
-     * Langon
-     * Médoc
-     * Bayonne
+     * InternationalIsraël et le Hamas en guerre
+     * InternationalUkraine : plus de 600 jours de guerre
+     * Sujets de société"FAKE NEWS !" : un voyage en post-vérité
 
-     * Biarritz
-     * Dax
-     * Agen
-     * Cognac
-     * Arcachon
-     * Saintes 📍
-     * Villeneuve s/ Lot
-     * Bergerac
-     * Mérignac
-     * Gradignan
-     * Trouver ma commune
+   [ ]
+     * EN DIRECT - Guerre en Ukraine : l'UE et le Canada promettent un
+       soutien "inébranlable" à l'Ukraine
+       Publié le 24 novembre 2023 à 6h45
+     * EN DIRECT - Israël-Gaza : les otages libérés transférés vers des
+       hôpitaux
+       Publié le 24 novembre 2023 à 5h45
+     * VIDÉO - Guerre en Ukraine : "Backfire", l'indétectable drone qui
+       déjoue les défenses russes
+       Publié hier à 11h26
+     * EN DIRECT - Israël-Gaza : l'État hébreu dit avoir libéré 39
+       prisonniers palestiniens en échange du 3e groupe d'otages du Hamas
+       Publié hier à 6h00
+     * EN DIRECT - Israël-Hamas : Israël annonce la libération de 39
+       prisonniers palestiniens
+       Publié le 25 novembre 2023 à 6h30
+     * Guerre Israël-Hamas : sur Twitter, la désinformation bat son plein
+       Publié le 10 octobre 2023 à 20h56
+     * "Doppelganger", la campagne de désinformation russe qui a visé la
+       France
+       Publié le 13 juin 2023 à 17h23
+     * Guerre en Ukraine : comment des médias occidentaux sont plagiés
+       pour relayer la propagande russe
+       Publié le 19 mai 2023 à 15h09
+     * VIDÉO - Armes vétustes, contre-ordres... La colère des soldats
+       russes s'affiche sur les réseaux sociaux
+       Publié le 11 mars 2023 à 19h01
+     * Guerre en Ukraine : les trolls, la deuxième armée de Prigojine, le
+       patron de Wagner
+       Publié le 24 février 2023 à 15h27
 
-   Chaînes TV
-     * TV7
-     * TVPI
+   Voir plus
 
-   Actualité & Services
-     * À la une
-     * Faits divers
-     * Économie
-     * Culture
-     * Politique
-     * International
-     * Resultats Élections
+   Tout
+   TF1 Info
+   (*) ( ) ( )
+   Les + lusDernière minuteTendance
+   [ ]
+     * 1
+       VIDÉO - Guerre en Ukraine : "Backfire", l'indétectable drone qui
+       déjoue les défenses russes
+       Publié hier à 11h26
+     * 2
+       VIDÉO - Suède : à la découverte des "maisons-serre", ces
+       habitations qui se passent de chauffage
+       Publié hier à 18h41
+     * 3
+       EN DIRECT - Israël-Gaza : l'État hébreu dit avoir libéré 39
+       prisonniers palestiniens en échange du 3e groupe d'otages du Hamas
+       Publié hier à 6h00
+     * 4
+       Mère pour la deuxième fois, Paris Hilton a donné à "sa princesse"
+       le nom d’une capitale européenne
+       Publié le 24 novembre 2023 à 11h07
+     * 5
+       Cassant, striés, blancs : vos ongles en disent plus sur votre santé
+       que vous ne l’imaginez
+       Publié hier à 7h00
+     * 6
+       Pourquoi vous ne devriez pas installer un sapin de Noël cette année
+       chez vous ?
+       Publié hier à 13h00
+     * 7
+       Comment éplucher facilement un potimarron ou une courge ?
+       Publié le 25 novembre 2023 à 21h00
+     * 8
+       VIDÉO - "Star Academy" : surpris par son idole Florent Pagny, Axel
+       réalise "son rêve" en direct
+       Publié le 25 novembre 2023 à 22h15
+     * 9
+       Le célicouple, le nouveau mode de vie des Français pour faire durer
+       leur relation
+       Publié le 24 novembre 2023 à 20h00
+     * 10
+       Marchés de Noël : quatre marchés qui valent le détour en France
+       Publié le 25 novembre 2023 à 19h00
+       Voir plus d'actualités
 
-     * Journal
-     * Premium
-     * Archives
-     * Société
-     * Environnement
-     * Technologies
-     * Santé
-     * Idées
-     * Coronavirus
-     * Tourisme
-     * Étudiant
-     * Billetterie
-     * Diverto
-     * Bons plans
+     * 1
+       Comment dissimuler votre bac à compost dans son jardin, sans
+       détruire son travail harmonieux ?
+       Publié aujourd'hui à 13h00
+     * 2
+       VIDÉO - 4 ans après, le voisin avoue le double meurtre : l'énorme
+       coup de théâtre de l'affaire Muller
+       Publié aujourd'hui à 12h59
+     * 3
+       Variole du singe : épidémie record en République démocratique du
+       Congo, l'OMS craint une propagation mondiale
+       Publié aujourd'hui à 12h56
+     * 4
+       Le 13H fête Noël : à vos votes pour désigner votre recette préférée
+       de Noël
+       Publié aujourd'hui à 12h52
+     * 5
+       VIDÉO - Drive-in aux États-Unis : retour vers le futur !
+       Publié aujourd'hui à 12h51
+     * 6
+       "J'ai purgé ma dette" : Jérôme Cahuzac de retour sur la scène
+       publique après dix ans passés dans l'ombre
+       Publié aujourd'hui à 12h51
+     * 7
+       VIDÉO - Mort de Thomas : la minute de silence en hommage �
+       l'adolescent tué à Crépol
+       Publié aujourd'hui à 12h43
+     * 8
+       EN DIRECT - Guerre en Ukraine : deux millions de personnes sans
+       électricité en Russie et en Ukraine occupée
+       Publié aujourd'hui à 12h43
+     * 9
+       VIDÉO - Relance du nucléaire : le secteur recrute avec des
+       formations et des salaires attractifs
+       Publié aujourd'hui à 12h31
+     * 10
+       L'autocollant "Stop Pub" posé sur ma boîte aux lettres n'est pas
+       respecté, que faire ? le 13H à vos côtés
+       Publié aujourd'hui à 12h31
+       Voir plus d'actualités
 
-   Formats spéciaux
-     * Formats longs
-     * Podcasts
+     * 1
+       VIDÉO - Guerre en Ukraine : "Backfire", l'indétectable drone qui
+       déjoue les défenses russes
+       Publié hier à 11h26
+     * 2
+       De nouveaux otages libérés par le Hamas ce dimanche : qui sont les
+       14 Israéliens relâchés ?
+       Publié hier à 22h39
+     * 3
+       Pétrolier arraisonné au large du Yémen : les assaillants
+       appréhendés par la marine américaine
+       Publié hier à 16h12
+     * 4
+       Accusé d'être à l'origine d'une hécatombe, le padel dans le viseur
+       des défenseurs des oiseaux en Espagne
+       Publié le 25 novembre 2023 à 16h36
+     * 5
+       Dernier jour de la trêve Israël-Hamas, nouveaux otages libérés...
+       Le point de situation au Proche-Orient
+       Publié aujourd'hui à 7h56
+     * 6
+       EN DIRECT - Guerre en Ukraine : deux millions de personnes sans
+       électricité en Russie et en Ukraine occupée
+       Publié aujourd'hui à 6h41
+     * 7
+       EN DIRECT - Israël-Gaza : l'État hébreu dit avoir libéré 39
+       prisonniers palestiniens en échange du 3e groupe d'otages du Hamas
+       Publié hier à 6h00
+     * 8
+       REPORTAGE - Volcan en Islande : dans la ville-fantôme de Grindavik,
+       "certaines maisons n'ont plus de plancher"
+       Publié le 23 novembre 2023 à 11h21
+     * 9
+       REPORTAGE - Victime du surtourisme, l'Islande va augmenter ses prix
+       Publié le 25 novembre 2023 à 16h51
+     * 10
+       VIDÉO - À la dérive depuis un an, le plus gros iceberg du monde est
+       aux portes de l'Atlantique
+       Publié le 24 novembre 2023 à 18h31
+       Voir plus d'actualités
 
-   Sud Ouest et Vous
-     * Jeux
-     * Journal des lecteurs
-     * Club Abonnés
+     * Police, justice et faits diversDijon : un habitant tué dans son
+       appartement par une balle perdue
+     * InternationalLibération d'otages, trêve temporaire… Un premier
+       accord trouvé entre Israël et le Hamas
+     * Sujets de sociétéSemaine européenne pour l'emploi des personnes
+       handicapées
+     * InternationalJavier Milei, le fantasque ultralibéral devenu
+       président de l'Argentine
+     * Police, justice et faits diversDrôme : le choc après une rixe
+       mortelle lors d'une fête de village
 
-   Sport
-     * Tout le sport
-     * Sport Club
-     * Football
-     * Girondins
-     * Rugby
-     * Stade rochelais
-     * Union bordeaux bègles
-     * Section paloise
-     * SU Agen
-     * Basket
-     * Surf
-     * Clubs
-     * Résultats
-     * Directs
-     * Hippisme
-     * Où pratiquer
-     * Raffut
+   Accueil-International-Après l'Ukraine, la campagne de désinformation
+   russe "Doppelgänger" s'empare du conflit entre Israël et Hamas
 
-   Autour du Journal
-     * Mon journal
-     * S'abonner
-     * Gérer mon abonnement
-     * Recherche Archives
-     * Photos Collectors
-     * Journal anniversaire
-     * Visiter le centre d'impression
-
-   Annonces
-     * Avis de décès
-     * Emploi/formation
-     * Immobilier
-     * Annonces légales
-
-   Suivre
-     * Applications
-     * Newsletter
-     * Facebook
-     * Twitter
-     * Instagram
-     * Youtube
-
-Vous avez choisi de refuser les cookies
-
-   Pourtant, comme les abonnements, ils permettent de soutenir le travail
-   des 250 journalistes de notre rédaction qui s'engagent à vous proposer
-   chaque jour une information de qualité, fiable et complète.
-
-   En acceptant les cookies, vous pourrez accéder aux contenus et
-   fonctionnalités gratuites que propose notre site.
-   À tout moment, vous pouvez modifier vos choix via le bouton “cookies”
-   en bas de page.
-   Accepter les cookies ou S'abonner
-
-   Répondre
-   Pour réagir à cet article, remplissez le champ ci-dessous. Vous pouvez
-   également, consulter notre charte des commentaires.
-   []
-   Auteur
-   Lire les règles de modération de sudouest.fr
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Réagir
-
-   Signaler un commentaire
-   Merci de nous décrire précisément ce qui vous paraît illégal dans ce
-   message.
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Signaler
+   Mentions légalesConditions générales d'utilisationPolitique de
+   protection des données du service TF1 InfoNous contacterExercez vos
+   droitsPolitique cookiesLa médiatrice vous répondTous les tagsEspace
+   presse (BUTTON) Paramétrer mes choix
+   (BUTTON) Gérer les options d'affichage ADAPTEZ L'AFFICHAGE
+   TF1 Info Copyright ©2023

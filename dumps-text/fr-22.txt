@@ -1,256 +1,883 @@
-     * Carnet
-       Déposer un avisConsulter les avis
-     * Annonces Légales et judiciaires
-       Publier un avisConsulter les avis Web
-     * Formation
-     * Marchés Publics
-     * Boutique
-     * Aide
-     * Journal en ligne
-     * Jeux
+    #publisher
 
-   (BUTTON)
-   Logo la Provence
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KTMQFBW
 
-   Lire le journal
-   Picture of the author
-     * À la Une
-     * En direct
-     * Région
-     * Faits divers
-     * OM
-     * Politique
-     * Economie
-     * Culture
-     * Sorties-Loisirs
-     * jeux-concours
-     * Shopping
+   [logo-mobile-www.png?version=20231124111711]
+   Téléchargez
+   notre application
+   Ouvrir
+
+   Journal économique et financier
+   s'abonner
+     * Lire le journal
+     * Newsletters
+     Rubriques
+     * +
+     * Économie
+          + France
+          + Union européenne
+          + International
+          + Politique
+          + Bourse
+     * Entreprises & Finance
+          + Industrie
+          + Services
+          + Banques / Finance
+          + Transitions Écologiques
+     * Tech
+          + Médias
+          + Publicité
+          + Internet
+          + Informatique
+          + Electronique
+          + Télécoms
+          + Innovation et Start-up
+          + Start-up
+          + French Tech
+          + Mobilités : cap 2024
+     * Idées
+          + Éditos
+          + Tribunes
+          + Blogs
+          + Podcast - Les Héritières
+          + Engage-moi
+     * Régions
+          + Auvergne-Rhône-Alpes
+          + Bourgogne-Franche-Comté
+          + Bretagne
+          + Centre-Val de Loire
+          + Corse
+          + Grand Est
+          + Hauts-de-France
+          + Île-de-France
+          + Normandie
+          + Nouvelle-Aquitaine
+          + Occitanie - Montpellier
+          + Occitanie - Toulouse
+          + Pays de la Loire
+          + Région Sud - Marseille
+          + Région Sud - Nice
+          + Smart cities
+     * Culture / Lifestyle
+     * La Tribune Dimanche
+          + La Tribune Dimanche n°8 - 26 novembre 2023
+          + La Tribune Dimanche n°7 - 19 novembre 2023
+          + La Tribune Dimanche n°6 - 12 novembre 2023
+          + La Tribune Dimanche N°5 - 5 novembre 2023
+          + La Tribune Dimanche n°4 - 29 octobre 2023
+          + La Tribune Dimanche n°3 - 22 octobre 2023
+          + La Tribune Dimanche n°2 - 15 octobre 2023
+          + La Tribune Dimanche n°1 - 8 octobre 2023
+     La Tribune +
+     * +
+     * Espace Abonné
+     * Kiosque Numérique
+     * T la Revue
+     * Voir nos annonces légales
+     * Déposer vos annonces légales
+     Services
+     * +
+     * La Tribune Now
+     * Supplément
+     * Paroles d'Experts avec Médias France
+     * Mobilité : cap 2024
+     * Fonction Finance 2.0 avec Cegid
+     * After Work avec Bpifrance
+     * #LaTribuneBusiness Interviews
+     * #LaTribuneBusiness Dossiers
+     * #LaTribuneBusiness TV
+     * Le Comparateur Assurance
+     * Transformations durables avec Mazars
+     * Accélérer avec le Cloud par AWS
+     * Fisher Investments
+     * Le portage salarial
+     * VisionAir avec Bpifrance
+     * Energie(s), Transition(s), Action(s) par PowR Earth Foundation
+     * Bons plans
+     La Tribune Events
+     * +
+     * Tech For Future
+     * Sommet du Grand Paris
+     * Paris Air Forum
+     * Forum Zéro Carbone
+     * Partageons l'économie
+     * Une époque formidable
+     * Transformons la France
+     * Les Cafés de La Tribune Dimanche
+     * Tous nos événements en région
+     éditions régionales
+     * +
+     * Bordeaux - Nouvelle-Aquitaine
+     * Dijon - Bourgogne-Franche-Comté
+     * Lille - Hauts-de-France
+     * Lyon - Auvergne-Rhône-Alpes
+     * Marseille/Nice - Région SUD
+     * Montpellier - Occitanie
+     * Nantes - Pays-de-la-Loire
+     * Paris - Île-de-France
+     * Rennes - Bretagne
+     * Rouen - Normandie
+     * Strasbourg - Grand Est
+     * Toulouse - Occitanie
+     * Tours - Centre-Val de Loire
+     * Se connecter
+
+     * Économie
+          + France
+               o Présidentielles 2022
+               o Le Monde d'après
+               o La Tribune de la French Fab
+          + Union européenne
+          + International
+               o Le G20 en six leçons
+          + Politique
+          + Bourse
+          + International
+          + Politique
+       royaume-uni
+       Opération séduction réussie pour le Royaume-Uni qui attire 30
+       milliards de nouveaux investissements privés
+       Christopher luxon, le dirigeant du parti national neo-zelandais,
+       s'adresse a ses partisans a aucklandapres avoir remporte les
+       elections generales
+       Christopher Luxon, un ex-patron de compagnie aérienne devient
+       Premier ministre de la Nouvelle-Zélande 1
+       pétroliers
+       Guerre Israël Hamas : engagés dans le conflit, des rebelles
+       yéménites attaquent un pétrolier lié à Israël 1
+     * Entreprises & Finance
+          + Industrie
+               o Automobile
+               o Aéronautique & Défense
+               o Agroalimentaire & Biens de con...
+               o Energie & Environnement
+               o Biens d'équipement & BTP & Imm...
+               o Chimie & Pharmacie
+               o Industrie lourde
+          + Services
+               o Distribution
+               o Transport & Logistique
+               o Tourisme & Loisirs
+          + Banques / Finance
+               o Banque
+               o Industrie financière
+               o Assurance
+          + Transitions Écologiques
+               o Web TV
+               o L'actualité
+               o La Tribune de la COP21
+       Manifestation des proches des disparus du vol mh370
+       Vol MH370 : les familles chinoises exigent la reprise des
+       recherches, dix ans après la mystérieuse disparition 1
+       La surélévation des résidences : une solution désormais explorée �
+       Nantes
+       À Nantes, la surélévation des bâtiments comme réponse à la pénurie
+       de logements
+       Le logo de veolia environnement a son siege a paris
+       Travaux publics : Veolia en passe de se séparer de SADE, l'une de
+       ses plus grosses filiales d'ingénierie 1
+     * Tech
+          + Médias
+          + Publicité
+          + Internet
+          + Informatique
+          + Electronique
+          + Télécoms
+          + Innovation et Start-up
+          + Start-up
+          + French Tech
+          + Mobilités : cap 2024
+       Photo d'elon musk
+       Réseaux sociaux : accusé de faire la « promotion » de
+       l'antisémitisme, Elon Musk va rencontrer le président israélien 1
+       Meurice
+       Guillaume Meurice, l'humoriste militant qui divise France Inter
+       Vodafone va vendre sa filiale hongroise pour environ 1,8 milliard
+       d'euros
+       Télécoms : Vodafone réfléchit à l'avenir de sa filiale italienne
+     * Idées
+          + Éditos
+          + Tribunes
+          + Blogs
+               o Commodities & Influence
+               o Homo Numericus
+               o 40 nuances de Next
+               o Inside Davos
+               o Aux coeurs de l’innovation
+               o Essais auto
+               o Le Tour du Monde de l’Innovati...
+               o Génération Peur de rien
+               o Vu de Bruxelles
+          + Podcast - Les Héritières
+          + Engage-moi
+       Édito Bruno Jeudy
+       L'onde de choc de Crépol
+       Chronique François Clemenceau
+       Gaza : l'après a commencé
+       Cop 28 patrons
+       COP28 : 60 présidents de grandes entreprises françaises appellent �
+       accélérer la transition écologique 4
+     * Régions
+          + Auvergne-Rhône-Alpes
+          + Bourgogne-Franche-Comté
+          + Bretagne
+          + Centre-Val de Loire
+          + Corse
+          + Grand Est
+          + Hauts-de-France
+          + Île-de-France
+          + Normandie
+          + Nouvelle-Aquitaine
+          + Occitanie - Montpellier
+          + Occitanie - Toulouse
+          + Pays de la Loire
+          + Région Sud - Marseille
+          + Région Sud - Nice
+          + Smart cities
+               o La Tribune de Carlos Moreno
+       Marché des produits laitiers : Quel scénario pour Lactalis ?
+       Baisse de la production de lait : quel scénario pour Lactalis ?
+       Rachida Dati, H318, élections municipales
+       Climat : Anne Hidalgo présente son quatrième plan... Les
+       Républicains préparent leur contre-projet
+       Picoty mise sur la mobilité hydrogène
+       L'entreprise Picoty mise sur la mobilité hydrogène en Vendée
+     * Culture / Lifestyle
+     * La Tribune Dimanche
+          + La Tribune Dimanche n°8 - 26 novembre 2023
+          + La Tribune Dimanche n°7 - 19 novembre 2023
+          + La Tribune Dimanche n°6 - 12 novembre 2023
+          + La Tribune Dimanche N°5 - 5 novembre 2023
+          + La Tribune Dimanche n°4 - 29 octobre 2023
+          + La Tribune Dimanche n°3 - 22 octobre 2023
+          + La Tribune Dimanche n°2 - 15 octobre 2023
+          + La Tribune Dimanche n°1 - 8 octobre 2023
+       Vincent Dedienne
+       Vincent Dedienne décoiffe
+       Flavie Serrière Vincent-Petit
+       Flavie Serrière Vincent-Petit, au chevet des vitraux
+
+     * Économie
+     * Entreprises & Finance
+     * Tech
+     * Idées
+     * Régions
+     * Culture / Lifestyle
+     * La Tribune Dimanche
+
+     * CAC 40 7 285,11 PTS -0,11%
+     * + FORTES HAUSSES CAC 40 SANOFI +1,27% UNIB-RODAM-WES STPL +0,85%
+     * + FORTES BAISSES CAC 40 STELLANTIS BR -1,12% BNP PARIBAS-A- -0,75%
+     * DOW JONES +0,33% NASDAQ 100 -0,12% EURONEXT 100 -0,18%
+     * Or +0,00% OAT 10 ans -0,36% Pétrole Brent -8,23%
+
+
+
+     Opinions
+
+
+
+                                    Tribunes
+
+   « Sharp power » et désinformation : nouvelles armes de déstabilisation des
+                                  démocraties
+
+   OPINION. Le « Sharp power », la nouvelle arme de désinformation massive
+   contre l'occident. Par Véronique Chabourine, membre du bureau de
+   l’association pour une Renaissance européenne Paris, déléguée chargée
+   de la communication.
+
+   Véronique Chabourine
+   30 Oct 2023, 10:14
+
+   Partager :
+
+     *
+     *
+     *
+     *
+     *
      *
 
-     * À la Une
-     * France - Monde
+     *
 
-"Nous avons constaté des changements" : L'UE appelle TikTok à poursuivre ses
-efforts contre la désinformation
+     *
+     *
+     *
+     *
+     *
+     *
 
-   Par La Provence (avec AFP)
+   (Crédits : DR)
 
-   Publié le 06/11/23 à 14:13 - Mis à jour le 06/11/23 à 14:13
-   De nouvelles obligations plus strictes s'appliquent en Europe pour 19
-   très grandes plateformes, dont TikTok, depuis fin août dans le cadre
-   d'une nouvelle législation sur les services numériques (DSA).
+   Depuis samedi 7 octobre, de nombreuses vidéos relatives à l'attaque
+   terroriste menée par le Hamas* ont circulées sur les réseaux sociaux ;
+   dont certaines images et vidéos datent d'il y a plusieurs années, sans
+   lien avec les évènements actuels − on assiste à une avalanche de
+   désinformation, notamment sur X (ex Twitter).
 
-   De nouvelles obligations plus strictes s'appliquent en Europe pour 19
-   très grandes plateformes, dont TikTok, depuis fin août dans le cadre
-   d'une nouvelle législation sur les services numériques (DSA).
+   Le 12 octobre, l'Union européenne lançait une enquête contre X accusé
+   de laisser circuler sur son réseau de fausses informations et des
+   contenus à caractère terroriste. Le réseau assure se conformer aux
+   législations nationales et européennes (Digital Service Act) et modérer
+   les contenus.
 
-   PHOTO D'ILLUSTRATION AFP / Lionel BONAVENTURE
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   Début avril, Thierry Breton, commissaire européen au marché intérieur,
+   affirmait « avec la guerre en Ukraine, les cybers attaques ont bondi de
+   140% en Europe ». Les cyber attaques et la désinformation sont des
+   techniques utilisées par des acteurs étatiques ou non étatiques,faisant
+   référence au sharp power.
 
-   Le commissaire européen au Numérique, Thierry Breton, a appelé ce lundi
-   6 novembre le patron du réseau social chinois TikTok, Shou Zi Chew, �
-   poursuivre ses efforts contre la désinformation tout en saluant des
-   évolutions positives, lors d'un entretien en visioconférence.
+   En 2017, les chercheurs Christopher Walker et Jessica Ludwig ont
+   popularisé ce terme faisant référence aux moyens utilisés pour exercer
+   une influence et manipuler l'opinion publique au travers de la
+   désinformation, l'interférence dans les élections, la surveillance et
+   la censure et la coercition économique).
 
-   Thierry Breton, le commissaire européen au Numérique, a appelé le
-   patron du réseau social chinois TikTok, Shou Zi Chew, à poursuivre ses
-   efforts contre la désinformation tout en saluant des évolutions
-   positives, lors d'un entretien en visioconférence ce lundi 6 novembre.
+Le sharp power menace la stabilité des démocraties libérales
 
-   La Commission européenne a ouvert en octobre des enquêtes visant
-   TikTok, mais aussi X (ex-Twitter) et Meta (Facebook, Instagram),
-   réclamant des précisions sur les mesures qu'ils mettent en oeuvre
-   contre la diffusion de "fausses informations" et de "contenus
-   illégaux", après les attaques du Hamas contre Israël.
-   A lire aussi : Aix-Marseille Université suspend son activité sur X
-   (ex-Twitter) "compte tenu de son évolution éditoriale"
+   En 2021, l'institut pour la diplomatie culturelle publie un rapport
+   intitulé Sharp power and Democratic Resilience selon lequel de nombreux
+   pays et en particulier les régimes autoritaires utilisent le Sharp
+   power pour influencer les démocraties libérales. Paradoxalement, ces
+   régimes autoritaires cultivent souvent assez bien leur soft power,
+   comme l'exprime l'exemple de la Chine. Le sharp power est le résultat
+   de l'interaction de multiples facteurs économiques, technologiques,
+   politiques et sociaux.
 
-   De nouvelles obligations plus strictes s'appliquent en Europe pour 19
-   très grandes plateformes, dont TikTok, depuis fin août dans le cadre
-   d'une nouvelle législation sur les services numériques (DSA).
+   La législation et la régulation ne suffisent pas. En avril dernier
+   était présentée en conseil des ministres la loi de programmation
+   militaire qui prévoit d'augmenter entre 2024 et 2030 de 4 milliards le
+   budget cyber. Au même moment, Thierry Breton, annonçait le projet Cyber
+   shield, qui est une infrastructure à la fois civile et militaire pensée
+   pour mieux détecter les cyberattaques en amont. Depuis 2009, les
+   États-Unis ont une structure similaire ; le commandement de la défense
+   (USCYBERCOM) et la Cybersecurity Infrastructure Security Agency (CISA).
 
-   "Nous avons constaté des changements sur la plateforme TikTok au cours
-   des derniers mois, avec la mise en place de nouvelles fonctionnalités
-   visant à protéger les utilisateurs et des investissements dans la
-   modération de contenus et la sécurité", a déclaré Thierry Breton, dans
-   un communiqué diffusé après une discussion lundi entre les deux
-   responsables.
+   La mise en application des régulations est difficile car l'espace
+   numérique ne connaît pas de frontière. La législation est différente
+   pour chaque pays et la régulation peut être perçue comme une atteinte �
+   la liberté d'expression. Le pouvoir arbitraire des entreprises
+   technologiques est confronté sur des marchés étrangers à des régimes
+   autoritaires et à des choix entre opportunités économiques et pressions
+   politiques - comme l'exemple de Midjourney censurant la création
+   d'image du président chinois ou l'exemple depuis le 27 octobre 2022 du
+   rachat de Twitter par Elon Musk qui a permis à beaucoup de comptes de
+   désinformation de réintégrer la plateforme et bénéficier de la
+   certification payante de X, contrairement à certains comptes de fact
+   checking qui eux, l'ont perdu en ne souscrivant pas à l'abonnement. Une
+   question demeure : faut-il laisser le rôle de censeur à des entreprises
+   privées ?
 
-"Nous ne devons ménager aucun effort pour protéger nos concitoyens contre les
-contenus illicites et la désinformation"
+Education et sensibilisation
 
-   La Commission européenne est en train d'examiner "si ces mesures sont
-   suffisantes pour garantir la conformité avec le DSA. Car aujourd'hui
-   plus que jamais, nous ne devons ménager aucun effort pour protéger nos
-   concitoyens - en particulier les enfants et les adolescents - contre
-   les contenus illicites et la désinformation", a-t-il poursuivi.
+   La cyber sécurité et la désinformation nécessitent une approche
+   multifacette ; comme les exemples de l'Estonie, la Finlande et
+   Singapour qui ont mis en place des mesures de sécurité techniques,
+   juridiques et éducatives ainsi que des programmes de sensibilisation et
+   de coopération internationale le démontrent.
 
-   "Bonne réunion avec le commissaire Breton ce matin", s'est réjoui de
-   son côté le vice-président de TikTok en charge des politiques publiques
-   pour l'Europe, Theo Bertram. "Nous sommes encouragés par le fait que
-   nos efforts ne sont pas passés inaperçus. Nous continuons à collaborer
-   étroitement avec la Commission sur le respect du DSA", a-t-il déclaré
-   sur X (ex-Twitter).
+   L'éducation et la sensibilisation sont des piliers de la lutte contre
+   la désinformation et de la protection de nos démocraties libérales. En
+   France, les programmes d'éducation au média et à l'information (EMI)
+   sont obligatoires. Former à l'école est essentiel mais si l'on veut
+   lutter efficacement, il faut sensibiliser aussi tous les publics à la
+   désinformation.
 
-     Good meeting with Commissioner Breton this morning. Positive
-     discussion on TikTok's progress on DSA. We're encouraged that our
-     efforts have not gone unnoticed. We continue to engage closely with
-     the Commission on DSA compliance. https://t.co/Cb0shidgRF
-     — Theo Bertram (@theobertram) November 6, 2023
+   Pour 78% des Français, on peut parler d'une hygiène informationnelle
+   insuffisante ; incarnée par manque de discernement quant à la source et
+   à la fiabilité de l'information. En cela, les entreprises, les médias
+   et les associations peuvent se faire relais de campagne de
+   sensibilisation et d'éducation.
 
-   TikTok, propriété du groupe chinois ByteDance, a annoncé avoir supprimé
-   de sa propre initiative quatre millions de vidéos jugées illégales ou
-   nuisibles dans l'UE en septembre, dans un rapport publié fin octobre.
+   Le soft power et la diplomatie publique doivent aussi jouer un rôle
+   important - Comme de renforcer la coopération internationale afin de
+   continuer à faire pression sur les acteurs responsables de la
+   désinformation - et de renforcer la pensée critique, la vérification
+   des faits, et sensibiliser sur les enjeux de société par le cinéma et
+   les séries.
 
-   La plateforme assure disposer d'un effectif de 6 125 personnes dédiées
-   à la modération des contenus dans la seule Union européenne, sur un
-   total de 40 000 personnes chargées de protéger ses utilisateurs dans le
-   monde.
-   A lire aussi : De Pinkydoll à Jawad "le logeur de Daech" : qu'est-ce
-   que le "NPC content" qui se développe sur TikTok ?
+   Quelle part possède la fiction dans ce que nous vivons ? N'a-t-on pas
+   vu des zadistes récemment en France masqués et en combinaison faisant
+   écho au succès mondial Netflix La Casa del Papel ? Au-delà de la
+   responsabilité qui leur incombe, les plateformes et le cinéma qui
+   produisent de plus en plus de films sur ces sujets répondront de
+   manière pertinente aux demandes du public sur les enjeux de société.
 
-   Shou Zi Chew doit rencontrer mardi à Bruxelles la commissaire
-   européenne à la Justice, Vera Jourova, et son homologue à la
-   Concurrence, Didier Reynders. Outre la protection des consommateurs,
-   ils doivent évoquer aussi le transfert de données personnelles et les
-   nouvelles règles de l'UE contre les pratiques anticoncurrentielles qui
-   s'appliqueront à partir de mars 2024.
+   La collaboration multi-acteurs est indispensable, incarnée par des
+   mesures politiques, économiques, sociales et culturelles et soutenues
+   par l'engagement de la société civile, des médias et des institutions
+   démocratiques.
 
-   Offre 100% numérique
+   _____
+
+   (*) Mouvement terroriste palestinien créée en 1987.
+
+   Véronique Chabourine
+   30 Oct 2023, 10:14
+
+   Partager :
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+     *
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   (BUTTON) Rédiger un commentaire
+
+Newsletter - Votre Tribune de la semaine
+
+   Chaque samedi, votre rendez-vous avec Philippe Mabille qui
+   revient sur les faits marquants de l'actualité de la semaine.
+   (BUTTON) S'inscrire à la newsletter (BUTTON) S'inscrire à la newsletter
+
    (BUTTON)
 
-   Je m’abonne à 1€*
+Inscription à Votre Tribune de la semaine
 
-   Sans engagement. 1€ le premier mois puis 11,90€ /mois
+   (BUTTON)
+   Chaque samedi, retour sur les faits marquants de l'actualité
+   par Philippe Mabille
+     __________________________________________________________________
 
-En continu
+Créer un compte
 
-     * 10:43
+   ____________________
+   Identifiant
+   ____________________
+   ____________________
+   ____________________
+   Nom
+   ____________________
+   Prénom
+   ____________________
+   Profession
+   [Choisissez une Profession___________]
+   Date de naissance
+   ____________________
+   Code Postal
+   ____________________
+   Pays
+   [Choisissez un Pays________________]
+   Civilité
+   (*) None ( ) Mme ( ) M.
+   [ ] J'accepte de recevoir les newsletters de La Tribune
+   [ ] J'accepte de recevoir les offres des partenaires de La Tribune
+   Je m’inscris
+   J’ai déjà un compte
 
-Environnement : à Ensuès-la-Redonne, l'entreprise Biotechna fait des efforts
-mais les mauvaises odeurs sont encore l�
-     * 10:33
+   (BUTTON)
 
-Salon-de-Provence : l'union et l'authenticité au menu des commerçants de la
-rue Kennedy
-     * 10:26
+Merci pour votre inscription !
 
-Aix-en-Provence : l'hôtel 5 étoiles Le Pigonnet organise un grand
-vide-greniers ce 25 novembre avant de se refaire une beauté
-     * 10:19
+   (BUTTON)
 
-Volley-ball - Ligue A féminine : faut-il déjà s'inquiéter pour le Pays d'Aix
-Venelles ?
-     * 10:14
+   Dernière étape : confirmez votre inscription dans l’email que vous
+   venez de recevoir.
 
-Tout Schuss à Aix-en-Provence : le monde de la montagne en opération
-séduction ce week-end
-     * 10:11
+   Pensez à vérifier vos courriers indésirables.
 
-Strasbourg-OM : à quelle heure et sur quelle chaîne voir le match ?
-     * 9:53
+   À très bientôt sur le site de La Tribune et dans nos newsletters,
+   La rédaction de La Tribune.
+   (BUTTON) Je retourne sur le site
 
-La Ciotat : l'érosion des falaises gagne du terrain au domaine du Cap
-Liouquet et interroge
-     * 9:48
+   (BUTTON)
 
-Thierry Breton, commissaire européen : "L'Europe pèse sur X, Meta et TikTok"
+Inscription à la newsletter Votre Tribune de la semaine
 
-   Plus d'infos
+   (BUTTON)
+   Chaque jeudi, les dernières actualités Dans votre boite mail a 9h
+     __________________________________________________________________
 
-Une info ? Un témoignage ?
+   Voulez-vous souscrire à la newsletter ? (BUTTON) Oui (BUTTON) Non
 
-   Contactez-nous
+   (BUTTON)
 
-   Les plus lus
-   Avec de nombreuses constructions à proximité des falaises, le Liouquet
-   voit, année après année, l'érosion progresser.
+Inscription à Votre Tribune de la semaine
+
+   (BUTTON)
+   Chaque samedi, retour sur les faits marquants de l'actualité
+   par Philippe Mabille
+     __________________________________________________________________
+
+Connexion à mon compte
+
+   ____________________
+   ____________________ Mot de passe oublié ?
+   Identifiant ou mot de passe incorrect.
+   [ ] Rester connecté
+   (BUTTON) Je me connecte
+   J’ai n'ai pas encore de compte
+
+   (BUTTON)
+
+Merci pour votre inscription !
+
+   (BUTTON)
+
+   À très bientôt sur le site de La Tribune et dans nos newsletters,
+   La rédaction de La Tribune.
+   (BUTTON) Je retourne sur le site
+
+   (BUTTON)
+
+Vous êtes déjà inscrit !
+
+   (BUTTON)
+
+   Découvrez l'ensemble des newsletters de La Tribune
+   La rédaction de La Tribune
+   Je découvre
+
+   (BUTTON)
+
+Réinitialisez votre mot de passe
+
+   (BUTTON)
+   Merci de saisir l'adresse mail fournie lors de la création de votre
+   compte, un email vous sera envoyé avec vos informations de connexion.
+   ____________________
+   (BUTTON) Valider
+   Je n'ai pas encore de compte Revenir à la page précédente
+
+   (BUTTON)
+
+Email envoyé !
+
+   (BUTTON)
+
+   Un e-mail contenant vos informations de connexion a été envoyé.
+
+   À très bientôt sur le site de La Tribune et dans nos newsletters,
+   La rédaction de La Tribune.
+   (BUTTON) Je retourne sur le site
+
+   (BUTTON)
+     __________________________________________________________________
+
+   S’inscrire à la newsletter Votre Tribune de la semaine
+
+   Sur le même sujet
+   Véronique Chabourine
+
+L'innovation est un puissant moteur de soft power
+
+   Véronique Chabourine
+
+Réforme des retraites : l'exemple de l'absence de diplomatie publique
+
+   Sujets les + lus
+
+   |
+
+   Sujets les + commentés
 
    1
 
-La Ciotat : l'érosion des falaises gagne du terrain au domaine du Cap
-Liouquet et interroge
-
-   Environnement
+   GéoLean attend une nouvelle dynamique de son « Doing Center»
+     __________________________________________________________________
 
    2
 
-A La Ciotat, les habitants suspendus à l'érosion des falaises à l'heure du
-dérèglement climatique
-
-   Environnement
+   WorldCom et Qwest dans la ligne de mire de la SEC
+     __________________________________________________________________
 
    3
 
-Manosque : la Ville a occupé son local sans son accord et sans lui régler de
-loyer pendant 12 ans
-
-   Région
+   À quoi sert l’État actionnaire ?
+     __________________________________________________________________
 
    4
 
-Guerre en Ukraine : Kiev affirme avoir abattu 71 drones lors de la plus
-grande offensive russe
-
-   France - Monde
+   L'activité économique de la France stabilisée en septembre à -5% de son
+   niveau d'avant-crise
+     __________________________________________________________________
 
    5
 
-Un homme mis en examen pour "homicide sur conjoint" en Eure-et-Loir
+   Shanghai Automotive crée le plus grand groupe chinois automobile
+     __________________________________________________________________
 
-   Faits divers - Justice
+   1
 
-   6
+   Emploi : Le Maire veut réduire la durée d'indemnisation chômage des
+   seniors pour les faire travailler plus longtemps (43)
+     __________________________________________________________________
 
-Tribunal de Tarascon : le "bon Samaritain" agressait sexuellement ses amies
+   2
 
-   Faits divers - Justice
+   revue T Emploi des seniors : le gouvernement pressé de durcir les
+   règles d'indemnisation (38)
+     __________________________________________________________________
 
-   7
+   3
 
-Soutien aux victimes, suivi judiciaire des agresseurs : violences conjugales,
-comment sortir de la spirale ?
+   revue T « Il faut se révolter contre l’IA générative car elle menace
+   notre humanité » (Eric Sadin, philosophe) (37)
+     __________________________________________________________________
 
-   Société
+   4
 
-   8
+   Dette : à une semaine de la note de S&P, les dépenses publiques de la
+   France sont jugées « excessives » par Bruxelles (35)
+     __________________________________________________________________
 
-Football - National : le point de la persévérance pour Marignane-Gignac-Côte
-Bleue
+   5
 
-   Sports
+   revue T Électricité : pourquoi les factures vont continuer de flamber
+   (33)
+     __________________________________________________________________
 
-   Dans l'actualité
-     * Longoria - Interview exclusive
-     * Lutter contre les punaises de lit
-     * Rugby Mondial 2023
+   Commentaire 1
+   Dossier 51 à écrit le 30/10/2023 à 11:21
+   Signaler
+   "Le sharp power est le résultat de l'interaction de multiples facteurs
+   économiques, technologiques, politiques et sociaux." Alors ça c'est une
+   définition fourre tout ! ^^ Vous voulez donc dire que l'armée
+   israélienne n'a pas tué dans cette attaque pl... "Le sharp power est le
+   résultat de l'interaction de multiples facteurs économiques,
+   technologiques, politiques et sociaux." Alors ça c'est une définition
+   fourre tout ! ^^ Vous voulez donc dire que l'armée israélienne n'a pas
+   tué dans cette attaque plus de 7000 palestiniens et que donc l'ONU est
+   une officine de propagande de fake news pro-hamas ? Pourquoi pas hein
+   mais pour ma part je ne me lancerais pas dans une telle affirmation.
+   (BUTTON) Répondre
+     __________________________________________________________________
 
-   Guide Shopping
-     * High-tech
-     * Electroménager
-     * Jeux & Paris
-     * Sports
-     * Maison et jardin
-     * Mode
+   Pour être alerté par email d'une réaction à ce commentaire, merci de
+   renseigner votre adresse email ci-dessous :
+   ____________________ Suivre
+   Pseudo
+   ____________________
+   Email
+   ____________________
+   Content
 
-   Olympique de Marseille
-     * Calendrier et résultats
-     * Classement Ligue 1 2023 - 2024
-     * Mercato d'été 2023
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Recevoir un email si quelqu'un répond à mon commentaire.
+   (BUTTON) Envoyer un commentaire
 
-   La Provence
-     * CGV
+   Votre email ne sera pas affiché publiquement.
+   Tous les champs sont obligatoires.
+   (BUTTON) Rédiger un commentaire
+
+   close
+
+   -
+
+   Merci pour votre commentaire. Il sera visible prochainement sous
+   réserve de validation.
+
+   Hors-série - Spécial Réindustrialisation
+
+   Dossier Spécial - Réindustrialisation
+
+   [20231125.jpg]
+
+   _
+   [catalog-cover-large.jpeg]
+
+   Annonces légales
+
+   SUIVRE LA TRIBUNE
+
+   ____________________ (BUTTON) OK
+     *
+     *
+     *
+     *
+
+   À lire aussi
+
+   Avec
+   La Tribune.fr,
+   prenez les bonnes décisions
+   S'abonner
+
+   Journal économique et financier
+     * Nous contacter
+     * Charte d'indépendance et de déontologie
+     * Mentions Légales
      * CGU
-     * Mentions légales
+     * CGU Pro
+     * Gestion des cookies
      * Politique de confidentialité
-     * Service client
-     * Abonnement
-     * Resiliation
+     * Consentement
 
-   Application mobile
-   android apple
+   LaTribune.fr | Tous droits réservés
 
-   Réseaux sociaux
+   [logo-www.png?version=20231124111711]
 
-   Droits de reproduction et de diffusion réservés ©LaProvence
-   partenaires
+   Nous contacter
+   CGU
+   CGU PRO
+   Paramétrer les cookies
+   Politique de confidentialité
+   Abonnement
+   Mentions Légales
+
+   Vous avez choisi de refuser les cookies
+   Chaque jour, l'ensemble de la rédaction de La Tribune se mobilise pour
+   vous fournir le meilleur de l'information économique.
+   En acceptant les cookies ou en vous abonnant, vous soutenez le travail
+   d'une rédaction engagée partout en France.
+   S'abonner pour 1€ Accepter les cookies
+   Déjà abonné(e) ? Connectez-vous
+
+     * La Tribune +
+          + Espace Abonné
+          + Kiosque Numérique
+          + T la Revue
+          + Voir nos annonces légales
+          + Déposer vos annonces légales
+     * Services
+          + La Tribune Now
+          + Supplément
+          + Paroles d'Experts avec Médias France
+          + Mobilité : cap 2024
+          + Fonction Finance 2.0 avec Cegid
+          + After Work avec Bpifrance
+          + #LaTribuneBusiness Interviews
+          + #LaTribuneBusiness Dossiers
+          + #LaTribuneBusiness TV
+          + Le Comparateur Assurance
+          + Transformations durables avec Mazars
+          + Accélérer avec le Cloud par AWS
+          + Fisher Investments
+          + Le portage salarial
+          + VisionAir avec Bpifrance
+          + Energie(s), Transition(s), Action(s) par PowR Earth Foundation
+          + Bons plans
+     * La Tribune Events
+          + Tech For Future
+          + Sommet du Grand Paris
+          + Paris Air Forum
+          + Forum Zéro Carbone
+          + Partageons l'économie
+          + Une époque formidable
+          + Transformons la France
+          + Les Cafés de La Tribune Dimanche
+          + Tous nos événements en région
+     * éditions régionales
+          + Bordeaux - Nouvelle-Aquitaine
+          + Dijon - Bourgogne-Franche-Comté
+          + Lille - Hauts-de-France
+          + Lyon - Auvergne-Rhône-Alpes
+          + Marseille/Nice - Région SUD
+          + Montpellier - Occitanie
+          + Nantes - Pays-de-la-Loire
+          + Paris - Île-de-France
+          + Rennes - Bretagne
+          + Rouen - Normandie
+          + Strasbourg - Grand Est
+          + Toulouse - Occitanie
+          + Tours - Centre-Val de Loire
+     * Facebook
+     * Twitter
+     * Instagram
+     * LinkedIn
+     * Site Mobile
+     *
+
+     * Rechercher
+     * Se connecter
+     * Mon compte
+     * S'abonner
+
+   Journal économique et financier
+   s'abonner
+     * Lire le journal
+     * Newsletters
+     Rubriques
+     * +
+     * Économie
+     * Entreprises & Finance
+     * Tech
+     * Idées
+     * Régions
+     * Culture / Lifestyle
+     * La Tribune Dimanche
+     La Tribune +
+     * +
+     * Espace Abonné
+     * Kiosque Numérique
+     * T la Revue
+     * Voir nos annonces légales
+     * Déposer vos annonces légales
+     Services
+     * +
+     * La Tribune Now
+     * Supplément
+     * Paroles d'Experts avec Médias France
+     * Mobilité : cap 2024
+     * Fonction Finance 2.0 avec Cegid
+     * After Work avec Bpifrance
+     * #LaTribuneBusiness Interviews
+     * #LaTribuneBusiness Dossiers
+     * #LaTribuneBusiness TV
+     * Le Comparateur Assurance
+     * Transformations durables avec Mazars
+     * Accélérer avec le Cloud par AWS
+     * Fisher Investments
+     * Le portage salarial
+     * VisionAir avec Bpifrance
+     * Energie(s), Transition(s), Action(s) par PowR Earth Foundation
+     * Bons plans
+     La Tribune Events
+     * +
+     * Tech For Future
+     * Sommet du Grand Paris
+     * Paris Air Forum
+     * Forum Zéro Carbone
+     * Partageons l'économie
+     * Une époque formidable
+     * Transformons la France
+     * Les Cafés de La Tribune Dimanche
+     * Tous nos événements en région
+     éditions régionales
+     * +
+     * Bordeaux - Nouvelle-Aquitaine
+     * Dijon - Bourgogne-Franche-Comté
+     * Lille - Hauts-de-France
+     * Lyon - Auvergne-Rhône-Alpes
+     * Marseille/Nice - Région SUD
+     * Montpellier - Occitanie
+     * Nantes - Pays-de-la-Loire
+     * Paris - Île-de-France
+     * Rennes - Bretagne
+     * Rouen - Normandie
+     * Strasbourg - Grand Est
+     * Toulouse - Occitanie
+     * Tours - Centre-Val de Loire
+     * Se connecter
+
+     * Économie
+     * Entreprises & Finance
+     * Tech
+     * Idées
+     * Régions
+     * Culture / Lifestyle
+     * La Tribune Dimanche
+
+   S'abonner
+
+   *
+
+   IFRAME:
+   //cstatic.weborama.fr/iframe/customers/premium.html?idEditeur=1151&idSi
+   te=199

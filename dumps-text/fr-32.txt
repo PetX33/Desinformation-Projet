@@ -131,87 +131,83 @@
      * Sports
 
    Accueil / Economie / Economie numérique
-   Désinformation
+   Fake news
 
-Elon Musk semble (enfin) vouloir s’attaquer aux fake news sur X
+Twitter pourrait quitter le code de l’Union européenne contre la
+désinformation
 
-   Le propriétaire du réseau social a annoncé dimanche 29 octobre que les
-   messages comportant des informations erronées devraient désormais être
-   démonétisés sur X (ex-Twitter). Mais si l’intention de Musk est
-   louable, l’application concrète questionne.
+   Le réseau social envisage de quitter le code de bonnes pratiques de
+   l’Union européenne, qui vise à lutter contre la désinformation en
+   ligne. Une décision qui s’inscrit dans la lignée des choix de Musk ces
+   derniers mois.
 
-   Photo d'illustration. (Jaap Arriens/NurPhoto. AFP)
-   par Jérémy Torres et AFP
-   publié le 30 octobre 2023 à 14h23
+   Le logi de Twitter, photo d'illustration. (Jeff Chiu/AP)
+   par LIBERATION et AFP
+   publié le 25 mai 2023 à 20h27
 
-   L’initiative semble de bon aloi mais – comme souvent avec le réseau
-   d’Elon Musk – d’un manque de fiabilité. «N’importe quel message corrigé
-   par les notes de la communauté sera inéligible à la monétisation», a
-   écrit le milliardaire sur X (ex-Twitter) dimanche 29 octobre au soir.
-   Un changement de taille pour une plateforme qui succombe de plus en
-   plus à la désinformation. Les «Community Notes», nées en 2021, sont
-   ouvertes à tous les utilisateurs de la plateforme - via l’inscription �
-   un programme dédié -, qui peuvent écrire une note pour commenter un
-   tweet, et évaluer celle des autres.
-   Analyse
+   Twitter en marche arrière. Le réseau social envisage de quitter le code
+   de bonnes pratiques de l’Union européenne contre la désinformation en
+   ligne, un accord regroupant les principales plateformes sur une base
+   volontaire, selon des sources européennes. Selon ces dernières, la
+   plateforme aux mains du milliardaire américain Elon Musk a informé la
+   Commission européenne de ses intentions mais n’a pas encore notifié
+   formellement la décision.
 
-Un an après le rachat d’Elon Musk, Twitter est-il mort sous X ?
+   Lancé en 2018, ce code européen de bonnes pratiques regroupe une
+   trentaine de signataires, parmi lesquels des géants comme Meta, Google,
+   Twitter, Microsoft, TikTok, mais aussi de plus petites plateformes,
+   ainsi que des professionnels de la publicité, des fact-checkeurs et des
+   ONG. Les signataires ont eux-mêmes participé à la rédaction du texte,
+   qui contient une quarantaine d’engagements visant notamment à mieux
+   coopérer avec les fact-checkeurs et à priver de publicité les sites
+   diffusant des infox.
 
-   Economie numérique
-   27 oct. 2023abonnés
+Emoji crotte
 
-   Une démonétisation des contenus faux pourrait bouleverser les pratiques
-   sur X. Jusqu’ici, un abonné à la version premium de la plateforme
-   pouvait être rémunéré en fonction du nombre d’interactions à la suite
-   de ses tweets. Il fallait donc faire du clic, quitte à désinformer pour
-   créer une polémique, et accentuer la viralité du contenu partagé. Les
-   utilisateurs «certifiés» sur X produisent d’ailleurs 74 % des
-   affirmations fausses ou sans fondement les plus virales liées à la
-   guerre entre Hamas et Israël, a montré une analyse de la plateforme
-   internationale contre la désinformation NewsGuard publiée le 19
-   octobre.
+   Depuis qu’il a acheté Twitter il y a six mois, le milliardaire Elon
+   Musk a assoupli la modération des contenus problématiques, amplifiant
+   la voix de propagateurs notoires de désinformation sur la plateforme.
+   Twitter a indiqué préférer faire appel à sa propre communauté
+   d’internautes plutôt qu’à des fact-checkeurs, indique une source
+   européenne. Les rapports qu’il rendait sur la désinformation dans le
+   cadre du code de bonnes pratiques étaient très lacunaires.
 
-   L’idée de Musk est donc «d’inciter à l’exactitude plutôt qu’au
-   sensationnalisme», en menaçant les utilisateurs premiums qui
-   pratiqueraient la désinformation d’une perte de revenus.
+   «Si [Elon Musk] n’est pas sérieux sur le code, c’est peut-être mieux
+   qu’il le quitte», commente un responsable à la Commission européenne.
+   L’adhésion au code reste volontaire, en revanche «on ne peut pas se
+   soustraire au DSA», la nouvelle loi sur les services numériques entrée
+   en vigueur mi-novembre dans l’UE, rappelle-t-il. Le DSA contraint les
+   plateformes à déployer des efforts pour «réduire les risques» de
+   désinformation et prévoit des amendes pouvant aller jusqu’à 6 % de leur
+   chiffre d’affaires mondial.
 
-«Codes et données en source ouverte»
-
-   Toutefois, le fonctionnement des «Community Notes» interroge. «Il est
-   important de noter que toute tentative d’utiliser les notes de la
-   communauté comme une arme pour démonétiser des gens sera aussitôt mise
-   en évidence», avertit le propriétaire du réseau social. Son système
-   pourrait donc reconnaître les corrections non légitimes. Surprenant,
-   après la réduction à peau de chagrin des effectifs de modération de la
-   plateforme.
-
-   Elon Musk affirme également que «tout le code et les données sont en
-   source ouverte», ce qui signifie que d’éventuelles fraudes ou
-   dysfonctionnements pourraient être détectés par tous. En théorie. Une
-   enquête du média WIRED du 17 octobre affirme que les «Community Notes»
-   ne fonctionnent pas comme elles le devraient. Ces dernières pourraient
-   bien être vulnérables à des attaques coordonnées, et manqueraient de
-   transparence quant à leur adoption. Le média spécialisé ajoute que les
-   notes souffriraient de «luttes intestines» et de désinformation, sans
-   que X ne se penche réellement dessus.
-
-   Simple outil additionnel à l’origine, les «Community Notes» sont
-   devenues l’un des piliers du X de Musk et une autre pièce de sa guerre
-   contre les médias dits «traditionnels». Dans le flux d’informations, le
-   magnat libertarien défend en effet les échanges de points de vue entre
-   utilisateurs, au détriment des vérifications faites par des
-   journalistes professionnels. Une méthode qui ne semble guère efficace,
-   X étant ciblé par une enquête de l’Union européenne en raison du nombre
-   de fake news sur la guerre Hamas-Israël circulant sur la plateforme.
-   D’autres réseaux sociaux ont par la suite été ciblés.
+   Fin avril, la vice-présidente de la Commission européenne chargée de la
+   transparence, Vera Jourova, avait indiqué se sentir «de plus en plus
+   mal à l’aise sur Twitter» en raison de la propagande russe sur cette
+   plateforme. Elle s’était aussi inquiétée de voir Twitter manquer de
+   personnel dédié à la lutte contre la désinformation, après les
+   licenciements massifs opérés par Musk. Contacté, le service de presse
+   de la firme a répondu - comme à son habitude - par un courriel généré
+   automatiquement avec un emoji en forme de crotte.
 
 Pour aller plus loin :
 
-   Elon MuskRéseaux sociaux
+   Elon Musk
    (BUTTON)
 
 Dans la même rubrique
 
+   Merci de l'avoir posée
+
+Mais au fait, c’est quoi le Cyber Monday ?
+
+   il y a 20min
+   Intelligence artificielle
+
+OpenAI : Helen Toner, la femme qui a tenu tête à Sam Altman et a payé le prix
+fort
+
+   26 nov. 2023abonnés
    Conso
 
 «Le créneau de Temu, c’est de vendre beaucoup et beaucoup»
@@ -223,58 +219,43 @@ Black Friday : «Les commerçants multiplient de manière totalement
 artificielle les occasions de dépenser»
 
    23 nov. 2023abonnés
-   TrombIAnoscope
-
-OpenAI : qui sont les acteurs principaux de la saga qui ébranle le monde de
-la tech ?
-
-   23 nov. 2023abonnés
-   Recherche
-
-IA : Xavier Niel et Rodolphe Saadé propulsent «Kyutai», labo de l’algo dans
-l’Hexagone
-
-   22 nov. 2023abonnés
    À la une
-   Mobilisation
+   Nupes
 
-Violences faites aux femmes : les associations déplorent une réponse trop
-«timide» de l’Etat
+Loi immigration : la gauche se lance dans la bataille
 
-   24 nov. 2023abonnés
-   Reportage
+   26 nov. 2023abonnés
+   Profil
 
-«Ici, on m’aide à reprendre ma vie en main» : dans le Nord, un toit pour les
-victimes de violences conjugales
+Projet de loi immigration : Florent Boudié, le démineur de la macronie
 
-   24 nov. 2023abonnés
+   27 nov. 2023
+   Chez Pol
+
+Les comptes incertains de la macronie sur la loi immigration
+
+   27 nov. 2023abonnés
    Au fil de la journée
 
-EN DIRECT - Guerre Hamas-Israël : l’Egypte a reçu la liste des 14 otages
-israéliens qui doivent être libérés samedi
+EN DIRECT - Gaza : 40 otages ne sont pas aux mains du Hamas, selon le Qatar
 
-   il y a 1min
-   Témoignage Libé
-
-Pascal Hundt, responsable du CICR envoyé vendredi à Gaza : «Les enfants
-otages ne savaient pas où ils étaient»
-
-   25 nov. 2023abonnés
+   il y a 10min
 
 Les plus lus
 
-   L'essentiel
-   Israël a reçu du Hamas une liste d’otages qui devraient être libérés
-   samedi
-   Echange
-   Qui sont les treize otages israéliens libérés ?
-   Chez Pol
-   «On va se fracasser» : pour Les Républicains, une loi immigration �
-   haut risque
+   Médiatiques
+   Enki Bilal, prophète en son plateau, par Daniel Schneidermann
    Abonnés
-   CheckNews
-   Que nous apprennent les images des tunnels découverts par Tsahal sous
-   l’hôpital Al-Shifa, et désormais détruits ?
+   Enquête
+   Yahya Sinwar, chef du Hamas à Gaza, mystificateur fatal d’Israël
+   Abonnés
+   Nervis
+   Après la mort de Thomas, l’extrême droite organise une ratonnade �
+   Romans-sur-Isère et multiplie les tentatives de récupération
+   Abonnés
+   Témoignages
+   Otages du Hamas : «Ils n’ont pas été torturés mais certains jours, ils
+   n’avaient rien à manger»
 
    © Libé 2023
 

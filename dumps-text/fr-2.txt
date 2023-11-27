@@ -344,6 +344,15 @@ Les groupes étatiques, principale cybermenace industrielle
    L’énergie concentre 39% des incidents cyber visant les processus
    ICS/OT.
    Cyber criminalité
+   Cybersécurité : le ministère de l’Intérieur en ordre de bataille
+   27 novembre 2023
+
+Cybersécurité : le ministère de l’Intérieur en ordre de bataille
+
+   Par Général d’armée (2S) Marc WATIN-AUGOUARD
+   La décision était attendue. La publication du décret du 23 novembre
+   2023 portant création du service à compétence nationale, dénommé
+   commandement du ministère de l’Intérieur dans le ...
    La France appréhende deux affiliés russes du rançongiciel Phobos
    21 novembre 2023
 
@@ -381,15 +390,6 @@ L’opération Triangulation met au jour les vulnérabilités d’Apple
    L’équipe de recherche et d’analyse mondiale (GReAT) de Kaspersky a
    révélé fin octobre 2023, lors de son événement annuel, le Security
    Analyst Summit (SAS), de nombreux éléments ...
-   Un service de réexpédition de produits achetés avec des cartes volées
-   victime d’un piratage
-   09 novembre 2023
-
-Un service de réexpédition de produits achetés avec des cartes volées victime
-d’un piratage
-
-   Baptisée SWAT USA Drop Service, cette entreprise cybercriminelle
-   emploie 1 200 personnes aux États-Unis.
    Souveraineté numérique
    TikTok : une application sous haute surveillance
    16 novembre 2023
@@ -579,6 +579,15 @@ Tikehau Capital lance un fonds d’investissement cyber de 200 millions d’euro
    Il se veut « le plus grand véhicule d’investissement dédié à la
    sécurité numérique en Europe ».
    Cyber risques
+   Le « Software Defined Vehicle » : un besoin croissant de cybersécurité
+   27 novembre 2023
+
+Le « Software Defined Vehicle » : un besoin croissant de cybersécurité
+
+   Par Thomas Joos
+   La cybersécurité embarquée des véhicules est au seuil de
+   bouleversements majeurs qui toucheront tous les constructeurs
+   automobiles. Les véhicules sont de plus en plus connectés et ...
    Une faille dans Citrix a permis les attaques contre Boeing, les ports
    australiens et ICBC
    21 novembre 2023
@@ -620,15 +629,6 @@ Google : son Play Store valorise les applications sécurisées
 
    Un badge indique désormais qu’une application a passé un examen de
    cybersécurité.
-   Comment les hameçonneurs exploitent-ils l’OSINT ?
-   09 novembre 2023
-
-Comment les hameçonneurs exploitent-ils l’OSINT ?
-
-   Par Zachary Amos
-   Les renseignements de source ouverte peuvent accroître les risques liés
-   aux escroqueries par phishing. De nombreuses personnes n’ont pas
-   conscience des informations à leur sujet accessibles ...
    Transformation numérique
    Comment l’IA bouscule la propriété intellectuelle
    23 novembre 2023

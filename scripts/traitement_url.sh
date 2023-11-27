@@ -28,14 +28,14 @@ fichier_tableau=$3
 basename=$(basename -s .txt $fichier_urls)
 lineno=1
 
-if [[ $lang == 'zh' ]]
+if [ $lang == 'zh' ]
 then
 	mot="虚假信息"
 	export LANG=C
-elif [[ $lang == 'en' ]]
+elif [ $lang == 'en' ]
 then
  	mot="([Dd]isinformation|[Pp]ropaganda)"
-elif [[ $lang == 'fr' ]]
+elif [ $lang == 'fr' ]
 then
 	mot="([Dd]ésinformation|[Pp]ropagande)"
 fi
@@ -55,7 +55,7 @@ echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $bas
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
 			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
-if [[ $lang == "zh" ]]
+if [ $lang == "zh" ]
 then
 	lang_base=$LANG
 	export LANG=C
@@ -92,7 +92,7 @@ then
 		# pour transformer les 'utf-8' en 'UTF-8' :
 		charset=$(echo $charset | tr "[a-z]" "[A-Z]")
 
-		if [[ $code -eq 200 ]]
+		if [ $code -eq 200 ]
 		then
 			aspiration=$(curl $URL)
 
@@ -150,7 +150,7 @@ else
 			result="Not OK"
 		fi
 
-		if [[ -z $charset ]]
+		if [ -z $charset ]
 		then
 			echo -e "\tencodage non détecté.";
 			charset="UTF-8";
@@ -161,13 +161,13 @@ else
 		# pour transformer les 'utf-8' en 'UTF-8' :
 		charset=$(echo $charset | tr "[a-z]" "[A-Z]")
 
-		if [[ $code -eq 200 ]]
+		if [ $code -eq 200 ]
 		then
 			aspiration=$(curl $URL)
 
 			echo $aspiration
 
-			if [[ $charset == 'UTF-8' ]]
+			if [ $charset == 'UTF-8' ]
 			then
 				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			else
