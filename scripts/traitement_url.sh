@@ -134,7 +134,7 @@ else
 	while read -r URL;
 	do
 		# réponse HTTP
-		code=$(curl -s -L -w "%{http_code}" -o ../aspirations/$basename-$lineno.html $URL)
+		code=$(curl -s -L -w "%{http_code}" -o ../aspirations/$lang/$basename-$lineno.html $URL)
 		
 		# récupération de l'encodage
 		charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)

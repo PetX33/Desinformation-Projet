@@ -1,10 +1,10 @@
    #alternate alternate National » Feed National » CBS Saturday Morning
    Feed
 
-     * More Hostages Released
-     * Hunter Biden
-     * Rosalynn Carter Service
-     * Dog Death Lawsuit
+     * Sandra Day O'Connor
+     * Israel-Hamas War
+     * Santos Expulsion Vote
+     * Cold Case Breakthrough
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -25,24 +25,22 @@
                o Essentials
           +
                o
-                    # 5th group of hostages released after Israel, Hamas
-                      extend cease-fire
-                    # 1 confirmed dead in U.S. military aircraft crash off
-                      Japanese island
-                    # Rosalynn Carter honored in service attended by Jimmy
-                      Carter
-                    # House begins latest effort to expel George Santos
-                      after damning ethics probe
-                    # Ohio police clear 8 officers in shooting death of
-                      Jayland Walker
-                    # Yoga guru held in France on suspicion of sexually
-                      exploiting followers
-                    # Alex Murdaugh sentenced to another 27 years for
-                      financial crimes
-                    # NYC Mayor Eric Adams says top fundraiser reassigned
-                      after FBI raid
-                    # National Christmas Tree toppled by strong winds near
-                      White House
+                    # Sandra Day O'Connor, first woman on the Supreme
+                      Court, dies at 93
+                    # Combat resumes in Gaza as Israel accuses Hamas of
+                      violating cease-fire
+                    # George Santos faces expulsion vote as momentum
+                      builds for ouster
+                    # A look inside the United States' first-ever
+                      certified "Blue Zone"
+                    # Cartel operators posed as U.S. officials to target
+                      Americans in timeshare scam
+                    # Florida Republican Party chair accused of rape
+                    # Posts Trump claimed were made by judge's wife were
+                      not made by her, court says
+                    # How to spend your FSA dollars before they expire
+                    # Liz Cheney: The U.S. is "sleepwalking into a
+                      dictatorship"
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -181,20 +179,16 @@ Social media disinformation spreads amid war in Israel
 Israel & Hamas At War
 
    More
-   Israeli hostages on board Red Cross vehicles on route the Rafah
-   crossing to Egypt
-   5th group of hostages released after Israel, Hamas extend cease-fire
-   Senators Receive Briefing On Situation In Ukraine From Defense
-   Officials
-   CIA director returns to Qatar in push for broader hostage deal
-   israel-hostages.jpg
-   Hamas says it's open to a longer cease-fire and more hostage releases
-   Margalit Moses, a released Israeli hostage
-   Israeli hostage returned to family "is the same but not the same,"
-   niece says
-   9pm-to-12am-clean-aircheck-231124-frame-356537.jpg
-   More hostages freed as Israel, Hamas agree to extend cease-fire by 2
-   days
+   ISRAEL-PALESTINIAN-CONFLICT
+   Israel publishes map of "evacuation zones" in Gaza as airstrikes resume
+   gaza-cbs-marwan-airstrike-post-ceasefire.jpg
+   Combat resumes in Gaza as Israel accuses Hamas of violating cease-fire
+   APTOPIX Israel Palestinians
+   Hamas frees more Israeli hostages as cease-fire holds for 7th day
+   Israeli hostages freed arrive in Israel
+   3 killed in Jerusalem after Israel and Hamas agree to extend Gaza truce
+   ISRAEL-US-PALESTINIAN-CONFLICT-PROTEST
+   Dying mother of Israeli hostage pleads for her release
    More
    In:
      * Disinformation
@@ -222,13 +216,14 @@ Israel & Hamas At War
 
 More from CBS News
 
-Hamas says it's open to a longer cease-fire and more hostage releases
+Combat resumes in Gaza as Israel accuses Hamas of violating cease-fire
 
-Elon Musk visits Israel amid discussions over Starlink internet in Gaza
+Israeli military speaks to Bibas family after Hamas claims mom, 2 kids killed
 
-Israeli hostage returned to family "is the same but not the same," niece says
+Meta shuts down thousands of fake Facebook accounts primed to polarize voters
+ahead of 2024
 
-More hostages freed as Israel, Hamas agree to extend cease-fire by 2 days
+3 killed in Jerusalem after Israel and Hamas agree to extend Gaza truce
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy

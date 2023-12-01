@@ -305,22 +305,17 @@ China lobs tech demo into orbit for People's Republic version of Starlink
    Another mega-constellation incoming
    Networks24 Nov 2023 | 3
 
-DBaaS takes the trouble out of cloud databases
+The GDPR's new ally
 
-   How open-source databases operating in the cloud can deliver
-   performance, flexibility, scalability and cost savings
+   How C2RO and Lenovo deploy edge-cloud AI and computer vision to analyze
+   video footage and stay GDPR compliant
    Sponsored Feature
 
-Cerebras CEO puts Nvidia on blast for 'arming' China with top-tier GPUs
+China's Loongson debuts processor that 'matches Intel silicon circa 2020'
 
-   SC23 Calls biz rival 'un-American' for weaving around chip export ban
-   AI + ML16 Nov 2023 | 5
-
-Australia declares 'nationally significant cyber incident' after port attack
-
-   Asia in brief PLUS: Citrix quits China; Cambodia deports Japanese
-   scammers; Chinese tech CEO disappears; and more
-   Security13 Nov 2023 | 3
+   Best not to dismiss it, as Asus looks to be onboard and advances are
+   promised
+   On-Prem30 Nov 2023 | 32
 
 Nvidiaâs China-market H20 chips hit another speed bump
 
@@ -328,34 +323,39 @@ Nvidiaâs China-market H20 chips hit another speed bump
    Kingdom
    Systems27 Nov 2023 | 2
 
+Cerebras CEO puts Nvidia on blast for 'arming' China with top-tier GPUs
+
+   SC23 Calls biz rival 'un-American' for weaving around chip export ban
+   AI + ML16 Nov 2023 | 5
+
+Today's 'China is misbehaving online' allegations come from Google, Meta
+
+   Zuck boots propagandists, Big G finds surge of action directed at
+   Taiwan
+   Cyber-crime1 Dec 2023 | 4
+
+US lawmakers have Chinese LiDAR on their threat-detection radar
+
+   Amid fears Beijing could harvest spatial data, letter suggests
+   Huawei-style bans may be needed
+   Security30 Nov 2023 | 9
+
 Is America's chip blockade working against China? So far, our survey says: No
 
    Kettle Middle Kingdom can get its hands on hardware now â and still
    make better stuff later
    Public Sector18 Nov 2023 | 30
 
+Australia declares 'nationally significant cyber incident' after port attack
+
+   Asia in brief PLUS: Citrix quits China; Cambodia deports Japanese
+   scammers; Chinese tech CEO disappears; and more
+   Security13 Nov 2023 | 3
+
 Linux Deepin's big brother claims it's hit three million installs
 
    The other big Chinese distro, after Kylin, seems to be thriving
    OSes20 Nov 2023 | 5
-
-Tencent shrugs off effect of US sanctions and says Chinese suppliers will
-fill GPU gap
-
-   Ordered enough Nvidia kit to keep evolving its AI and has plans to work
-   around bans
-   On-Prem17 Nov 2023 |
-
-China's regulator paused VMware purchase probe before desired close date
-
-   Analysis Competitors predict price gouging as employees await news
-   Virtualization22 Nov 2023 | 1
-
-Hundreds of websites cloned to run ads for Chinese football gambling outfits
-
-   Linked to org that UK authorities found once failed its
-   anti-money-laundering obligations
-   Security16 Nov 2023 | 1
 
    The Register icon Biting the hand that feeds IT
 

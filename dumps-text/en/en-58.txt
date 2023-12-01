@@ -1,14 +1,18 @@
    IE 11 is not supported. For an optimal experience visit our site on
    another browser. (BUTTON)
+
+   BREAKING: Sandra Day O’Connor, the first female Supreme Court justice,
+   dies at 93
+   (BUTTON)
    (BUTTON) SKIP TO CONTENT
      * Israel-Hamas war
      * Politics
      * U.S. News
      * World
      * Business
-     * Health
      * NBC News Tipline
      * Video
+     * Health
      * Culture & trends
      * Meet the Press
 
@@ -113,9 +117,9 @@ news Alerts
      * U.S. News
      * World
      * Business
-     * Health
      * NBC News Tipline
      * Video
+     * Health
      * Culture & trends
      * Meet the Press
 

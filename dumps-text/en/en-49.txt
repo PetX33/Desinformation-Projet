@@ -530,7 +530,7 @@ away
        X has filed a lawsuit against media watchdog group Media Matters
        over the latter's research that showed ads on the social network
        appearing next to antisemitic content.
-       8d ago
+       10d ago
      * TechCrunch
 
 Apple, Disney, Comcast among X advertisers pausing spending after Musk
@@ -546,173 +546,177 @@ endorsed antisemitic post
        replied, "You have said the actual truth" to a post that echoed the
        same violent antisemitic conspiracy theory that was espoused by the
        killer from the 2018 Tree of Life synagogue attack.
-       9d ago
+       11d ago
      * Yahoo Finance
 
-Corporate America pays tribute to Charlie Munger
+Quitting Elon Musk is 'free speech' too
 
-       Leaders of big American companies react to the passing of Berkshire
-       Hathaway's Charlie Munger.
-       1h ago
-     * Yahoo Finance
-
-The 'pain trade' for stock investors isn't over yet
-
-       Bond yields will continue to be one of the biggest market stories
-       in 2024 as Wall Street debates when the Federal Reserve will start
-       cutting interest rates.
-       21m ago
-     * Yahoo Sports
-
-Draymond Green makes presence known in return from suspension, but Kings earn
-knockout-round berth
-
-       The intensity of the game, certainly aided by the stakes, was
-       buoyed by a crowd that not only wants revenge but respect from the
-       likes of Green — who’ll likely never give them what they want.
-       3h ago
-     * TechCrunch
-
-Prosus slashes valuation of India's Byju's below $3 billion
-
-       Investment giant Prosus has written down the valuation of edtech
-       giant Byju's to below $3 billion, marking a steep drop from the $22
-       billion valuation the Indian startup hit just early last year.
-       Byju's is facing many "challenges" and Prosus and other backers are
-       working alongside to aid the Bengaluru-headquartered startup's
-       recovery, Prosus interim chief executive Ervin Tu said on an
-       earnings call Wednesday after the investment giant reported
-       financial results for the six months to September.
-       4h ago
-     * Yahoo TV
-
-Viewers react after 'DWTS' plays with their emotions during surprising
-elimination, or lack thereof
-
-       Teasing and toying with competitors and viewers alike, 'Dancing
-       With the Stars' advances entire field to the finals.
-       3h ago
-     * Yahoo Sports
-
-David Tepper's Panthers broke bad in multiple ways. Will he repeat the same
-mistakes in his next coaching hire?
-
-       In terms of placing blame, there is a line being drawn to Tepper
-       wanting Frank Reich to field a staff with significant experience,
-       which led to multiple coaches with different ideologies being
-       spackled into one unit.
-       4h ago
-     * TechCrunch
-
-South African startup GoMetro gets £9M for its fleet management optimization
-software
-
-       GoMetro, a South African tech company that operates in the fleet
-       management space, has raised £9 million (~$11.4 million) in a
-       Series A funding round led by Zenobē Energy, a strategic investor
-       renowned for financing and operating electric buses. Zenobē Energy
-       also engages in large-scale battery projects for wind farms, with
-       the U.K.’s National Grid among its valued customers (notably, the
-       London-based company recently secured a $750 million investment
-       from KKR, earmarked for fleet electrification financing). The fleet
-       electrification platform, which finances large electric buses and
-       trucks in the U.K., Australia, and New Zealand and an interest in
-       the U.S., currently manages and finances about 25% of the entire
-       electric bus fleet in the U.K.
+       Elon Musk's explosive call-out of Disney CEO Bob Iger highlights a
+       fundamental conflict in how the world's richest individual views
+       speech and advertising on his platform X.
        5h ago
+     * TechCrunch
+
+Meta faces more questions in Europe about child safety risks on Instagram
+
+       Meta has received another formal request for information (RFI) from
+       European Union regulators seeking more details of its response to
+       child safety concerns on Instagram -- including what it's doing to
+       tackle risks related to the sharing of self-generated child sexual
+       abuse material (SG-CSAM) on the social network. The request is
+       being made under the bloc's recently rebooted online rulebook the
+       Digital Services Act (DSA), which started applying for larger
+       in-scope platforms (including Instagram) in late August. The DSA
+       puts obligations on Big Tech to tackle illegal content -- including
+       by having measures and protections in place to prevent misuse of
+       their services.
+       1h ago
+     * TechCrunch
+
+X CEO Linda Yaccarino publicly backs Musk after he says 'f*ck yourself' to
+advertisers
+
+       X CEO Linda Yaccarino is publicly backing Elon Musk after he
+       explicitly said "go fuck yourself" to advertisers leaving X during
+       an onstage interview yesterday at The New York Times DealBook
+       Summit. Musk, who in recent days has endorsed antisemitic content
+       on the platform alongside other conspiracy theories, like the
+       debunked Pizzagate, has threatened lawsuits against Media Matters,
+       the Center for Countering Digital Hate and the Anti-Defamation
+       League, claiming their reports are scaring advertisers off the
+       platform. In yesterday's interview, Musk offered an apology for his
+       recent actions, saying he "handed a loaded gun to those who hate
+       me," and that he was "quite sorry."
+       22h ago
+     * Engadget
+
+The Morning After: NASA and IBM team up for powerful AI weather model
+
+       The biggest news stories this morning: The US government halts Meta
+       briefings on foreign influence campaigns, Google Messages now lets
+       you choose your own chat bubble colors, How OpenAI’s ChatGPT has
+       changed the world in just a year.
+       3h ago
+     * Engadget
+
+The Xbox Series X is down to just $349 right now
+
+       If you've been meaning to pick up an Xbox Series X but weren't able
+       to grab one on Black Friday, good news: Walmart has a bundle that
+       pairs the powerful console with a digital copy of the (divisive)
+       action-RPG Diablo IV for an all-time low of $349.
+       2h ago
+     * Engadget
+
+Inside the 'arms race' between YouTube and ad blockers
+
+       YouTube's dramatic content gatekeeping decisions of late have a
+       long history behind them, and there's an equally long history of
+       these defenses being bypassed.
+       2h ago
+     * Yahoo Movies
+
+'The Naked Gun' directors reveal how Priscilla Presley replaced Bo Derek in
+the 1988 comedy
+
+       David Zucker, on the movie's 35th anniversary, explains how Elvis
+       Presley's widow landed her role.
+       34m ago
      * Yahoo Sports
 
-Chris Paul leaves Warriors' in-season tournament loss to the Kings early with
-lower leg soreness
+Oregon State RB Damien Martinez won't play in bowl game after DUII arrest
 
-       Chris Paul played in just five minutes on Tuesday night before he
-       was ruled out with a lower leg injury.
+       Martinez rushed for 1,185 yards in the regular season.
+       1h ago
+     * TechCrunch
+
+Apple releases security updates for iOS, iPadOS and macOS, fixing two
+actively exploited zero-days
+
+       Apple has released security updates for iPhones, iPads and Macs to
+       patch against two vulnerabilities, which the company says are being
+       actively exploited to hack people. The technology giant rolled out
+       new software updates, iOS and iPadOS 17.1.2, and macOS 14.1.2,
+       following a vulnerability disclosure by security researchers at
+       Google's Threat Analysis Group, which investigates
+       government-backed cyberattacks. In the updates rolled out Thursday,
+       Apple said it fixed two vulnerabilities in WebKit, the browser
+       engine that powers Safari and other apps.
+       2h ago
+     * Yahoo Sports
+
+Yahoo Sports AM: Championship weekend
+
+       For the first time in the College Football Playoff's four-team era,
+       eight Power 5 teams enter championship weekend with one loss or
+       fewer
+       3h ago
+     * Yahoo Finance
+
+4 takeaways from Musk’s fiery interview with the New York Times
+
+       Musk commented on his opposition to labor unions, throttling media
+       outlets he doesn't favor, and the perceptions around his trip to
+       Israel.
+       23h ago
+     * Autoblog
+
+2024 BMW M3 CS Track Drive: When calling it ‘fun’ isn’t enough
+
+       We take the AWD 2024 BMW M3 CS to the track to see how it performs
+       when you push it to the limit.
+       5h ago
+     * TechCrunch
+
+Smartphone sales to rebound on AI gains, Morgan Stanley says
+
+       Smartphone sales will mount a comeback starting in 2024, defying
+       growing warnings of a prolonged slump across the mobile sector,
+       according to separate projections by Goldman Sachs and Morgan
+       Stanley reviewed by TechCrunch. Morgan Stanley's report predicts
+       global smartphone shipments will rebound by nearly 4% in 2024 and
+       by 4.4% in 2025, shrugging off comparisons to the PC industry’s
+       multi-year downdrafts. Driving the smartphone turnaround will be
+       new on-device AI capabilities unlocking fresh demand, Morgan
+       Stanley says.
        7h ago
      * Yahoo Sports
 
-Hue Jackson out at Grambling State after just two seasons
+Dak Prescott's MVP arm paired with CeeDee Lamb's versatility give Cowboys the
+firepower they need to cause and get out of trouble
 
-       Grambling State went 8-14 in Jackson's time with the team
-       11h ago
-     * TechCrunch
-
-Fearless Fund grant program was already 'at risk' before lawsuit
-
-       Fearless Fund’s Strivers Grant Program was already in danger before
-       Edward Blum’s American Alliance for Equal Rights sued it in August,
-       according to documents reviewed by TechCrunch. In June, just two
-       months before the lawsuit was filed, the foundation arm of the fund
-       held a company offsite in which it marked the Strivers Grant
-       Program, sponsored by Mastercard, as being "at risk." The briefing
-       document noted that Mastercard cut funding to the program after the
-       organization initially made a five-year pledge to give money to
-       Black founders.
-       12h ago
-     * Yahoo Life
-
-Your burning holiday sex questions — answered by sexologists
-
-       We asked two prominent sexologists common questions about holiday
-       hookups, breakups and sex etiquette.
-       10h ago
-     * Yahoo Personal Finance
-
-How to find the best online checking account for December 2023
-
-       Online checking accounts make it easier than ever to manage your
-       money without ever having to step foot in a bank branch. Here's
-       what you should know.
-       14h ago
-     * In The Know by Yahoo
-
-TikTok’s viral ’12 questions’ quiz is missing one crucial element, therapist
-says
-
-       The questions are simple, but the answers can range from sweet to
-       funny to surprising. The post TikTok’s viral ’12 questions’ quiz is
-       missing one crucial element, therapist says appeared first on In
-       The Know.
-       14h ago
+       Stopping this duo is going to be a nightmare for any defense, even
+       ones that are theoretically equipped to stop it.
+       9h ago
      * Yahoo Sports
 
-Investors seeking $11B in FTX losses sue MLB, Formula 1 and Mercedes racing
-team for promoting fraudulent cryptocurrency exchange
+Cowboys escape with a win over the Seahawks, and maybe Dak Prescott is the
+real MVP
 
-       MLB and Formula 1 join a long list of defendants that includes Tom
-       Brady, Stephen Curry and Shohei Ohtani.
-       12h ago
-     * Yahoo Movies
-
-'Home Alone,' 'A Christmas Story,' 'A Charlie Brown Christmas' are the
-most-rewatched holiday classics, new Yahoo News/YouGov poll shows. What makes
-them so beloved?
-
-       Christmas movies help us tap into emotions, experts say.
+       Dak Prescott had another huge night as the Cowboys escaped with a
+       big win.
        11h ago
      * Engadget
 
-Amazon says its next-gen chips are four times faster for AI training
+Huawei is allegedly building a self-sufficient chip network using state
+investment fund
 
-       AWS unveiled its latest-generation of AI chips intended for model
-       training and for running trained models. It also announced a deeper
-       partnership with Nvidia and unveiled a new AI chatbot.
-       16h ago
-     * Yahoo Life
+       Huawei is allegedly building a self-sufficient chip network, with
+       help from a Shenzhen city government investment fund.
+       10h ago
+     * Yahoo Sports
 
-How did the pandemic affect preschoolers' development? Here's what new
-research says.
+LeBron James says Lakers 'don't have our group yet' amid slow start
 
-       Pandemic learning loss is a major concern — but a new study
-       suggests that for younger kids, there may be more promising news.
+       The Lakers have plenty of injuries, but is that their only problem?
+       10h ago
+     * Engadget
+
+TikTok ban in Montana blocked by US judge over free speech rights
+
+       A US judge has blocked the TikTok ban in Montana over free speech
+       rights.
        14h ago
-     * Autoblog
-
-2024 Polestar 3 Preview Drive Review: Polestar's real future starts here
-
-       The new Polestar 3 is a midsize two-row luxury SUV, and the first
-       model that's a ground-up Polestar design rather than a Volvo
-       derivative.
-       13h ago
        (BUTTON) More Stories
 
    Yahoo news

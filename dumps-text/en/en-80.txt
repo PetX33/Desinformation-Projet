@@ -515,191 +515,192 @@ Chernobyl vodka a ‘strange propaganda exercise’, says victims’ charity
    (BUTTON) (BUTTON)
 
    Recommended Stories
-     * Engadget
+     * TechCrunch
 
-Apple is reportedly ending its partnership with Goldman Sachs
+Apple releases security updates for iOS, iPadOS and macOS, fixing two
+actively exploited zero-days
 
-       It leaves the Apple Card's future uncertain.
+       Apple has released security updates for iPhones, iPads and Macs to
+       patch against two vulnerabilities, which the company says are being
+       actively exploited to hack people. The technology giant rolled out
+       new software updates, iOS and iPadOS 17.1.2, and macOS 14.1.2,
+       following a vulnerability disclosure by security researchers at
+       Google's Threat Analysis Group, which investigates
+       government-backed cyberattacks. In the updates rolled out Thursday,
+       Apple said it fixed two vulnerabilities in WebKit, the browser
+       engine that powers Safari and other apps.
+       2h ago
+     * TechCrunch
+
+Meta faces more questions in Europe about child safety risks on Instagram
+
+       Meta has received another formal request for information (RFI) from
+       European Union regulators seeking more details of its response to
+       child safety concerns on Instagram -- including what it's doing to
+       tackle risks related to the sharing of self-generated child sexual
+       abuse material (SG-CSAM) on the social network. The request is
+       being made under the bloc's recently rebooted online rulebook the
+       Digital Services Act (DSA), which started applying for larger
+       in-scope platforms (including Instagram) in late August. The DSA
+       puts obligations on Big Tech to tackle illegal content -- including
+       by having measures and protections in place to prevent misuse of
+       their services.
        1h ago
-     * Yahoo Finance
-
-The 'pain trade' for stock investors isn't over yet
-
-       Bond yields will continue to be one of the biggest market stories
-       in 2024 as Wall Street debates when the Federal Reserve will start
-       cutting interest rates.
-       22m ago
-     * TechCrunch
-
-Prosus slashes valuation of India's Byju's below $3 billion
-
-       Investment giant Prosus has written down the valuation of edtech
-       giant Byju's to below $3 billion, marking a steep drop from the $22
-       billion valuation the Indian startup hit just early last year.
-       Byju's is facing many "challenges" and Prosus and other backers are
-       working alongside to aid the Bengaluru-headquartered startup's
-       recovery, Prosus interim chief executive Ervin Tu said on an
-       earnings call Wednesday after the investment giant reported
-       financial results for the six months to September.
-       4h ago
      * Yahoo Sports
 
-Ekeler's Edge: Austin on being in 'People's Panic Meter' + Deep dive on young
-RBs
+Oregon State RB Damien Martinez won't play in bowl game after DUII arrest
 
-       Austin Ekeler is back after the holiday week for another episode of
-       'Ekeler's Edge.' Matt Harmon and Ekeler discuss the current state
-       of the Chargers and the RB's latest performances. Ekeler reacts to
-       being put in the 'People's Panic Meter' and assures fantasy
-       managers he's doing everything he can do to turn the season around.
+       Martinez rushed for 1,185 yards in the regular season.
+       1h ago
+     * Yahoo News
+
+Return to office push is 'totally dead,' experts say, as WFH persists
+
+       Many employers were planning to use the fall of 2023 to bring more
+       workers back to the office more consistently, only to discover
+       thatemployees have gotten used to working from home.
+       35m ago
+     * Yahoo Sports
+
+Cameron Brink and Kiki Iriafen find gratitude in growing together to form
+formidable 2-post lineup for Stanford
+
+       Every Stanford opponent has to try to guard not one, but two elite
+       post players. So far, no one has had much luck, as Brink and
+       Iriafen are posting eye-popping numbers.
+       2h ago
+     * In The Know by Yahoo
+
+Gen Z activist Chris McCarty is on a mission to advocate for the children of
+influencers
+
+       Gen Z is the first generation that has grown up totally online.
+       However, growing up with influencer parents has its issues,
+       especially when it comes to monetized content. The post Gen Z
+       activist Chris McCarty is on a mission to advocate for the children
+       of influencers appeared first on In The Know.
+       2h ago
+     * Engadget
+
+Inside the 'arms race' between YouTube and ad blockers
+
+       YouTube's dramatic content gatekeeping decisions of late have a
+       long history behind them, and there's an equally long history of
+       these defenses being bypassed.
+       2h ago
+     * Yahoo Finance
+
+Stock market news today: Stocks wobble with Fed's Powell on deck
+
+       Investors are looking to Fed Chair Jerome Powell to potentially
+       shed light on whether an interest-rate cut lies ahead.
+       3h ago
+     * Yahoo Finance
+
+Quitting Elon Musk is 'free speech' too
+
+       Elon Musk's explosive call-out of Disney CEO Bob Iger highlights a
+       fundamental conflict in how the world's richest individual views
+       speech and advertising on his platform X.
+       5h ago
+     * Autoblog
+
+2024 BMW M3 CS Track Drive: When calling it ‘fun’ isn’t enough
+
+       We take the AWD 2024 BMW M3 CS to the track to see how it performs
+       when you push it to the limit.
+       5h ago
+     * TechCrunch
+
+Smartphone sales to rebound on AI gains, Morgan Stanley says
+
+       Smartphone sales will mount a comeback starting in 2024, defying
+       growing warnings of a prolonged slump across the mobile sector,
+       according to separate projections by Goldman Sachs and Morgan
+       Stanley reviewed by TechCrunch. Morgan Stanley's report predicts
+       global smartphone shipments will rebound by nearly 4% in 2024 and
+       by 4.4% in 2025, shrugging off comparisons to the PC industry’s
+       multi-year downdrafts. Driving the smartphone turnaround will be
+       new on-device AI capabilities unlocking fresh demand, Morgan
+       Stanley says.
        7h ago
-     * Yahoo Life
-
-Your burning holiday sex questions — answered by sexologists
-
-       We asked two prominent sexologists common questions about holiday
-       hookups, breakups and sex etiquette.
-       10h ago
-     * Engadget
-
-Apple Music’s year-end Rewind is here to expose your listening habits
-
-       Apple Music’s full year-end Replay experience has arrived. Although
-       elements of the personalized recap are available year-round, the
-       company spruces up its web interface this time of year for a
-       sleeker presentation as you reflect on your 2023 listening habits.
-       15h ago
      * Yahoo Sports
 
-Report: Mavericks owner Mark Cuban selling majority stake to billionaire
-Miriam Adelson, will retain control of team
+Cowboys escape with a win over the Seahawks, and maybe Dak Prescott is the
+real MVP
 
-       Mark Cuban said last year he wanted to partner with Las Vegas Sands
-       to build a new arena for the Mavericks in a resort and casino.
-       12h ago
+       Dak Prescott had another huge night as the Cowboys escaped with a
+       big win.
+       11h ago
      * Engadget
 
-The 2024 Hyundai Santa Fe adds edge to a comfortable family cruiser
+Huawei is allegedly building a self-sufficient chip network using state
+investment fund
 
-       Hyundai is on a design roll these days, and the 2024 Santa Fe is
-       another fresh and interesting model.
-       13h ago
+       Huawei is allegedly building a self-sufficient chip network, with
+       help from a Shenzhen city government investment fund.
+       10h ago
+     * Yahoo Sports
+
+Week 13 fantasy viewer guide: Games to binge, stream, skip
+
+       49ers-Eagles is set up to be an instant classic but it's not the
+       only game on the Week 13 slate with juicy storylines. CBS Sports
+       Jacob Gibbs joins Matt Harmon for another edition of the fantasy
+       viewer guide and helps identify which games to binge, stream and
+       skip in Week 13.
+       11h ago
+     * Yahoo Life
+
+Marsai Martin, 19, learned the power of her voice when diagnosed with an
+ovarian cyst: ‘Pain is not normal’
+
+       The "Black-ish" alum recalls dealing with reproductive health
+       issues as a young teen.
+       14h ago
+     * Yahoo Celebrity
+
+Dolly Parton, 77, was shamed for her cheerleading outfit. Now her defenders
+are calling out ageism.
+
+       Celebrities Whoopi Goldberg, Christie Brinkley and more defended
+       Parton.
+       14h ago
+     * Yahoo Celebrity
+
+Pirelli's 2024 calendar is here. Photographer Prince Gyasi shares how Naomi
+Campbell, Teyana Taylor helped craft his 'timeless' vision.
+
+       Photographer Prince Gyasi says he handpicked all his models,
+       including Naomi Campbell.
+       16h ago
+     * Yahoo Sports
+
+Basketball phenom Mikey Williams reaches plea deal; likely won't face jail
+time
+
+       Williams faced nine felony charges that carried a penalty of up to
+       30 years in prison.
+       17h ago
      * TechCrunch
 
-LockBit claims cyberattack on India's national aerospace lab
+Former Blue Origin rocket engine manager alleges wrongful termination for
+whistleblowing on safety
 
-       The notorious ransomware gang LockBit has claimed responsibility
-       for a cyberattack targeting India's state-owned aerospace research
-       lab. On Wednesday, LockBit added the National Aerospace
-       Laboratories (NAL) to its dark web leak site, which ransomware
-       gangs use to extort victims for ransom payments. NAL and India's
-       Computer Emergency Response Team (CERT-In) did not immediately
-       respond to requests for comment.
-       13h ago
-     * Yahoo Finance
-
-'Forever chemicals' ruling provides legal victory for 3M, Dupont
-
-       3M and Dupont get a legal victory as they defend against thousands
-       of cases alleging chemicals used in household items like cookware
-       and fabrics caused harm.
-       14h ago
-     * Yahoo Life
-
-How did the pandemic affect preschoolers' development? Here's what new
-research says.
-
-       Pandemic learning loss is a major concern — but a new study
-       suggests that for younger kids, there may be more promising news.
-       14h ago
+       The former program manager of Blue Origin’s BE-4 rocket engines has
+       filed a lawsuit against the company alleging whistleblower
+       retaliation after he spoke up about safety issues. The complaint
+       was filed on Monday in the Los Angeles County Superior Court. It
+       includes a detailed narrative about program manager Craig Stoker’s
+       efforts over seven months to escalate his concerns about safety and
+       a hostile work environment at Blue Origin.
+       18h ago
      * Yahoo Life Shopping
 
-Shoppers are 'ridiculously thankful' for this anti-hair-loss duo — it's down
-to $27
+This $22 Amazon sweatshirt is so soft, shoppers say it's 'made from clouds'
 
-       The shampoo and conditioner set has raked in 17,000+ five-star
-       ratings on Amazon.
-       15h ago
-     * Engadget
-
-Amazon’s new Fallout series will reveal the origins of Vault Boy
-
-       Amazon has revealed more about its upcoming Fallout series on Prime
-       Video. The company shared the first images from the show and gave
-       Vanity Fair a sneak peek ahead of the series’ April debut.
-       14h ago
-     * Yahoo Finance
-
-Disney CEO Bob Iger 'never second-guessed' decision to return despite company
-hurdles
-
-       Disney CEO Bob Iger is content with his decision to return to the
-       company — despite the many challenges he's faced so far.
-       15h ago
-     * In The Know by Yahoo
-
-This $10 shampoo is the industry’s best-kept secret for curing bald spots and
-dryness: 'It’s a miracle, actually!'
-
-       There are tons of shampoos that don't really do much. Over 11,000
-       Amazon shoppers say this cheap shampoo is the industry's best-kept
-       secret.
-       14h ago
-     * Yahoo Sports
-
-Steven Ruiz defends his quarterback rankings | The Exempt List
-
-       Charles McDonald is joined by the Ringer's Steven Ruiz to react to
-       the firing of Panthers Head Coach Frank Reich, their takeaways from
-       Week 12 of the NFL and Steven's infamous quarterback rankings. The
-       duo start off with the Frank Reich firing as they discuss the
-       future of the Panthers organization and how they can support Bryce
-       Young, who looks completely overwhelmed on the field right now.
-       Next, Charles and Steven dive into their takeaways from Week 12.
-       Discourse has emerged around Josh Allen and Justin Herbert due to
-       their disappointing seasons thus far, but Charles steps in to
-       defend both quarterbacks, who are actually having great seasons.
-       Charles and Steven discuss how we might be overrating how important
-       interceptions are to measuring quarterback play. Later, Steven
-       defends the latest edition of his quarterback rankings, as the duo
-       debate over Justin Herbert at #2, C.J. Stroud at #15, Brock Purdy
-       towards the bottom, Sam Howell at #24 and Derek Carr in the middle
-       of the pack.
-       16h ago
-     * Engadget
-
-The TimeSplitters revival may be in limbo as its developer faces potential
-closure
-
-       Free Radical Design, the re-formed studio that's working on a
-       TimeSplitters reboot, could be shut down as soon as December 11,
-       according to a report.
-       15h ago
-     * Yahoo Life Shopping
-
-The most popular jeans at Amazon — starting at $11 (more than 75% off) —
-promise to 'love your curves'
-
-       Fans swear by the flattering Gloria Vanderbilt faves: 'I will live
-       in these!'
-       15h ago
-     * Yahoo Life Shopping
-
-These 13 Lego Cyber Monday deals are going off the grid tonight — our picks,
-from $7
-
-       If you build it, they will come. Santa? Unwanted guests? Not sure
-       who ... but put out some extra cookies just in case.
-       15h ago
-     * In The Know by Yahoo
-
-Here’s where to buy all 5 limited-edition Stanley tumblers — get them before
-they sell out
-
-       The Stanley Quencher tumbler is the most viral insulated drinking
-       vessel of the year. Get it in these five rare colors (all still in
-       stock).
-       21h ago
+       The chic, snuggly pullover has pockets and 18,000-plus fans.
+       18h ago
        (BUTTON) More Stories
 
    Yahoo news

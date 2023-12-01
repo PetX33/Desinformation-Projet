@@ -1,9 +1,9 @@
    #alternate alternate National » Feed National » Politics Feed
 
-     * More Hostages Released
-     * Hunter Biden
-     * Rosalynn Carter Service
-     * Dog Death Lawsuit
+     * Sandra Day O'Connor
+     * Israel-Hamas War
+     * Santos Expulsion Vote
+     * Cold Case Breakthrough
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -24,24 +24,22 @@
                o Essentials
           +
                o
-                    # 5th group of hostages released after Israel, Hamas
-                      extend cease-fire
-                    # U.S. military Osprey crashes into ocean near Japan,
-                      coast guard says
-                    # Rosalynn Carter honored in service attended by Jimmy
-                      Carter
-                    # House begins latest effort to expel George Santos
-                      after damning ethics probe
-                    # Ohio police clear 8 officers in shooting death of
-                      Jayland Walker
-                    # Yoga guru held in France on suspicion of sexually
-                      exploiting followers
-                    # Alex Murdaugh sentenced to another 27 years for
-                      financial crimes
-                    # NYC Mayor Eric Adams says top fundraiser reassigned
-                      after FBI raid
-                    # National Christmas Tree toppled by strong winds near
-                      White House
+                    # Sandra Day O'Connor, first woman on the Supreme
+                      Court, dies at 93
+                    # Combat resumes in Gaza as Israel accuses Hamas of
+                      violating cease-fire
+                    # George Santos faces expulsion vote as momentum
+                      builds for ouster
+                    # A look inside the United States' first-ever
+                      certified "Blue Zone"
+                    # Cartel operators posed as U.S. officials to target
+                      Americans in timeshare scam
+                    # Florida Republican Party chair accused of rape
+                    # Posts Trump claimed were made by judge's wife were
+                      not made by her, court says
+                    # How to spend your FSA dollars before they expire
+                    # Liz Cheney: The U.S. is "sleepwalking into a
+                      dictatorship"
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -203,12 +201,12 @@ More from CBS News
 
    NYC parents worried about respiratory illnesses impacting children in
    China
-   Michigan court says prosecutor can't use statements from teen in school
-   threat case
-   Chester's Police and Fire Departments to use underwater robot for
-   search and recovery missions
-   New Yorkers impacted by medical company's data breach, AG says
-   California launches new effort to clear homeless camps from state roads
+   New study says more exposure of loud noise from infancy to childhood
+   can last a lifetime
+   "New evidence" proves shipwreck is Captain Cook's boat, museum says
+   N.J. lawmakers miffed over leaked congestion pricing toll at GWB, vow
+   to fight
+   Watchdog launches probe into new FBI headquarters site selection
 
    First published on September 28, 2023 / 8:28 PM EDT
 
@@ -224,13 +222,13 @@ More from CBS News
 
 NYC parents worried about respiratory illnesses impacting children in China
 
-Michigan court says prosecutor can't use statements from teen in school
-threat case
+New study says more exposure of loud noise from infancy to childhood can last
+a lifetime
 
-Chester's Police and Fire Departments to use underwater robot for search and
-recovery missions
+"New evidence" proves shipwreck is Captain Cook's boat, museum says
 
-New Yorkers impacted by medical company's data breach, AG says
+N.J. lawmakers miffed over leaked congestion pricing toll at GWB, vow to
+fight
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy

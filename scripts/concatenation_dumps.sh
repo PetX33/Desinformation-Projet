@@ -1,3 +1,5 @@
+# lancer depuis la racine du projet avec: sh ./scripts/concatenation_dumps.sh dossier lang
+
 if [[ $# -ne 2 ]]
 then
   echo "Deux arguments attendus : <dossier> <langue>"
@@ -7,7 +9,7 @@ fi
 folder=$1     # dumps-text OU contextes
 basename=$2   # en, fr, zh
 
-echo "<lang=\"$basename\">" > "../itrameur/$folder-$basename.txt"
+echo "<lang=\"$basename\">" > "./itrameur/$folder-$basename.txt"
 
 for filepath in $(ls $folder/$basename/$basename-*.txt)
 do
@@ -15,8 +17,8 @@ do
 	# 	==> pagename = fr-1
 	pagename=$(basename -s .txt $filepath)
 
-	echo "<page=\"$pagename\">" >> "../itrameur/$folder-$basename.txt"
-	echo "<text>" >> "../itrameur/$folder-$basename.txt"
+	echo "<page=\"$pagename\">" >> "./itrameur/$folder-$basename.txt"
+	echo "<text>" >> "./itrameur/$folder-$basename.txt"
 
 	# on récupère les dumps/contextes
 	# et on écrit à l'intérieur de la balise text
@@ -27,10 +29,10 @@ do
 	content=$(echo "$content" | gsed -E "s/</&lt;/g")
 	content=$(echo "$content" | gsed -E "s/>/&gt;/g")
 
-	echo "$content" >> "../itrameur/$folder-$basename.txt"
+	echo "$content" >> "./itrameur/$folder-$basename.txt"
 
-	echo "</text>" >> "../itrameur/$folder-$basename.txt"
-	echo "</page> §" >> "../itrameur/$folder-$basename.txt"
+	echo "</text>" >> "./itrameur/$folder-$basename.txt"
+	echo "</page> §" >> "./itrameur/$folder-$basename.txt"
 done
 
-echo "</lang>" >> "../itrameur/$folder-$basename.txt"
+echo "</lang>" >> "./itrameur/$folder-$basename.txt"

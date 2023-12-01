@@ -134,20 +134,20 @@
           + Subscriber Only Events
           + Higher Ground Events
           + Videos
-     * Podcasts
-          + Podcasts Main
+     * Video/Podcasts
           + Corrections
-          + Front Page Podcast
+          + All Videos
+          + All Podcasts
+          + The Front Page
           + Politically Unstable
-          + Bold & Blunt
           + History As It Happens
-          + The Unregulated Podcast
-          + Capitol Hill Show
-          + The Rebellion
-          + District of Sports
-          + Court Watch
+          + Bold & Blunt
           + The Higher Ground
-          + Videos
+          + Court Watch
+          + District of Sports
+          + Capitol Hill Show
+          + The Unregulated Podcast
+          + The Rebellion Podcast
      * Games
           + Games Main
           + Corrections
@@ -160,16 +160,16 @@
      * Sign In
 
    TRENDING:
-   Donald Trump
-   Hamas
    Israel
+   Hamas
    Gaza
-   Russia
-   Ukraine
-   Joe Biden
+   Qatar
+   China
+   Beijing
+   Congress
+   Donald Trump
    George Santos
-   NBA
-   Washington
+   Senate
    Advertisement
      * Home
      * Opinion
@@ -199,58 +199,57 @@ Front Page Podcast
 
 Commentary
 
-   Clifford D. May
+   Charles Hurt
 
-Clifford D. May
+Charles Hurt
 
-   Trading terrorists for hostages: Israel agrees to a bad deal for a good
-   reason
-   Peter Navarro
+   Twelve Days of Biden Christmas: Wishing you a very brandy holiday
+   season
+   Scott Walker
 
-Peter Navarro
+Scott Walker
 
-   Trump’s MAGA means commonsense policies, not extremism
-   Peter Morici
+   Republicans must make the economy central in 2024 election campaigns
+   Daniel N. Hoffman
 
-Peter Morici
+Daniel N. Hoffman
 
-   America needs a better president to remain a superpower
+   Mideast war shines a spotlight on TikTok’s dangers
    View all
    Advertisement
 
 Podcasts
 
-   Court Watch with Alex Swoyer
-
-New today: Supreme Court issues a code of conduct
-
-   Alex Swoyer’s Court Watch Podcast
    Bold &amp; Blunt Podcast
 
-Chumley: We need more Christians in politics
+Libertarianism: The other party meat
 
-   Author Bunni Pounds joins Bold & Blunt
+   Keith Redhead joins Cheryl Chumley
    History As It Happens Podcast
 
-Latest episode: The Cold War liberals
+New today: Slavery without the Civil War
 
-   Sam Moyn on the ‘betrayal of liberalism’
+   How long would it have endured?
+   Court Watch with Alex Swoyer
+
+Listen: Supreme Court issues a code of conduct
+
+   Alex Swoyer’s Court Watch Podcast
    View all
 
 Latest Cartoon
 
-   How do you say ceasefire in your language?
+   This tree is a symbol of my ...
 
 Question of the Day
 
-Does the Koch network's support for Nikki Haley influence your vote?
+Is it reasonable for states to ask EV drivers to pay extra fees?
 
    Question of the Day
 
    valid_email_________ ____________________
-   (*)   Yes, more likely to vote Haley
-   ( )   Yes, less like to vote Haley
-   ( )   No, doesn't change my opinion
+   (*)   No, it punishes EV drivers
+   ( )   Yes, they are not paying gas tax
    Vote   View results
 
    Advertisement
