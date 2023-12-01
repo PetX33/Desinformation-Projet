@@ -122,11 +122,7 @@ then
 		# echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
 		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
 
-		# Segment the text dump with the Chinese tokenizer thulac
-		dumptok=$(python3 ./tokenize_chinese.py "../dumps-text/$lang/$basename-$lineno.txt")
-
-		# Crushed the text dump with the Chinese tokenizer thulac
-		echo "$dumptok" > "../dumps-text/$lang/$basename-$lineno.txt"
+		
 
 		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o "$mot" "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
@@ -137,6 +133,12 @@ then
 		# Generate concordance HTML file
 		sh ./concordancier.sh "$lang" "../dumps-text/$lang/$basename-$lineno.txt" "$mot" > "../concordances/$lang/$basename-$lineno.html"
 
+		# Segment the text dump with the Chinese tokenizer thulac
+		dumptok=$(python3 ./tokenize_chinese.py "../dumps-text/$lang/$basename-$lineno.txt")
+
+		# Crushed the text dump with the Chinese tokenizer thulac
+		echo "$dumptok" > "../dumps-text/$lang/$basename-$lineno.txt"
+		
 		# Add a row to the HTML table for each URL
 		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
 
