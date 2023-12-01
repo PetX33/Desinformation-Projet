@@ -37,7 +37,7 @@ lineno=1
 # Setting up the keyword(s) based on the provided language
 if [ "$lang" = 'zh' ]
 then
-	mot="虚假信息|政治宣传"
+	mot="虚假\s?信息|政治\s?宣传"
 	export LANG=C
 elif [ "$lang" = 'en' ]
 then
@@ -122,6 +122,12 @@ then
 		# echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
 		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
 
+		# Segment the text dump with the Chinese tokenizer thulac
+		dumptok=$(python3 ./tokenize_chinese.py "../dumps-text/$lang/$basename-$lineno.txt")
+
+		# Crushed the text dump with the Chinese tokenizer thulac
+		echo "$dumptok" > "../dumps-text/$lang/$basename-$lineno.txt"
+
 		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o "$mot" "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
@@ -192,7 +198,6 @@ else
 			charset=""
 		fi
 
-		#echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
 
 		# Write the dump to a text file
 		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
