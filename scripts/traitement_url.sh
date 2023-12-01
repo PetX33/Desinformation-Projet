@@ -30,7 +30,7 @@ lineno=1
 
 if [ "$lang" = 'zh' ]
 then
-	mot="虚假信息"
+	mot="虚假信息|政治宣传"
 	export LANG=C
 elif [ "$lang" = 'en' ]
 then
@@ -67,7 +67,7 @@ then
 		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
 		# récupération de l'encodage
-		charset=$(curl -Ls $URL -D - -o "../aspirations/fich-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
+		charset=$(curl -Ls $URL -D - -o "../aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
 		# Déterminer le résultat en fonction du code de réponse HTTP
 		if [ "$code" -eq 200 ]; then
@@ -96,8 +96,6 @@ then
 		then
 			aspiration=$(curl $URL)
 
-			echo $aspiration
-
 			if [[ $charset == 'UTF-8' ]]
 			then
 				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
@@ -110,16 +108,16 @@ then
 			dump=""
 			charset=""
 		fi
-		echo "$aspiration" > "../aspirations/$basename-$lineno.html"
-		echo "$dump" > "../dumps-text/$basename-$lineno.txt"
+		echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
+		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
 
-		compte=$(grep -E -i -o "$mot" "../dumps-text/$basename-$lineno.txt" | wc -l)
+		compte=$(grep -E -i -o "$mot" "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
-		grep -E -i -A 2 -B 2 "$mot" "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt"
+		grep -E -i -A 2 -B 2 "$mot" "../dumps-text/$lang/$basename-$lineno.txt" > "../contextes/$lang/$basename-$lineno.txt"
 
-		sh ./concordancier.sh "$lang" "../dumps-text/$basename-$lineno.txt" "$mot" > "../concordances/$basename-$lineno.html"
+		sh ./concordancier.sh "$lang" "../dumps-text/$lang/$basename-$lineno.txt" "$mot" > "../concordances/$lang/$basename-$lineno.html"
 
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
 
 		lineno=$((lineno +1))
 
@@ -135,12 +133,11 @@ echo "motif : $mot"
 else
 	while read -r URL;
 	do
-		echo -e "\tURL : $URL";
 		# réponse HTTP
-		code=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
+		code=$(curl -s -L -w "%{http_code}" -o ../aspirations/$basename-$lineno.html $URL)
 		
 		# récupération de l'encodage
-		charset=$(curl -s -I -L -w "%{content_type}" $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+		charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 
 		# Déterminer le résultat en fonction du code de réponse HTTP
 		if [ "$code" -eq 200 ]; then
@@ -162,9 +159,6 @@ else
 
 		if [ $code -eq 200 ]
 		then
-			aspiration=$(curl $URL)
-
-			echo $aspiration
 
 			if [ "$charset" = 'UTF-8' ]
 			then
@@ -178,17 +172,17 @@ else
 			charset=""
 		fi
 
-		echo "$aspiration" > "../aspirations/$basename-$lineno.html"
+		echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
 
-		echo "$dump" > "../dumps-text/$basename-$lineno.txt"
+		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
 
-		compte=$(grep -E -i -o $mot "../dumps-text/$basename-$lineno.txt" | wc -l)
+		compte=$(grep -E -i -o $mot "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
-		grep -E -i -A 2 -B 2 $mot "../dumps-text/$basename-$lineno.txt" > "../contextes/$basename-$lineno.txt" 
+		grep -E -i -C 3 $mot "../dumps-text/$lang/$basename-$lineno.txt" > "../contextes/$lang/$basename-$lineno.txt" 
 
-		sh ./concordancier.sh $lang "../dumps-text/$basename-$lineno.txt" $mot > "../concordances/$basename-$lineno.html"
+		sh ./concordancier.sh $lang "../dumps-text/$lang/$basename-$lineno.txt" $mot > "../concordances/$lang/$basename-$lineno.html"
 		
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
     	lineno=$((lineno + 1))
 	done < "$fichier_urls"

@@ -23,7 +23,7 @@ then
   exit
 fi
 
-if [ $lang != 'fr' && $lang != "en" && $lang != "zh" ]
+if [[ $lang != 'fr' && $lang != "en" && $lang != "zh" ]]
 then
     echo "La langue doit être fr, en ou zh"
     exit
@@ -57,7 +57,7 @@ echo 	"""
 								</thead>
 									"""
 
-if [ $lang == 'zh' ]
+if [ "$lang" = 'zh' ]
 then
 	grep -E -o "(\w+|\W+){0,10}$motif(\W+|\w+){0,10}" $fichier_text | sed -E "s/(.*)($motif)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
 else
