@@ -305,10 +305,11 @@ China lobs tech demo into orbit for People's Republic version of Starlink
    Another mega-constellation incoming
    Networks24 Nov 2023 | 3
 
-The GDPR's new ally
+Surviving a cyberattack? It ainât what you store, itâs the way you
+restore it
 
-   How C2RO and Lenovo deploy edge-cloud AI and computer vision to analyze
-   video footage and stay GDPR compliant
+   ExaGrid explains why backup and storage tiers can prevent cyber
+   security tears
    Sponsored Feature
 
 China's Loongson debuts processor that 'matches Intel silicon circa 2020'
