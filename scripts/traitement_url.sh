@@ -1,11 +1,15 @@
+# Call from the scripts folder with: sh ./traitement_url.sh <language> <file_urls> <file_table>
+
 #!/usr/bin/env bash
 
+# Check if exactly three arguments are provided
 if [ $# -ne 3 ];
 then
 	echo "Trois arguments attendu exactement"
 	exit
 fi
 
+# Check if the second argument is a file that exists
 if [ -f $2 ]
 then
 	echo "On a bien un fichier"
@@ -14,20 +18,23 @@ else
 	exit
 fi
 
-# Vérifier si ggrep est disponible, sinon utiliser grep
+# Check if ggrep is available, otherwise use grep
 if command -v ggrep > /dev/null; then
     GREP_CMD="ggrep"
 else
     GREP_CMD="grep"
 fi
 
+# Assigning command line arguments to variables
 lang=$1 # fr, en, zh
-fichier_urls=$2
-fichier_tableau=$3
+fichier_urls=$2 # URL file
+fichier_tableau=$3 ## Table file
 
+# Extracting the base name from fichier_urls
 basename=$(basename -s .txt $fichier_urls)
 lineno=1
 
+# Setting up the keyword(s) based on the provided language
 if [ "$lang" = 'zh' ]
 then
 	mot="虚假信息|政治宣传"
@@ -40,7 +47,7 @@ then
 	mot="([Dd]ésinformation|[Pp]ropagande)"
 fi
 
-
+# Starting HTML output for URL table
 echo "<html>
 	<head>
 		<meta charset=\"UTF-8\"/>
@@ -55,27 +62,30 @@ echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $bas
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
 			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
+# If language is Chinese, set the environment language to C for correct character handling
 if [ "$lang" = "zh" ]
 then
 	lang_base=$LANG
 	export LANG=C
 
+	# Read each URL from fichier_urls and process it
 	while read -r URL;
 	do
-		echo -e "\tURL : $URL";
-		# réponse HTTP
+		
+		# HTTP response handling
 		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
-		# récupération de l'encodage
+		# Charset detection and handling
 		charset=$(curl -Ls $URL -D - -o "../aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
-		# Déterminer le résultat en fonction du code de réponse HTTP
+		# Process the URL's contents and save them in different formats
 		if [ "$code" -eq 200 ]; then
 			result="OK"
 		else
 			result="Not OK"
 		fi
 
+		# If charset is not detected, set it to UTF-8
 		if [[ -z $charset ]]
 		then
 			echo -e "\tencodage non détecté.";
@@ -89,7 +99,7 @@ then
 			charset="gb2312"
 		fi
 		
-		# pour transformer les 'utf-8' en 'UTF-8' :
+		# Convert lowercase charset to uppercase
 		charset=$(echo $charset | tr "[a-z]" "[A-Z]")
 
 		if [ $code -eq 200 ]
@@ -108,44 +118,52 @@ then
 			dump=""
 			charset=""
 		fi
-		echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
+		
+		# echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
 		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
 
+		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o "$mot" "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
+		# Extract contexts of the keyword in the text dump
 		grep -E -i -A 2 -B 2 "$mot" "../dumps-text/$lang/$basename-$lineno.txt" > "../contextes/$lang/$basename-$lineno.txt"
 
+		# Generate concordance HTML file
 		sh ./concordancier.sh "$lang" "../dumps-text/$lang/$basename-$lineno.txt" "$mot" > "../concordances/$lang/$basename-$lineno.html"
 
+		# Add a row to the HTML table for each URL
 		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
 
 		lineno=$((lineno +1))
 
 	done < "$fichier_urls"
 
-echo "		</table>
-	</body>
-</html>" >> "$fichier_tableau"
+	# Finish the HTML output
+	echo "		</table>
+		</body>
+	</html>" >> "$fichier_tableau"
 
-echo "motif : $mot"
+	echo "motif : $mot"
 
 
 else
 	while read -r URL;
 	do
-		# réponse HTTP
+		# HTTP response handling
 		code=$(curl -s -L -w "%{http_code}" -o ../aspirations/$lang/$basename-$lineno.html $URL)
 		
-		# récupération de l'encodage
+		# Charset detection and handling
 		charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
 
-		# Déterminer le résultat en fonction du code de réponse HTTP
+		# Process the URL's contents and save them in different formats
+		# 200 OK
 		if [ "$code" -eq 200 ]; then
 			result="OK"
 		else
 			result="Not OK"
 		fi
 
+		# If charset is not detected, set it to UTF-8
 		if [ -z $charset ]
 		then
 			echo -e "\tencodage non détecté.";
@@ -154,15 +172,17 @@ else
 			echo -e "\tencodage : $charset";
 		fi
 
-		# pour transformer les 'utf-8' en 'UTF-8' :
+		# Convert lowercase charset to uppercase
 		charset=$(echo $charset | tr "[a-z]" "[A-Z]")
 
+		
 		if [ $code -eq 200 ]
 		then
-
+			# If charset is UTF-8, use iconv to convert to UTF-8
 			if [ "$charset" = 'UTF-8' ]
 			then
 				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
+			# Otherwise, use the detected charset
 			else
 				dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			fi
@@ -172,21 +192,27 @@ else
 			charset=""
 		fi
 
-		echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
+		#echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
 
+		# Write the dump to a text file
 		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
 
+		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o $mot "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
+		# Extract contexts of the keyword in the text dump
 		grep -E -i -C 3 $mot "../dumps-text/$lang/$basename-$lineno.txt" > "../contextes/$lang/$basename-$lineno.txt" 
 
+		# Generate concordance HTML file
 		sh ./concordancier.sh $lang "../dumps-text/$lang/$basename-$lineno.txt" $mot > "../concordances/$lang/$basename-$lineno.html"
 		
+		# Add a row to the HTML table for each URL
 		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
     	lineno=$((lineno + 1))
 	done < "$fichier_urls"
 
+	# Finish the HTML output
 	echo "		</table>
 		</body>
 	</html>" >> "$fichier_tableau"
