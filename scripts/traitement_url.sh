@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Call from the scripts folder with: sh ./traitement_url.sh <language> <file_urls> <file_table>
+# Call from the scripts folder with: sh ./scripts/traitement_url.sh <language> ./urls/<file_urls> ./tableaux/<file_table>
 
 
 # Check if exactly three arguments are provided
@@ -38,7 +38,7 @@ lineno=1
 # Setting up the keyword(s) based on the provided language
 if [ "$lang" = 'zh' ]
 then
-	mot="虚假\s?信息|政治\s?宣传"
+	mot="虚假\s信息|政治\s宣传"
 	export LANG=C
 elif [ "$lang" = 'en' ]
 then
@@ -57,7 +57,7 @@ echo "<html>
 		<title>Tableau des URLS</title>
 	</head>
 	<body class="has-navbar-fixed-top">
-		<nav class=\"navbar is-light is-fixed-top\"><div class=\"navbar-menu\"><div class=\"navbar-start\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../index.html#introduction\">Introduction</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../index.html#analyse\">Analyse</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../scripts.html\">Scripts</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\">Tableaux</a><div class=\"navbar-dropdown\"><a class=\"navbar-item\" href=\"tableau_fr.html\">Français</a><a class=\"navbar-item\" href=\"tableau_en.html\">Anglais</a><a class=\"navbar-item\" href=\"tableau_zh.html\">Chinois</a></div></div></div><div class=\"navbar-end\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"../index.html#aPropos\">À propos</a></div><div class=\"navbar-item\"><a href=\"https://github.com/PetX33/Desinformation-Projet\"><img src=\"../images/github_logo.png\" alt=\"Github\"></a></div></div></div></nav>" > "$fichier_tableau"
+		<nav class=\"navbar is-light is-fixed-top\"><div class=\"navbar-menu\"><div class=\"navbar-start\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./index.html#introduction\">Introduction</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./index.html#analyse\">Analyse</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./scripts.html\">Scripts</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\">Tableaux</a><div class=\"navbar-dropdown\"><a class=\"navbar-item\" href=\"tableau_fr.html\">Français</a><a class=\"navbar-item\" href=\"tableau_en.html\">Anglais</a><a class=\"navbar-item\" href=\"tableau_zh.html\">Chinois</a></div></div></div><div class=\"navbar-end\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./index.html#aPropos\">À propos</a></div><div class=\"navbar-item\"><a href=\"https://github.com/PetX33/Desinformation-Projet\"><img src=\"./images/github_logo.png\" alt=\"Github\"></a></div></div></div></nav>" > "$fichier_tableau"
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
@@ -66,8 +66,6 @@ echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $bas
 # If language is Chinese, set the environment language to C for correct character handling
 if [ "$lang" = "zh" ]
 then
-	lang_base=$LANG
-	export LANG=C
 
 	# Read each URL from fichier_urls and process it
 	while read -r URL;
@@ -77,7 +75,7 @@ then
 		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
 		# Charset detection and handling
-		charset=$(curl -Ls $URL -D - -o "../aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
+		charset=$(curl -Ls $URL -D - -o "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
 		# Process the URL's contents and save them in different formats
 		if [ "$code" -eq 200 ]; then
@@ -120,26 +118,26 @@ then
 			charset=""
 		fi
 		
-		# echo "$aspiration" > "../aspirations/$lang/$basename-$lineno.html"
-		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
+		# echo "$aspiration" > "./aspirations/$lang/$basename-$lineno.html"
+		echo "$dump" > "./dumps-text/$lang/$basename-$lineno.txt"
 
 		# Segment the text dump with the Chinese tokenizer thulac
-		dumptok=$(python3 ./tokenize_chinese.py "../dumps-text/$lang/$basename-$lineno.txt")
+		dumptok=$(python3 ./scripts/tokenize_chinese.py "./dumps-text/$lang/$basename-$lineno.txt")
 
 		# Crushed the text dump with the Chinese tokenizer thulac
-		echo "$dumptok" > "../dumps-text/$lang/$basename-$lineno.txt"
+		echo "$dumptok" > "./dumps-text/$lang/$basename-$lineno.txt"
 
 		# Count occurrences of the keyword in the text dump
-		compte=$(grep -E -i -o "$mot" "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
+		compte=$(grep -E -i -o "$mot" "./dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
 		# Extract contexts of the keyword in the text dump
-		grep -E -i -A 2 -B 2 "$mot" "../dumps-text/$lang/$basename-$lineno.txt" > "../contextes/$lang/$basename-$lineno.txt"
+		grep -E -i -A 2 -B 2 "$mot" "./dumps-text/$lang/$basename-$lineno.txt" > "./contextes/$lang/$basename-$lineno.txt"
 
 		# Generate concordance HTML file
-		sh ./concordancier.sh "$lang" "../dumps-text/$lang/$basename-$lineno.txt" "$mot"> "../concordances/$lang/$basename-$lineno.html"
+		sh ./scripts/concordancier.sh "$lang" "./dumps-text/$lang/$basename-$lineno.txt" "$mot"> "./concordances/$lang/$basename-$lineno.html"
 
 		# Add a row to the HTML table for each URL
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"./aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"./dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"./contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"./concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
 
 		lineno=$((lineno +1))
 
@@ -157,7 +155,7 @@ else
 	while read -r URL;
 	do
 		# HTTP response handling
-		code=$(curl -s -L -w "%{http_code}" -o ../aspirations/$lang/$basename-$lineno.html $URL)
+		code=$(curl -s -L -w "%{http_code}" -o ./aspirations/$lang/$basename-$lineno.html $URL)
 		
 		# Charset detection and handling
 		charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
@@ -201,19 +199,19 @@ else
 
 
 		# Write the dump to a text file
-		echo "$dump" > "../dumps-text/$lang/$basename-$lineno.txt"
+		echo "$dump" > "./dumps-text/$lang/$basename-$lineno.txt"
 
 		# Count occurrences of the keyword in the text dump
-		compte=$(grep -E -i -o $mot "../dumps-text/$lang/$basename-$lineno.txt" | wc -l)
+		compte=$(grep -E -i -o $mot "./dumps-text/$lang/$basename-$lineno.txt" | wc -l)
 
 		# Extract contexts of the keyword in the text dump
-		grep -E -i -C 3 $mot "../dumps-text/$lang/$basename-$lineno.txt" > "../contextes/$lang/$basename-$lineno.txt" 
+		grep -E -i -C 3 $mot "./dumps-text/$lang/$basename-$lineno.txt" > "./contextes/$lang/$basename-$lineno.txt" 
 
 		# Generate concordance HTML file
-		sh ./concordancier.sh $lang "../dumps-text/$lang/$basename-$lineno.txt" $mot > "../concordances/$lang/$basename-$lineno.html"
+		sh ./concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot > "./concordances/$lang/$basename-$lineno.html"
 		
 		# Add a row to the HTML table for each URL
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="./aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="./dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="./contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="./concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
     	lineno=$((lineno + 1))
 	done < "$fichier_urls"

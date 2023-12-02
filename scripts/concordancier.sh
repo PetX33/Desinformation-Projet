@@ -80,7 +80,7 @@ echo """
 # Search pattern logic for Chinese language
 if [ "$lang" = 'zh' ]
 then
-    LANG=zh_CN.UTF-8 $GREP_CMD -Po "((\p{Han}\s?){0,5}){0,5}$motif((\s?\p{Han}){1,5}){0,5}" $fichier_text | LANG=C $SED_CMD -E -r "s/(.*)($motif)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
+    LANG=zh_CN.UTF-8 $GREP_CMD -Po "(?:\p{Han}{1,}\s){1,5}$motif(?:\s\p{Han}{1,}){0,5}" $fichier_text | LANG=C $SED_CMD -E -r "s/(.*)($motif)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
 # Search pattern logic for other languages
 else
     grep -E -o -i "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $fichier_text | sed -E -r "s/(.*)$motif(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
