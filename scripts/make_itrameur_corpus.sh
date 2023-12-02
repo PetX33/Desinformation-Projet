@@ -1,5 +1,5 @@
 # Execute this script from the root of the project using: sh ./scripts/concatenation_dumps.sh <folder> <language>
-
+# To concatenate files juste use the cat command in terminal : cat dumps-text-*.txt > dumps.txt or cat contextes-*.txt > contextes.txt
 # Check if exactly two arguments are provided
 if [[ $# -ne 2 ]]
 then
