@@ -1,4 +1,6 @@
-# Execute this script from the root of the project using: sh ./scripts/concatenation_dumps.sh <folder> <language>
+#!/usr/bin/env bash
+
+# Execute this script from the root of the project using: sh ./scripts/make_itrameur_corpus.sh <folder> <language>
 # To concatenate files juste use the cat command in terminal : cat dumps-text-*.txt > dumps.txt or cat contextes-*.txt > contextes.txt
 # Check if exactly two arguments are provided
 if [[ $# -ne 2 ]]
@@ -18,26 +20,39 @@ echo "<lang=\"$basename\">" > "./itrameur/$folder-$basename.txt"
 # Loop through each text file in the specified folder and language
 for filepath in $(ls $folder/$basename/$basename-*.txt)
 do
-  # Extract the base name of the file (page name) without the '.txt' extension
+	# Extract the base name of the file (page name) without the '.txt' extension
 	pagename=$(basename -s .txt $filepath)
 
-  # Write the page start tag to the output file
+	# Write the page start tag to the output file
 	echo "<page=\"$pagename\">" >> "./itrameur/$folder-$basename.txt"
-  # Start of the text tag
+	# Start of the text tag
 	echo "<text>" >> "./itrameur/$folder-$basename.txt"
 
-  # Read the contents of the current file
+	# Read the contents of the current file
 	content=$(cat $filepath)
 
-  # Replace special characters to prevent XML/HTML formatting issues
+	# Replace special characters to prevent XML/HTML formatting issues
 	content=$(echo "$content" | gsed -E "s/&/&amp;/g")
 	content=$(echo "$content" | gsed -E "s/</&lt;/g")
 	content=$(echo "$content" | gsed -E "s/>/&gt;/g")
 
-  # Write the processed content to the output file
+	# Replace various forms of "Disinformation" with "disinformation", and "Propaganda" with "propaganda"
+	if [ "$basename" = "en" ]
+	then
+		content=$(echo "$content" | gsed -E "s/\"?[Dd]isinformation\"?/disinformation/gI")
+		content=$(echo "$content" | gsed -E "s/\"?[Pp]ropaganda\"?/propaganda/gI")
+
+	# Replace various forms of "Désinformation" with "désinformation", and "Propagande" with "propagande"
+	elif [ "$basename" = "fr"]
+	then
+		content=$(echo "$content" | gsed -E "s/\"?[Dd]ésinformation\"?/désinformation/gI")
+		content=$(echo "$content" | gsed -E "s/\"?[Pp]ropagande\"?/propagande/gI")
+	fi
+
+	# Write the processed content to the output file
 	echo "$content" >> "./itrameur/$folder-$basename.txt"
 
-  # Close the text and page tags
+	# Close the text and page tags
 	echo "</text>" >> "./itrameur/$folder-$basename.txt"
 	echo "</page> §" >> "./itrameur/$folder-$basename.txt"
 done
