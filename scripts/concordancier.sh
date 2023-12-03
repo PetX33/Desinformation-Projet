@@ -82,7 +82,7 @@ if [ "$lang" = 'zh' ]
 then
     # Export the LANG variable for Chinese
     export LANG=zh_CN.UTF-8
-    $GREP_CMD -Po "(?:\p{Han}{1,}\s){0,5}(虚假信息|政治\s宣传)(\s\p{Han}{1,}){0,5}" "$fichier_text" | LANG=C $SED_CMD -E -r "s/(.*)(虚假信息|政治\s宣传)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
+    $GREP_CMD -Po "(?:\p{Han}{1,}\s){0,5}(虚假信息|政治宣传)(\s\p{Han}{1,}){0,5}" "$fichier_text" | LANG=C $SED_CMD -E -r "s/(.*)(虚假信息|政治宣传)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
 
 # Search pattern logic for other languages
 else
