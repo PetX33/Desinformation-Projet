@@ -121,8 +121,11 @@ then
 		# Segment the text dump with the Chinese tokenizer thulac
 		dumptok=$(python3 ./scripts/tokenize_chinese.py "./dumps-text/$lang/$basename-$lineno.txt")
 
+		dumptok=$(echo "$dumptok" | sed 's/虚假 信息/虚假信息/g')
+
 		# Crushed the text dump with the Chinese tokenizer thulac
 		echo "$dumptok" > "./dumps-text/$lang/$basename-$lineno.txt"
+		
 
 		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o "$mot" "./dumps-text/$lang/$basename-$lineno.txt" | wc -l)
@@ -146,8 +149,79 @@ then
 		</body>
 	</html>" >> "$fichier_tableau"
 
-	echo "motif : $mot"
 
+elif [ "$lang" = "en" ]
+then
+	while read -r URL;
+	do
+		# HTTP response handling
+		code=$(curl -s -L -w "%{http_code}" -o ./aspirations/$lang/$basename-$lineno.html $URL)
+		
+		# Charset detection and handling
+		charset=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | $GREP_CMD -P -o "charset=\S+" | cut -d"=" -f2 | tail -n 1)
+
+		# Process the URL's contents and save them in different formats
+		# 200 OK
+		if [ "$code" -eq 200 ]; then
+			result="OK"
+		else
+			result="Not OK"
+		fi
+
+		# If charset is not detected, set it to UTF-8
+		if [ -z $charset ]
+		then
+			echo -e "\tencodage non détecté.";
+			charset="UTF-8";
+		else
+			echo -e "\tencodage : $charset";
+		fi
+
+		# Convert lowercase charset to uppercase
+		charset=$(echo $charset | tr "[a-z]" "[A-Z]")
+
+		
+		if [ $code -eq 200 ]
+		then
+			# If charset is UTF-8, use iconv to convert to UTF-8
+			if [ "$charset" = 'UTF-8' ]
+			then
+				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
+			# Otherwise, use the detected charset
+			else
+				dump=$(curl $URL | iconv -f $charset -t UTF-8//IGNORE | lynx -stdin  -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
+			fi
+		else
+			echo -e "\tcode différent de 200 utilisation d'un dump vide"
+			dump=""
+			charset=""
+		fi
+
+
+		# Write the dump to a text file
+		echo "$dump" > "./dumps-text/$lang/$basename-$lineno.txt"
+
+		# Count occurrences of the keyword in the text dump
+		compte=$(grep -E -i -o $mot "./dumps-text/$lang/$basename-$lineno.txt" | wc -l)
+
+		# Extract contexts of the keyword in the text dump
+		grep -E -i -C 3 $mot "./dumps-text/$lang/$basename-$lineno.txt" > "./contextes/$lang/$basename-$lineno.txt" 
+
+		# Generate concordance HTML file
+		sh ./scripts/concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot > "./concordances/$lang/$basename-$lineno.html"
+		
+		# Add a row to the HTML table for each URL
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="./aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="./dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="./contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="./concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
+
+    	lineno=$((lineno + 1))
+	done < "$fichier_urls"
+
+	# Finish the HTML output
+	echo "		</table>
+		</body>
+	</html>" >> "$fichier_tableau"
+
+	echo "motif : $mot"
 
 else
 	while read -r URL;
