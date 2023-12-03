@@ -9,6 +9,11 @@
 
 </text>
 </page> §
+<page="zh-100">
+<text>
+
+</text>
+</page> §
 <page="zh-11">
 <text>
 
@@ -17,10 +22,6 @@
 <page="zh-12">
 <text>
 
-今年 8月 ， 美国 斯坦福 大学 网络 观察室 发布 报告 称 ， 推特 、 脸书 等 社交 媒体 首 次 取缔 了 进行 亲美 宣传 的 虚假 账号 。 根据 报告 ， 在 近 5 年 的 时间 里 ， 美国 在
-社交 媒体 上 搭建 针对 中国 、 俄罗斯 、 伊朗 等 国 的 巨大 宣传网 ， 通过 设立 虚假 账号 、 传播 相似 内容 、 制造 话题 热度 等 手段 发动 政治 宣传 和 造谣 行动 。 该 行动 使用 的 账
-号 经常 冒充 新闻 媒体 或者 使用 虚假 身份 ， BBC 举例 称 ， 至少 有 一个 账号 使用 人工智能 将 波多黎各 女 演员 瓦莱里娅 · 梅嫩德斯 的 照片 进行 修改 后 用 作 个人 资料 照片
-冒充 身份 。 卡内基 国际 和平 研究院 高级 学者 加文 · 王尔德 对 美 军方 “ 明显 无效 的 影响 活动 ” 表示 遗憾 ， 称 此举 令 美国 失去 透明度 。 大西洋 理事会 数字 取证 实验室 的
 </text>
 </page> §
 <page="zh-13">
@@ -233,7 +234,102 @@
 
 </text>
 </page> §
+<page="zh-51">
+<text>
+
+</text>
+</page> §
+<page="zh-52">
+<text>
+
+</text>
+</page> §
+<page="zh-53">
+<text>
+
+</text>
+</page> §
+<page="zh-54">
+<text>
+
+</text>
+</page> §
+<page="zh-55">
+<text>
+
+</text>
+</page> §
+<page="zh-56">
+<text>
+
+</text>
+</page> §
+<page="zh-57">
+<text>
+
+</text>
+</page> §
+<page="zh-58">
+<text>
+
+</text>
+</page> §
+<page="zh-59">
+<text>
+
+</text>
+</page> §
 <page="zh-6">
+<text>
+
+</text>
+</page> §
+<page="zh-60">
+<text>
+
+</text>
+</page> §
+<page="zh-61">
+<text>
+
+</text>
+</page> §
+<page="zh-62">
+<text>
+
+</text>
+</page> §
+<page="zh-63">
+<text>
+
+</text>
+</page> §
+<page="zh-64">
+<text>
+
+</text>
+</page> §
+<page="zh-65">
+<text>
+
+</text>
+</page> §
+<page="zh-66">
+<text>
+
+</text>
+</page> §
+<page="zh-67">
+<text>
+
+</text>
+</page> §
+<page="zh-68">
+<text>
+
+</text>
+</page> §
+<page="zh-69">
 <text>
 
 </text>
@@ -243,12 +339,162 @@
 
 </text>
 </page> §
+<page="zh-70">
+<text>
+
+</text>
+</page> §
+<page="zh-71">
+<text>
+
+</text>
+</page> §
+<page="zh-72">
+<text>
+
+</text>
+</page> §
+<page="zh-73">
+<text>
+
+</text>
+</page> §
+<page="zh-74">
+<text>
+
+</text>
+</page> §
+<page="zh-75">
+<text>
+
+</text>
+</page> §
+<page="zh-76">
+<text>
+
+</text>
+</page> §
+<page="zh-77">
+<text>
+
+</text>
+</page> §
+<page="zh-78">
+<text>
+
+</text>
+</page> §
+<page="zh-79">
+<text>
+
+</text>
+</page> §
 <page="zh-8">
 <text>
 
 </text>
 </page> §
+<page="zh-80">
+<text>
+
+</text>
+</page> §
+<page="zh-81">
+<text>
+
+</text>
+</page> §
+<page="zh-82">
+<text>
+
+</text>
+</page> §
+<page="zh-83">
+<text>
+
+</text>
+</page> §
+<page="zh-84">
+<text>
+
+</text>
+</page> §
+<page="zh-85">
+<text>
+
+</text>
+</page> §
+<page="zh-86">
+<text>
+
+</text>
+</page> §
+<page="zh-87">
+<text>
+
+</text>
+</page> §
+<page="zh-88">
+<text>
+
+</text>
+</page> §
+<page="zh-89">
+<text>
+
+</text>
+</page> §
 <page="zh-9">
+<text>
+
+</text>
+</page> §
+<page="zh-90">
+<text>
+
+</text>
+</page> §
+<page="zh-91">
+<text>
+
+</text>
+</page> §
+<page="zh-92">
+<text>
+
+</text>
+</page> §
+<page="zh-93">
+<text>
+
+</text>
+</page> §
+<page="zh-94">
+<text>
+
+</text>
+</page> §
+<page="zh-95">
+<text>
+
+</text>
+</page> §
+<page="zh-96">
+<text>
+
+</text>
+</page> §
+<page="zh-97">
+<text>
+
+</text>
+</page> §
+<page="zh-98">
+<text>
+
+</text>
+</page> §
+<page="zh-99">
 <text>
 
 </text>
