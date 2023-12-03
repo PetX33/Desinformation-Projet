@@ -32,21 +32,21 @@ do
 	content=$(cat $filepath)
 
 	# Replace special characters to prevent XML/HTML formatting issues
-	content=$(echo "$content" | gsed -E "s/&/&amp;/g")
-	content=$(echo "$content" | gsed -E "s/</&lt;/g")
-	content=$(echo "$content" | gsed -E "s/>/&gt;/g")
+	content=$(echo "$content" | sed -E "s/&/&amp;/g")
+	content=$(echo "$content" | sed -E "s/</&lt;/g")
+	content=$(echo "$content" | sed -E "s/>/&gt;/g")
 
 	# Replace various forms of "Disinformation" with "disinformation", and "Propaganda" with "propaganda"
 	if [ "$basename" = "en" ]
 	then
-		content=$(echo "$content" | gsed -E "s/\"?[Dd]isinformation\"?/disinformation/gI")
-		content=$(echo "$content" | gsed -E "s/\"?[Pp]ropaganda\"?/propaganda/gI")
+		content=$(echo "$content" | sed -E "s/\"?[Dd]isinformation\"?/disinformation/gI")
+		content=$(echo "$content" | sed -E "s/\"?[Pp]ropaganda\"?/propaganda/gI")
 
 	# Replace various forms of "Désinformation" with "désinformation", and "Propagande" with "propagande"
 	elif [ "$basename" = "fr"]
 	then
-		content=$(echo "$content" | gsed -E "s/\"?[Dd]ésinformation\"?/désinformation/gI")
-		content=$(echo "$content" | gsed -E "s/\"?[Pp]ropagande\"?/propagande/gI")
+		content=$(echo "$content" | sed -E "s/\"?[Dd]ésinformation\"?/désinformation/gI")
+		content=$(echo "$content" | sed -E "s/\"?[Pp]ropagande\"?/propagande/gI")
 	fi
 
 	# Write the processed content to the output file
