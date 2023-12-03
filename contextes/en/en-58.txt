@@ -1,0 +1,65 @@
+   Tech News
+   Tech News
+
+How the GOP muzzled the quiet coalition that fought foreign propaganda
+
+   The FBI put a pause on briefings with tech companies due to an ongoing
+   lawsuit, adding to a broader breakdown in a system meant to guard
+--
+
+   A once-robust alliance of federal agencies, tech companies, election
+   officials and researchers that worked together to thwart foreign
+   propaganda and disinformation has fragmented after years of sustained
+   Republican attacks.
+
+   The GOP offensive started during the 2020 election as public critiques
+--
+   cybersecurity and has become a favorite target of Republicans, has
+   halted its outreach to Silicon Valley, and the Department of Homeland
+   Security has shuttered a board designed to coordinate its
+   anti-disinformation programs.
+
+   “Some of these efforts really are designed to isolate people and make
+   them feel like they can’t communicate with CISA, like they can’t
+--
+   President Donald Trump and many other conservatives refused to accept
+   the loss and lashed out at political enemies. They targeted a number of
+   election integrity operations, including the channels that shared
+   information on disinformation, often accusing them of censoring
+   conservative voices.
+
+   Many of them focused on Twitter and Facebook’s decision to temporarily
+--
+   2022, the Department of Homeland Security created a board to help
+   coordinate its own response to viral falsehoods, prompting outcry from
+   conservatives who claimed the government was policing speech. Nina
+   Jankowicz, a researcher who studies disinformation and technology, was
+   brought in to run the board and quickly became the target of a
+   debilitating harassment campaign. Homeland Security shut down the board
+   five months later.
+--
+   Biden’s head of CISA, Jen Easterly, a decorated intelligence official
+   who had no prior experience in a public government role, started her
+   tenure with optimism that her agency played a major role confronting
+   disinformation.
+
+   “One could argue we’re in the business of critical infrastructure, and
+   the most critical infrastructure is our cognitive infrastructure, so
+   building that resilience to misinformation and disinformation, I think,
+   is incredibly important,” she said at a talk hosted by Wired magazine
+   in her first year on the job.
+
+   But Easterly, who frequently characterizes herself as nonpartisan, soon
+   withdrew the agency from roles that most actively fought
+   disinformation. Aside from maintaining a webpage that corrects common
+   misconceptions about how elections work, CISA now focuses more on goals
+   like protecting poll workers’ physical safety, connecting election
+   officials with cybersecurity resources, and pushing software companies
+--
+
+   One current X employee, who wasn’t authorized to speak for the company,
+   said they had no remaining faith that the company could handle
+   propaganda campaigns.
+
+   “The company no longer has the team, the tools, or the capabilities to
+   identify and mitigate these attacks,” they said.

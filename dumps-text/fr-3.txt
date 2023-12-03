@@ -1,0 +1,1634 @@
+   #Le Grand Continent » Flux Le Grand Continent » Flux des commentaires
+   alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T5HPFZV
+
+   [gc-m-fr.svg?a=0] Israël, Hamas : la guerre de Soukkot Réagir. Prendre
+   de la hauteur. Cartographier. → Où en est-on ?
+
+   (BUTTON) ____________________ (BUTTON) Rechercher
+
+   (BUTTON) (BUTTON)
+
+     * À propos
+     * Brèves
+     * Régions
+     * Covid-19
+     * Livres
+     * Économie
+     * Environnement
+     * Genre
+     * Guerre
+     * Événements
+
+     * Connexion
+     * S’abonner
+
+   Le Grand Continent
+     __________________________________________________________________
+
+Comprendre la désinformation en Afrique
+
+   Études Arsenalisation : le front de l'information
+   Russie-Ukraine ; Israël-Hamas… La désinformation est l'une des
+   questions brûlantes du contemporain. C’est particulièrement le cas sur
+   le continent africain où elle constitue un double problème politique et
+   géopolitique qui traverse l'ensemble des sociétés. Cette étude fouillée
+   tente de saisir ses contours techniques, politiques et économiques — et
+   d’imaginer des solutions.
+   [SIPA_ap22806622_000002-scaled-125x83.jpg] Fin juillet 2023, des
+   manifestants acclament le coup au Niger. Au centre, l'un d'entre eux
+   brandit un drapeau russe. © Sam Mednick/AP/SIPA
+
+   Auteur
+          Guillaume Soto-Mayor, Admire Mare, Valdez Onanina
+
+   Image
+          © Sam Mednick/AP/SIPA
+
+   Date
+          26 octobre 2023
+
+   (BUTTON) Ajouter Article ajouté (BUTTON) Télécharger le PDF
+
+   Partager
+          Abonnez-vous pour télécharger cet article en format PDF
+
+          → S'abonner
+
+   Aux prémices de l’ère des réseaux sociaux, le continent africain a été
+   témoin d’une augmentation rapide des campagnes de désinformation
+   modernes^1. Il est toutefois important de noter que ce fléau est
+   antérieur à l’ère numérique^2. Bien que la désinformation ait toujours
+   fait partie de l’écologie de l’information et de la communication en
+   Afrique, la nature instantanée des réseaux sociaux a augmenté la
+   fréquence de campagnes d’informations méticuleusement élaborées,
+   intentionnellement fausses et trompeuses. L’ampleur de la
+   désinformation en Afrique reflète une tendance mondiale, soulignant le
+   besoin urgent de comprendre ses origines, ses instigateurs et ses
+   conséquences profondes^3.
+
+   Ces dernières années, la désinformation a joué un rôle central dans les
+   campagnes politiques, les crises de santé publique, les conflits et le
+   soutien aux putschs en Afrique, ce qui incite à examiner de plus près
+   son fonctionnement et son influence sur la vie des sociétés à travers
+   le continent^4. Si certains attribuent son succès à une remise en cause
+   du néocolonialisme, accompagnée de la résurgence de la Russie en tant
+   qu’acteur mondial,  ces analyses négligent un élément crucial : la
+   désinformation en Afrique est avant tout africaine^5. Sous couvert de
+   réflexes post-coloniaux, ces évaluations sous-estiment l’histoire de la
+   désinformation en Afrique, ses protagonistes locaux, ses forces
+   motrices et ses répercussions endogènes sur la stabilité
+   sociopolitique, l’économie et la santé publique^6.
+
+Les vecteurs de désinformation en Afrique
+
+Adaptation historique
+
+   Bien que l’attention portée à la désinformation se concentre sur les
+   médias sociaux, le phénomène n’est pas nouveau en Afrique^7. Il est
+   historiquement répandu dans les journaux, à la télévision et dans
+   d’autres formes de médias traditionnels, et il est antérieur à l’époque
+   coloniale et à l’ère numérique. Pendant la période coloniale, la
+   désinformation a joué un rôle important dans l’élaboration des récits
+   et la perpétuation du contrôle sur les sociétés africaines. Les
+   puissances coloniales ont utilisé diverses tactiques pour diffuser de
+   fausses informations et manipuler les perceptions, notamment en
+   diffusant des stéréotypes et des mythes racistes sur les cultures et
+   les peuples africains, en fonction de leurs intérêts. Cette
+   manipulation de l’information a perpétué des dynamiques de pouvoir
+   inégales et érodé l’identité culturelle et l’estime de soi des
+   communautés africaines. La désinformation a également été utilisée pour
+   réprimer les mouvements de résistance et étouffer les voix des
+   dirigeants africains et des intellectuels dissidents^8.  L’impact de la
+   désinformation à l’époque coloniale a laissé un héritage, façonnant des
+   perceptions et des récits qui continuent d’influencer les discussions
+   contemporaines sur l’histoire et le développement de l’Afrique, par
+   exemple sur ses savoirs.
+
+     Le fléau de la désinformation est antérieur à l’ère numérique.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   L’ère postcoloniale immédiate en Afrique a vu l’adaptation et la
+   poursuite de ces stratégies de désinformation, bien que dans des
+   contextes évolutifs et menées par de nouveaux acteurs. La plupart des
+   pays africains ayant accédé à l’indépendance dans les années 50 et 60,
+   la lutte pour le pouvoir et la formation des gouvernements
+   post-indépendance ont constitué un terrain fertile pour la manipulation
+   de l’information. Les factions politiques, tant nationales
+   qu’étrangères, se sont engagées dans des campagnes de désinformation
+   pour façonner l’opinion publique, déstabiliser les gouvernements et
+   promouvoir leurs propres intérêts politiques et économiques. Les
+   anciennes puissances coloniales ont continué à exercer des pressions
+   sur les régimes à parti unique amis, contrôlant souvent les chaînes de
+   radio et de télévision publiques^9. La désinformation a été utilisée
+   comme un outil pour saper les opposants politiques, diffuser des récits
+   erronés sur les factions rivales et semer la discorde au sein des
+   nations nouvellement créées. Par exemple, pendant l’apartheid en
+   Afrique du Sud dans les années 1970, le gouvernement de l’époque a
+   utilisé l’argent des contribuables pour financer une campagne de
+   désinformation bien huilée, connue sous le nom de « scandale de
+   l’information » ou « Muldergate ». L’État d’apartheid a financé le
+   journal Citizen pour redorer son image au niveau international. À la
+   suite de ce scandale, le Premier ministre John Vorster est tombé et
+   Pieter Willem Botha est entré en fonction. La dynamique de la guerre
+   froide a encore intensifié ces efforts, les puissances mondiales
+   cherchant à exercer une influence et un contrôle sur les gouvernements
+   africains nouvellement installés. Les États-Unis et l’Union soviétique
+   utilisent la propagande et la désinformation pour faire avancer leurs
+   programmes géopolitiques respectifs.
+
+   Les conséquences de ces campagnes ont été considérables. Elles ont sapé
+   la confiance dans les institutions nouvellement établies et entravé les
+   efforts visant à favoriser l’unité nationale et à promouvoir la
+   gouvernance démocratique. L’impact persistant de la désinformation au
+   cours de cette période critique continue de façonner le paysage
+   politique de l’Afrique.
+
+   Les complexités politiques des sociétés africaines et les
+   particularités de leurs espaces civiques influencent toutes les
+   manières dont la (dés)information est produite, distribuée et perçue.
+   Les hiérarchies sociales et la répartition de l’autorité verbale dans
+   les sociétés africaines jouent un rôle important dans la manière dont
+   l’information se propage. Les traditions orales, qui comprennent la
+   satire, les ragots et les plaisanteries, sous-tendent les adaptations
+   créatives de la technologie par les utilisateurs africains des
+   médias^10.  L’information atteint même ceux qui n’ont pas d’accès
+   direct à internet. Une grande partie de la désinformation est diffusée
+   par des moyens oraux, tels que les émissions de radio et les
+   conversations dans les espaces publics comme les mosquées, les églises,
+   les marchés, les maisons familiales, les bars et les lieux de
+   rassemblement du voisinage. En Afrique de l’Ouest, où l’accès direct à
+   l’internet en 2021 concernait 17,3 % de la population^11, les médias
+   sociaux fonctionnent comme une « radio de trottoir »^12, où les
+   communautés se rassemblent autour d’un seul téléphone pour consommer du
+   contenu ensemble. En outre, les messages publiés sur les médias sociaux
+   circulent sur différentes plateformes, se retrouvant dans des groupes
+   WhatsApp, des conversations au restaurant, des discussions à la
+   télévision et des émissions de radio. A travers le continent, le
+   chevauchement de plus en plus flou entre les médias traditionnels et
+   sociaux, ainsi que le bouche-à-oreille, crée donc un écosystème
+   d’information complexe, entrelacé, en ligne et hors ligne.
+
+L’ascension fulgurante des plateformes de médias sociaux
+
+   Les progrès de la téléphonie mobile ont été fulgurants, avec un taux de
+   85 % d’Africains possédant un téléphone portable en 2018, contre à
+   peine 1 % en 2000^13. Cette croissance impressionnante a alimenté de
+   nombreux projets visant à étendre les réseaux cellulaires et de fibre
+   optique à travers le continent, conduisant à l’établissement de la
+   première usine panafricaine de fibre optique au Maroc en mai 2018. En
+   2021, l’Union internationale des télécommunications (UIT) estimait
+   qu’environ 33 % de la population africaine, soit 1,37 milliard de
+   personnes, avait accès à internet, et qu’environ 255 millions de
+   personnes utilisaient activement Facebook^14. En 2010, le taux de
+   pénétration d’internet en Afrique s’élevait à un modeste 2,1 %, il
+   devrait atteindre 43 % en 2023^15. Ces tendances ont radicalement
+   changé la communication, la connectivité et la diffusion de
+   l’information sur le continent. Elles ont opéré un changement de
+   paradigme dans la manière dont les Africains s’engagent dans la
+   technologie, accèdent à l’information et participent au paysage
+   numérique mondial.
+
+     Pendant la période coloniale, la désinformation a joué un rôle
+     important dans l’élaboration des récits et la perpétuation du
+     contrôle sur les sociétés africaines.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   En outre, YouTube, Twitter, Instagram et LinkedIn disposent également
+   d’une base d’utilisateurs importante sur le continent^16.  WhatsApp et
+   Telegram jouent un rôle central dans le paysage en ligne du continent,
+   étant donné que les smartphones sont le principal moyen de connexion à
+   l’internet. Ces nouvelles applications ont révolutionné l’accès à une
+   participation ouverte aux affaires sociopolitiques, car tous les
+   citoyens, quels que soient leur sexe, leur richesse (la plupart de ces
+   applications sont gratuites), leur rang social ou leur niveau
+   d’alphabétisation, sont désormais en mesure d’écouter des Facebook
+   live, d’animer des TikTok live, d’enregistrer des notes vocales et de
+   partager des contenus. A titre d’exemple de l’impact qu’ont ces
+   plateformes dans l’écosystème informationnel en Afrique, des chercheurs
+   estiment qu’en Gambie, en 2021, WhatsApp avait dépassé les médias
+   traditionnels tels que la radio, la télévision et les journaux pendant
+   les élections présidentielles du pays, soulignant ainsi son immense
+   influence^17.
+
+La montée en puissance des « spécialistes de la désinformation » africains
+
+   Dans le contexte spécifique de la désinformation, un nombre croissant
+   de mercenaires digitaux efficaces, disponibles et peu coûteux ont vu le
+   jour ces dernières années sur tout le continent.
+
+   Ces spécialistes de la désinformation adoptent diverses tactiques
+   sophistiquées, notamment l’utilisation de bots, de trolls et de
+   deepfakes, et ont évolué au fil du temps, employant des stratégies qui
+   camouflent leurs origines en externalisant les opérations de
+   publication à des personnalités influentes locales ou « franchisées »
+   des sphères commerciales, culturelles et même religieuses. Ces
+   campagnes utilisent des tactiques telles que le partage en masse par
+   des « influenceurs » et l’utilisation de faux comptes de médias sociaux
+   et de pseudonymes. Des hommes politiques, des gouvernements
+   autoritaires et démocratiquement élus, s’appuient sur ces jeunes
+   chômeurs, souvent qualifiés en graphisme, en informatique ou en
+   communication stratégique, pour mener à bien des campagnes de
+   manipulation. Ces mercenaires ou « guerriers du clavier » sont
+   faiblement rémunérés (par exemple, au Nigeria, ils étaient payés 14
+   dollars par mois pour leurs campagnes de désinformation coordonnées)
+   afin de ternir l’image des concurrents politiques ou économiques.
+
+     L’information atteint même ceux qui n’ont pas d’accès direct à
+     internet.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   La production de fausses informations et de désinformation est devenue
+   un modèle commercial. Au-delà des individus, certains sont des
+   entreprises de relations publiques clandestines ou secrètes qui
+   diffusent de la désinformation sous la forme d’articles isolés ou de
+   campagnes sophistiquées à grande échelle visant à discréditer les
+   opposants politiques^18.
+
+   L’agence GPCI, qui signifie « Groupe Panafricain pour le Commerce et
+   l’Investissement » est l’un des exemples les plus probants de
+   l’émergence de ces nouveaux acteurs de la désinformation en Afrique. Ce
+   groupe est connu pour ses activités de trafic d’influence et de
+   désinformation, opérant principalement au Burkina Faso, au Mali, au
+   Togo, où il est enregistré et a ses bureaux, au Maroc et en République
+   centrafricaine^19.
+
+Nouveaux modes d’expression et méfiance à l’égard des médias traditionnels
+
+   La libéralisation et l’expansion de la scène médiatique depuis les
+   années 90 et l’accès à de nouveaux moyens d’accès et de diffusion de
+   l’information ont eu un impact considérable sur les sociétés
+   africaines. Les critiques adressées aux élites dirigeantes pour leurs
+   pratiques de gouvernance prédatrices de plus en plus visibles ainsi que
+   pour leur incapacité à répondre aux aspirations à l’amélioration des
+   conditions de vie et à l’accès aux services sociaux ont coïncidé avec
+   une augmentation des voix et des récits alternatifs^20.
+
+     En Gambie, en 2021, WhatsApp avait dépassé les médias traditionnels
+     tels que la radio, la télévision et les journaux pendant les
+     élections présidentielles du pays, soulignant ainsi son immense
+     influence.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   Submergées par l’information, les générations en âge de voter remettent
+   en cause le discours politique dominant. Cette tentative de
+   réappropriation des enseignements du passé et d’une actualité
+   débarrassée des commentaires jugés tendancieux et manipulés est
+   porteuse d’une nouvelle conscience civique. Parfois ignorée et
+   sous-estimée par les puissances occidentales, cette réappropriation de
+   l’histoire et l’émergence de nouvelles aspirations socio-politiques à
+   travers tout le continent est importante à respecter et à comprendre.
+   Les nouvelles et les anciennes générations, parfois de manière
+   différente, souhaitent la reconnaissance et à la valorisation de leur
+   patrimoine, de la variété et de la puissance de leurs savoirs. Les
+   priorités quotidiennes sont certes économiques et politiques, mais cela
+   ne signifie pas que les sociétés africaines n’aspirent pas à une
+   nouvelle compréhension des difficultés et des forces de leurs sociétés,
+   de leurs repères et de leurs ressources mémorielles, nationales et
+   panafricaines. Ces tendances alimentent une recherche constante de
+   contre-informations, alternatives aux anciens discours, elles font
+   aussi le lit des différentes formes de désinformation.
+
+La désinformation en politique
+
+   La diffusion délibérée d’informations fausses et trompeuses est devenue
+   une tactique courante employée par ces acteurs pour manipuler les
+   récits, discréditer les opposants et consolider leur emprise sur le
+   pouvoir. L’utilisation de la désinformation s’étend à des paysages
+   politiques plus larges et est déployée pour miner la dissidence, faire
+   taire l’opposition, dissimuler la mauvaise gouvernance et consolider le
+   pouvoir. Des gouvernements utilisent les nouvelles fausses et
+   trompeuses comme des « arguments d’autorité » pour restreindre les
+   droits civiques, la liberté d’expression, de manifestation, de
+   rassemblement et de mouvement de leurs opposants politiques. En outre,
+   la propagation de rumeurs sur les lieux de naissance présumés de
+   personnalités politiques, souvent étrangères, et le rejet de leur
+   légitimité à briguer le pouvoir sont des pratiques assez courantes sur
+   les scènes politiques africaines et y créée des nouvelles tensions. Au
+   Niger, Mohamed Bazoum, alors candidat à la présidence et membre de la
+   communauté arabe (une minorité souvent discriminée), a été accusé
+   d’être né en Libye et non au Niger^21.
+
+   [Lire plus : notre conversation inédite avec Mohamed Bazoum, président
+   du Niger séquestré.]
+
+   Une tendance inquiétante montre que les gouvernements autoritaires,
+   mais aussi, de plus en plus, les gouvernements démocratiquement élus,
+   ont utilisé la désinformation et la prétendue lutte contre la
+   désinformation pour contrôler et réduire les espaces d’expression
+   politique. Les gouvernements ont mis en place des lois pour contrer
+   l’information à visage découvert qui sont de plus en plus utilisées
+   pour protéger leurs propres campagnes de désinformation. C’est par
+   exemple le cas de la loi ougandaise sur les communications de 2013, de
+   la loi camerounaise sur la cybersécurité et la cybercriminalité ou de
+   la proclamation éthiopienne sur la prévention et la suppression des
+   discours haineux et de la désinformation^22. Il en va de même pour la
+   loi de 2021 sur la cyberprotection et la protection des données au
+   Zimbabwe.
+
+     Les critiques adressées aux élites dirigeantes pour leurs pratiques
+     de gouvernance prédatrices de plus en plus visibles ainsi que pour
+     leur incapacité à répondre aux aspirations à l’amélioration des
+     conditions de vie et à l’accès aux services sociaux ont coïncidé
+     avec une augmentation des voix et des récits alternatifs.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   Les voix dissidentes sont réduites au silence et constamment
+   délégitimées par la diffusion de fausses informations sur leurs actions
+   et paroles présentes ou passées, faussement attribuées, ainsi que sur
+   leurs relations personnelles et professionnelles. Par exemple, au
+   Sénégal, lors de l’élection présidentielle de 2019, Ousmane Sonko
+   (aujourd’hui principal opposant de Macky Sall) a été accusé d’avoir
+   accepté d’importants pots-de-vin de la part d’une société pétrolière
+   européenne. La rumeur était basée sur un article dont l’auteur n’a
+   jamais pu être identifié^23. Au cours de la même élection, Sonko a été
+   accusé d’avoir reçu des fonds de campagne de la part de loges
+   maçonniques. De faux documents ont été utilisés pour étayer cette
+   rumeur^24. Lors de la même élection, Sonko et Bougane Guèye Dany (un
+   autre opposant à l’époque) ont été accusés d’avoir reçu des fonds de
+   campagne de la part de loges maçonniques. De faux documents ont été
+   utilisés pour étayer cette rumeur.  Sonko a été contraint de démentir
+   cette rumeur lors d’une conférence de presse.
+
+   Les campagnes contre un adversaire politique peuvent cependant produire
+   des effets contre-productifs et renforcer la légitimité de ce dernier.
+   Cette tendance a été observée ces derniers mois au Sénégal où les
+   autorités ont tenté, à l’aide de vérités partielles, d’informations
+   manipulées et erronées, de contrôler le récit face à des internautes
+   documentant les exactions commises par les forces de sécurité et de
+   défense lors des violentes manifestations de juin 2023 suite à la
+   condamnation à deux ans de prison du principal opposant Ousmane Sonko.
+   À titre d’exemple, la police sénégalaise a diffusé une photographie
+   révélant l’utilisation de machettes et de cocktails Molotov par les
+   manifestants. Néanmoins, les factcheckers nationaux et internationaux
+   ont révélé que la même image avait déjà été partagée sur Twitter le 23
+   mai 2023 par Doudou Ka, le ministre sénégalais des transports aériens
+   et du développement des infrastructures aéroportuaires^25.
+
+La désinformation gagne les élections
+
+   Les campagnes de désinformation influencent de manière croissante les
+   processus électoraux et leurs résultats en Afrique comme dans le reste
+   du monde^26. Une enquête a montré que 87 % des Kényans interrogés
+   avaient été confrontés à la désinformation au cours de la période
+   précédant l’élection présidentielle de 2021^27. Instiller la peur de la
+   violence en diffusant de fausses informations pour faire baisser le
+   taux de participation dans les zones favorables à un adversaire
+   politique est une pratique courante, comme en Côte d’Ivoire lors de
+   l’élection présidentielle de 2020^28. Ces dernières années,
+   l’utilisation de bots s’est accrue et est devenue plus sophistiquée^29.
+   Lors de l’élection de 2018 au Nigéria, des enquêtes ont montré qu’un
+   assistant présidentiel était impliqué dans la diffusion de campagnes de
+   diffamation contre le leader de l’opposition, Atiku Abubakr, en
+   publiant des images et des informations falsifiées, par exemple en
+   alléguant qu’Atiku Abubakr était impliqué dans des campagnes de vente
+   d’enfants des rues.
+
+     Les campagnes contre un adversaire politique peuvent cependant
+     produire des effets contre-productifs et renforcer la légitimité de
+     ce dernier.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   Les candidats aux élections disposant des ressources les plus
+   importantes, et en particulier les dirigeants de gouvernements
+   autoritaires, mènent de vastes campagnes de désinformation en utilisant
+   de faux comptes rémunérés sur Facebook, Twitter, Tik Tok et Instagram.
+   Ces « actifs inauthentiques », bots et « fermes à bots », visent à
+   créer une illusion de consensus autour d’un candidat et à exacerber les
+   tensions politiques dans le fief de l’adversaire. Les élections
+   présidentielles de 2021 en Ouganda constituent une étude de cas
+   intéressante. En effet, les enquêtes menées par le DFRLab ont montré
+   que le président Museveni, son fils et le ministère de l’information,
+   des communications et des technologies ont mené simultanément de vastes
+   campagnes de désinformation visant à discréditer Bobi Wine, le chef de
+   l’opposition, et à créer un faux sentiment de consensus et de soutien
+   autour de la candidature de Museveni^30.
+
+   De vastes campagnes de désinformation sont également menées par des
+   dirigeants démocratiques à travers l’Afrique pour conquérir ou
+   conserver le pouvoir politique. Le président du Sénégal, Macky Sall,
+   aurait ainsi eu recours aux services de la nébuleuse « Team Jorge »,
+   spécialiste de « l’influence, de la manipulation électorale et de la
+   désinformation », pour sa réélection en 2019^31. La tristement célèbre
+   firme britannique Cambridge Analytica a notamment été impliquée dans la
+   diffusion de campagnes de désinformation lors des dernières élections
+   présidentielles au Kenya et au Nigéria^32.
+
+De nouveaux outils de propagande
+
+   Les juntes militaires au pouvoir au Mali, au Burkina Faso et en Guinée
+   ont diffusé des récits pour justifier leurs récents coups d’État^33.
+   Les fausses nouvelles qu’ils ont diffusées, visant à discréditer les
+   démocraties, à promouvoir le besoin d’« hommes forts » pour faire face
+   aux menaces à la sécurité et à se comparer à des figures historiques
+   populaires telles que Thomas Sankara et Che Guevara. Dans le cadre
+   d’efforts concertés avec des bailleurs de fonds étrangers, la junte a
+   fait valoir que les modèles de la Russie et de la Chine, dirigés par
+   des hommes forts et un gouvernement centralisé, leur ont permis de
+   réussir économiquement et militairement^34.
+
+   Au Soudan, une enquête du DFRLab a mis en évidence le fait que le
+   puissant groupe militaire des Forces de Soutien Rapide (FSR) utilisait
+   de fausses pages et de faux comptes Facebook, ainsi que des comptes
+   Instagram, pour vanter sa propre action et les mérites de son chef, le
+   général Hemeti^35. Des pages Facebook, dont certaines ressemblent à des
+   organes de presse comme Sudan Plus (qui comptait plus de 146 000
+   followers), et d’autres comptes non authentiques, présentaient
+   constamment les FSR sous un jour positif, ne postant que des contenus
+   soutenant l’action des FSR et présentant son impact positif pour le
+   Soudan.
+
+   La désinformation est également utilisée par les politiciens pour
+   soutenir ou s’opposer aux réformes nationales, aux initiatives locales
+   et/ou aux idées. En 2021, les résultats d’une recherche menée par la
+   Fondation Mozilla ont montré qu’au Kenya, des cyber-mercenaires ont été
+   payés pour promouvoir des récits, tels que des hashtags, sur de
+   multiples faux comptes afin de donner l’illusion d’un soutien populaire
+   aux réformes constitutionnelles proposées par le gouvernement, qui, si
+   adoptées, auraient favorisé les deux principaux leaders politiques
+   (Kenyatta et Odinga). Il est intéressant de noter que les campagnes de
+   désinformation politique (par exemple, en utilisant #JusticeForSale)
+   ont ciblé les opposants à la réforme, y compris les membres de la Cour
+   suprême du Kenya. Ces campagnes ont entraîné une perte de légitimité du
+   système judiciaire dans son ensemble au Kenya, l’indépendance de ses
+   fonctionnaires ayant été discréditée par les fake news. Ainsi, la
+   désinformation menée par des acteurs politiques fragilise l’ensemble de
+   la structure de l’État.
+
+Désinformation et légitimité religieuse
+
+   Les acteurs religieux ont rejoint le train de la désinformation. Dans
+   un environnement religieux où divers acteurs attachés aux croyances
+   musulmanes et chrétiennes mènent des campagnes de prosélytisme
+   religieux depuis des décennies en Afrique, parfois conflictuelles, la
+   désinformation est devenue un outil puissant pour simultanément
+   promouvoir certaines croyances et pratiques, et discréditer celles de
+   concurrents sur la scène religieuse. Suivant les tendances d’abord
+   utilisées par les évangélistes et les leaders salafistes avec la
+   création de chaînes de télévision et de radio religieuses dans toute
+   l’Afrique, des figures religieuses charismatiques utilisent des médias
+   pour accroître leur pouvoir, pour diffuser des enseignements religieux
+   parfois faussés et des récits égocentriques^36. Cette manipulation de
+   l’information tend à exacerber les tensions et les divisions
+   interconfessionnelles.
+
+     Au Kenya, des cyber-mercenaires ont été payés pour promouvoir des
+     récits, tels que des hashtags, sur de multiples faux comptes afin de
+     donner l’illusion d’un soutien populaire aux réformes
+     constitutionnelles proposées par le gouvernement.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   En Afrique, les acteurs religieux peuvent exploiter des croyances et
+   des pratiques spirituelles profondément ancrées. En capitalisant sur la
+   foi et l’identité religieuse des gens, ces acteurs peuvent diffuser des
+   informations qui résonnent avec les convictions religieuses des
+   individus, ce qui rend plus difficile pour les adeptes de discerner les
+   fake news. Les campagnes de désinformation peuvent impliquer la
+   diffusion de miracles, de prophéties et d’affirmations divines
+   fabriquées de toutes pièces, dans le but de renforcer l’autorité et la
+   légitimité des chefs religieux ou de leurs organisations. Ces pratiques
+   peuvent conduire à l’exploitation et à la manipulation de populations
+   vulnérables, souvent au niveau financier, ce qui renforce encore
+   l’influence de ces acteurs religieux^37.
+
+   Les campagnes de désinformation ont également un impact significatif
+   sur la façon dont de nombreux citoyens perçoivent le monde, leurs
+   communautés et leurs sociétés^38. En effet, la désinformation menée par
+   les acteurs religieux en Afrique dépasse souvent les contextes
+   religieux et touche à des questions politiques et sociales. Elle peut
+   concerner des programmes d’aide internationale ou des initiatives de
+   développement, des processus électoraux ou la promotion de certains
+   programmes politiques.
+
+   Au début des années 2000, la polio était sur le point d’être éradiquée
+   au Nigeria lorsqu’un groupe de religieux et de dirigeants politiques de
+   trois États du nord-est ont prétendu à tort que le vaccin contre la
+   polio contenait des substances susceptibles de rendre les enfants
+   stériles et qu’il faisait partie d’un programme de contrôle des
+   naissances^39. Ils ont demandé à leurs fidèles et à leurs sympathisants
+   de ne pas faire vacciner leurs enfants. Il en est résulté une
+   recrudescence des nouveaux cas. En conséquence, le Nigeria n’a
+   officiellement éradiqué la polio qu’en 2020.
+
+Les acteurs économiques
+
+   L’utilisation de la désinformation par les acteurs économiques en
+   Afrique est devenue une préoccupation croissante, car elle pose des
+   défis importants au développement économique, à la concurrence loyale
+   et à la confiance du public. Les acteurs économiques emploient des
+   stratégies de désinformation pour manipuler la dynamique du marché,
+   influencer l’opinion publique et garantir leurs propres intérêts
+   financiers.
+
+   La désinformation par les acteurs économiques est observée dans le
+   domaine des ressources naturelles et des industries extractives. Des
+   histoires fabriquées de toutes pièces sont diffusées pour manipuler
+   l’opinion publique et tromper les parties prenantes sur les impacts
+   environnementaux, les conséquences sociales et les avantages
+   économiques des projets d’extraction. En occultant les véritables coûts
+   et impacts négatifs de leurs investissements, les acteurs économiques
+   peuvent s’assurer des contrats lucratifs, exploiter les ressources sans
+   garanties adéquates et perpétuer un discours qui favorise leurs
+   intérêts aux dépens des communautés locales et de l’environnement.
+
+     La désinformation par les acteurs économiques est observée dans le
+     domaine des ressources naturelles et des industries extractives.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   En outre, la désinformation par les acteurs économiques entrave les
+   efforts de lutte contre la corruption et de promotion de pratiques
+   commerciales transparentes. Elle est par exemple utilisée pour
+   discréditer les dénonciateurs, manipuler la perception du public et
+   influencer les processus judiciaires, notamment en tentant d’éroder la
+   confiance du public dans le système judiciaire. La famille Gupta, en
+   Afrique du Sud, est un exemple classique de campagne de désinformation
+   menée par des acteurs économiques^40.  S’appuyant sur la société
+   anglaise de relations publiques Bell Pottinger, la famille Gupta a créé
+   un réseau sophistiqué de plateformes de médias grand public (comme le
+   journal New Age et ANN7 TV) et de médias sociaux pour détourner
+   l’attention des pratiques de corruption utilisées dans ses activités
+   économiques. Les recherches suggèrent que leur réseau de fake news a
+   produit au moins 220 000 tweets et des centaines de posts Facebook pour
+   confondre le public sud-africain entre juillet 2016 et juillet 2017.
+
+Les journalistes et les influenceurs
+
+   Les journalistes jouent un rôle important dans les campagnes de
+   désinformation. Les partis pris politiques, les incitations financières
+   ou les pressions exercées par des acteurs puissants ont conduit
+   certains journalistes à s’engager dans des reportages partisans, à
+   faire de la propagande ou à diffuser de fausses informations pour
+   influencer l’opinion publique, en particulier pendant les périodes
+   électorales. Il convient de noter que l’équipe israélienne Jorge s’est
+   principalement appuyée sur des sociétés de médias africaines pour
+   diffuser des campagnes de désinformation^41.
+
+   Les influenceurs et les médias locaux, et non la Russie (qui les a
+   seulement soutenus), ont été les principaux producteurs et diffuseurs
+   de fake news au Mali. Le contenu, les nouvelles et les fausses
+   nouvelles qu’ils ont diffusé ont donné une vue cohérente aux Maliens
+   pour saisir et analyser les échecs de la France dans son opération
+   militaire ou pour découvrir les « vraies » intentions de la France. Ces
+   campagnes de désinformation ont contribué à façonner le véritable
+   soutien populaire à la décision de la junte militaire d’expulser les
+   diplomates et les militaires français du Mali en 2022^42. Les exemples
+   abondent également en Afrique du Sud et au Zimbabwe où des journalistes
+   ont été impliqués dans des campagnes de désinformation orchestrées,
+   notamment lors d’élections et de procès criminels impliquant des
+   personnalités politiques de premier plan^43.
+
+La pression des acteurs externes
+
+   Promouvant leurs intérêts et appuyant leurs alliés sur le continent, de
+   grandes et moyennes puissances jouent un rôle important dans la
+   propagation de la désinformation en Afrique. Ces acteurs s’appuient
+   cependant sur les dynamiques et acteurs endogènes de désinformation et
+   ne peuvent être considérés comme sa source principale. En voici
+   quelques exemples.
+
+La désinformation russe au centre de l’attention
+
+   L’utilisation de la désinformation par la Russie en Afrique a fait
+   l’objet d’une attention particulière ces dernières années. La Russie a
+   stratégiquement employé des tactiques de désinformation pour influencer
+   l’opinion publique et manipuler les processus politiques sur l’ensemble
+   du continent, notamment par l’intermédiaire de médias contrôlés par
+   l’État tels que RT et Sputnik. La Russie a recours à des sociétés de
+   sécurité privées, et plus particulièrement le groupe Wagner, comme
+   producteurs de campagnes de désinformation^44. La Russie s’appuie
+   également sur de faux centres de recherche et organismes de
+   surveillance électorale, parfois gérés par des militants d’extrême
+   droite en Europe, tels que l’activiste néonazi belge Luc Michel et une
+   société qu’il a créée sous le nom de « Russosphère »^45.
+
+   Les campagnes de désinformation russes semblent avoir soigneusement
+   pris en compte les contextes socio-anthropologiques et politiques
+   africains, ainsi que les facteurs locaux et les motivations de la
+   diffusion de la (dés)information. Le recrutement d’experts locaux en
+   politique et en communication, et le choix d’influenceurs (politiques,
+   religieux, associatifs) par la Russie pour promouvoir ses fake news
+   témoignent de cette capacité stratégique^46. Au Mali, proche des
+   réseaux salafistes, Yacouba Doucouré, fils du célèbre leader Silkasso
+   Yacoub Doucouré et cofondateur du Groupement des Patriotes Maliens
+   (GPM). Le GPM a organisé des interventions militaires anti-françaises
+   et pro-russes dès 2018. Leurs campagnes en ligne étaient toutes
+   soutenues par des trolls russes. M. Doucouré a été reçu par
+   l’ambassadeur de Russie à plusieurs reprises.
+
+   Les campagnes de désinformation russes réverbèrent habilement les
+   frustrations des citoyens et exploitent leurs griefs à l’égard des
+   élites dirigeantes et leur méfiance à l’égard des médias
+   traditionnels^47. Ces campagnes de désinformation mettent notamment en
+   avant les thèmes suivants, tout en jetant un éclairage positif sur la
+   Russie : les discours anti-(néo)coloniaux, la lutte contre
+   l’exploitation et les ingérences, la décadence morale de l’Occident en
+   ce qui concerne la promotion des droits des LGBTQ+ et des femmes (par
+   rapport à la défense russe de la religion et des valeurs familiales
+   traditionnelles), ainsi que le besoin d’hommes forts comme Vladimir
+   Poutine. La Russie ne fait souvent qu’exploiter les incohérences
+   politiques et les doubles standards de ses adversaires, notamment en
+   termes de promotion des droits de l’homme et des normes démocratiques.
+   Le message principal est que les pays africains gagneraient à se
+   distancier de leurs anciens colonisateurs européens et à développer des
+   liens plus étroits avec la Russie.
+
+Les acteurs occidentaux
+
+   L’utilisation de la désinformation par la France et les États-Unis en
+   Afrique est un sujet de préoccupation et d’analyse croissant. Les deux
+   pays ont été impliqués dans l’utilisation de tactiques de
+   désinformation pour promouvoir leurs intérêts géopolitiques et
+   économiques respectifs sur le continent^48.
+
+     La Russie ne fait souvent qu’exploiter les incohérences politiques
+     et les doubles standards de ses adversaires, notamment en termes de
+     promotion des droits de l’homme et des normes démocratiques.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   En décembre 2020, Facebook a annoncé la suppression de comptes
+   inauthentiques qui auraient été gérés par des agents français et qui
+   visaient le Mali et la République centrafricaine (RCA). Bien que visant
+   à combattre et à rejeter les campagnes de désinformation russes ciblant
+   ses intérêts, ces campagnes de désinformation ont également cherché à
+   façonner le récit autour de la politique française et de la situation
+   sécuritaire dans le pays.
+
+   En outre, il est notable que des entreprises occidentales ont joué un
+   rôle important dans l’émergence et la diffusion de campagnes de
+   désinformation à grande échelle^49.  La société anglaise Cambridge
+   Analytica, aujourd’hui disparue, a également joué un rôle important
+   dans la production et la diffusion de campagnes de désinformation lors
+   de plusieurs élections présidentielles au Nigéria en 2015^50, et pour
+   soutenir la réélection du président Uhuru Kenyatta au Kenya^51.
+
+Les acteurs du Moyen-Orient
+
+   La Turquie a été accusée d’employer des tactiques de désinformation
+   pour promouvoir ses intérêts politiques et économiques en Afrique^52.
+   Par le biais de médias liés à son gouvernement, les campagnes de
+   désinformation turques consistent souvent à promouvoir une image
+   positive du pays, à mettre en avant ses initiatives de développement et
+   à minimiser les critiques à l’encontre de son gouvernement.
+
+   L’Arabie saoudite a également été identifiée comme un acteur clé dans
+   la diffusion de la désinformation en Afrique, en particulier par le
+   biais de ses médias et des organisations médiatiques qu’elle soutient.
+   Les efforts de désinformation de l’Arabie saoudite en Afrique tournent
+   souvent autour de thèmes religieux et idéologiques, cherchant à
+   influencer l’opinion publique et à maintenir son influence parmi les
+   communautés musulmanes. L’Arabie saoudite et ses alliés traditionnels,
+   tels que le Koweït et les Émirats arabes unis, ont également hébergé et
+   parrainé des comptes de médias sociaux non authentiques pour dénigrer
+   et encourager le renversement d’hommes politiques locaux qui ne sont
+   pas alignés sur leurs intérêts, comme l’ancien président Omar al-Bashir
+   au Soudan. Ils promeuvent également une image positive de leurs alliés,
+   tels que le FSR, un ancien partenaire économique et politique, qui a
+   contribué de manière déterminante au renversement du président
+   al-Bashir en 2019^53.
+
+   Ces dernières années, l’Iran a également utilisé divers comptes de
+   médias sociaux par procuration pour mener des campagnes de
+   désinformation ciblées au Nigeria, au Sénégal et en République
+   centrafricaine^54. Ces campagnes étaient principalement motivées par
+   des considérations politiques et géopolitiques^55. Le Qatar a également
+   été accusé à plusieurs reprises de soutenir des campagnes de
+   désinformation menées par les Frères musulmans ou leurs affiliés dans
+   des pays africains. Il est également accusé d’avoir soutenu des
+   campagnes de désinformation en Libye pour soutenir ses alliés
+   locaux^56.
+
+   [Lire plus : notre étude exclusive et exhaustive sur les réactions des
+   pays africains à la guerre de Soukkot.]
+
+L’influence chinoise
+
+   L’utilisation de la désinformation par la Chine en Afrique a attiré
+   l’attention, car le pays cherche à étendre son influence et à façonner
+   les récits sur le continent. La politique chinoise du « guerrier
+   loup », qui consiste à utiliser ses médias pour influencer les récits
+   mondiaux, permettrait à la Chine de défendre efficacement et
+   discrètement ses intérêts économiques et politiques^57. Les récits
+   stratégiques de la Chine tournent souvent autour des thèmes de la
+   coopération Sud-Sud, des récits anticoloniaux, de la qualité de la
+   stratégie d’investissements directs chinois et de son modèle de
+   développement, ainsi que de la vision partagée d’une communauté ayant
+   un avenir commun. Ces campagnes de désinformation visent également à
+   contrer les discours d’autres acteurs, notamment en ce qui concerne la
+   responsabilité de la Chine dans la crise du covid.
+
+   La désinformation chinoise en Afrique implique ses médias officiels,
+   tels que China Global Television Network (CGTN) et Xinhua News Agency.
+   Il convient également de noter que le réseau social chinois TikTok est
+   devenu l’un des outils de désinformation les plus utilisés sur la scène
+   politique du continent^58. La désinformation sur TikTok a notamment été
+   prépondérante lors des dernières élections au Kenya.
+
+Les conséquences de la désinformation en Afrique sont africaines
+
+   En Afrique, l’impact de la désinformation pourrait être
+   particulièrement important par rapport à d’autres régions du globe.
+   Dans ces régions la désinformation s’appuie sur les antagonismes
+   sociopolitiques, communautaires et/ou religieux existants et les
+   alimente. Des politiques publiques et services publics déjà fortement
+   critiqués peuvent voir leurs champs d’action encore restreints en
+   raison de la diffusion de fausses informations. Le problème de
+   l’analphabétisme, des recherches scientifiques insuffisantes en nombres
+   et audiences, et les limitations à la liberté d’expression et
+   d’information peuvent encore aggraver les effets des campagnes de
+   désinformation^59.
+
+La montée de toutes les formes de violence
+
+   La désinformation joue un rôle important dans l’exacerbation des
+   tensions existantes, l’alimentation des conflits et l’incitation à la
+   violence au sein des sociétés africaines. Plusieurs facteurs clés
+   contribuent à ce phénomène. Les campagnes de désinformation exploitent
+   et amplifient souvent les divisions historiques, ethniques ou
+   religieuses. Les tensions récurrentes entre le Maroc et l’Algérie sont
+   alimentées par des campagnes de désinformation virulentes^60. Cela a
+   aussi été le cas lors des dernières élections au Kenya, où la
+   désinformation a alimenté les griefs sous-jacents entre les communautés
+   et a considérablement exacerbé les comportements violents qui ont
+   conduit à la mort de centaines de personnes.
+
+     Le problème de l’analphabétisme, des recherches scientifiques
+     insuffisantes en nombres et audiences, et les limitations à la
+     liberté d’expression et d’information peuvent encore aggraver les
+     effets des campagnes de désinformation.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   Les campagnes de désinformation peuvent également être délibérément
+   conçues pour susciter la peur, la haine et le ressentiment au sein des
+   communautés. Cette manipulation de l’opinion publique peut conduire à
+   une augmentation de l’animosité, de la polarisation et, en fin de
+   compte, à des actes de violence. Prenons l’exemple des violences
+   xénophobes qui ont eu lieu dans la ville ivoirienne d’Abidjan en mai
+   2021. Ces violences ont été déclenchées par une vidéo partagée sur les
+   réseaux sociaux. On y voit des militaires et des civils maltraiter des
+   individus présentés par certains internautes ivoiriens comme des
+   migrants ivoiriens détenus au Niger. Cette vidéo a poussé certains
+   habitants d’Abidjan à s’en prendre à des membres de la communauté
+   nigérienne de Côte d’Ivoire. En réalité, la vidéo a été sortie de son
+   contexte^61.
+
+   La désinformation est un outil essentiel dont disposent les
+   gouvernements pour délégitimer, déstabiliser et justifier la violence à
+   l’encontre des groupes armés et des rébellions actifs sur leur
+   territoire et vice-versa. En Éthiopie, le gouvernement et les rebelles
+   du Front populaire de libération du Tigré (TPLF) ont tous deux eu
+   recours à des campagnes de désinformation à grande échelle, en
+   diffusant de fausses nouvelles affirmant par exemple que l’armée
+   éthiopienne bombardait le Tigré au phosphore blanc ou que des chefs
+   rebelles étaient morts^62. Au Cameroun, le président Biya et son
+   gouvernement ont mené ces dernières années plusieurs campagnes de
+   désinformation ciblant les séparatistes anglophones, faisant état des
+   atrocités qu’ils auraient commises et incitant les Camerounais
+   francophones à se défendre contre ces prétendues « agressions »^63. Ces
+   campagnes de haine ont servi à susciter la peur chez les Camerounais, à
+   redorer l’image du président Biya et à justifier une fois de plus sa
+   mainmise sur le pouvoir politique. Dans ce cas, la désinformation a
+   également conduit à des violences mortelles contre la minorité
+   anglophone. En fait, comme en Éthiopie, des activistes en ligne et/ou
+   des mercenaires ont directement incité à des massacres communautaires
+   sur Facebook et Twitter.
+
+   La désinformation joue un rôle important dans l’aggravation des
+   divisions religieuses et l’incitation à la violence entre les
+   différents groupes religieux dans de nombreux pays. Des flambées de
+   violence liées à l’insécurité religieuse ont eu lieu au Mali et au
+   Burkina Faso.  En République centrafricaine (RCA), des histoires
+   inventées d’atrocités commises par un groupe religieux contre l’autre
+   ont alimenté l’animosité et conduit à une vague d’attaques ciblées
+   entre les communautés chrétiennes et musulmanes. Un autre exemple est
+   la région soudanaise du Darfour, où des informations déformées,
+   diffusées par les médias traditionnels et sociaux, ont contribué à
+   l’escalade des conflits, entraînant des massacres, des déplacements
+   forcés et la destruction de sites religieux^64.
+
+   Au Nigeria, de faux récits propagés par des groupes extrémistes et
+   amplifiés par des plateformes de médias sociaux ont dépeint les
+   chrétiens comme des ennemis de l’islam, ce qui a conduit à des attaques
+   meurtrières contre des églises, des chefs religieux et des communautés
+   à majorité chrétienne. Suite à la diffusion de fausses images provenant
+   de la RDC, des émeutes ont éclaté dans l’État du Plateau et ont
+   entraîné la mort de 11 personnes, principalement des musulmans peuls,
+   tués par des groupes d’autodéfense majoritairement chrétiens^65.
+
+   En Afrique du Sud, la désinformation a également été utilisée dans le
+   cadre d’attaques bien organisées contre des ressortissants étrangers.
+   Que ce soit en ligne ou hors ligne, la désinformation a été utilisée
+   pour justifier des attaques xénophobes contre des Africains du reste du
+   continent qui séjournent illégalement en Afrique du Sud. Des mouvements
+   insurrectionnels tels que #PutSouthAfricansFirst et #OperationDudula
+   ont été à l’avant-garde de la diffusion de messages haineux à l’égard
+   des étrangers^66. Certaines de leurs désinformations ont été accusées
+   d’avoir alimenté des attaques physiques contre des étrangers au Cap, à
+   Durban et à Johannesburg.
+
+   La désinformation a été utilisée par la junte militaire pour justifier
+   des actes de violence à l’encontre des opposants politiques, pour
+   justifier leur maintien au pouvoir exécutif et pour neutraliser tout
+   mouvement de protestation, notamment au Mali.
+
+   Enfin, la désinformation peut perturber les efforts de consolidation de
+   la paix et saper les initiatives de résolution des conflits. En semant
+   la méfiance et en encourageant les théories du complot, la
+   désinformation peut saper la crédibilité des processus de paix,
+   entraver les efforts de réconciliation et perpétuer les cycles de
+   violence. C’est notamment ce qui se passe actuellement au Mali et en
+   RDC.
+
+La dégradation de la santé publique
+
+   La désinformation exacerbe les problèmes de santé existants. La
+   désinformation en matière de santé est étroitement liée à la
+   désinformation politique et religieuse. La peur, l’inquiétude, la
+   stigmatisation et d’autres fausses informations sur l’épidémie de SRAS
+   et les épidémies d’Ebola, provoquées par des campagnes de
+   désinformation, ont souvent été menées par des acteurs religieux et
+   politiques^67.
+
+   Les campagnes de vaccination constituent un exemple frappant de
+   dégradation de la santé due à la diffusion de fausses informations^68.
+   Pendant la pandémie de COVID-19, la désinformation a alimenté
+   l’hésitation et le scepticisme à l’égard des vaccins, entravant les
+   efforts de vaccination et compromettant la capacité des gouvernements
+   sur le continent à contrôler la propagation du virus. Des études ont
+   révélé que le choix des sources d’information avait un impact
+   considérable sur l’hésitation à l’égard des vaccins contre le
+   COVID-19^69. Au Nigeria, par exemple, de fausses affirmations selon
+   lesquelles les vaccins COVID-19 étaient nocifs et pouvaient altérer
+   l’ADN ont suscité une méfiance généralisée, ce qui s’est traduit par de
+   faibles taux de vaccination et un risque d’infection plus élevé^70.
+   Selon d’autres théories du complot, le COVID-19 était une arme
+   biologique créée par les États-Unis pour briser l’influence chinoise en
+   Afrique.
+
+     La peur, l’inquiétude, la stigmatisation et d’autres fausses
+     informations sur l’épidémie de SRAS et les épidémies d’Ebola,
+     provoquées par des campagnes de désinformation, ont souvent été
+     menées par des acteurs religieux et politiques.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   Avant l’apparition du COVID-19, les campagnes de désinformation avaient
+   déjà un impact massif sur l’utilisation des résultats de la recherche
+   dans la prise de décision par les décideurs politiques. Le rôle de la
+   désinformation dans l’exacerbation de l’épidémie d’Ebola en Afrique de
+   l’Ouest est un autre exemple poignant. De fausses affirmations ont
+   circulé, selon lesquelles la maladie était une conspiration et une
+   invention occidentale, ce qui a suscité de la méfiance à l’égard des
+   interventions de santé publique et la résistance aux efforts
+   d’endiguement de l’épidémie. Cela a favorisé la propagation du virus et
+   entravé l’efficacité des mesures de riposte, ce qui a entraîné de
+   nombreuses pertes en vies humaines et prolongé l’épidémie^71. La même
+   tendance a été observée lorsque l’épidémie de VIH et de sida est
+   arrivée en Afrique à la fin des années 1980 et au début des années
+   1990. Elle a été rejetée comme une invention occidentale destinée à
+   dépeupler le continent africain^72.
+
+   Un autre effet fréquent de la désinformation est le non-respect des
+   directives sanitaires gouvernementales pour lutter contre une maladie
+   ou une pandémie. Les personnes mal informées ont tendance à adopter des
+   actions et des comportements dangereux, notamment en se tournant vers
+   des médicaments nocifs pour guérir un virus. Le personnel de santé
+   nigérian a identifié de nombreux cas de surdose de chloroquine
+   (médicament utilisé pour traiter le paludisme) après que des médias ont
+   prétendu qu’elle était efficace pour le traitement du COVID-19^73. Les
+   informations trompeuses rendent enfin des recommandations essentielles
+   pour la santé de tous, telles que la préconisation sur le lavage des
+   mains, l’isolement social ou la distanciation sociale moins audibles et
+   donc moins suivies^74.
+
+   Les professionnels de la santé deviennent en effet moins audibles en
+   raison de la diffusion de fausses informations mettant en doutes leur
+   expertise^75. La désinformation visant à diminuer l’autorité des
+   scientifiques est parfois associée aux intentions d’acteurs économiques
+   qui tentent de vendre des traitements médicaux non recommandés par des
+   experts. En Afrique du Sud, de fausses affirmations ont été diffusées
+   selon lesquelles la consommation de certaines préparations à base de
+   plantes pouvait guérir le VIH et le sida, ce qui a conduit des
+   personnes à abandonner des traitements fondés sur des preuves médicales
+   et à mettre leur santé en péril.
+
+   L’impact de la désinformation sur la santé sexuelle et reproductive est
+   une autre préoccupation majeure. Une organisation espagnole d’extrême
+   droite, CitizenGQ, a orchestré une campagne de désinformation qui s’est
+   opposée à l’adoption de deux projets de loi sur le droit à la
+   procréation par le parlement kenyan^76. Dans de nombreux pays
+   africains, de fausses informations circulent sur la contraception, les
+   infections sexuellement transmissibles et les services de santé. Cette
+   désinformation peut conduire à des pratiques nuisibles à la santé, à
+   des grossesses non désirées et à la propagation de maladies
+   sexuellement transmissibles.
+
+La cohésion sociopolitique menacée
+
+   La désinformation constitue une menace importante pour la cohésion
+   sociale et politique en Afrique. La désinformation cible différentes
+   communautés, exacerbe les rivalités politiques existantes, polarise les
+   communautés et sape le tissu social des pays. Au Nigeria, la
+   désinformation ciblant les candidats à la présidence s’est souvent
+   appuyée sur leurs croyances religieuses et leur appartenance
+   communautaire, ce qui a contribué à la montée de la violence contre les
+   communautés religieuses. Originaire du Nord et musulman, l’ancien
+   président Buhari a par exemple été accusé de soutenir le groupe
+   djihadiste Boko Haram^77.
+
+   La désinformation a notamment fait reculer l’Afrique en matière
+   d’égalité des sexes et de droits des femmes, notamment parce que les
+   femmes politiques africaines sont de plus en plus ciblées par des
+   « fake news » dégradantes, qui répandent l’idée qu’elles ne seraient
+   pas aptes à gouverner^78.
+
+   Dans toute l’Afrique, certains acteurs religieux ont diffusé des
+   fausses nouvelles sur les politiques liées aux droits des personnes
+   LGBTQ+, qui ont eu un impact important sur ces communautés^79. Les
+   infox diffusées par les acteurs religieux dénoncent souvent
+   l’homosexualité comme une « maladie » à combattre par tous les moyens.
+   Par le biais de fake news, ils attaquent souvent des associations et
+   des personnalités soutenant les droits des LGBTQ+, les accusant d’être
+   eux-mêmes homosexuels. Le succès de ces campagnes au cours des
+   dernières décennies est visible dans de nombreux pays où les droits des
+   femmes et des communautés LGBTQ+ ont reculé^80. Les violences associées
+   à des accusations non vérifiées d’« être homosexuel » se sont
+   multipliées au Sénégal, en Ouganda et en Égypte.
+
+   La désinformation réduit la confiance dans la démocratie dans toute
+   l’Afrique. La désinformation sape également la crédibilité des médias
+   indépendants, ce qui affaiblit encore les fondements d’une gouvernance
+   responsable. La désinformation affecte également de manière critique
+   des médiateurs sociopolitiques prééminents dans les démocraties
+   africaines tels qu’Alioune Tine, célèbre figure sénégalaise qui a
+   récemment été victime de harcèlement en ligne, souvent dans des termes
+   violents et de manière à saper sa crédibilité^81.
+
+Les implications régionales et mondiales
+
+   La diffusion de la désinformation en Afrique a des conséquences
+   importantes aux niveaux mondial et régional. Aux niveaux mondial et
+   régional, l’incertitude et les fausses informations sur les tendances
+   économiques, les investissements ou les relations commerciales, ainsi
+   que la volatilité sociopolitique aggravée par les campagnes de
+   désinformation, peuvent avoir un impact sérieux sur les marchés
+   économiques. La diffusion des risques sanitaires et le manque de
+   capacités de certains États africains à prévenir les futures épidémies
+   de maladies infectieuses et à réduire leur diffusion en raison de la
+   diffusion de la désinformation pourraient avoir de graves conséquences
+   sur la sécurité sanitaire régionale et mondiale.
+
+   Les campagnes de désinformation ciblant des communautés spécifiques ont
+   également suscité des tensions intercommunautaires et des solidarités
+   intracommunautaires au-delà des frontières des États. En fait, les
+   campagnes de désinformation visant les communautés Fulbe en Afrique
+   occidentale et centrale, et leur amalgame avec des groupes armés non
+   étatiques, ont constitué une tendance particulièrement inquiétante au
+   cours de la dernière décennie^82. Ces campagnes de désinformation sur
+   les communautés Fulbe ont eu des conséquences considérables, car ces
+   histoires fabriquées sont présentes (avec des variations) sur les
+   scènes sociales et politiques de la plupart des États d’Afrique de
+   l’Ouest.
+
+   Des récits erronés sur des accords internationaux ou des événements
+   géopolitiques ont conduit à des malentendus et à des tensions entre
+   nations à travers l’Afrique. L’impact de la désinformation a été mis en
+   évidence lors de la récente crise qui a opposé les États malien et
+   ivoirien à la suite de l’arrestation de soldats ivoiriens au Mali^83.
+   Des campagnes de désinformation sur les motivations présumées de la
+   présence du contingent ivoirien au Mali et sur une éventuelle
+   intervention militaire ivoirienne pour libérer ses hommes ont prospéré
+   et ont fortement influencé la perception de la crise de part et
+   d’autre.
+
+   La désinformation peut également affecter les relations entre les
+   nationalités au-delà du continent africain. Comme nous le voyons
+   actuellement en Tunisie, en Afrique du Sud et dans de nombreux pays
+   d’Europe occidentale, les campagnes de désinformation visant les
+   communautés de migrants subsahariens ont des conséquences humanitaires
+   désastreuses et de grande ampleur^84.
+
+     Des récits erronés sur des accords internationaux ou des événements
+     géopolitiques ont conduit à des malentendus et à des tensions entre
+     nations à travers l’Afrique.
+     Admire Mare, Valdez Onanina, Guillaume Soto-Mayor
+
+   Un autre exemple intéressant est la couverture de la crise ukrainienne
+   en Afrique. Une étude montre que la plupart des Africains ont diffusé
+   de la désinformation critiquant l’Occident, les États-Unis et l’Europe,
+   pour le deux poids deux mesures de leurs politiques et attitudes à
+   l’égard des réfugiés africains et de l’aide à l’Afrique, des étudiants
+   africaines en Ukraine ou la comparaison entre les entreprises
+   coloniales et la guerre de Poutine^85. Ainsi, le succès des campagnes
+   de désinformation concernant les acteurs locaux et internationaux doit
+   être compris en parallèle avec l’évolution des sociétés africaines dans
+   leur ensemble (voir ci-dessus) et en fonction des intérêts à court
+   terme de ses principaux acteurs.
+
+La nécessité d’une réglementation plus équitable et d’une vérification
+complète des faits
+
+   Il est essentiel que les pays africains reconnaissent la gravité du
+   problème de la désinformation et mettent en œuvre des stratégies
+   globales qui donnent la priorité à la protection de la liberté
+   d’expression, au renforcement des médias indépendants et à
+   l’implication active des acteurs de la société civile dans la lutte
+   contre la désinformation. En ce qui concerne les acteurs
+   internationaux, il est enfin indispensable de reconnaître que la
+   désinformation en Afrique n’est ni russe, ni française, ni chinoise, ni
+   américaine, mais avant tout africaine. En effet, le succès de la
+   désinformation en Afrique s’explique par des contextes
+   socio-économiques, historiques et politiques propres au continent. Ses
+   principaux acteurs sont africains et le succès de la désinformation a
+   également des conséquences propres au continent. Naturellement, la
+   lutte contre la désinformation sur le continent nécessitera également
+   des solutions sur mesure, adaptées aux réalités locales, inventées et
+   mises en œuvre par des acteurs africains.
+
+Quelle voie suivre ?
+
+   L’absence d’une presse indépendante est un problème grave, qui exacerbe
+   la résonance de la désinformation. Le secteur des médias est confronté
+   à des défis structurels, notamment un modèle économique fragile qui le
+   rend vulnérable à la manipulation par les élites politiques et
+   économiques. Le déclin de la presse indépendante et le manque
+   d’investissement dans le journalisme d’investigation contribuent
+   également à la propagation de la désinformation. Toutefois, les
+   organisations de la société civile, y compris les vérificateurs de
+   faits, peuvent jouer un rôle crucial dans la lutte contre la
+   désinformation en renforçant la vérité et en démystifiant les fausses
+   informations. Ces acteurs ont le potentiel de mener des campagnes
+   d’alphabétisation numérique au niveau local qui répondent à des
+   préoccupations immédiates telles que le changement climatique, la
+   propriété foncière et l’extrémisme religieux. Pour lutter efficacement
+   contre les campagnes de désinformation régionales, des organisations
+   comme Code for Africa soulignent l’importance d’une présence locale et
+   d’une équipe diversifiée parlant couramment plusieurs langues dans la
+   région. Dans le même ordre d’idées, Africa Check, la toute première
+   organisation indépendante de vérification des faits basée en Afrique,
+   travaille depuis plus de dix ans à promouvoir la vérification des faits
+   sur tout le continent et à rassembler tous les vérificateurs de faits
+   africains. En 2022, à Nairobi, Africa Check a organisé la toute
+   première réunion annuelle d’Africa Facts, le réseau des fact-checkers
+   africains. Des organisations telles que Congo Check, certifiée par
+   l’International Fact-checking Network, ont été créées grâce au mentorat
+   d’Africa Check et jouent un rôle crucial dans la lutte contre la
+   désinformation en RDC, en particulier dans l’est du pays, en proie à la
+   violence.
+
+   Une législation plus stricte pourrait être un moyen de s’attaquer à la
+   désinformation dans la région. Cependant, le fléau de la désinformation
+   n’a pas été pris suffisamment au sérieux par les politiciens du
+   continent, qui ont lancé un mouvement insuffisant, et plutôt
+   contre-productif, de « réglementation » du cyberespace. En fait, les
+   tentatives des législateurs nigérians d’adopter le projet de loi sur la
+   protection contre la falsification et la manipulation sur Internet en
+   2019 illustrent la tendance alarmante des gouvernements à utiliser la
+   désinformation comme prétexte pour faire taire la dissidence en
+   ligne^86. Cette approche a été adoptée par plusieurs pays d’Afrique de
+   l’Ouest, notamment la Guinée, le Mali, le Niger, la Sierra Leone, le
+   Togo et le Nigéria, qui ont introduit des lois sur la cybercriminalité
+   et la cybersécurité depuis 2015^87. La même tendance a été observée en
+   Éthiopie et au Zimbabwe. Les fermetures d’Internet ou de plateformes
+   par des gouvernements sont devenues trop courantes sur le continent,
+   seuls quelques pays en étant exemptés. Ces lois et pratiques
+   n’étouffent pas seulement le discours politique et médiatique, elles
+   portent également atteinte à la liberté d’expression sans s’attaquer
+   efficacement aux dommages causés par la désinformation ou à ses causes
+   sous-jacentes. En conséquence, les gens sont poussés à l’autocensure,
+   ce qui affecte encore davantage le flux d’informations.
+
+   Enfin et surtout, on constate un manque d’engagement entre les pays
+   africains et les géants de l’internet, contrairement à ce qui se passe
+   en Europe. Les fournisseurs d’accès à Internet et les réseaux sociaux
+   ont tendance à donner la priorité à la suppression des contenus
+   inauthentiques dans les pays politiquement influents, tout en accordant
+   moins d’attention à l’Afrique^88. Cette présence réglementaire limitée
+   s’est traduite par une modération inadéquate des contenus et une mise
+   en œuvre insuffisante des normes par les plateformes technologiques
+   mondiales comme Facebook ou X (ex-Twitter). Au Sénégal, le regroupement
+   des entreprises du secteur des technologies de l’information et de la
+   communication (Restic) va déposer une plainte contre TikTok auprès de
+   la Commission sénégalaise pour la protection des données personnelles,
+   pour non-respect par le réseau social d’origine chinoise de la
+   législation sur les données personnelles, notamment en ce qui concerne
+   les enfants et les mineurs. Mais les exemples de ce type sont très
+   rares. Lors de la Conférence mondiale de l’UNESCO qui s’est tenue en
+   février 2023, les réseaux de régulateurs ont souligné leur volonté de
+   développer des systèmes de contrôle cohérents dans toutes les régions
+   du monde afin de mieux répondre à ces objectifs tout en minimisant la
+   fragmentation de l’espace numérique^89. Par conséquent, les lignes
+   directrices de l’Internet for Trust pour la régulation des plateformes
+   numériques constituent une étape importante dans la responsabilisation
+   des Big Tech et l’intégration de la transparence dans leurs logiques
+   opérationnelles, y compris sur le continent africain.
+
+   Pour l’Afrique, il est essentiel de passer du discours à l’action. Une
+   action politique urgente doit être menée pour lutter contre la
+   désinformation, ses acteurs et ses sources et prévenir ses graves
+   conséquences affectant la vie de millions d’individus sur tout le
+   continent.
+
+Sources
+
+    1. « Mapping Disinformation in Africa », Africa Center for Strategic
+       Studies, 26 avril 2022.
+    2. Admire Mare, Hayes Mawindi Mabweazara, Dumisani Moyo, « Fake News
+       and Cyber-Propaganda in Sub-Saharan Africa : Recentering the
+       Research Agenda », African Journalism Studies, vol. 40 n° 4,
+       p. 1-12, 2019.
+    3. Théophile Lenoir, Chris Anderson, « Introduction Essay : What Comes
+       After Disinformation Studies », Center for Information, Technology,
+       & Public Life (CITAP), University of North Carolina at Chapel Hill,
+       2023.
+    4. Bruce Mutsvairo, Luca Bruls, Mirjam de Bruijn, Kristin Skare
+       Orgeret, « Factforward : Foretelling the Future of Africa’s
+       Information Disorder », Center for Information, Technology, &
+       Public Life (CITAP), University of North Carolina at Chapel Hill,
+       2023.
+    5. Dan Sanaren, « Disinformation in Africa : a challenge to
+       stability », Jason Institute, 2023.
+    6. Admire Mare, Hayes Mawindi Mabweazara, Dumisani Moyo, « Fake News
+       and Cyber-Propaganda in Sub-Saharan Africa : Recentering the
+       Research Agenda », African Journalism Studies, vol. 40 n° 4,
+       p. 1-12, 2019.
+    7. Extrait de « Misinformation in Africa : An Overview of Current and
+       Future Research », NSI, 11 août 2022.
+    8. Enocent Msindo, « ‘Winning hearts and minds’ : Crisis and
+       Propaganda in Colonial Zimbabwe, 1962–1970 »,  Journal of Southern
+       African Studies, vol.35, n° 3, 2009, p. 663–681.
+    9. Dan Sanaren, « Disinformation in Africa : a challenge to
+       stability », Jason Institute, 2023.
+   10. Admire Mare, « Popular communication in Africa : an empirical and
+       theoretical exposition », Annals of the International Communication
+       Association, vol. 44, n°1, 2019, p. 1-19.
+   11. « Internet Penetration in Nigeria », Internet World States : Usage
+       and Population Statistics, 2022.
+   12. Stephen Ellis, « Turning in to pavement radio », African Affairs :
+       The Journal of the Royal African Society, vol. 88, n°352.
+   13. Chedjou Kamdem, « Etats des lieux 2018 d’Internet, du mobile et des
+       réseaux sociaux en Afrique », CM.A, 2018.
+   14. « Measuring Digital Development : Facts and Figures 2021 »,
+       International Telecommunication Union, 2021
+   15. « Internet Penetration in Nigeria », Internet World States : Usage
+       and Population Statistics, 2022.
+   16. « Social Media Stats in Africa », Statcounter GlobalStats, 2023.
+   17. Idayat Hassan, Jamie Hitchen, « Nigeria’s propaganda secretaries »,
+       Mail & Guardian, 2019.
+   18. Ole Tangen Jr, « Kenya : Troll trackers and the fight against the
+       disinformation industry », Deutsche Welle, 30 décembre 2021.
+   19. Laureline Savoye, « “Fake news” au Burkina Faso : enquête sur un
+       système de manipulation », Le Monde Afrique, 06 Juillet 2023.
+   20. Ndey Sowe, « Gambia : Election Analysis Center Says Disinformation
+       Major Challenge During Electoral Process », Foroyaa Newspaper, 14
+       décembre 2021.
+   21. Marin Lefèvre, « “Pas Nigérien” le président Bazoum ? Une
+       rhétorique inflammable dans un Sahel miné par les conflits
+       intercommunautaires », AFP Factuel, 10 Octobre 2022.
+   22. Simone Toussi, « New Report : Disinformation Pathways and Effects
+       on Democracy and Human Rights in Africa : Case Studies from Five
+       African Countries », CIPESA, 2022.
+   23. « Enquête sur une fausse information qui a secoué le Sénégal en
+       2019 », BBC News Afrique, 15 juin 2020.
+   24. Samba Dialimpa Badji, « Sénégal : fausses preuves d’un soutien de
+       loges maçonniques à deux opposants », Africa Check, 15 décembre
+       2018.
+   25. Samba Dialimpa Badji, « Violences de juin 2023 au Sénégal : vérité
+       officielle, désinformation et manipulation », Africa Check, 13 juin
+       2023.
+   26. « Facebook Removes Inauthentic Assets Linked to Ugandan
+       Government », DFRLab, Medium, 10 février 2021.
+   27. Gillian McKay, « Disinformation and Democratic Transition : a
+       Kenyan Case Study », 22 juin 2022, Humans Rights and IHL.
+   28. Jessica Moody, « The genocide that never was and the fake news in
+       Côte d’Ivoire », African Arguments, 21 janvier 2022.
+   29. Anna Hörter, « Policy Workshop IV : Post-truth. What influence does
+       disinformation have in Africa ? », German Institute for
+       International and Security Affairs, 19 décembre 2022.
+   30. Tessa Knight, « Social media disinformation campaign targets
+       Ugandan presidential election », DFRLab, Medium.Com, 12 janvier
+       2021.
+   31. Carole Cadwalladr, « Cambridge Analytica was offered politicians’
+       hacked emails, say witnesses », The Guardian, 21 mars 2018.
+   32. « The Guptas, Bell Pottinger, and the Fake News Propaganda
+       Machine », Times LIVE, 4 septembre 2017.
+   33. Peter Mwai, « Are military takeovers on the rise in Africa ? », BBC
+       News, 4 janvier 2023.
+   34. Hassan Dayat, « Disinformation is Undermining Democracy in West
+       Africa », CIGI, 4 juillet 2022.
+   35. Tessa Knight, « Sudanese Facebook network promoting paramilitary
+       group removed month before coup », DFRLab, Medium.com.
+   36. Au Sénégal, la radio privée Radio Dunya, développée dans les années
+       90, a été le principal vecteur de diffusion idéologique utilisé par
+       le credo salafiste.  Radio Dunya a été fondée en 1995 par Ibrahima
+       Khaliloulah Diagne alias Ben Bass (du nom du mufti saoudien Ben
+       Baz), avec un financement de la Banque islamique de développement
+       basée à Djeddah, en Arabie Saoudite. Au Mali, Sunna TV a été créée
+       au début des années 2000.
+   37. « Vaccination, Fake News and the role of Religious Actors »,
+       International Partenrship on Religion and Sustainable Development,
+       22 janvier 2021.
+   38. Melody Okereke et al., « Covid-19 Misinformation and Infodemic in
+       Rural Africa », The American Journal of Tropical Medicine and
+       Hygiene, vol. 104, n°2, p. 453-456.
+   39. Emily Kopp & al, « A Case Study of the Barriers to Eradicating
+       Polio in Nigeria and India’s Urban and Rural Settings »,
+       Undergraduate Journal of Public Health, vol. 6, 2022.
+   40. « The Guptas, Bell Pottinger, and the Fake News Propaganda
+       Machine », Times LIVE, 4 septembre 2017.
+   41. Momar Dieng, « Macky Sall, client africain de “Team Jorge” : le
+       soupçon d’une élection 2019 fabriquée et emportée refait surface »,
+       Impact.sn, 16 février 2023.
+   42. Peter Mwai, « What are France’s accusations over a mass grave found
+       in Mali ? », BBC Verify, 30 avril 2022.
+   43. Lungelo Ndhlovu, « Zimbabwe fights fake news with lessons in
+       spotting disinformation », 21 octobre 2022.
+   44. Ahmad Aksar, « The Increasing Presence and Role of Private Security
+       Firms in Africa : The Russian Company Wagner as a Model », EPC, 6
+       juin 2020.
+   45. Bond Shannon, « A pro-Russian social medial campaign is trying to
+       influence politics in Africa », NPR, 1 février 2023.
+   46. « Russian Path to Mali Paved With Disinformation », ADF, 15
+       décembre 2021.
+   47. Tim Mak, « Senate Report : Russians Used Social Media Mostly to
+       Target Race in 2016 », NPR, 8 octobre 2019.
+   48. « Facebook closes fake accounts linked to French military and
+       Russia », France 24, 16 décembre  2020.
+   49. « How PR giant Bell Pottinger made itself look bad », The
+       Conversation, 6 septembre 2017.
+   50. Carole Cadwalladr, « Cambrdige Analytica’s ruthless bid to sway the
+       vote in Nigeria », The Guardian, 21 mars 2018.
+   51. Karen Allen, « Just who is stirring up disinformation in Africa »,
+       7 septembre 2022, ISS.
+   52. Fehim Tastekin, « Misinformation, propaganda cloud Turkey’s Africa
+       policies », Al-Monitor, 1 février 2021.
+   53. Samy Magdy and Isabel Debre, « Sudan strongman is seen as an
+       insider with powerful allies », AP News, 27 octobre 2021.
+   54. Shelby Grossman et al., « #ZakaryLifeMatters : An Investigation
+       into a Facebook Operation Linked to the Islamic Movement in
+       Nigeria », Standford Internet Observatory, 8 octobre 2020.
+   55. « Key Findings : Iranian Propaganda Network Goes Down », DFRLab,
+       Medium, 26 mars 2019.
+   56. Irinia Tsurkeman, « Battleground Africa : The Muslim Brotherhood’s
+       Next Frontier », BESA, 6 août 2020.
+   57. Vivien Marsh, Dani Madrid-Morales, Chris Paterson, « Global Chinese
+       media and a decade of change », International Communication
+       Gazette, vol. 85, n°1, 2023, p. 3-14.
+   58. « Inside the shadowy world of disinformation for hire in Kenya »,
+       Mozilla Foundation,  2021.
+   59. Penka Marth Bogne et al., « Impact of Minsinformation and
+       Disinformation on the Use of Research Evidence in Africa,
+       Disinfodemic and Policy in the African Context », Base et IDRC –
+       CRDI, 2021.
+   60. Abdellatif el Azizi, « Algérie/Maroc. Guerre des réseaux et
+       désinformation numérique », Le courrier de l’Atlas, 16 Septembre
+       2022.
+   61. Azil Momar Lô, « Côte d’Ivoire : la vidéo à l’origine du
+       déferlement de violences examinée », Africa Check,  21 mai  2021.
+   62.  Endalkachew Teka, « Does the Picture Show the Sudanese Soldiers
+       that Attacked the Ethiopian Military Base ? », Addis Zeybe, 12
+       avril 2021.
+   63. Amnesty International, Cameroun : une crise majeure ignorée, 4
+       Juillet 2023.
+   64. Ali Sam Suleiman, « How Disinformation Campaigns Endanger Lives in
+       Sudan », smex.org, 19 mai 2023.
+   65. Yemisi Adegoke, « Like. Share. Kill. »,  BBC News, 13 novembre
+       2018.
+   66. Eyder Peralta, « A movement gains force to ‘put South African
+       first’, and to drive migrants out », NPR, 14 juin 2022.
+   67. Eliza Cheung, « An outbreak of fear rumours and stigma :
+       Psychosocial support for the Ebola virus disease outbreak in West
+       Africa ». Intervention, n° 13, 2015,p. 45–84.
+   68. Admire Mare, Allen Munoriyarwa, « Guardians of truth ?
+       Fact-checking the disinfodemic in Southern Africa during the
+       COVID-19 pandemic », Journal of African Media Studies, vol. 14,
+       n°1, 2021, p. 63–79.
+   69. Uchechukwu Osuagwu et al., « The impact of information sources on
+       COVID-19 vaccine hesitancy and resistance in sub-Saharan Africa »,
+       BMC Public Health, n° 38, 2023.
+   70. Bright Opoku Akinorah et al., « Rising Above Minsinformation or
+       Fake News in Africa : Another Strategy to Control COVID-19
+       Spread », Sec. Health Communication, vol. 5, 2020.
+   71. « Misinformation Will Undermine Coronavirus Responses. Emerald
+       Expert Briefings », Oxford Analytica, Emerald Insights, 2020.
+   72. Sheera Frenkel, Davey Alba, Raymond Zhong, « Surge of virus
+       misinformation stumps Facebook and Twitter », The New York Times,
+       2020.
+   73. Bright Opoku Akinorah et al., « Rising Above Minsinformation or
+       Fake News in Africa : Another Strategy to Control COVID-19
+       Spread », Sec. Health Communication, vol. 5, 2020.
+   74. David G. Rand et al., « Understanding and reducing the spread of
+       misinformation online », PsyArXiv Working Paper, 2020.
+   75. Bright Opoku Akinorah et al., « Rising Above Minsinformation or
+       Fake News in Africa : Another Strategy to Control COVID-19
+       Spread », Sec. Health Communication, vol. 5, 2020.
+   76. Amy Fallon, Andrew Arinaitwe, « How a Spanish right-wing group
+       incited a moral storm in Kenya », Mail & Guardian, 2 mars 2022.
+   77. Dan Sanaren, « Disinformation in Africa : a challenge to
+       stability », Jason Institute, 10 avril 2023.
+   78. Aleida Cristina Mendes Borges, « Cabo Verde’s Fake News Ecosystem :
+       An Overview », Africa Portal, 9 février 2022.
+   79. Lidya Namubiru, Khatondi Soita Wepukhulu, « Exclusive : US
+       Christian Right pours more than $50m into Africa », Open Democracy,
+       29 octobre 2020.
+   80. Caleb Okereke, « How U.S. Evangelicals helped homophobia flourish
+       in Africa », Foreign Policy, 19 mars 2023.
+   81. Absa Hane, « Madiambal Diagne-Alioune Tine : Énième clash ! »,
+       Seneweb, 19 juin 2023.
+   82. Guillaume Soto-Mayor, Mahamadou Sawadogo, « The Risk of Violent
+       Inter-Communal Spillover in West Africa : Realities and
+       Prescriptions », Middle East Institute, 12 juin 2023.
+   83. Habibou Bako, « Réseaux sociaux et désinformation au Sahel »,
+       Bulletin Franco-Paix, vol.7, n°10, Chaire Raoul-Dandurand Centre
+       FrancoPaix, 2022.
+   84. « Tunisia calls migrant-related accusations ‘disinformation’ »,
+       InfoMigrants, 8 août 2023.
+   85. Mary Blankenship, AloysiusUche Ordu, « Russian disinformation in
+       Africa : What’s sticking and what’s not », Brookings, 17 octobre
+       2022.
+   86. Muhammad Sani Musa, « Protection from Internet Falsehood and
+       Manipulation, and other related matters Bill », 2019.
+   87. Assane Diagne, « Punitive laws are failing to curb misinformation
+       in Africa. Time for a rethink », The Conversation, 24 juin 2021.
+   88. Simon Allison, Samuel Gebre, Claire Wilmot, The Continent,
+       « Facebook fails to curb the spread of hate speech in Ethiopia »,
+       Mail & Guardian, 22 novembre 2021.
+   89. « Conférence mondiale de l’UNESCO : participation du président du
+       REFRAM et de l’Arcom (FR) et adoption d’une déclaration commune des
+       réseaux de régulateurs », Arcom REFRAM, 23 février 2023.
+
+   ×
+   ^3 que de se focaliser sur l’affaiblissement des États-nations. Il faut
+   parler du
+
+   Pour approfondir
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Entretiens Afriques Subsahariennes
+
+Mali, Niger, Gabon… l’Afrique face aux révolutions kaki, une conversation
+avec Wassim Nasr
+
+   Afriques Subsahariennes [SIPA_ap22806622_000005-scaled-86x86.jpg]
+   Les coups d’État se multiplient au Sahel et en Afrique de l’Ouest. Le
+   putsch d'aujourd'hui au Gabon s'inscrit dans une tendance régionale
+   plus large — alimentant l'audace de ceux qui pourraient être tentés de
+   suivre cet exemple. Pour comprendre les raisons d’une instabilité
+   croissante, nous avons interrogé Wassim Nasr, spécialiste des
+   mouvements djihadistes. Avec beaucoup de finesse, il décrit les
+   stratégies diversifiés des différents acteurs qui s’affrontent sur le
+   continent.
+     __________________________________________________________________
+
+   Perspectives sur l’actualité Le nouvel ordre des BRICS
+
+Le nouvel ordre des BRICS
+
+   Le nouvel ordre des BRICS [SIPA_01124055_000027-scaled-86x86.jpg]
+   Comment forcer un ordre mondial plus juste ? Pour Tim Sahay et Kate
+   Mackenzie, les BRICS ne cherchent pas à faire dérailler les structures
+   existantes de la gouvernance mondiale mais à peser pour les
+   rééquilibrer. Leur impact ne passera pas tant par leur expansion ou
+   leur puissance que par un choc pour provoquer la coopération des pays
+   les plus riches.
+     __________________________________________________________________
+
+   Entretiens Géopolitique du putsch au Niger
+
+Niger : le temps long d’un putsch, une conversation avec Salim Mokaddem,
+conseiller du président Bazoum
+
+   Géopolitique du putsch au Niger
+   [SIPA_ap22807482_000006-scaled-86x86.jpg]
+   « La réponse qui sera apportée au Niger fera école pour la paix dans le
+   monde et l’avenir démocratique en Afrique. »
+   Dans un entretien fleuve, le philosophe Salim Mokaddem, l'un des
+   principaux conseillers du président nigérien séquestré par la junte,
+   revient sur les causes sociopolitiques au cœur de l’embrasement au
+   Niger. Pour lui, la résolution de cette crise multiple sera
+   déterminante pour une Afrique qui s’enlise dans une nouvelle forme de
+   guerre étendue.
+     __________________________________________________________________
+
+   Perspectives sur l’actualité La guerre en Ukraine au jour le jour
+
+Poutine en Ukraine : l’Algérie française de Vladimir Vladimirovitch
+
+   La guerre en Ukraine au jour le jour
+   [SIPA_ap22724239_000001-scaled-86x86.jpg]
+   On finit rarement bien une guerre d'empire. Dans la Russie de Poutine,
+   le fantasme impérial a la peau dure — il pourrait précipiter la chute
+   de la Fédération, la faisant basculer dans un après aux contours flous
+   et inquiétants. En tissant une analogie entre la guerre d’Ukraine et la
+   guerre d’Algérie, François Heisbourg fournit une grille de lecture
+   essentielle.
+
+   À suivre
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Études Arsenalisation : le front de l'information
+
+Israël-Hamas : l’Europe dans les failles de la guerre de Soukkot
+
+   Arsenalisation : le front de l'information
+   27 octobre 2023
+   Tsahal est entré à Gaza, mais la guerre de Soukkot n'est pas contenue
+   au Proche-Orient. Ce que démontre la séquence ouverte par l'attaque du
+   Hamas le 7 octobre dernier, c'est que le conflit s'étend dans le milieu
+   informationnel. Peu audible, l'Europe n'en est pas moins en première
+   ligne et elle pourrait être emportée par les nombreuses lignes de
+   faille que dévoile cette guerre.
+   [SIPA_ap22822116_000018-1-scaled-125x188.jpg]
+
+   Le Grand Continent logo
+   Études Comprendre la désinformation en Afrique
+   (BUTTON) Ajouter Article ajouté (BUTTON) Télécharger le PDF
+   (BUTTON) Partager
+   Facebook Twitter Linkedin
+
+   Le Grand Continent logo Le Grand Continent
+     __________________________________________________________________
+
+   Le grand continent
+     __________________________________________________________________
+
+     * À propos
+     * Accueil
+     * Offre
+
+   Régions
+     __________________________________________________________________
+
+     * Afriques Subsahariennes
+     * Amériques
+     * Asie Intermédiaire
+     * Asie Orientale
+     * Asie septentrionale
+     * Bulles
+     * Centres
+     * Europe
+     * Méditerranée
+     * Monde
+     * Nordiques
+
+   Thèmes
+     __________________________________________________________________
+
+     * Anthropologie
+     * Arts
+     * Bulletins des élections de l'Union européenne
+     * Démographie
+     * Doctrines de la Chine de Xi Jinping
+     * Données qui changent la donne
+     * Droit
+     * Économie
+     * Élections
+     * Énergie et environnement
+     * Genre
+     * Guerre
+     * Histoire
+     * In Memoriam
+     * Livres
+     * Numérique
+     * Politique
+     * Religion
+     * Santé publique
+     * Science
+     * Sécurité
+     * Sport
+     * Suds
+     * Urbanisme
+
+   Formats
+     __________________________________________________________________
+
+     * Pièces de doctrines
+     * Brèves
+     * Perspectives sur l’actualité
+     * Études
+     * Entretiens
+     * Archives et discours
+     * Comptes-rendus
+     * Histoire en images
+
+     * Informations légales
+     * Conditions générales de vente
+
+   Publié par Groupe d'Études Géopolitiques.
+   © 2023 GEG. Tous droits réservés.
+   Contact Le Grand Continent
+   (BUTTON)
+   Le Grand Continent
+     * Connexion
+     * S’abonner
+
+   ____________________ (BUTTON) Rechercher
+   Le Grand Continent logo
+   Le grand continent
+     __________________________________________________________________
+
+     * À propos
+     * Accueil
+     * Offre
+
+   Régions
+     __________________________________________________________________
+
+     * Afriques Subsahariennes
+     * Amériques
+     * Asie Intermédiaire
+     * Asie Orientale
+     * Asie septentrionale
+     * Bulles
+     * Centres
+     * Europe
+     * Méditerranée
+     * Monde
+     * Nordiques
+
+   Thèmes
+     __________________________________________________________________
+
+     * Anthropologie
+     * Arts
+     * Bulletins des élections de l'Union européenne
+     * Démographie
+     * Doctrines de la Chine de Xi Jinping
+     * Données qui changent la donne
+     * Droit
+     * Économie
+     * Élections
+     * Énergie et environnement
+     * Genre
+     * Guerre
+     * Histoire
+     * In Memoriam
+     * Livres
+     * Numérique
+     * Politique
+     * Religion
+     * Santé publique
+     * Science
+     * Sécurité
+     * Sport
+     * Suds
+     * Urbanisme
+
+   Formats
+     __________________________________________________________________
+
+     * Pièces de doctrines
+     * Brèves
+     * Perspectives sur l’actualité
+     * Études
+     * Entretiens
+     * Archives et discours
+     * Comptes-rendus
+     * Histoire en images
+
+     * Informations légales
+     * Conditions générales de vente
+
+   Publié par Groupe d'Études Géopolitiques.
+   © 2023 GEG. Tous droits réservés.
+
+   (BUTTON)
+
+   Se connecter
+
+Log in to your account
+
+   Adresse email ____________________
+   Mot de passe
+   ____________________
+   [X] Se souvenir de moi
+   (Login) Se connecter Mot de passe oublié ?
+     __________________________________________________________________
+
+   Pas encore de compte ? S’enregistrer
+
+   C’est parti
+
+Créez votre compte
+
+   Adresse email *
+   ____________________
+   Mot de passe *
+   ____________________
+   Nouveau mot de passe
+   ____________________
+   Prénom
+   ____________________
+   Nom
+   ____________________
+   [ ] Oui, j’accepte de recevoir des contenus exclusifs, des offres et
+   des informations de la part du Grand Continent. Je peux changer ces
+   préférences à tout moment.
+   En créant ce compte, vous acceptez les conditions générales de vente et
+   la politique de confidentialité.
+   S’enregistrer
+
+   Vous avez déjà un compte ? Se connecter ici
