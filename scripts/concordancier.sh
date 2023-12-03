@@ -28,11 +28,11 @@ then
 fi
 
 # Check if the language is one of the specified options
-if [[ $lang != 'fr' && $lang != "en" && $lang != "zh" ]]
-then
+if [ "$lang" != "fr" ] && [ "$lang" != "en" ] && [ "$lang" != "zh" ]; then
     echo "La langue doit être fr, en ou zh"
     exit
 fi
+
 
 # Determine the grep command to use based on system availability
 if command -v ggrep > /dev/null; then
@@ -80,7 +80,10 @@ echo """
 # Search pattern logic for Chinese language
 if [ "$lang" = 'zh' ]
 then
-    LANG=zh_CN.UTF-8 $GREP_CMD -Po "(?:\p{Han}{1,}\s){1,5}$motif(?:\s\p{Han}{1,}){0,5}" $fichier_text | LANG=C $SED_CMD -E -r "s/(.*)($motif)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
+    # Export the LANG variable for Chinese
+    export LANG=zh_CN.UTF-8
+    grep -Po "(?:\p{Han}{1,}\s){1,5}(虚假\s信息|政治\s宣传)(\s\p{Han}{1,}){1,5}" "$fichier_text" | LANG=C sed -E -r "s/(.*)(虚假\s信息|政治\s宣传)(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"
+
 # Search pattern logic for other languages
 else
     grep -E -o -i "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $fichier_text | sed -E -r "s/(.*)$motif(.*)/<tr><td class=\"has-text-right\">\1<\/td><td class=\"has-text-danger\">\2<\/td><td class=\"has-text-left\">\3<\/td><\/tr>/"

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Call from the scripts folder with: sh ./scripts/traitement_url.sh <language> ./urls/<file_urls> ./tableaux/<file_table>
+# Call from the root folder with: sh ./scripts/traitement_url.sh <language> ./urls/<file_urls> ./tableaux/<file_table>
 
 
 # Check if exactly three arguments are provided
@@ -75,7 +75,7 @@ then
 		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
 		# Charset detection and handling
-		charset=$(curl -Ls $URL -D - -o "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
+		charset=$(curl -Ls $URL -Do  "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
 		# Process the URL's contents and save them in different formats
 		if [ "$code" -eq 200 ]; then
@@ -95,22 +95,19 @@ then
 
 		if [ "$URL" = "http://world.people.com.cn"* ]
 		then
-			charset="gb2312"
+			charset="gb2312|GB2312"
 		fi
 		
 		# Convert lowercase charset to uppercase
-		charset=$(echo $charset | tr "[a-z]" "[A-Z]")
+		charset=$(echo "$charset" | tr "[a-z]" "[A-Z]")
 
 		if [ $code -eq 200 ]
 		then
-			aspiration=$(curl $URL)
-
 			if [ "$charset" = 'UTF-8' ]
 			then
-				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8 | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
+				dump=$(curl $URL | iconv -f UTF-8 -t UTF-8//IGNORE | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			else
-				# charset=$(curl $URL | urchardet)
-				dump=$(curl $URL | iconv -f $charset -t UTF-8 | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
+				dump=$(curl $URL | iconv -f GB2312 -t UTF-8 | lynx -stdin -accept_all_cookies -dump -nolist -assume_charset=utf-8 -display_charset=utf-8)
 			fi
 		else
 			echo -e "\tcode différent de 200 utilisation d'un dump vide"
@@ -134,10 +131,11 @@ then
 		grep -E -i -A 2 -B 2 "$mot" "./dumps-text/$lang/$basename-$lineno.txt" > "./contextes/$lang/$basename-$lineno.txt"
 
 		# Generate concordance HTML file
-		sh ./scripts/concordancier.sh "$lang" "./dumps-text/$lang/$basename-$lineno.txt" "$mot"> "./concordances/$lang/$basename-$lineno.html"
-
+		concordance=$(sh ./scripts/concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot)
+		echo "$concordance" > "./concordances/$lang/$basename-$lineno.html"
+		
 		# Add a row to the HTML table for each URL
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"./aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"./dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"./contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"./concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href=\"../aspirations/$lang/$basename-$lineno.html\">html</a></td><td><a href=\"../dumps-text/$lang/$basename-$lineno.txt\">text</a></td><td>$compte</td><td><a href=\"../contextes/$lang/$basename-$lineno.txt\">contexte</a></td><td><a href=\"../concordances/$lang/$basename-$lineno.html\">concordances</a></td></tr>" >> "$fichier_tableau"
 
 		lineno=$((lineno +1))
 
@@ -208,7 +206,7 @@ else
 		grep -E -i -C 3 $mot "./dumps-text/$lang/$basename-$lineno.txt" > "./contextes/$lang/$basename-$lineno.txt" 
 
 		# Generate concordance HTML file
-		sh ./concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot > "./concordances/$lang/$basename-$lineno.html"
+		sh ./scripts/concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot > "./concordances/$lang/$basename-$lineno.html"
 		
 		# Add a row to the HTML table for each URL
 		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="./aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="./dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="./contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="./concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
