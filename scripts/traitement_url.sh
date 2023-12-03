@@ -129,6 +129,7 @@ then
 
 		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o "$mot" "./dumps-text/$lang/$basename-$lineno.txt" | wc -l)
+		echo "$compte"
 
 		# Extract contexts of the keyword in the text dump
 		grep -E -i -A 2 -B 2 "$mot" "./dumps-text/$lang/$basename-$lineno.txt" > "./contextes/$lang/$basename-$lineno.txt"
