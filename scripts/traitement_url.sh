@@ -38,7 +38,7 @@ lineno=1
 # Setting up the keyword(s) based on the provided language
 if [ "$lang" = 'zh' ]
 then
-	mot="虚假\s信息|政治\s宣传"
+	mot="虚假信息|政治宣传"
 	export LANG=C
 elif [ "$lang" = 'en' ]
 then
