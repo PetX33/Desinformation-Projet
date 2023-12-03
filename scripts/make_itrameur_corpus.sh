@@ -3,7 +3,7 @@
 # Execute this script from the root of the project using: sh ./scripts/make_itrameur_corpus.sh <folder> <language>
 # To concatenate files juste use the cat command in terminal : cat dumps-text-*.txt > dumps.txt or cat contextes-*.txt > contextes.txt
 # Check if exactly two arguments are provided
-if [[ $# -ne 2 ]]
+if [ $# -ne 2 ]
 then
   echo "Deux arguments attendus : <dossier> <langue>"
   exit
@@ -43,7 +43,7 @@ do
 		content=$(echo "$content" | sed -E "s/\"?[Pp]ropaganda\"?/propaganda/gI")
 
 	# Replace various forms of "Désinformation" with "désinformation", and "Propagande" with "propagande"
-	elif [ "$basename" = "fr"]
+	elif [ "$basename" = "fr" ]
 	then
 		content=$(echo "$content" | sed -E "s/\"?[Dd]ésinformation\"?/désinformation/gI")
 		content=$(echo "$content" | sed -E "s/\"?[Pp]ropagande\"?/propagande/gI")
