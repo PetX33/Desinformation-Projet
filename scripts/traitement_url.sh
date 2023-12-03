@@ -121,7 +121,7 @@ then
 		# Segment the text dump with the Chinese tokenizer thulac
 		dumptok=$(python3 ./scripts/tokenize_chinese.py "./dumps-text/$lang/$basename-$lineno.txt")
 
-		dumptok=$(echo "$dumptok" | sed 's/虚假 信息/虚假信息/g')
+		dumptok=$(echo "$dumptok" | sed -e 's/虚假 信息/虚假信息/g' -e 's/政治 宣传/政治宣传/g')
 
 		# Crushed the text dump with the Chinese tokenizer thulac
 		echo "$dumptok" > "./dumps-text/$lang/$basename-$lineno.txt"
