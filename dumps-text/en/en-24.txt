@@ -1,20 +1,15 @@
    IE 11 is not supported. For an optimal experience visit our site on
    another browser. (BUTTON)
-
-   BREAKING: Sandra Day O’Connor, the first female Supreme Court justice,
-   dies at 93
-   (BUTTON)
    (BUTTON) SKIP TO CONTENT
-     * Israel-Hamas war
+     * Israel-Hamas War
      * Politics
      * U.S. News
      * World
      * Business
+     * Health
      * NBC News Tipline
      * Video
-     * Health
      * Culture & trends
-     * Meet the Press
 
    (BUTTON) (BUTTON)
    (BUTTON) (BUTTON)
@@ -112,16 +107,15 @@ news Alerts
 
      * WATCH: NBC News NOW
      * Latest Stories
-     * Israel-Hamas war
+     * Israel-Hamas War
      * Politics
      * U.S. News
      * World
      * Business
+     * Health
      * NBC News Tipline
      * Video
-     * Health
      * Culture & trends
-     * Meet the Press
 
    War in Ukraine
 
@@ -265,7 +259,6 @@ Russian disinformation, propaganda ramp up as conflict in Ukraine grows
    Jason Abbruzzese is the senior editor for technology, science and
    climate for NBC News Digital.
    Ben Collins contributed.
-
      * About
      * Contact
      * Help

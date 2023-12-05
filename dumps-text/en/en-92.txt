@@ -308,9 +308,7 @@
      * Shopping
      * Buying guides
 
-     Black Friday deals
-
-     Cyber Monday deals
+     Autos
      * Terms
      * Privacy
      * Privacy & Cookie Settings
@@ -346,10 +344,9 @@
                o Style and beauty
                o Horoscopes
                o Shopping
-               o Black Friday deals
-               o Cyber Monday deals
                o Food
                o Travel
+               o Autos
           + Entertainment
                o Celebrity
                o TV
@@ -382,22 +379,29 @@
                o MMA
                o Yahoo Sports AM
           + Editions
-          + USEnglish
-          + US y LATAMEspañol
-          + AustraliaEnglish
-          + CanadaEnglish
-          + CanadaFrançais
-          + DeutschlandDeutsch
-          + 香港繁中
-          + MalaysiaEnglish
-          + SingaporeEnglish
-          + 台灣繁中
-          + UKEnglish
+               o USEnglish
+               o US y LATAMEspañol
+               o AustraliaEnglish
+               o CanadaEnglish
+               o CanadaFrançais
+               o DeutschlandDeutsch
+               o 香港繁中
+               o MalaysiaEnglish
+               o SingaporeEnglish
+               o 台灣繁中
+               o UKEnglish
 
    Mail
    Sign in
 
    Advertisement
+
+   Breaking News:
+
+Tuberville drops holds on most military promotions
+
+   The Republican senator's blockade was over a dispute about a Pentagon
+   abortion policy.
 
    Close this content
    Salon Salon
@@ -465,169 +469,154 @@ after verbal slips
    (BUTTON) (BUTTON)
 
    Recommended Stories
-     * Autoblog
-
-Study: Exhaust pollution from rush-hour traffic could raise your blood
-pressure
-
-       A new study from the University of Washington found that rush hour
-       fumes could have significant effects on blood pressure, which could
-       pose health risks.
-       2h ago
-     * Yahoo Sports
-
-NBA Fact or Fiction: Mark Cuban, Miriam Adelson, the NBA and the ethics in
-business
-
-       Cuban joining forces with the Adelson family creates an
-       uncomfortable situation all the way around.
-       1h ago
-     * Yahoo Life Shopping
-
-These aromatherapy steamers turn your shower into a spa — and they're on sale
-for just $2 a pop
-
-       Each tablet lasts between 10 to 30 minutes — and they make great
-       gifts.
-       7m ago
-     * Engadget
-
-Sci-fi RTS sequel Homeworld 3 will arrive on March 8
-
-       Sci-fi strategy sequel Homeworld 3 at last has a firm release date.
-       It’s now slated to arrive on March 8.
-       6m ago
-     * Yahoo Sports
-
-The Daily Sweat: No. 5 Oregon is a big favorite over No. 3 Washington for the
-Pac-12 title
-
-       The winner is probably heading to the College Football Playoff.
-       1h ago
-     * Autoblog
-
-2024 Toyota Tacoma factory accessory list leaked
-
-       The 2024 Toyota Tacoma will be available with numerous factory
-       accessories, including a bed extender, skid plates, and several TRD
-       parts.
-       50m ago
-     * TechCrunch
-
-Meta faces more questions in Europe about child safety risks on Instagram
-
-       Meta has received another formal request for information (RFI) from
-       European Union regulators seeking more details of its response to
-       child safety concerns on Instagram -- including what it's doing to
-       tackle risks related to the sharing of self-generated child sexual
-       abuse material (SG-CSAM) on the social network. The request is
-       being made under the bloc's recently rebooted online rulebook the
-       Digital Services Act (DSA), which started applying for larger
-       in-scope platforms (including Instagram) in late August. The DSA
-       puts obligations on Big Tech to tackle illegal content -- including
-       by having measures and protections in place to prevent misuse of
-       their services.
-       2h ago
      * Yahoo Finance
 
-Stock market news today: Stocks wobble with Fed's Powell on deck
+Trump doesn’t sound like somebody trying to get elected
 
-       Investors are looking to Fed Chair Jerome Powell to potentially
-       shed light on whether an interest-rate cut lies ahead.
+       Some of his 2024 campaign promises would raise costs and add to
+       hardship for voters. What's he thinking?
        3h ago
      * Yahoo Sports
 
-Cameron Brink and Kiki Iriafen find gratitude in growing together to form
-formidable 2-post lineup for Stanford
+Fantasy Football Week 14 Rankings
 
-       Every Stanford opponent has to try to guard not one, but two elite
-       post players. So far, no one has had much luck, as Brink and
-       Iriafen are posting eye-popping numbers.
-       2h ago
-     * Engadget
+       Check out our fantasy football rankings for Week 14 of the 2023 NFL
+       season, with help for every position.
+       1h ago
+     * Yahoo News
 
-The Morning After: NASA and IBM team up for powerful AI weather model
+Trump legal news brief: Georgia prosecutors could seek to revoke bail for
+Trump co-defendant
 
-       The biggest news stories this morning: The US government halts Meta
-       briefings on foreign influence campaigns, Google Messages now lets
-       you choose your own chat bubble colors, How OpenAI’s ChatGPT has
-       changed the world in just a year.
-       3h ago
+       After Trevian Kutti, former publicist to Kanye West and R. Kelly,
+       posts an Instagram Live video that appears to threaten Georgia
+       election worker Ruby Freeman, Fulton County prosecutors consider
+       asking Judge Scott McAfee to revoke her bond.
+       24m ago
+     * Yahoo Personal Finance
+
+Do you need collateral for a personal loan?
+
+       Collateral can boost your approval odds and help you secure more
+       favorable loan terms — but you can get a personal loan without it.
+       57m ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Defense Rankings
+
+       Check out our fantasy football D/ST rankings for Week 14 of the
+       2023 NFL season!
+       9m ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Kicker Rankings
+
+       Check out our fantasy football kicker rankings for Week 14 of the
+       2023 NFL season!
+       21m ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Quarterback Rankings
+
+       Check out our fantasy football quarterback rankings for Week 14 of
+       the 2023 NFL season!
+       29m ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Full-PPR Rankings
+
+       Check out our full PPR positional rankings for Week 14 of the
+       fantasy football season!
+       1h ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Flex Rankings
+
+       Check out our fantasy football FLEX rankings for Week 14 of the
+       2023 NFL season!
+       53m ago
      * Yahoo Finance
 
-Quitting Elon Musk is 'free speech' too
+Tesla Cybertruck: Survey finds that two-thirds of respondents wouldn't buy it
 
-       Elon Musk's explosive call-out of Disney CEO Bob Iger highlights a
-       fundamental conflict in how the world's richest individual views
-       speech and advertising on his platform X.
+       A new survey finds most people would not buy Tesla’s Cybertruck.
+       57m ago
+     * Yahoo Sports
+
+Fantasy Football Week 13 Bad Beats: Getting Chased on Monday night
+
+       There are few things that hurt like a tough defeat in fantasy.
+       Jorge Martin shares the pain from several late heartbreakers in
+       Week 13.
+       1h ago
+     * Yahoo Finance
+
+What is RealPage — and why is it being blamed for raising everyone's rent?
+
+       Texas-based RealPage has been sued in Washington, D.C. for a
+       product that, among other things, helps landlords big and small to
+       set rents. It also has been on the other end of more than 20 class
+       action lawsuits, and more recently, the US Department of Justice
+       (DOJ) has weighed in against it.
+       2h ago
+     * Yahoo Finance
+
+Energy stocks' big challenge in 2024: Too much oil
+
+       Oil-related equities face a headwind next year, according to
+       analysts at Citi: excess spare capacity.
+       4h ago
+     * Engadget
+
+23andMe hack now estimated to affect over half of customers
+
+       A hack that affected 23andMe back in October is estimated to have
+       exposed significantly more profiles than previously reported.
+       4h ago
+     * Yahoo Personal Finance
+
+How to choose the right personal loan term length
+
+       Your personal term length affects your borrowing amount, interest
+       rate, and overall repayment cost.
        5h ago
+     * Autoblog
+
+Toyota once considered an 86-based shooting brake
+
+       Toyota has revealed the X86D Concept, a sport wagon built in 2012
+       on the Scion FR-S/Toyota 86 platform.
+       3h ago
+     * Yahoo Movies
+
+How documentary 'Beyond Utopia' obtained shocking footage from inside North
+Korea
+
+       "This movie had to be made because there are 26 million people
+       living inside North Korea," says director Madeleine Gavin.
+       5h ago
+     * Yahoo Finance
+
+Big bank CEOs urge caution, warn on loan losses after 'interesting' 2023
+
+       Key bank executives spoke on Tuesday about the challenging 2023
+       wrapping up and the caution these firms have towards the year
+       ahead.
+       4h ago
+     * Yahoo Finance
+
+Jobs data shows labor market coming into 'better balance' in welcome sign for
+the Fed
+
+       The latest JOLTS report showed the ratio of job openings to
+       unemployed workers hitting its lowest level in more than two years.
+       3h ago
      * Engadget
 
-Huawei is allegedly building a self-sufficient chip network using state
-investment fund
+Discord overhauls its mobile app with new tabs, messaging features and more
 
-       Huawei is allegedly building a self-sufficient chip network, with
-       help from a Shenzhen city government investment fund.
-       10h ago
-     * Yahoo Sports
-
-Pistons drop 16th straight game, post winless month in November
-
-       It's never great when you match a feat by the 2015-16 Sixers.
-       13h ago
-     * Yahoo Sports
-
-Basketball phenom Mikey Williams reaches plea deal; likely won't face jail
-time
-
-       Williams faced nine felony charges that carried a penalty of up to
-       30 years in prison.
-       17h ago
-     * Yahoo Life
-
-Marsai Martin, 19, learned the power of her voice when diagnosed with an
-ovarian cyst: 'Pain is not normal'
-
-       The "Black-ish" alum recalls dealing with reproductive health
-       issues as a young teen.
-       14h ago
-     * Yahoo Life
-
-Do I need to worry about having sex while pregnant?
-
-       What experts say about sexually transmitted infections and other
-       concerns to watch out for during pregnancy.
-       14h ago
-     * Yahoo Life
-
-6 ways to know if you're transgender, according to Schuyler Bailar
-
-       Educator, author, and advocate Schuyler Bailar lays out six
-       important points of introspection around transgender identity from
-       his new book "He/She/They."
-       16h ago
-     * Yahoo Sports
-
-Aaron Rodgers opens up on Jets return effort: 'What's the worst that can
-happen?'
-
-       It's barely been two months since Rodgers tore his Achilles.
-       15h ago
-     * Yahoo Sports
-
-Fantasy Football Week 13: Dallas Cowboys vs. Seattle Seahawks start 'em, sit
-'em, how to watch TNF and more
-
-       Will Thursday night's NFC matchup be filled to the brim with
-       fantasy football points?
-       16h ago
-     * Yahoo Sports
-
-Bronny James fully cleared to return to USC basketball 5 months after cardiac
-arrest; LeBron vows to attend 1st game
-
-       Bronny James is returning to the court at USC.
-       20h ago
+       It also introduced a Midnight theme for a pure black background.
+       4h ago
        (BUTTON) More Stories
 
    Yahoo news

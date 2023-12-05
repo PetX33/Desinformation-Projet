@@ -308,9 +308,7 @@
      * Shopping
      * Buying guides
 
-     Black Friday deals
-
-     Cyber Monday deals
+     Autos
      * Terms
      * Privacy
      * Privacy & Cookie Settings
@@ -346,10 +344,9 @@
                o Style and beauty
                o Horoscopes
                o Shopping
-               o Black Friday deals
-               o Cyber Monday deals
                o Food
                o Travel
+               o Autos
           + Entertainment
                o Celebrity
                o TV
@@ -382,22 +379,29 @@
                o MMA
                o Yahoo Sports AM
           + Editions
-          + USEnglish
-          + US y LATAMEspañol
-          + AustraliaEnglish
-          + CanadaEnglish
-          + CanadaFrançais
-          + DeutschlandDeutsch
-          + 香港繁中
-          + MalaysiaEnglish
-          + SingaporeEnglish
-          + 台灣繁中
-          + UKEnglish
+               o USEnglish
+               o US y LATAMEspañol
+               o AustraliaEnglish
+               o CanadaEnglish
+               o CanadaFrançais
+               o DeutschlandDeutsch
+               o 香港繁中
+               o MalaysiaEnglish
+               o SingaporeEnglish
+               o 台灣繁中
+               o UKEnglish
 
    Mail
    Sign in
 
    Advertisement
+
+   Breaking News:
+
+Tuberville drops holds on most military promotions
+
+   The Republican senator's blockade was over a dispute about a Pentagon
+   abortion policy.
 
    Close this content
    The Telegraph The Telegraph
@@ -515,192 +519,191 @@ Chernobyl vodka a ‘strange propaganda exercise’, says victims’ charity
    (BUTTON) (BUTTON)
 
    Recommended Stories
-     * TechCrunch
-
-Apple releases security updates for iOS, iPadOS and macOS, fixing two
-actively exploited zero-days
-
-       Apple has released security updates for iPhones, iPads and Macs to
-       patch against two vulnerabilities, which the company says are being
-       actively exploited to hack people. The technology giant rolled out
-       new software updates, iOS and iPadOS 17.1.2, and macOS 14.1.2,
-       following a vulnerability disclosure by security researchers at
-       Google's Threat Analysis Group, which investigates
-       government-backed cyberattacks. In the updates rolled out Thursday,
-       Apple said it fixed two vulnerabilities in WebKit, the browser
-       engine that powers Safari and other apps.
-       2h ago
-     * TechCrunch
-
-Meta faces more questions in Europe about child safety risks on Instagram
-
-       Meta has received another formal request for information (RFI) from
-       European Union regulators seeking more details of its response to
-       child safety concerns on Instagram -- including what it's doing to
-       tackle risks related to the sharing of self-generated child sexual
-       abuse material (SG-CSAM) on the social network. The request is
-       being made under the bloc's recently rebooted online rulebook the
-       Digital Services Act (DSA), which started applying for larger
-       in-scope platforms (including Instagram) in late August. The DSA
-       puts obligations on Big Tech to tackle illegal content -- including
-       by having measures and protections in place to prevent misuse of
-       their services.
-       2h ago
-     * Yahoo Sports
-
-Oregon State RB Damien Martinez won't play in bowl game after DUII arrest
-
-       Martinez rushed for 1,185 yards in the regular season.
-       1h ago
-     * Yahoo News
-
-Return to office push is 'totally dead,' experts say, as WFH persists
-
-       Many employers were planning to use the fall of 2023 to bring more
-       workers back to the office more consistently, only to discover
-       thatemployees have gotten used to working from home.
-       38m ago
-     * Yahoo Sports
-
-Cameron Brink and Kiki Iriafen find gratitude in growing together to form
-formidable 2-post lineup for Stanford
-
-       Every Stanford opponent has to try to guard not one, but two elite
-       post players. So far, no one has had much luck, as Brink and
-       Iriafen are posting eye-popping numbers.
-       2h ago
-     * In The Know by Yahoo
-
-Gen Z activist Chris McCarty is on a mission to advocate for the children of
-influencers
-
-       Gen Z is the first generation that has grown up totally online.
-       However, growing up with influencer parents has its issues,
-       especially when it comes to monetized content. The post Gen Z
-       activist Chris McCarty is on a mission to advocate for the children
-       of influencers appeared first on In The Know.
-       2h ago
      * Engadget
 
-Inside the 'arms race' between YouTube and ad blockers
+The UK could require facial scans or photo IDs to view online porn
 
-       YouTube's dramatic content gatekeeping decisions of late have a
-       long history behind them, and there's an equally long history of
-       these defenses being bypassed.
-       2h ago
-     * Yahoo Finance
-
-Stock market news today: Stocks wobble with Fed's Powell on deck
-
-       Investors are looking to Fed Chair Jerome Powell to potentially
-       shed light on whether an interest-rate cut lies ahead.
+       Ofcom has published a draft of age-restriction guidelines for
+       online services that host explicit sexual content in the UK. The
+       not yet finalized recommendations are a step toward cementing
+       enforcement for the recently passed Online Safety Act, which
+       requires sites and apps to prevent children from easily accessing
+       adult content.
        3h ago
      * Yahoo Finance
 
-Quitting Elon Musk is 'free speech' too
+Amazon looks to AI, third-party marketplace to grow its cloud business
 
-       Elon Musk's explosive call-out of Disney CEO Bob Iger highlights a
-       fundamental conflict in how the world's richest individual views
-       speech and advertising on his platform X.
-       5h ago
-     * Autoblog
-
-2024 BMW M3 CS Track Drive: When calling it ‘fun’ isn’t enough
-
-       We take the AWD 2024 BMW M3 CS to the track to see how it performs
-       when you push it to the limit.
-       5h ago
-     * TechCrunch
-
-Smartphone sales to rebound on AI gains, Morgan Stanley says
-
-       Smartphone sales will mount a comeback starting in 2024, defying
-       growing warnings of a prolonged slump across the mobile sector,
-       according to separate projections by Goldman Sachs and Morgan
-       Stanley reviewed by TechCrunch. Morgan Stanley's report predicts
-       global smartphone shipments will rebound by nearly 4% in 2024 and
-       by 4.4% in 2025, shrugging off comparisons to the PC industry’s
-       multi-year downdrafts. Driving the smartphone turnaround will be
-       new on-device AI capabilities unlocking fresh demand, Morgan
-       Stanley says.
-       7h ago
-     * Yahoo Sports
-
-Cowboys escape with a win over the Seahawks, and maybe Dak Prescott is the
-real MVP
-
-       Dak Prescott had another huge night as the Cowboys escaped with a
-       big win.
-       11h ago
-     * Engadget
-
-Huawei is allegedly building a self-sufficient chip network using state
-investment fund
-
-       Huawei is allegedly building a self-sufficient chip network, with
-       help from a Shenzhen city government investment fund.
-       10h ago
-     * Yahoo Sports
-
-Week 13 fantasy viewer guide: Games to binge, stream, skip
-
-       49ers-Eagles is set up to be an instant classic but it's not the
-       only game on the Week 13 slate with juicy storylines. CBS Sports
-       Jacob Gibbs joins Matt Harmon for another edition of the fantasy
-       viewer guide and helps identify which games to binge, stream and
-       skip in Week 13.
-       11h ago
-     * Yahoo Life
-
-Marsai Martin, 19, learned the power of her voice when diagnosed with an
-ovarian cyst: 'Pain is not normal'
-
-       The "Black-ish" alum recalls dealing with reproductive health
-       issues as a young teen.
-       14h ago
-     * Yahoo Celebrity
-
-Dolly Parton, 77, was shamed for her cheerleading outfit. Now her defenders
-are calling out ageism.
-
-       Celebrities Whoopi Goldberg, Christie Brinkley and more defended
-       Parton.
-       14h ago
-     * Yahoo Celebrity
-
-Pirelli's 2024 calendar is here. Photographer Prince Gyasi shares how Naomi
-Campbell, Teyana Taylor helped craft his 'timeless' vision.
-
-       Photographer Prince Gyasi says he handpicked all his models,
-       including Naomi Campbell.
-       16h ago
-     * Yahoo Sports
-
-Basketball phenom Mikey Williams reaches plea deal; likely won't face jail
-time
-
-       Williams faced nine felony charges that carried a penalty of up to
-       30 years in prison.
-       17h ago
-     * TechCrunch
-
-Former Blue Origin rocket engine manager alleges wrongful termination for
-whistleblowing on safety
-
-       The former program manager of Blue Origin’s BE-4 rocket engines has
-       filed a lawsuit against the company alleging whistleblower
-       retaliation after he spoke up about safety issues. The complaint
-       was filed on Monday in the Los Angeles County Superior Court. It
-       includes a detailed narrative about program manager Craig Stoker’s
-       efforts over seven months to escalate his concerns about safety and
-       a hostile work environment at Blue Origin.
-       18h ago
+       The performance of Amazon Web Services will be key to the tech
+       giant's growth in 2024.
+       49m ago
      * Yahoo Life Shopping
 
-This $22 Amazon sweatshirt is so soft, shoppers say it's 'made from clouds'
+Get DeWalt's No. 1 bestselling drill for just $99 (that's 45% off!), plus
+other DeWalt deals
 
-       The chic, snuggly pullover has pockets and 18,000-plus fans.
-       18h ago
+       Score top-of-the-line fix-it gear at rock-bottom prices, just in
+       time for cold-weather DIY projects.
+       43m ago
+     * Yahoo Finance
+
+Tesla Cybertruck: Survey finds that two-thirds of respondents wouldn't buy it
+
+       A new survey finds most people would not buy Tesla’s Cybertruck.
+       57m ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Flex Rankings
+
+       Check out our fantasy football FLEX rankings for Week 14 of the
+       2023 NFL season!
+       53m ago
+     * Yahoo Sports
+
+The real NFL MVP, AFC playoff race predictions with Tony Calatayud | The
+Exempt List
+
+       Charles McDonald is joined by Tony Calatayud of the Dan LeBetard
+       Show to dive into their takeaways from Week 13 and attempt to get
+       to the bottom of the some of the biggest questions around the NFL
+       this week. Charles and Tony start things off with some funny
+       storylines from the weekend, including Zach Wilson's reluctance to
+       start again for the New York Jets and the Philadelphia Eagles head
+       of security getting himself and Dre Greenlaw ejected from Sunday's
+       game. Next, the duo dive into the field of contenders for MVP in an
+       especially weird year. While Brock Purdy is the odds-on favorite
+       currently, neither agree he truly deserves the award (and neither
+       does Jalen Hurts). Both agree Tyreek Hill is the most deserving,
+       but can a non-quarterback win the MVP in 2023? Charles also
+       believes Indianapolis Colts head coach Shane Steichen is the most
+       deserving of the Coach of the Year award currently. Later, Charles
+       and Tony take a look at the AFC playoff race and decide who they
+       have more trust in between the Jacksonville Jaguars and Kansas City
+       Chiefs coming off bad losses, and who they'd be more scared to face
+       in the playoffs between the Baltimore Ravens and Miami Dolphins.
+       2h ago
+     * Yahoo Sports
+
+Fantasy Football Week 13 Bad Beats: Getting Chased on Monday night
+
+       There are few things that hurt like a tough defeat in fantasy.
+       Jorge Martin shares the pain from several late heartbreakers in
+       Week 13.
+       1h ago
+     * TechCrunch
+
+X is now licensed for payment processing in a dozen US states
+
+       Elon Musk is moving forward with his plans to turn the company
+       formerly known as Twitter, now called X, into an "everything app"
+       that includes its own payments system. The company in late November
+       was granted three additional money transmitter licenses in the U.S.
+       states of South Dakota (on Nov. 27), Kansas (on Nov. 28), and
+       Wyoming (on Nov. 30), bringing the total number of states where the
+       company is allowed to engage in money transfers to twelve. The
+       other states where the company had previously been granted a money
+       transmitter license include Arizona, Georgia, Iowa, Maryland,
+       Michigan, Mississippi, Missouri, New Hampshire, and Rhode Island.
+       2h ago
+     * Yahoo Sports
+
+Jets reportedly waiving Tim Boyle, signing Brett Rypien as quarterback
+shakeup continues
+
+       Boyle is done after throwing for a total of 327 yards, three
+       interceptions, and one touchdown, while being sacked eight times in
+       two games.
+       3h ago
+     * Yahoo TV
+
+Where to watch 'A Charlie Brown Christmas'? How to stream your favorite
+'Peanuts' holiday specials.
+
+       Charlie Brown won't let commercialism ruin his Christmas — and
+       neither should you!
+       4h ago
+     * Yahoo Life Shopping
+
+'Excellent comfort': These fan-favorite JBL headphones are just $25 — a
+ridiculous 50% off
+
+       The cushy cans will please your ears — and the ears of those on
+       your holiday list.
+       3h ago
+     * Engadget
+
+Multiple game developers announce layoffs, including EA-owned Codemasters
+
+       Multiple game developers have announced layoffs in a year filled
+       with them. Tinybuild, Codemasters and New World Interactive are all
+       reducing their workforces.
+       3h ago
+     * In The Know by Yahoo
+
+Here’s how to make your hair grow longer, according to an expert
+
+       Pretty soon you'll be tossing your shiny hair like a shampoo
+       commercial goddess. The post Here’s how to make your hair grow
+       longer, according to an expert appeared first on In The Know.
+       4h ago
+     * Yahoo Life Shopping
+
+These TikTok-famous toilet seat lifters will 'save your marriage' — and
+they're just $6 a pop
+
+       Your holiday houseguests will appreciate them too.
+       3h ago
+     * Yahoo Finance
+
+Drone startup Anduril: Meeting the threats of today — and tomorrow
+
+       Since early October, Islamic State and Iran-backed militias have
+       launched drone attacks against American forces in Iraq and
+       Syria.Palmer Luckey, whose startup has developed a new weapon to
+       counter these threats, says he can help.
+       3h ago
+     * TechCrunch
+
+Another blow for self-driving trucks as former industry leader abandons the
+US
+
+       The publicly traded company said in a regulatory filing Monday that
+       it's laying off the majority of its U.S. workforce and selling
+       assets here as it exits the country for Asia. About 150 U.S.
+       workers, or 75% of staff in the country, will be laid off.
+       5h ago
+     * Yahoo Life
+
+Ina Garten's favorite olive oil is finally back in stock at Amazon — and it
+makes a great foodie gift
+
+       For decades, the Barefoot Contessa has entrusted her dishes to
+       Cali's own Olio Santo.
+       5h ago
+     * Engadget
+
+23andMe hack now estimated to affect over half of customers
+
+       A hack that affected 23andMe back in October is estimated to have
+       exposed significantly more profiles than previously reported.
+       4h ago
+     * Yahoo Life Shopping
+
+We can't believe these comfy boots aren't Uggs — get a pair for as little as
+$40
+
+       Sink your tootsies into the toasty satisfaction of shearling boots
+       that won’t bust your budget.
+       5h ago
+     * TechCrunch
+
+Git platform AllSpice now curries favor with enterprises
+
+       At that time, co-founders Valentina Ratner and Kyle Dumont wanted
+       to build a developer operations ecosystem for hardware development.
+       Actions is one of the newest tools for continuous integration and
+       continuous deployment.
+       7h ago
        (BUTTON) More Stories
 
    Yahoo news

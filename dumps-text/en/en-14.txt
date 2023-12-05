@@ -1,10 +1,10 @@
    #alternate alternate National » Feed National » CBS Saturday Morning
    Feed
 
-     * Sandra Day O'Connor
      * Israel-Hamas War
-     * Santos Expulsion Vote
-     * Cold Case Breakthrough
+     * Artificial Hips
+     * John Mayer
+     * Deadly Tiger Attack
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -25,22 +25,24 @@
                o Essentials
           +
                o
-                    # Sandra Day O'Connor, first woman on the Supreme
-                      Court, dies at 93
-                    # Combat resumes in Gaza as Israel accuses Hamas of
-                      violating cease-fire
-                    # George Santos faces expulsion vote as momentum
-                      builds for ouster
-                    # A look inside the United States' first-ever
-                      certified "Blue Zone"
-                    # Cartel operators posed as U.S. officials to target
-                      Americans in timeshare scam
-                    # Florida Republican Party chair accused of rape
-                    # Posts Trump claimed were made by judge's wife were
-                      not made by her, court says
-                    # How to spend your FSA dollars before they expire
-                    # Liz Cheney: The U.S. is "sleepwalking into a
-                      dictatorship"
+                    # Supreme Court wary of repercussions of case that
+                      could upend tax code
+                    # College presidents face Congress over antisemitism
+                      on campuses
+                    # U.S. military releases names of crew members who
+                      died in Osprey crash
+                    # Democrats push forward with Ukraine, Israel aid amid
+                      border funding dispute
+                    # Tuberville to drop hold on all military nominations
+                      except for 4-star officers
+                    # U.S. promises aid, field hospital in Gaza as
+                      Israel-Hamas war expands
+                    # Patrick McHenry, former temporary House speaker,
+                      will not seek reelection
+                    # Grand Theft Auto VI trailer: 7 things we learned
+                      from the teaser
+                    # 1958's "Rockin' Around the Christmas Tree" tops
+                      Billboard chart for first time
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -106,7 +108,6 @@
                o A Moment With…
                o Innovators & Disruptors
           +
-               o Log In
                o Newsletters
                o Mobile
                o RSS
@@ -179,16 +180,16 @@ Social media disinformation spreads amid war in Israel
 Israel & Hamas At War
 
    More
+   Congress Education Colleges Antisemitism
+   College presidents face Congress over antisemitism on campuses
+   Displaced Palestinian children, who fled from Khan Yunis are
+   U.S. promises aid, field hospital in Gaza as Israel-Hamas war expands
    ISRAEL-PALESTINIAN-CONFLICT
-   Israel publishes map of "evacuation zones" in Gaza as airstrikes resume
-   gaza-cbs-marwan-airstrike-post-ceasefire.jpg
-   Combat resumes in Gaza as Israel accuses Hamas of violating cease-fire
-   APTOPIX Israel Palestinians
-   Hamas frees more Israeli hostages as cease-fire holds for 7th day
-   Israeli hostages freed arrive in Israel
-   3 killed in Jerusalem after Israel and Hamas agree to extend Gaza truce
-   ISRAEL-US-PALESTINIAN-CONFLICT-PROTEST
-   Dying mother of Israeli hostage pleads for her release
+   Israel continues bombardment, ground assault in southern Gaza
+   Israel Stock Exchange and Market in Tel Aviv
+   Study suggests a stock trader knew in advance of Hamas' Oct. 7 attack
+   APTOPIX Biden US Ukraine
+   Ukraine aid will run out by end of the year, White House says
    More
    In:
      * Disinformation
@@ -216,14 +217,13 @@ Israel & Hamas At War
 
 More from CBS News
 
-Combat resumes in Gaza as Israel accuses Hamas of violating cease-fire
+U.S. promises aid, field hospital in Gaza as Israel-Hamas war expands
 
-Israeli military speaks to Bibas family after Hamas claims mom, 2 kids killed
+Tensions on college campuses over Israel-Hamas war
 
-Meta shuts down thousands of fake Facebook accounts primed to polarize voters
-ahead of 2024
+Israel expands ground offensive to southern Gaza
 
-3 killed in Jerusalem after Israel and Hamas agree to extend Gaza truce
+Tensions over the ongoing Israel-Hamas war surge on college campuses
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy
