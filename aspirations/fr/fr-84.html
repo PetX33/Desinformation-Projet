@@ -404,21 +404,13 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
     window.dfpHubvisorEnd = false;
 
     window.Hubvisor = window.Hubvisor || {};
-    window.enableHubvisor = Math.random() < 0.99;
     window.Hubvisor.cmd = window.Hubvisor.cmd || [];
     // The command queue callback will be called once Hubvisor is loaded
     window.Hubvisor.cmd.push(function() {
         window.dfpHubvisorEnd = true;
     });
 </script>
-<script>
-                    if (window.enableHubvisor) {
-                        const script = document.createElement('script');
-                        script.src = 'https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js';
-                        script.async = true;
-                        document.head.appendChild(script);
-                    }
-                </script>        
+<script src="https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js" onload="performance.mark('20mn:Hubvisor:End')" defer></script>        
         <script type="application/ld+json">
         {"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Canada\u00a0: Les \u00e9lus cibl\u00e9s par une campagne de propagande chinoise sur les r\u00e9seaux sociaux","mainEntityOfPage":"https:\/\/www.20minutes.fr\/monde\/canada\/4059223-20231024-canada-elus-cibles-campagne-propagande-chinoise-reseaux-sociaux","publisher":{"@type":"Organization","name":"20minutes","url":"https:\/\/www.20minutes.fr","logo":{"@type":"ImageObject","url":"https:\/\/static.20mn.fr\/logos\/20minutes-blue-512.png","width":512,"height":512},"sameAs":"https:\/\/fr.wikipedia.org\/wiki\/20_minutes_(France)"},"datePublished":"2023-10-24T11:32:36+02:00","dateModified":"2023-10-24T12:06:21+02:00","description":"Les messages automatiques accusaient notamment Justin Trudeau d'\u00ab\u00a0infractions criminelles\u00a0\u00bb","articlebody":"Le Canada a affirm\u00e9 ce lundi avoir d\u00e9tect\u00e9 une importante campagne de propagande chinoise en ligne visant des \u00e9lus et des membres du gouvernement. Elle aurait\u00a0\u00e9t\u00e9 men\u00e9e d\u2019ao\u00fbt \u00e0 septembre.Incluant des vid\u00e9os \u00ab\u00a0deepfake\u00a0\u00bb, la campagne tentait de d\u00e9nigrer et discr\u00e9diter le Premier ministre et des d\u00e9put\u00e9s canadiens. \u00ab\u00a0Li\u00e9e \u00e0 la R\u00e9publique populaire de Chine\u00a0\u00bb selon le minist\u00e8re des Affaires \u00e9trang\u00e8res, elle visait aussi \u00e0 \u00ab\u00a0faire taire les critiques \u00e0 l\u2019\u00e9gard du Parti communiste chinois\u00a0\u00bb.Des messages propagandistes sur les r\u00e9seaux sociauxLe r\u00e9seau de bots a laiss\u00e9 des \u00ab\u00a0milliers de messages\u00a0\u00bb automatiques sur les r\u00e9seaux sociaux de dizaines de membres du Parlement, dont Justin Trudeau et le chef de l\u2019opposition Pierre Poilievre. Les messages les accusaient \u00ab\u00a0d\u2019infractions criminelles et de manquements \u00e0 l\u2019\u00e9thique\u00a0\u00bb, mais rien ne repr\u00e9sentait \u00ab\u00a0une menace pour leur s\u00e9curit\u00e9 ou celle de leur famille\u00a0\u00bb, selon le minist\u00e8re.Fin ao\u00fbt, Meta avait annonc\u00e9 avoir supprim\u00e9 des milliers de comptes en lien avec une importante op\u00e9ration de propagande chinoise en ligne.\u00a0La campagne aurait \u00e9t\u00e9 active sur plus d\u2019une cinquantaine de plateformes, dont Facebook, Instagram, TikTok, YouTube ou encore X (ex-Twitter).Le r\u00e9seau publiait r\u00e9guli\u00e8rement des commentaires positifs sur la Chine et critiquant les Etats-Unis, la politique \u00e9trang\u00e8re des pays occidentaux, ainsi que \u00ab\u00a0des journalistes et chercheurs\u00a0\u00bb critiques du r\u00e9gime en place, selon Meta.\u00a0Il ciblait en particulier Ta\u00efwan, les Etats-Unis, l\u2019Australie, le Royaume-Uni et le Japon, ainsi que l\u2019audience sinophone \u00e0 l\u2019\u00e9tranger.MondeIran\u00a0: Deux journalistes condamn\u00e9es pour avoir couvert l\u2019affaire Mahsa AminiSoci\u00e9t\u00e9Arras, Bruxelles\u2026 \u00ab\u00a0L\u2019\u00c9tat islamique a r\u00e9ussi \u00e0 diffuser une propagande qui lui a surv\u00e9cu\u00a0\u00bb","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","article .hat-summary","article .teaser-summary","article .summary","article .live-intro ul"]},"relatedLink":"","articleSection":"Monde","image":{"@type":"ImageObject","url":"https:\/\/img.20mn.fr\/D0ofos_pToyshjuJyYXYMCk\/1200x768_photo-illustration-d-un-telephone-portable-avec-les-aplications-des-reseaux-sociaux-07allilimages-choix-1526-2206161558-credit-mourad-allili-sipa-2206161604","height":"768","width":"1200"},"author":{"@type":"Person","name":"News Gene"},"keywords":["Canada","Chine","Propagande","R\u00e9seaux sociaux","Justin Trudeau","D\u00e9put\u00e9","Actualit\u00e9","Monde"]}
     </script>
@@ -543,8 +535,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -556,8 +547,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -569,8 +559,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -582,8 +571,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -595,8 +583,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -608,8 +595,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -621,8 +607,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -634,8 +619,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                     
@@ -700,7 +684,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
             });
 </script>
         
-                    <script src="https://www.20minutes.fr/js/poool-2844f18b11ee7460032b.js"></script>        
+                    <script src="https://www.20minutes.fr/js/poool-fd4d8c05bcb5cf6c8d50.js"></script>        
                     <script>
     var bs_id_1731='T6X56QK'; (function(w,d,s,l,i,u){w[l]=w[l]||[];w[l].push({'\x67\x74\x6d\x2e\x73\x74\x61\x72\x74':  new Date().getTime(),event:'\x67\x74\x6d\x2e\x6a\x73'}); var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= u+[17,73,86,79,16,76,85,33,75,70,31,].map(function(a){return String.fromCharCode(a+30);}).join('')+i+dl;f.parentNode.insertBefore(j,f); })(  window,  document,  'script',  'dataLayer',  [41,54,47,15,54,24,58,23,24,51,45,].map(function(a){return String.fromCharCode(a+30);}).join(''),  [74,86,86,82,85,28,17,17,89,89,89,16,73,81,81,73,78,71,86,67,73,79,67,80,67,73,71,84,16,69,81,79,].map(function(a){return String.fromCharCode(a+30);}).join('')  );
 </script>
@@ -1041,7 +1025,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a href="https://www.20minutes.fr/sport/"  >Sport</a>
                             </li>
                     <li data-tag-id="19709509" data-thematic="entertainment" class="color-entertainment">
-                                    <a href="https://www.20minutes.fr/arts-stars/"  >Entertainment</a>
+                                    <a href="https://www.20minutes.fr/arts-stars/"  >Divertissement</a>
                             </li>
                     <li data-tag-id="2475" data-thematic="planet" class="color-planet">
                                     <a href="https://www.20minutes.fr/planete/"  >Planète</a>
@@ -1078,9 +1062,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                     <li data-tag-id="" data-thematic="partner" class="color-partner">
                                     <a href="https://www.20minutes.fr/services" target="_blank" >Services</a>
-                            </li>
-                    <li data-tag-id="" data-thematic="partner" class="color-partner">
-                                    <a href="https://maison.20minutes.fr/" target="_blank" >Minutes Maison</a>
                             </li>
                     <li data-tag-id="" data-thematic="default" class="color-default">
                                     <a href="https://www.20minutes.fr/pdf/" target="_blank" >Journal numérique</a>
@@ -1174,7 +1155,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="highlights ">
         <div class="highlights-wrap wrap">
             <div class="highlights-viewport">
-                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="737" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/paris/">Attaque terroriste à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
+                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="24106562" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/societe/attaques-terroristes-paris/">Attentat à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
                 </div>
             </div>
             <button type="button" class="highlights-btn highlights-btn-prev" disabled="disabled">
@@ -2008,7 +1989,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
                         <script nomodule src="https://www.20minutes.fr/js/polyfills.js"></script>
-            <script src="https://www.20minutes.fr/js/manifest-8863daa790e80aab9629.js"></script>
+            <script src="https://www.20minutes.fr/js/manifest-7f9568c7f4c628a5d1f0.js"></script>
             <script defer src="https://www.20minutes.fr/js/vendor-527d473b6bbd61d75446.js"></script>
                                             <script>
                     if ('serviceWorker' in navigator) {
@@ -2144,7 +2125,7 @@ window._nli=window._nli||[],window._nli.push(["brand","BNLI-1402"]),function(){v
                             <script>
                     window.datalayer_vars['has_instream_video'] = document.querySelectorAll('iframe[src*="www.ultimedia.com"], iframe[data-src*="www.ultimedia.com"]').length > 0 ? "true" : "false";
                 </script>
-                        <script async src="https://www.20minutes.fr/js/thirdParty-e7b053b210580f41b2f1.js"></script>
+                        <script async src="https://www.20minutes.fr/js/thirdParty-7f97ee34569fbffc2b7b.js"></script>
 
             <script defer src="https://www.20minutes.fr/js/pubstack-c9c049288f793934b0f3.js"></script>
 

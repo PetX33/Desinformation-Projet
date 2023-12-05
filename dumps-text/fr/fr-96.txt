@@ -16,7 +16,7 @@
      * Actualité
      * Régions
      * Sport
-     * Entertainment
+     * Divertissement
      * Planète
      * Vie Pro
      * Tempo
@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Minutes Maison
      * Journal numérique
 
    (BUTTON) Menu complet
@@ -47,22 +46,22 @@
 
    (BUTTON) Fermer
 
-     * Cinéma
      * Culture
-     * Livres
+     * T'as vu ?
+     * People
      * Web
+     * Télévision
+     * Cinéma
+     * Série
+     * Livres
      * Médias
      * Musique
-     * People
-     * Série
-     * T'as vu ?
-     * Télévision
 
    (BUTTON) Voir les sous-sections précedentes (BUTTON) Voir les
    sous-sections suivantes
 
    Dans l’actu
-     * Attaque terroriste à Paris
+     * Attentat à Paris
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
@@ -70,7 +69,7 @@
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
     1. Accueil
-    2. Entertainment
+    2. Divertissement
     3. Médias
 
 Guerre en Ukraine : Les médias russes RT et Sputnik bannis de l’Union

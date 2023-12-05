@@ -402,21 +402,13 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
     window.dfpHubvisorEnd = false;
 
     window.Hubvisor = window.Hubvisor || {};
-    window.enableHubvisor = Math.random() < 0.99;
     window.Hubvisor.cmd = window.Hubvisor.cmd || [];
     // The command queue callback will be called once Hubvisor is loaded
     window.Hubvisor.cmd.push(function() {
         window.dfpHubvisorEnd = true;
     });
 </script>
-<script>
-                    if (window.enableHubvisor) {
-                        const script = document.createElement('script');
-                        script.src = 'https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js';
-                        script.async = true;
-                        document.head.appendChild(script);
-                    }
-                </script>        
+<script src="https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js" onload="performance.mark('20mn:Hubvisor:End')" defer></script>        
         <script type="application/ld+json">
         {"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"La Russie condamne Meta et TikTok pour \u00ab propagande \u00bb LGBT","mainEntityOfPage":"https:\/\/www.20minutes.fr\/monde\/russie\/3278599-20220427-russie-condamne-meta-tiktok-propagande-lgbt","publisher":{"@type":"Organization","name":"20minutes","url":"https:\/\/www.20minutes.fr","logo":{"@type":"ImageObject","url":"https:\/\/static.20mn.fr\/logos\/20minutes-blue-512.png","width":512,"height":512},"sameAs":"https:\/\/fr.wikipedia.org\/wiki\/20_minutes_(France)"},"datePublished":"2022-04-27T11:21:08+02:00","dateModified":"2022-04-27T11:21:08+02:00","description":"Les grandes entreprises du num\u00e9rique sont r\u00e9guli\u00e8rement condamn\u00e9es \u00e0 des amendes en Russie, encore plus depuis le d\u00e9but de la guerre en Ukraine","articlebody":"La justice russe a condamn\u00e9 ce mardi le g\u00e9ant am\u00e9ricain Meta (ex-Facebook) et le r\u00e9seau social TikTok \u00e0 des amendes pour ne pas avoir supprim\u00e9 des publications LGBT, ont annonc\u00e9 les agences de presse russes.Le tribunal moscovite de Taganski a d\u2019abord condamn\u00e9 Meta, la maison m\u00e8re des r\u00e9seaux sociaux Facebook et Instagram, \u00e0 une amende de quatre millions de roubles (environ 50.200 euros au taux actuel) pour n\u2019avoir pas supprim\u00e9 des contenus consid\u00e9r\u00e9s comme de la \u00ab propagande \u00bb LGBT. Dans une autre audience, le tribunal Mirovo\u00ef de Moscou a condamn\u00e9 la plateforme TikTok, filiale du groupe chinois ByteDance, \u00e0 une amende de deux millions de roubles pour la m\u00eame raison.Une loi contre la \u00ab propagande \u00bb homosexuelle aupr\u00e8s des mineursLes grandes entreprises du num\u00e9rique sont r\u00e9guli\u00e8rement condamn\u00e9es en Russie \u00e0 des amendes, accus\u00e9es de ne pas effacer des contenus jug\u00e9s dangereux pour les mineurs ou li\u00e9s \u00e0 l\u2019opposition. Cette pression s\u2019est encore renforc\u00e9e depuis le d\u00e9but de l'op\u00e9ration militaire russe en Ukraine qui a vu de nombreux sites ind\u00e9pendants et de l\u2019opposition \u00eatre interdits.En mars, les autorit\u00e9s russes ont \u00e9galement interdit Facebook et Instagram pour \u00ab extr\u00e9misme \u00bb. La Russie a adopt\u00e9 en 2013 une loi contre la \u00ab propagande \u00bb homosexuelle aupr\u00e8s des mineurs, qui a servi de pr\u00e9texte pour interdire des marches des fiert\u00e9s et l\u2019affichage de drapeaux arc-en-ciel.CultureEurovision 2021 : En Russie, Manizha, f\u00e9ministe et alli\u00e9e des minorit\u00e9s, d\u00e9range les conservateursMondeGuerre en Ukraine\u00a0: La Russie interdit de territoire 29 Am\u00e9ricains, dont Mark Zuckerberg et Kamala Harris","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","article .hat-summary","article .teaser-summary","article .summary","article .live-intro ul"]},"relatedLink":"","articleSection":"Monde","image":{"@type":"ImageObject","url":"https:\/\/img.20mn.fr\/Ag0FnTt_Tlq3kEF8hnnnhSk\/1200x768_groupe-facebook-appelle-desormais-meta","height":"768","width":"1200"},"author":{"@type":"Person","name":"News Gene"},"keywords":["Russie","TikTok","Mouvement LGBT+","Facebook","Monde","Meta"]}
     </script>
@@ -538,8 +530,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -551,8 +542,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -564,8 +554,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -577,8 +566,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -590,8 +578,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -603,8 +590,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -616,8 +602,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -629,8 +614,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                     
@@ -695,7 +679,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
             });
 </script>
         
-                    <script src="https://www.20minutes.fr/js/poool-2844f18b11ee7460032b.js"></script>        
+                    <script src="https://www.20minutes.fr/js/poool-fd4d8c05bcb5cf6c8d50.js"></script>        
                     <script>
     var bs_id_1731='T6X56QK'; (function(w,d,s,l,i,u){w[l]=w[l]||[];w[l].push({'\x67\x74\x6d\x2e\x73\x74\x61\x72\x74':  new Date().getTime(),event:'\x67\x74\x6d\x2e\x6a\x73'}); var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= u+[17,73,86,79,16,76,85,33,75,70,31,].map(function(a){return String.fromCharCode(a+30);}).join('')+i+dl;f.parentNode.insertBefore(j,f); })(  window,  document,  'script',  'dataLayer',  [41,54,47,15,54,24,58,23,24,51,45,].map(function(a){return String.fromCharCode(a+30);}).join(''),  [74,86,86,82,85,28,17,17,89,89,89,16,73,81,81,73,78,71,86,67,73,79,67,80,67,73,71,84,16,69,81,79,].map(function(a){return String.fromCharCode(a+30);}).join('')  );
 </script>
@@ -1036,7 +1020,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a href="https://www.20minutes.fr/sport/"  >Sport</a>
                             </li>
                     <li data-tag-id="19709509" data-thematic="entertainment" class="color-entertainment">
-                                    <a href="https://www.20minutes.fr/arts-stars/"  >Entertainment</a>
+                                    <a href="https://www.20minutes.fr/arts-stars/"  >Divertissement</a>
                             </li>
                     <li data-tag-id="2475" data-thematic="planet" class="color-planet">
                                     <a href="https://www.20minutes.fr/planete/"  >Planète</a>
@@ -1073,9 +1057,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                     <li data-tag-id="" data-thematic="partner" class="color-partner">
                                     <a href="https://www.20minutes.fr/services" target="_blank" >Services</a>
-                            </li>
-                    <li data-tag-id="" data-thematic="partner" class="color-partner">
-                                    <a href="https://maison.20minutes.fr/" target="_blank" >Minutes Maison</a>
                             </li>
                     <li data-tag-id="" data-thematic="default" class="color-default">
                                     <a href="https://www.20minutes.fr/pdf/" target="_blank" >Journal numérique</a>
@@ -1169,7 +1150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="highlights ">
         <div class="highlights-wrap wrap">
             <div class="highlights-viewport">
-                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="737" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/paris/">Attaque terroriste à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
+                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="24106562" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/societe/attaques-terroristes-paris/">Attentat à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
                 </div>
             </div>
             <button type="button" class="highlights-btn highlights-btn-prev" disabled="disabled">
@@ -1906,7 +1887,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
                         <script nomodule src="https://www.20minutes.fr/js/polyfills.js"></script>
-            <script src="https://www.20minutes.fr/js/manifest-8863daa790e80aab9629.js"></script>
+            <script src="https://www.20minutes.fr/js/manifest-7f9568c7f4c628a5d1f0.js"></script>
             <script defer src="https://www.20minutes.fr/js/vendor-527d473b6bbd61d75446.js"></script>
                                             <script>
                     if ('serviceWorker' in navigator) {
@@ -2042,7 +2023,7 @@ window._nli=window._nli||[],window._nli.push(["brand","BNLI-1402"]),function(){v
                             <script>
                     window.datalayer_vars['has_instream_video'] = document.querySelectorAll('iframe[src*="www.ultimedia.com"], iframe[data-src*="www.ultimedia.com"]').length > 0 ? "true" : "false";
                 </script>
-                        <script async src="https://www.20minutes.fr/js/thirdParty-e7b053b210580f41b2f1.js"></script>
+                        <script async src="https://www.20minutes.fr/js/thirdParty-7f97ee34569fbffc2b7b.js"></script>
 
             <script defer src="https://www.20minutes.fr/js/pubstack-c9c049288f793934b0f3.js"></script>
 

@@ -6,17 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1. maximum-scale=1" />
 
   <!-- prealod css et js -->
-  <link href="/css/notretemps.css?version=0.8.47" rel="preload" as="style" />
+  <link href="/css/notretemps.css?version=0.8.54" rel="preload" as="style" />
   <link href="/vendor/bayard-admin/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
-  <link href="/css/notretemps.css?version=0.8.47" rel="preload" as="style" />
-  <link href="/js/minimal.js?version=0.8.47" rel="preload" as="script" />
-  <link href="/js/app.js?version=0.8.47" rel="preload" as="script" />
+  <link href="/css/notretemps.css?version=0.8.54" rel="preload" as="style" />
+  <link href="/js/minimal.js?version=0.8.54" rel="preload" as="script" />
+  <link href="/js/app.js?version=0.8.54" rel="preload" as="script" />
       <link href="/fonts/icomoon.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/montserrat-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/montserrat-bold-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/opensans-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
       <link href="/fonts/opensans-bold-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
-    <link href="/css/notretemps.css?version=0.8.47" rel="stylesheet" type="text/css" />
+    <link href="/css/notretemps.css?version=0.8.54" rel="stylesheet" type="text/css" />
 
   
 
@@ -139,7 +139,7 @@
 
 <script>
  if ('serviceWorker' in navigator) {
-   const version = '0.8.47';
+   const version = '0.8.54';
    navigator.serviceWorker.register( '/serviceworker.js?version=' + version, { scope: '/' });
    // Setup a listener to track Add to Homescreen events.
    window.addEventListener( 'beforeinstallprompt', function(e){
@@ -551,22 +551,29 @@
             <a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.notretemps.com/depeches/suede-stockholm-denonce-une-desinformation-apres-un-lapsus-du-premier-ministre-sur-israel-81845" rel="noopener" target="_blank" title="Partager sur Pinterest" data-event="link" data-eventvalue="item-pinterest">
         <i class="im-pinterest"></i>
       </a>
+            <a class="linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.notretemps.com/depeches/suede-stockholm-denonce-une-desinformation-apres-un-lapsus-du-premier-ministre-sur-israel-81845" rel="noopener" target="_blank" title="Partager sur Linkedin" data-event="link" data-eventvalue="item-linkedin">
+        <i class="im-linkedin"></i>
+      </a>
             <a class="whatsapp" href="whatsapp://send?text=https://www.notretemps.com/depeches/suede-stockholm-denonce-une-desinformation-apres-un-lapsus-du-premier-ministre-sur-israel-81845" data-action="share/whatsapp/share" rel="noopener" target="_blank" title="Partager sur Whatsapp" data-event="link" data-eventvalue="item-whatsapp">
         <i class="im-whatsapp"></i>
       </a>
-            <a class="sharelink" href="#" data-url="https://www.notretemps.com/depeches/suede-stockholm-denonce-une-desinformation-apres-un-lapsus-du-premier-ministre-sur-israel-81845" title="Copier le lien" data-event="link" data-eventvalue="item-sharelink">
-        <i class="im-link"></i>
-      </a>
-              <a class="zoomin" href="#" title="Agrandir la taille du texte" data-event="link" data-eventvalue="item-zoomin">
-        <i class="im-zoom-in"></i>
-      </a>
-              <a class="zoomout" href="javascript:print();" title="Diminuer la taille du texte" data-event="link" data-eventvalue="item-zoomout">
-          <i class="im-zoom-out"></i>
-        </a>
-              <a class="print" href="javascript:print();" title="Imprimer" data-event="link" data-eventvalue="item-print">
-        <i class="im-print"></i>
-      </a>
-            </div>
+    
+<a class="sharelink" href="#" data-url="https://www.notretemps.com/depeches/suede-stockholm-denonce-une-desinformation-apres-un-lapsus-du-premier-ministre-sur-israel-81845" title="Copier le lien" data-event="link" data-eventvalue="item-sharelink">
+  <i class="im-link"></i>
+</a>
+
+<a class="zoomin" href="#" title="Agrandir la taille du texte" data-event="link" data-eventvalue="item-zoomin">
+  <i class="im-zoom-in"></i>
+</a>
+
+  <a class="zoomout" href="javascript:print();" title="Diminuer la taille du texte" data-event="link" data-eventvalue="item-zoomout">
+    <i class="im-zoom-out"></i>
+  </a>
+
+<a class="print" href="javascript:print();" title="Imprimer" data-event="link" data-eventvalue="item-print">
+  <i class="im-print"></i>
+</a>
+        </div>
       </div>
 
       <div class="main-content mb-3 has-sidebar has-contenttools">
@@ -722,7 +729,7 @@
 
          <div class="col-12 col-md-6">
            <label for="comment-answer-author">Pseudo<span class="required">*</span>:</label>
-           <input id="comment-answer-author" class="comment-answer-authorname disabled-elt" type="text" name="comment-answer-author " value="" disabled>
+           <input id="comment-answer-author" class="comment-answer-authorname disabled-elt" type="text" name="comment-answer-author" value="" disabled>
          </div>
        </div>
 
@@ -1110,8 +1117,8 @@
   <div class="abo abo-toaster" data-typeabo="toaster"></div>
 
   <script src="https://sso.notretemps.com/auth/js/keycloak.min.js"></script>
-  <script src="/js/minimal.js?version=0.8.47"></script>
-  <script src="/js/app.js?version=0.8.47"></script>
+  <script src="/js/minimal.js?version=0.8.54"></script>
+  <script src="/js/app.js?version=0.8.54"></script>
         
     <script>
     window._taboola = window._taboola || [];

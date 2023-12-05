@@ -405,21 +405,13 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
     window.dfpHubvisorEnd = false;
 
     window.Hubvisor = window.Hubvisor || {};
-    window.enableHubvisor = Math.random() < 0.99;
     window.Hubvisor.cmd = window.Hubvisor.cmd || [];
     // The command queue callback will be called once Hubvisor is loaded
     window.Hubvisor.cmd.push(function() {
         window.dfpHubvisorEnd = true;
     });
 </script>
-<script>
-                    if (window.enableHubvisor) {
-                        const script = document.createElement('script');
-                        script.src = 'https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js';
-                        script.async = true;
-                        document.head.appendChild(script);
-                    }
-                </script>        
+<script src="https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js" onload="performance.mark('20mn:Hubvisor:End')" defer></script>        
         <script type="application/ld+json">
         {"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Emmanuel Macron demande aux diplomates fran\u00e7ais de mieux combattre la \u00ab\u00a0propagande anti-fran\u00e7aise\u00a0\u00bb en ligne","mainEntityOfPage":"https:\/\/www.20minutes.fr\/politique\/3344835-20220901-emmanuel-macron-demande-diplomates-francais-mieux-combattre-propagande-anti-francaise-ligne","publisher":{"@type":"Organization","name":"20minutes","url":"https:\/\/www.20minutes.fr","logo":{"@type":"ImageObject","url":"https:\/\/static.20mn.fr\/logos\/20minutes-blue-512.png","width":512,"height":512},"sameAs":"https:\/\/fr.wikipedia.org\/wiki\/20_minutes_(France)"},"datePublished":"2022-09-01T14:45:05+02:00","dateModified":"2022-09-01T14:45:05+02:00","description":"\u00ab\u00a0Aujourd\u2019hui on subit trop, on ne fait pas assez\u00a0\u00bb, a estim\u00e9 Emmanuel Macron","articlebody":"Les diplomates fran\u00e7ais doivent \u00eatre \u00ab plus r\u00e9actifs \u00bb en ligne. Le pr\u00e9sident fran\u00e7ais Emmanuel Macron les a exhort\u00e9s jeudi \u00e0 mieux riposter aux attaques que subit la France sur les r\u00e9seaux sociaux, notamment en Afrique. \u00ab Notre pays est souvent attaqu\u00e9 et il est attaqu\u00e9 dans les opinions publiques, par les r\u00e9seaux sociaux et des manipulations \u00bb, a observ\u00e9 le chef de l\u2019Etat, dans un discours devant les ambassadeurs fran\u00e7ais r\u00e9unis \u00e0 l\u2019Elys\u00e9e.C\u2019est le cas en particulier en Afrique o\u00f9 \u00ab le narratif, russe, chinois ou turc \u00bb vient expliquer aux opinions publiques \u00ab que la France est un pays qui fait de la n\u00e9ocolonisation et qui installe son arm\u00e9e sur leur sol \u00bb. La riposte passe d\u2019abord par une \u00ab vraie politique partenariale \u00bb avec les pays vis\u00e9s, mais \u00ab je pense que, collectivement, nous devons \u00eatre beaucoup plus r\u00e9actifs, beaucoup plus mobilis\u00e9s sur les r\u00e9seaux sociaux \u00bb, a insist\u00e9 le pr\u00e9sident de la R\u00e9publique.Contrer les \u00ab propagandes anti-fran\u00e7aises \u00bb\u00ab Il ne s\u2019agit pas de faire de la propagande \u00bb, a-t-il fait valoir, mais de contrer les \u00ab propagandes anti-fran\u00e7aises \u00bb et de \u00ab combattre les narratifs mensongers, les informations fausses et d\u00e9fendre la r\u00e9alit\u00e9 de notre action \u00bb. \u00ab Aujourd\u2019hui on subit trop, on ne fait pas assez \u00bb, a estim\u00e9 Emmanuel Macron devant les ambassadeurs et ambassadrices fran\u00e7ais. Le chef de l\u2019Etat, qui a appel\u00e9 \u00e0 \u00ab assumer une strat\u00e9gie d\u2019influence et de rayonnement de la France \u00bb, a exhort\u00e9 \u00e0 \u00ab mieux utiliser le r\u00e9seau France M\u00e9dias Monde, qui est absolument clef, qui doit \u00eatre une force pour nous \u00bb.France M\u00e9dias Monde regroupe notamment la cha\u00eene d\u2019information France 24 et la radio RFI. Sur les r\u00e9seaux sociaux, la France a notamment \u00e9t\u00e9 vis\u00e9e par des campagnes de d\u00e9sinformation au Mali, sur fond de tensions diplomatiques entre Paris et Bamako\u200b. De nombreuses fausses informations y avaient ainsi circul\u00e9 de mani\u00e8re virale en 2021, portant sur les agissements suppos\u00e9s des troupes fran\u00e7aises dans le pays.PolitiqueJustice, \u00e9cologie, retraites\u2026 Elisabeth Borne d\u00e9voile le menu de l\u2019ex\u00e9cutif jusqu\u2019en\u00a02023PolitiqueRenaissance\u00a0: Emmanuel Macron convie les cadres du futur parti \u00e0 l\u2019Elys\u00e9e","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","article .hat-summary","article .teaser-summary","article .summary","article .live-intro ul"]},"relatedLink":"","articleSection":"Politique","image":{"@type":"ImageObject","url":"https:\/\/img.20mn.fr\/2q8zrhBvQNq-P2xmasQNbyk\/1200x768_president-francais-emmanuel-macron-demande-diplomates-contrecarrer-propagande-anti-francaise-ligne","height":"768","width":"1200"},"author":{"@type":"Person","name":"Diane Regny"},"keywords":["Politique","High-Tech","Diplomatie","Fake news","Propagande","Emmanuel Macron"]}
     </script>
@@ -544,8 +536,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -557,8 +548,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -570,8 +560,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -583,8 +572,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -596,8 +584,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -609,8 +596,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -622,8 +608,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -635,8 +620,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                     
@@ -701,7 +685,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
             });
 </script>
         
-                    <script src="https://www.20minutes.fr/js/poool-2844f18b11ee7460032b.js"></script>        
+                    <script src="https://www.20minutes.fr/js/poool-fd4d8c05bcb5cf6c8d50.js"></script>        
                     <script>
     var bs_id_1731='T6X56QK'; (function(w,d,s,l,i,u){w[l]=w[l]||[];w[l].push({'\x67\x74\x6d\x2e\x73\x74\x61\x72\x74':  new Date().getTime(),event:'\x67\x74\x6d\x2e\x6a\x73'}); var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= u+[17,73,86,79,16,76,85,33,75,70,31,].map(function(a){return String.fromCharCode(a+30);}).join('')+i+dl;f.parentNode.insertBefore(j,f); })(  window,  document,  'script',  'dataLayer',  [41,54,47,15,54,24,58,23,24,51,45,].map(function(a){return String.fromCharCode(a+30);}).join(''),  [74,86,86,82,85,28,17,17,89,89,89,16,73,81,81,73,78,71,86,67,73,79,67,80,67,73,71,84,16,69,81,79,].map(function(a){return String.fromCharCode(a+30);}).join('')  );
 </script>
@@ -1042,7 +1026,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a href="https://www.20minutes.fr/sport/"  >Sport</a>
                             </li>
                     <li data-tag-id="19709509" data-thematic="entertainment" class="color-entertainment">
-                                    <a href="https://www.20minutes.fr/arts-stars/"  >Entertainment</a>
+                                    <a href="https://www.20minutes.fr/arts-stars/"  >Divertissement</a>
                             </li>
                     <li data-tag-id="2475" data-thematic="planet" class="color-planet">
                                     <a href="https://www.20minutes.fr/planete/"  >Planète</a>
@@ -1079,9 +1063,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                     <li data-tag-id="" data-thematic="partner" class="color-partner">
                                     <a href="https://www.20minutes.fr/services" target="_blank" >Services</a>
-                            </li>
-                    <li data-tag-id="" data-thematic="partner" class="color-partner">
-                                    <a href="https://maison.20minutes.fr/" target="_blank" >Minutes Maison</a>
                             </li>
                     <li data-tag-id="" data-thematic="default" class="color-default">
                                     <a href="https://www.20minutes.fr/pdf/" target="_blank" >Journal numérique</a>
@@ -1175,7 +1156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="highlights ">
         <div class="highlights-wrap wrap">
             <div class="highlights-viewport">
-                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="737" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/paris/">Attaque terroriste à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
+                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="24106562" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/societe/attaques-terroristes-paris/">Attentat à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
                 </div>
             </div>
             <button type="button" class="highlights-btn highlights-btn-prev" disabled="disabled">
@@ -2075,7 +2056,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
                         <script nomodule src="https://www.20minutes.fr/js/polyfills.js"></script>
-            <script src="https://www.20minutes.fr/js/manifest-8863daa790e80aab9629.js"></script>
+            <script src="https://www.20minutes.fr/js/manifest-7f9568c7f4c628a5d1f0.js"></script>
             <script defer src="https://www.20minutes.fr/js/vendor-527d473b6bbd61d75446.js"></script>
                                             <script>
                     if ('serviceWorker' in navigator) {
@@ -2211,7 +2192,7 @@ window._nli=window._nli||[],window._nli.push(["brand","BNLI-1402"]),function(){v
                             <script>
                     window.datalayer_vars['has_instream_video'] = document.querySelectorAll('iframe[src*="www.ultimedia.com"], iframe[data-src*="www.ultimedia.com"]').length > 0 ? "true" : "false";
                 </script>
-                        <script async src="https://www.20minutes.fr/js/thirdParty-e7b053b210580f41b2f1.js"></script>
+                        <script async src="https://www.20minutes.fr/js/thirdParty-7f97ee34569fbffc2b7b.js"></script>
 
             <script defer src="https://www.20minutes.fr/js/pubstack-c9c049288f793934b0f3.js"></script>
 

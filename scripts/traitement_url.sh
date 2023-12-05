@@ -284,7 +284,7 @@ else
 		sh ./scripts/concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot > "./concordances/$lang/$basename-$lineno.html"
 		
 		# Add a row to the HTML table for each URL
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="./aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="./dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="./contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="./concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
     	lineno=$((lineno + 1))
 	done < "$fichier_urls"

@@ -402,21 +402,13 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
     window.dfpHubvisorEnd = false;
 
     window.Hubvisor = window.Hubvisor || {};
-    window.enableHubvisor = Math.random() < 0.99;
     window.Hubvisor.cmd = window.Hubvisor.cmd || [];
     // The command queue callback will be called once Hubvisor is loaded
     window.Hubvisor.cmd.push(function() {
         window.dfpHubvisorEnd = true;
     });
 </script>
-<script>
-                    if (window.enableHubvisor) {
-                        const script = document.createElement('script');
-                        script.src = 'https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js';
-                        script.async = true;
-                        document.head.appendChild(script);
-                    }
-                </script>        
+<script src="https://cdn.hubvisor.io/wrapper/01BYK28ENND8X5G8K0AJ2DPK2B/hubvisor.js" onload="performance.mark('20mn:Hubvisor:End')" defer></script>        
         <script type="application/ld+json">
         {"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Daesh: Les femmes particuli\u00e8rement vis\u00e9es par la propagande de l'organisation djihadiste, selon Europol","mainEntityOfPage":"https:\/\/www.20minutes.fr\/monde\/daesh\/2540203-20190614-daesh-femmes-particulierement-visees-propagande-organisation-djihadiste-selon-europol","publisher":{"@type":"Organization","name":"20minutes","url":"https:\/\/www.20minutes.fr","logo":{"@type":"ImageObject","url":"https:\/\/static.20mn.fr\/logos\/20minutes-blue-512.png","width":512,"height":512},"sameAs":"https:\/\/fr.wikipedia.org\/wiki\/20_minutes_(France)"},"datePublished":"2019-06-14T13:31:56+02:00","dateModified":"2019-06-14T13:31:56+02:00","description":"Le groupe terroriste promet aux femmes \u00ab\u00a0une reconnaissance sociale et la possibilit\u00e9 de participer aux combats\u00a0\u00bb","articlebody":"Daesh a fait beaucoup d\u2019efforts de communication pour convaincre les femmes de venir grossir ses rangs. L\u2019organisation terroriste a multipli\u00e9 les \u00e9l\u00e9ments de propagande pour attirer de futures combattantes et dissiper leurs doutes, selon un rapport d\u2019Europol relay\u00e9 par Europe 1 ce vendredi.Les sp\u00e9cialistes ont analys\u00e9 200 textes, vid\u00e9os et documents de propagande, dans lesquels les femmes sont sp\u00e9cifiquement cibl\u00e9es. La d\u00e9marche marque un r\u00e9el changement dans le positionnement du groupe djihadiste \u00e0 l\u2019organisation patriarcale.La crainte d\u2019une inspirationLes messages assurent aux concern\u00e9es que Daesh leur apportera la consid\u00e9ration qu\u2019elles m\u00e9ritent, y compris dans les combats auxquels l\u2019organisation promet une participation des femmes. Les communications, produites par des femmes djihadistes elles-m\u00eames, prennent aussi les devants en expliquant et justifiant certaines pratiques, comme la polygamie ou l\u2019esclavagisme.Daesh faisait donc le n\u00e9cessaire pour \u00ab insinuer que les femmes pouvaient acc\u00e9der \u00e0 des positions de m\u00e9decins, de professeurs ou de personnels de la police religieuse pour les inciter \u00e0 venir \u00bb, analyse Vincent Semetre, chef d\u2019unit\u00e9 au centre europ\u00e9en antiterroriste. L\u2019organisation cr\u00e9e ainsi un \u00ab pr\u00e9c\u00e9dent \u00bb. Pr\u00e9c\u00e9dent que le sp\u00e9cialiste craint de voir reproduit et imit\u00e9 dans d\u2019autres mouvements terroristes.JusticeImages d'exactions de Daesh: Marine Le Pen renvoy\u00e9e en correctionnelleMondeSyrie: Neuf enfants et trois djihadistes remis \u00e0 la justice fran\u00e7aise par la Turquie\u00a0","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","article .hat-summary","article .teaser-summary","article .summary","article .live-intro ul"]},"relatedLink":"","articleSection":"Monde","image":{"@type":"ImageObject","url":"https:\/\/img.20mn.fr\/ICqxupMSQumsBvFrZ94m2Q\/1200x768_des_femmes_entierement_voilees_marchent_devant_un_panneau_du_groupe_jihadiste_ei_proclamant_nous_serons_victorieux_le_1er_novembre_2014_dans_la_ville_de_raqa_en_syrie","height":"768","width":"1200"},"author":{"@type":"Person","name":"News Gene"},"keywords":["Daesh","Femme","Propagande","Djihadisme","Terrorisme","Monde"]}
     </script>
@@ -538,8 +530,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -551,8 +542,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -564,8 +554,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -577,8 +566,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -590,8 +578,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -603,8 +590,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -616,8 +602,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                                                 var slotElt = window.googletag
@@ -629,8 +614,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                     .setTargeting('tgt', target)
                     .setTargeting('ad_group', Adomik.randomAdGroup())
                     .setTargeting('ad_h', (new Date).getUTCHours().toString())
-                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu')
-                    .setTargeting('hbv_abtestB_adx', window.enableHubvisor ? 'with_hbv' : 'no_hbv');
+                    .setTargeting('page_type', data.page_type ? data.page_type : 'Non connu');
 
                 Object.keys(targeting).forEach(key => slotElt.setTargeting(key, targeting[key]));
                                                     
@@ -695,7 +679,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
             });
 </script>
         
-                    <script src="https://www.20minutes.fr/js/poool-2844f18b11ee7460032b.js"></script>        
+                    <script src="https://www.20minutes.fr/js/poool-fd4d8c05bcb5cf6c8d50.js"></script>        
                     <script>
     var bs_id_1731='T6X56QK'; (function(w,d,s,l,i,u){w[l]=w[l]||[];w[l].push({'\x67\x74\x6d\x2e\x73\x74\x61\x72\x74':  new Date().getTime(),event:'\x67\x74\x6d\x2e\x6a\x73'}); var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= u+[17,73,86,79,16,76,85,33,75,70,31,].map(function(a){return String.fromCharCode(a+30);}).join('')+i+dl;f.parentNode.insertBefore(j,f); })(  window,  document,  'script',  'dataLayer',  [41,54,47,15,54,24,58,23,24,51,45,].map(function(a){return String.fromCharCode(a+30);}).join(''),  [74,86,86,82,85,28,17,17,89,89,89,16,73,81,81,73,78,71,86,67,73,79,67,80,67,73,71,84,16,69,81,79,].map(function(a){return String.fromCharCode(a+30);}).join('')  );
 </script>
@@ -1036,7 +1020,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a href="https://www.20minutes.fr/sport/"  >Sport</a>
                             </li>
                     <li data-tag-id="19709509" data-thematic="entertainment" class="color-entertainment">
-                                    <a href="https://www.20minutes.fr/arts-stars/"  >Entertainment</a>
+                                    <a href="https://www.20minutes.fr/arts-stars/"  >Divertissement</a>
                             </li>
                     <li data-tag-id="2475" data-thematic="planet" class="color-planet">
                                     <a href="https://www.20minutes.fr/planete/"  >Planète</a>
@@ -1073,9 +1057,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                     <li data-tag-id="" data-thematic="partner" class="color-partner">
                                     <a href="https://www.20minutes.fr/services" target="_blank" >Services</a>
-                            </li>
-                    <li data-tag-id="" data-thematic="partner" class="color-partner">
-                                    <a href="https://maison.20minutes.fr/" target="_blank" >Minutes Maison</a>
                             </li>
                     <li data-tag-id="" data-thematic="default" class="color-default">
                                     <a href="https://www.20minutes.fr/pdf/" target="_blank" >Journal numérique</a>
@@ -1169,7 +1150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="highlights ">
         <div class="highlights-wrap wrap">
             <div class="highlights-viewport">
-                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="737" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/paris/">Attaque terroriste à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
+                <div class="highlights-body"><a id="highlights-label" href="https://www.20minutes.fr/actualites-a-la-une" class="highlights-label ">Dans l’actu</a><ul class="highlights-list" role="group" aria-labelledby="highlights-label"><li  data-tag-id="24106562" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/societe/attaques-terroristes-paris/">Attentat à Paris</a></li><li  data-tag-id="30787253" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/planete/cop/">COP28</a></li><li  data-tag-id="2443" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/israel/">Guerre Hamas-Israël</a></li><li  data-tag-id="6705" data-thematic="default"><a class="tagBtn" href="https://www.20minutes.fr/monde/ukraine/">Guerre en Ukraine</a></li></ul>
                 </div>
             </div>
             <button type="button" class="highlights-btn highlights-btn-prev" disabled="disabled">
@@ -2042,7 +2023,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
                         <script nomodule src="https://www.20minutes.fr/js/polyfills.js"></script>
-            <script src="https://www.20minutes.fr/js/manifest-8863daa790e80aab9629.js"></script>
+            <script src="https://www.20minutes.fr/js/manifest-7f9568c7f4c628a5d1f0.js"></script>
             <script defer src="https://www.20minutes.fr/js/vendor-527d473b6bbd61d75446.js"></script>
                                             <script>
                     if ('serviceWorker' in navigator) {
@@ -2178,7 +2159,7 @@ window._nli=window._nli||[],window._nli.push(["brand","BNLI-1402"]),function(){v
                             <script>
                     window.datalayer_vars['has_instream_video'] = document.querySelectorAll('iframe[src*="www.ultimedia.com"], iframe[data-src*="www.ultimedia.com"]').length > 0 ? "true" : "false";
                 </script>
-                        <script async src="https://www.20minutes.fr/js/thirdParty-e7b053b210580f41b2f1.js"></script>
+                        <script async src="https://www.20minutes.fr/js/thirdParty-7f97ee34569fbffc2b7b.js"></script>
 
             <script defer src="https://www.20minutes.fr/js/pubstack-c9c049288f793934b0f3.js"></script>
 

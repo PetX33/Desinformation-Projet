@@ -248,6 +248,15 @@ Vous souhaitez être informé en temps réel ?
      * Transformation numérique
 
    Sécurité et stabilité du cyberespace
+   Sécuriser et réguler l’espace numérique : un des travaux d’Hercule ?
+   05 décembre 2023
+
+Sécuriser et réguler l’espace numérique : un des travaux d’Hercule ?
+
+   Par Fabrice Deblock
+   Le projet de loi SREN avance. Il aura dû mettre d’accord de très
+   nombreux acteurs, tant son périmètre est large. Dernière étape : la
+   commission mixte paritaire qui doit réunir début 2024 ...
    Canada : au moins 13 ministères fédéraux utilisent des
    logiciels-espions
    30 novembre 2023
@@ -289,14 +298,14 @@ Les évolutions des postures cyber : comment la Chine, la Russie, les
    Le gendarme boursier américain accuse l’entreprise, victime en 2020
    d’une cyberattaque aux graves conséquences, de négligence en matière de
    cybersécurité.
-   Le Canada interdit à ses employés d’utiliser WeChat et Kaspersky
-   01 novembre 2023
-
-Le Canada interdit à ses employés d’utiliser WeChat et Kaspersky
-
-   Le gouvernement fédéral va bannir le réseau social chinois et
-   l’antivirus russe des portables de ses salariés.
    Cyber sécurité industrielle
+   Le Canada veut renforcer la cyberdéfense de son secteur énergétique
+   04 décembre 2023
+
+Le Canada veut renforcer la cyberdéfense de son secteur énergétique
+
+   Une réunion secrète sur le sujet avec les principales entreprises du
+   secteur a eu lieu en juin 2023.
    Danemark : une cyberattaque massive a visé le secteur énergétique
    21 novembre 2023
 
@@ -332,17 +341,16 @@ Siemens lance un outil d’analyse de la cybersécurité industrielle
 
    Il permet d’éprouver, pendant les phases de maintenance, la robustesse
    de l’environnement IT/OT d’une organisation.
-   Énergie : une faille critique touche des machines de surveillance
-   industrielle
-   03 octobre 2023
-
-Énergie : une faille critique touche des machines de surveillance
-industrielle
-
-   Nozomi Networks a identifié trois vulnérabilités, dont une critique,
-   sans correctif disponible, dans des équipements très utilisés par les
-   infrastructures énergétiques.
    Cyber criminalité
+   Nouveau coup de filet contre le gang de rançongiciel responsable du
+   piratage d’Altran
+   04 décembre 2023
+
+Nouveau coup de filet contre le gang de rançongiciel responsable du piratage
+d’Altran
+
+   Europol et Eurojust ont coordonné l’arrestation de 5 nouveaux suspects
+   en Ukraine, qui s’ajoutent aux 13 interpellations de 2021.
    Cybersécurité : le ministère de l’Intérieur en ordre de bataille
    27 novembre 2023
 
@@ -380,16 +388,16 @@ Qui a débranché le botnet Mozi ?
 
    Un mystérieux kill switch a mis fin au réseau de machines zombies, à
    l’été 2023.
-   L’opération Triangulation met au jour les vulnérabilités d’Apple
-   13 novembre 2023
-
-L’opération Triangulation met au jour les vulnérabilités d’Apple
-
-   Par Fabrice Deblock
-   L’équipe de recherche et d’analyse mondiale (GReAT) de Kaspersky a
-   révélé fin octobre 2023, lors de son événement annuel, le Security
-   Analyst Summit (SAS), de nombreux éléments ...
    Souveraineté numérique
+   Cloud : l’Union européenne réduit légèrement ses critères de
+   souveraineté
+   04 décembre 2023
+
+Cloud : l’Union européenne réduit légèrement ses critères de souveraineté
+
+   La dernière mouture de l’EUCS, futur schéma européen de certification
+   des services cloud, atténue notamment les exigences « d’imperméabilité
+   » à l’extraterritorialité des lois ...
    La sécurité sociale britannique confie ses données de santé à Palantir
    27 novembre 2023
 
@@ -433,13 +441,6 @@ stratégique de l’UE
 
    Les ministres de l’Économie des trois États membres souhaitent soutenir
    le développement des entreprises européennes les plus innovantes.
-   IA Act : vers une réglementation à 3 niveaux des IA génératives
-   19 octobre 2023
-
-IA Act : vers une réglementation à 3 niveaux des IA génératives
-
-   Les négociations en cours à Bruxelles pourraient imposer aux modèles
-   d’IA des obligations dépendant de leur taille et de leur popularité.
    Identité numérique & KYC
    Windows Hello : des failles dans l’authentification par empreinte
    digitale
@@ -529,6 +530,15 @@ Arnaques en ligne : coup de filet d’Interpol en Afrique de l’Ouest
    Des hackers white hat feraient partie des attaquants de cette
    plateforme de finance décentralisée.
    Sécurité opérationnelle
+   Compliance cyber : de nouvelles technologies s’imposent
+   04 décembre 2023
+
+Compliance cyber : de nouvelles technologies s’imposent
+
+   Par Camille Dal Ponte
+   Les entreprises doivent apprivoiser les RegTech, Legal Tech et SupTech.
+   Objectif : optimiser leur mise en conformité et mitiger les risques
+   liés à leurs activités avec des outils numériques.
    Emmanuelle Hervé : « Il faut avoir une culture de la crise tout court.
    La cybercrise n’est qu’une extension plus récente »
    24 novembre 2023
@@ -571,13 +581,6 @@ Le Campus Cyber présente ses recommandations pour les TPE/PME
    Son rapport fixe trois priorités : rendre plus lisibles les diagnostics
    cyber, simplifier l’accès des entreprises aux acteurs de la
    cybersécurité et sensibiliser au risque cyber.
-   États-Unis : Joe Biden publie un premier décret de régulation de l’IA
-   01 novembre 2023
-
-États-Unis : Joe Biden publie un premier décret de régulation de l’IA
-
-   Sa portée reste limitée par l’incapacité du Congrès à adopter une
-   position transpartisane sur cette question.
    Cyber risques
    Cybersécurité des PME/ETI : oubliez tout ce que vous savez !
    30 novembre 2023
@@ -632,6 +635,13 @@ Intelligence artificielle : le monde prend conscience de ses risques
    l’intelligence artificielle (IA). En quelques jours, de prestigieuses
    organisations ont publié cinq documents abordant tous le ...
    Transformation numérique
+   Atos : Daniel Křetínský ne devrait pas entrer au capital d’Eviden
+   04 décembre 2023
+
+Atos : Daniel Křetínský ne devrait pas entrer au capital d’Eviden
+
+   Le groupe informatique a confirmé à demi-mots des informations qui
+   avaient fuité dans la presse.
    Patrice Chelim (CSB.School) : « Il n’y a pas de bonne cybersécurité
    sans prise en compte des risques métier »
    01 décembre 2023
@@ -678,14 +688,6 @@ Comment l’IA bouscule la propriété intellectuelle
    L’accès généralisé à l’intelligence artificielle générative bouleverse
    notre façon de travailler et de créer. Cependant, l’utilisation
    croissante de cette nouvelle technologie a vite ...
-   Apple, Meta et TikTok contestent le DMA
-   21 novembre 2023
-
-Apple, Meta et TikTok contestent le DMA
-
-   Les géants du numérique avaient jusqu’au 16 novembre 2023 pour remettre
-   en question leur classification comme « contrôleurs d’accès » au marché
-   numérique européen.
 
    InCyber
      * Linkedin

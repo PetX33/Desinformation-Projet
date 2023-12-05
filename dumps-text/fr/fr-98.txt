@@ -17,7 +17,7 @@
      * Actualité
      * Régions
      * Sport
-     * Entertainment
+     * Divertissement
      * Planète
      * Vie Pro
      * Tempo
@@ -30,7 +30,6 @@
      * Le direct
      * Jeux
      * Services
-     * Minutes Maison
      * Journal numérique
 
    (BUTTON) Menu complet
@@ -49,22 +48,22 @@
 
    (BUTTON) Fermer
 
-     * Cinéma
      * Culture
-     * Livres
+     * T'as vu ?
+     * People
      * Web
+     * Télévision
+     * Cinéma
+     * Série
+     * Livres
      * Médias
      * Musique
-     * People
-     * Série
-     * T'as vu ?
-     * Télévision
 
    (BUTTON) Voir les sous-sections précedentes (BUTTON) Voir les
    sous-sections suivantes
 
    Dans l’actu
-     * Attaque terroriste à Paris
+     * Attentat à Paris
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
@@ -72,7 +71,7 @@
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
     1. Accueil
-    2. Entertainment
+    2. Divertissement
     3. Culture
 
 Guerre en Ukraine : Le créateur de « In her car », tournée en plein conflit,
@@ -174,9 +173,9 @@ Une psy en conversation avec des réfugiés
 
    IFRAME:
    https://www.ultimedia.com/deliver/generic/iframe/mdtk/01357940/zone/1/s
-   rc/qkfrs8f/showtitle/1/?tagparam=category%3Dentertainment%26subcategory
-   %3Dculture%26tags%3Darts-stars%2Cculture%2Cnice%2Calpes-maritimes%2Cpro
-   vence-alpes-cote-azur%2Cpaca%2Ccannes%2Cukraine%2Cserie%2Ctelevision
+   rc/qkfrs8f/showtitle/1/?tagparam=category%3Ddivertissement%26subcategor
+   y%3Dculture%26tags%3Darts-stars%2Cculture%2Cnice%2Calpes-maritimes%2Cpr
+   ovence-alpes-cote-azur%2Cpaca%2Ccannes%2Cukraine%2Cserie%2Ctelevision
 
    Pas manichéens, les trois premiers épisodes n’accablent pas les Russes,
    dont la langue est parlée par certains personnages, comme le mari de
@@ -206,7 +205,7 @@ Une psy en conversation avec des réfugiés
    Football
    Guerre en Ukraine : « Les enfants ne doivent pas être punis »… L’UEFA
    valide le retour des équipes de jeunes russes
-     * Entertainment
+     * Divertissement
      * Culture
      * Nice
      * Alpes-Maritimes

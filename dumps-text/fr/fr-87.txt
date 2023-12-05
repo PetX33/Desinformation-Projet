@@ -16,7 +16,7 @@
      * Actualité
      * Régions
      * Sport
-     * Entertainment
+     * Divertissement
      * Planète
      * Vie Pro
      * Tempo
@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Minutes Maison
      * Journal numérique
 
    (BUTTON) Menu complet
@@ -62,7 +61,7 @@
    sous-sections suivantes
 
    Dans l’actu
-     * Attaque terroriste à Paris
+     * Attentat à Paris
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine

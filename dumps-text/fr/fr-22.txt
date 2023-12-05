@@ -131,16 +131,14 @@
           + Bourse
           + International
           + Politique
-       Le president bresilien luiz inacio lula da silva ecoute la seance
-       de cloture du sommet du nouveau pacte financier mondial, a paris
-       Pétrole : Lula confirme que le Brésil va rejoindre l'Opep+
-       Bercy
-       Bruno Le Maire se dit « déterminé » à réduire le déficit public de
-       la France
-       La secretaire d'etat au commerce, gina raimondo, lors d'une
-       audition, a washington
-       La Chine est « la menace la plus importante que nous ayons jamais
-       connue », selon la ministre américaine du Commerce 3
+       thermomètre, climat, température
+       Climat : l’Accord de Paris est-il déjà mort ?
+       Bruno Le Maire Bill Gates
+       Climat : Bercy chiffre le montant colossal d'investissements à 110
+       milliards d'euros par an à partir de 2030
+       Un drone russe vu a kiev
+       Deux entreprises finlandaises auraient fait entrer illégalement
+       3.500 drones en Russie 3
      * Entreprises & Finance
           + Industrie
                o Automobile
@@ -162,14 +160,13 @@
                o Web TV
                o L'actualité
                o La Tribune de la COP21
-       Pau Pyrénés
-       Hydrogène naturel : un premier permis d'exploration vient d'être
-       délivré en France
-       Al Jaber
-       COP28 : La sortie des énergies fossiles est « inévitable », selon
-       le président Al Jaber
-       Matthieu Pigasse, le 29 novembre à Paris.
-       Matthieu Pigasse, le banquier qui voit le monde en noir
+       IRSN
+       Réforme de la sûreté nucléaire : nouvelle grève en vue à l'IRSN
+       Manifestations d'agriculteurs
+       Agriculture : les raisons de la colère
+       inveho
+       Aidé par les politiques pro-ferroviaires, Ermewa poursuit sa
+       croissance loin de la SNCF
      * Tech
           + Médias
           + Publicité
@@ -181,15 +178,15 @@
           + Start-up
           + French Tech
           + Mobilités : cap 2024
-       Microsoft au sommet du microsoft theatre a los angeles, en
-       californie
-       ChatGPT : après la crise chez OpenAI, Microsoft met un pied dans le
-       conseil d’administration de la startup 2
-       IA intelligence artificielle ACPR
-       Corse : MIRA, l’école d’ingé qui va révolutionner l’espace
-       méditerranéen
-       Elon musk, au sommet sur la securite de l'ia a bletchley park
-       Elon Musk insulte les annonceurs qui boycottent X (ex-Twitter) 4
+       Laure de la Raudière
+       Télécoms : Bruxelles critique vivement la régulation de l'Arcep sur
+       le tarif du dégroupage
+       Un logo d'ericsson a l'exterieur des bureaux de l'entreprise a
+       kanata, ontario, canada
+       Mobile : Ericsson inflige une sévère défaite à Nokia aux Etats-Unis
+       Aqemia Maximilien Levesque
+       Nouveaux médicaments contre le cancer : Sanofi adopte la
+       technologie révolutionnaire de la deeptech française Aqemia
      * Idées
           + Tribunes
           + Éditos
@@ -205,13 +202,14 @@
                o Vu de Bruxelles
           + Podcast - Les Héritières
           + Engage-moi
-       Édito Bruno Jeudy
-       La percée de Bardella doit sonner comme une alerte
-       Chronique François Clemenceau
-       Chronique de François Clemenceau : la peur des voisins d’Israël
-       Saint-Malo
-       Johanna Rolland, présidente de France Urbaine : « Donnez-nous le
-       pouvoir de réguler l’immobilier local » 1
+       Lithium Chili
+       Loi européenne sur les métaux critiques : moins de dépendance, mais
+       des questions en suspens 4
+       Cédric Baecher et Maher Chebbo
+       « OUI, il faut aller à la COP28 ! » 1
+       family
+       Et si l'engagement était la formule magique des entreprises
+       familiales ? 2
      * Culture / Lifestyle
      * Régions
           + Auvergne-Rhône-Alpes
@@ -231,16 +229,16 @@
           + Région Sud - Nice
           + Smart cities
                o La Tribune de Carlos Moreno
+       Pays de la Loire : Du carburant d’aviation durable à l’aéroport
+       Saint-Nazaire Montoir
+       Décarbonation : du carburant d’aviation durable à l’aéroport
+       Saint-Nazaire Montoir
        Vue préliminaire architecturale datant de juillet 2023 et
        susceptible d’évolutions
        Nouveaux réacteurs nucléaires à Gravelines : le calendrier des
        travaux se précise
        femmes industrie
        Hauts-de-France : 37.000 entreprises à vendre d'ici à cinq ans
-       Depuis six ans, la PME a enclenché une diversification de ses
-       activités
-       En Bourgogne-Franche-Comté, deux entreprises sélectionnées pour le
-       programme ETIncelles
      * La Tribune Dimanche
           + La Tribune Dimanche n°9 - 3 décembre 2023
           + La Tribune Dimanche n°8 - 26 novembre 2023
@@ -256,11 +254,11 @@
      * Régions
      * La Tribune Dimanche
 
-     * CAC 40 7 346,15 PTS +0,48%
-     * + FORTES HAUSSES CAC 40 WORLDLINE +5,87% ALSTOM +3,87%
-     * + FORTES BAISSES CAC 40 SOCIETE GENERALE -0,76% DANONE -0,64%
-     * DOW JONES +0,82% NASDAQ 100 +0,31% EURONEXT 100 +0,77%
-     * Or +0,33% OAT 10 ans +1,36% Pétrole Brent -5,25%
+     * CAC 40 7 386,99 PTS +0,74%
+     * + FORTES HAUSSES CAC 40 BNP PARIBAS-A- +2,21% LVMH +2,08%
+     * + FORTES BAISSES CAC 40 ALSTOM -1,93% THALES -0,88%
+     * DOW JONES -0,13% NASDAQ 100 +0,15% EURONEXT 100 +0,48%
+     * Or -2,10% OAT 10 ans -0,08% Pétrole Brent -5,25%
 
 
 
@@ -607,25 +605,25 @@ Réforme des retraites : l'exemple de l'absence de diplomatie publique
 
    2
 
-   revue T « Une réindustrialisation même réussie ne recréera pas les 2,5
-   millions d'emplois détruits depuis 1975 » (Olivier Lluansi) (40)
+   revue T La Macronie durcit sa riposte face au RN (44)
      __________________________________________________________________
 
    3
 
-   S&P maintient la note de la France à « AA » malgré la hausse de la
-   charge de sa dette (23)
+   revue T Le gouvernement veut libéraliser le marché du travail pour
+   atteindre le plein-emploi et rebooster l’économie (33)
      __________________________________________________________________
 
    4
 
-   France : premier recul du PIB depuis plus d’un an ravivant la crainte
-   d'une récession (22)
+   revue T Olivier Véran : « Le RN vend une image figée et faussée du pays
+   » (30)
      __________________________________________________________________
 
    5
 
-   revue T Chez les ultra-riches, mieux vaut hériter que travailler (21)
+   Électricité : vers une hausse contenue des prix, à moins de « deux
+   chiffres » (24)
      __________________________________________________________________
 
    Commentaire 1
@@ -676,7 +674,7 @@ Réforme des retraites : l'exemple de l'absence de diplomatie publique
 
    Dossier Spécial - Réindustrialisation
 
-   [20231202.jpg]
+   [20231206.jpg]
 
    _
    [catalog-cover-large.jpeg]
