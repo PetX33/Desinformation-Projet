@@ -67,7 +67,7 @@ echo """
             <h1 class=\"title\" style=\"text-align: center; \">Concordance</h1>
             <!-- Concordance table -->
             <table class=\"table is-bordered is-striped is-narrow is-hoverable is-fullwidth\">
-                <thead style=\"background-color: #355b8a;\">
+                <thead style=\"background-color: #428CB5;\">
                     <tr>
                         <th class=\"has-text-right\" style=\" color: #ffffff\">Contexte gauche</th>
                         <th style=\" color: #ffffff\">Cible</th>

@@ -61,7 +61,7 @@ echo "<html>
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
 		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
-			<thead style=\"background-color: #355b8a;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
+			<thead style=\"background-color: #428CB5;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
 # If language is Chinese, set the environment language to C for correct character handling
 if [ "$lang" = "zh" ]
@@ -75,7 +75,7 @@ then
 		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
 		# Charset detection and handling
-		charset=$(curl -Ls $URL -Do  "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
+		charset=$(curl -Ls $URL -D -o  "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
 		# Process the URL's contents and save them in different formats
 		if [ "$code" -eq 200 ]; then
