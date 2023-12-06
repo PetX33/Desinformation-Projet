@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -66,6 +65,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -177,7 +177,7 @@ Des articles retirés
    À lire aussi
      * Une opération à l'hôpital (illustration).
        22/06/20 | CHIRURGIE
-       Un robot parvient à réaliser des points de suture grâce à
+       Un robot parvient à réaliser des points de suture grâce �
        l’intelligence…
      * Facebook propose la désactivation des pubs politiques
        06/07/20 | INFORMATION

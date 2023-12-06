@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -64,6 +63,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -125,7 +125,7 @@ Des régulateurs « indépendants et publics » partout dans le monde
    Ces demandes avaient déjà été formulées par d’autres instances, comme
    la Commission européenne. L’Unesco se distingue en appelant à la mise
    en place de régulateurs « indépendants et publics » partout dans le
-   monde, « au rôle clairement défini et dotés des moyens suffisants à
+   monde, « au rôle clairement défini et dotés des moyens suffisants �
    l’exercice de leur mission ». L’Unesco demande que ces régulateurs
    « travaillent en réseau », afin d’éviter « que les entreprises
    digitales ne puissent profiter de disparités réglementaires entre les
@@ -221,7 +221,7 @@ Des régulateurs « indépendants et publics » partout dans le monde
        RGPD. 02/11/23 | protection
        Données personnelles : L’UE monte au créneau sur les publicités
        ciblées de…
-     * Le gouvernement américain avait accusé Meta de « porter atteinte à
+     * Le gouvernement américain avait accusé Meta de « porter atteinte �
        la santé de la jeunesse » (illustration).
        02/11/23 | Stop
        YouTube veut limiter le visionnage de vidéos susceptibles de nuire

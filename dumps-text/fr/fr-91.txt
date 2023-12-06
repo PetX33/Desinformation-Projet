@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -62,6 +61,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -138,7 +138,7 @@ Contrer les « propagandes anti-françaises »
    Justice, écologie, retraites… Elisabeth Borne dévoile le menu de
    l’exécutif jusqu’en 2023
    Politique
-   Renaissance : Emmanuel Macron convie les cadres du futur parti à
+   Renaissance : Emmanuel Macron convie les cadres du futur parti �
    l’Elysée
      * Politique
      * High-Tech

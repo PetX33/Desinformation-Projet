@@ -30,7 +30,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -65,6 +64,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -75,7 +75,7 @@ Guerre en Ukraine : Emmanuel Macron en guerre contre la propagande russe en
 Afrique et signature d'un accord européen sur le gaz
 
    RECAP' Ce mardi 26 juillet, « 20 Minutes » fait le point pour vous,
-   comme tous les soirs, sur l’avancée du conflit en Ukraine qui en est à
+   comme tous les soirs, sur l’avancée du conflit en Ukraine qui en est �
    son 153e jour
 
 
@@ -142,7 +142,7 @@ La phrase
      la Russie, la situation dans laquelle nous sommes »
 
    Emmanuel Macron est en opération séduction en Afrique de l'Ouest.
-   Depuis le Cameroun, le président français a tenu à « tordre le cou à
+   Depuis le Cameroun, le président français a tenu à « tordre le cou �
    beaucoup de contrevérités » russes sur les raisons de la crise
    alimentaire mondiale qui connaissent, selon lui, « un certain succès
    dans les opinions publiques africaines ».

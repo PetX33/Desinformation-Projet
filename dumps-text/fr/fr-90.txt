@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -65,6 +64,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -171,7 +171,7 @@ La crainte d’une inspiration
        «immense…
      * Times Square, à New York, le 29 octobre 2018.
        07/06/19 | ENQUETE
-       New York: Un homme soupçonné de préparer un projet d'attentat à
+       New York: Un homme soupçonné de préparer un projet d'attentat �
        Times…
      * Un véhicule de police quitte le tribunal de Madrid, en Espagne, le
        12 février 2019. 31/05/19 | TERRORISME

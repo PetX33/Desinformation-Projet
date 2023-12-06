@@ -1,6 +1,6 @@
     #publisher L'Obs alternate alternate
 
-   L'Obs en numérique Lire le magazine [ ]
+   L'Obs en numérique Lire le magazine[ ]]
 
    (BUTTON) ____________________
      * [ ] société
@@ -89,13 +89,17 @@
           + Cours d'Allemand
           + Cours d'Espagnol
 
-   L’Obs du 30 novembre 2023
+   Nouveau
+   L’Obs du 07 décembre 2023
+   Nouveau
    L’Obs
-   30 novembre 2023 S’abonner pour lire
+   07 décembre 2023 S’abonner pour lire
 
-   TéléObs du 30 novembre 2023
+   Nouveau
+   TéléObs du 07 décembre 2023
+   Nouveau
    TéléObs
-   30 novembre 2023 S’abonner pour lire
+   07 décembre 2023 S’abonner pour lire
 
    Supplément du 26 octobre 2023
    Suppléments
@@ -173,16 +177,16 @@
           + Cours d'Allemand
           + Cours d'Anglais
 
-     * 21:47
-       Volodymyr Zelensky annule de façon inattendue son intervention …
-     * 21:18
-       Joe Biden appelle à « condamner sans ambiguïté les violences …
-     * 21:01
-       La condamnation de Coline Berry pour diffamation annulée par …
-     * 21:01
-       Quelque 300 000 logements sociaux sont des passoires thermiques
-     * 20:56
-       Enquête Pisa : derrière la baisse du niveau, des inégalités …
+     * 19:11
+       Au procès de Monique Olivier, le cri de douleur de la mère …
+     * 19:02
+       Paris 2024 : la tour de la discorde va-t-elle sonner le glas …
+     * 19:00
+       Trans Musicales 2023 : dialogue entre Yamê et Jean-Louis …
+     * 19:00
+       Editorial | Le macronisme éducatif de Gabriel Attal
+     * 18:45
+       L'ancien "speaker" de la Chambre Kevin McCarthy annonce …
        VOIR PLUS
 
      * L'OBS
@@ -214,7 +218,7 @@
    d’une partie de la droite et de l’extrême droite qui a dénoncé des
    « militants archi-subventionnés ».
    Par L'Obs avec AFP
-   · Publié le 8 novembre 2023 à 19h17 · Mis à jour le 8 novembre 2023 à
+   · Publié le 8 novembre 2023 à 19h17 · Mis à jour le 8 novembre 2023 �
    19h21
    Temps de lecture 2 min
      *
@@ -225,7 +229,7 @@
      *
 
    Plus d’un an après la polémique suscitée par son affiche représentant
-   un homme transgenre enceint, le Planning familial s’alarme des appels à
+   un homme transgenre enceint, le Planning familial s’alarme des appels �
    couper ses financements et dénonce la désinformation entourant ses
    ateliers d’éducation à la sexualité auprès des jeunes.
 
@@ -289,7 +293,7 @@ Plusieurs antennes visées
    un nouveau site
 
    Depuis le début de l’année, des attaques ont par ailleurs visé des
-   antennes du Planning familial - en février en Gironde, en mars à
+   antennes du Planning familial - en février en Gironde, en mars �
    Strasbourg et en août dans les Hautes-Alpes. De nouvelles dégradations
    ont été commises ces derniers mois et des plaintes ont été déposées,
    indique Sarah Durocher, sans donner plus de détails.
@@ -326,17 +330,18 @@ Plusieurs antennes visées
      * A Strasbourg, la sécurité du marché de Noël encore renforcée
      * Gabriel Attal, ministre de l’Education nationale : « L’objectif de
        mon plan, c’est un électrochoc »
-     * Les gardes à vue du patron de Sciences-Po Paris et de sa compagne
-       levées, l’enquête continue
+     * Annonces de Gabriel Attal sur l’éducation : clap de fin pour le
+       collège unique
 
    Partenaires
    Cours d'espagnol Gymglish Cours d'espagnol avec Gymglish.com
 
    A lire ensuite
-     * A Strasbourg, la sécurité du marché de Noël encore renforcée
-     * Gabriel Attal, ministre de l’Education nationale : « L’objectif de
-       mon plan, c’est un électrochoc »
-     * Les classes de niveau : atouts ou freins à la réussite des élèves ?
+     * Annonces de Gabriel Attal sur l’éducation : clap de fin pour le
+       collège unique
+     * Qu’est-ce que la méthode de Singapour dont Attal veut s’inspirer
+       pour améliorer le niveau des élèves en maths ?
+     * De Crépol à Romans, deux jeunesses face à face
 
    En kiosque
    Je m'abonne
@@ -352,7 +357,8 @@ Code promo KitchenAid
      * Bose
 
 Code promo Bose
-       10€ de remise pour une première commande chez Bose
+       Bose : réduction étudiante pour +25€ de rabais dès 100€ sur tout le
+       shop
      * VidaXL
 
 Code promo VidaXL
@@ -367,8 +373,8 @@ Code promo Pandora
        Recevez un code promo 20% de réduction avec Pandora
 
    Services
-     * Bose Code promo Bose 10€ de remise pour une première commande chez
-       Bose
+     * Bose Code promo Bose Bose : réduction étudiante pour +25€ de rabais
+       dès 100€ sur …
      * VidaXL Code promo VidaXL +5€ de remise sur une première commande
        VidaXL
 

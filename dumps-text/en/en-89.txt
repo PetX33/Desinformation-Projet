@@ -55,14 +55,15 @@
                     # Music
                     # Nashville
                     # Personal
-                    # Sports
           + Podcasts
                o Behind Closed ‘Dores
                o Commodores of Industry
+               o ‘Dore Diaries
                o Hot Girl Tech
                o Live From West End
                o Notes From Nash
                o VU History
+               o VU Stem Spotlight
                o Word Vomit
           + Data
      * COVID-19
@@ -139,14 +140,15 @@ The Vanderbilt Hustler
                     # Music
                     # Nashville
                     # Personal
-                    # Sports
           + Podcasts
                o Behind Closed ‘Dores
                o Commodores of Industry
+               o ‘Dore Diaries
                o Hot Girl Tech
                o Live From West End
                o Notes From Nash
                o VU History
+               o VU Stem Spotlight
                o Word Vomit
           + Data
      * COVID-19
@@ -223,14 +225,15 @@ The Vanderbilt Hustler
                     # Music
                     # Nashville
                     # Personal
-                    # Sports
           + Podcasts
                o Behind Closed ‘Dores
                o Commodores of Industry
+               o ‘Dore Diaries
                o Hot Girl Tech
                o Live From West End
                o Notes From Nash
                o VU History
+               o VU Stem Spotlight
                o Word Vomit
           + Data
      * COVID-19
@@ -544,7 +547,7 @@ Comments (1)
    View all comments
    A
    Anonymous
-   7 days ago
+   8 days ago
 
    Palestines right to defend itself and Hamas committing a heinous act of
    violence and war are two separate things. What occurred oct 7th was not

@@ -379,29 +379,22 @@
                o MMA
                o Yahoo Sports AM
           + Editions
-               o USEnglish
-               o US y LATAMEspañol
-               o AustraliaEnglish
-               o CanadaEnglish
-               o CanadaFrançais
-               o DeutschlandDeutsch
-               o 香港繁中
-               o MalaysiaEnglish
-               o SingaporeEnglish
-               o 台灣繁中
-               o UKEnglish
+          + USEnglish
+          + US y LATAMEspañol
+          + AustraliaEnglish
+          + CanadaEnglish
+          + CanadaFrançais
+          + DeutschlandDeutsch
+          + 香港繁中
+          + MalaysiaEnglish
+          + SingaporeEnglish
+          + 台灣繁中
+          + UKEnglish
 
    Mail
    Sign in
 
    Advertisement
-
-   Breaking News:
-
-Tuberville drops holds on most military promotions
-
-   The Republican senator's blockade was over a dispute about a Pentagon
-   abortion policy.
 
    Close this content
    Salon Salon
@@ -469,154 +462,212 @@ after verbal slips
    (BUTTON) (BUTTON)
 
    Recommended Stories
-     * Yahoo Finance
+     * TechCrunch
 
-Trump doesn’t sound like somebody trying to get elected
+Meta's AI characters are now live across its U.S. apps, with support for Bing
+Search and better memory
 
-       Some of his 2024 campaign promises would raise costs and add to
-       hardship for voters. What's he thinking?
-       3h ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Rankings
-
-       Check out our fantasy football rankings for Week 14 of the 2023 NFL
-       season, with help for every position.
+       Earlier this year, Meta introduced a set of AI characters,
+       including those based on real-life celebs including the likes of
+       Paris Hilton, Mr. Beast, Kendall Jenner, Tom Brady, Charli
+       D’Amelio, Snoop Dog, and others, which users could chat with across
+       Meta's apps. Today, the company announced its 28 AI characters are
+       fully rolled out across the U.S. for people to chat with across
+       WhatsApp, Messenger, and Instagram. In addition, the company said
+       more of its AI characters will support search powered by Bing and
+       it will begin experimenting with "long-term memory" in several --
+       meaning, the characters will learn and remember your conversation
+       when it's over.
        1h ago
-     * Yahoo News
-
-Trump legal news brief: Georgia prosecutors could seek to revoke bail for
-Trump co-defendant
-
-       After Trevian Kutti, former publicist to Kanye West and R. Kelly,
-       posts an Instagram Live video that appears to threaten Georgia
-       election worker Ruby Freeman, Fulton County prosecutors consider
-       asking Judge Scott McAfee to revoke her bond.
-       24m ago
-     * Yahoo Personal Finance
-
-Do you need collateral for a personal loan?
-
-       Collateral can boost your approval odds and help you secure more
-       favorable loan terms — but you can get a personal loan without it.
-       57m ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Defense Rankings
-
-       Check out our fantasy football D/ST rankings for Week 14 of the
-       2023 NFL season!
-       9m ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Kicker Rankings
-
-       Check out our fantasy football kicker rankings for Week 14 of the
-       2023 NFL season!
-       21m ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Quarterback Rankings
-
-       Check out our fantasy football quarterback rankings for Week 14 of
-       the 2023 NFL season!
-       29m ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Full-PPR Rankings
-
-       Check out our full PPR positional rankings for Week 14 of the
-       fantasy football season!
-       1h ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Flex Rankings
-
-       Check out our fantasy football FLEX rankings for Week 14 of the
-       2023 NFL season!
-       53m ago
-     * Yahoo Finance
-
-Tesla Cybertruck: Survey finds that two-thirds of respondents wouldn't buy it
-
-       A new survey finds most people would not buy Tesla’s Cybertruck.
-       57m ago
-     * Yahoo Sports
-
-Fantasy Football Week 13 Bad Beats: Getting Chased on Monday night
-
-       There are few things that hurt like a tough defeat in fantasy.
-       Jorge Martin shares the pain from several late heartbreakers in
-       Week 13.
-       1h ago
-     * Yahoo Finance
-
-What is RealPage — and why is it being blamed for raising everyone's rent?
-
-       Texas-based RealPage has been sued in Washington, D.C. for a
-       product that, among other things, helps landlords big and small to
-       set rents. It also has been on the other end of more than 20 class
-       action lawsuits, and more recently, the US Department of Justice
-       (DOJ) has weighed in against it.
-       2h ago
-     * Yahoo Finance
-
-Energy stocks' big challenge in 2024: Too much oil
-
-       Oil-related equities face a headwind next year, according to
-       analysts at Citi: excess spare capacity.
-       4h ago
-     * Engadget
-
-23andMe hack now estimated to affect over half of customers
-
-       A hack that affected 23andMe back in October is estimated to have
-       exposed significantly more profiles than previously reported.
-       4h ago
-     * Yahoo Personal Finance
-
-How to choose the right personal loan term length
-
-       Your personal term length affects your borrowing amount, interest
-       rate, and overall repayment cost.
-       5h ago
      * Autoblog
 
-Toyota once considered an 86-based shooting brake
+Buckle up! Walmart's got the best deals on holiday gifts for car lovers —
+starting at just $12
 
-       Toyota has revealed the X86D Concept, a sport wagon built in 2012
-       on the Scion FR-S/Toyota 86 platform.
-       3h ago
-     * Yahoo Movies
-
-How documentary 'Beyond Utopia' obtained shocking footage from inside North
-Korea
-
-       "This movie had to be made because there are 26 million people
-       living inside North Korea," says director Madeleine Gavin.
-       5h ago
-     * Yahoo Finance
-
-Big bank CEOs urge caution, warn on loan losses after 'interesting' 2023
-
-       Key bank executives spoke on Tuesday about the challenging 2023
-       wrapping up and the caution these firms have towards the year
-       ahead.
-       4h ago
-     * Yahoo Finance
-
-Jobs data shows labor market coming into 'better balance' in welcome sign for
-the Fed
-
-       The latest JOLTS report showed the ratio of job openings to
-       unemployed workers hitting its lowest level in more than two years.
-       3h ago
+       Score an auto vac for 65% off and a Chemical Guys car cleaning kit
+       for only $23 — all part of Walmart's 30 Days of Deals.
+       17m ago
      * Engadget
 
-Discord overhauls its mobile app with new tabs, messaging features and more
+Looking back at 25 years of the ISS
 
-       It also introduced a Midnight theme for a pure black background.
-       4h ago
+       Wednesday marks the 25th anniversary of the International Space
+       Station’s (ISS) physical assembly in orbit. On December 6, 1998,
+       the crew aboard the space shuttle Endeavor attached the US-built
+       Unity node to the Russian-built Zarya module, kicking off the
+       modular construction of the ISS.
+       53m ago
+     * Yahoo Life Shopping
+
+These $7 appliance sliders are lifesavers in the kitchen: 'I no longer dread
+having to move my mixer around'
+
+       So long, heavy lifting and hello, easy gliding.
+       2h ago
+     * In The Know by Yahoo
+
+The 20 best stocking stuffers that aren’t limited to boring cotton socks
+
+       Let's face it — sometimes, stocking stuffers are even better than
+       actual gifts. From a $4 moisturizing lip balm to the Theragun mini,
+       anyone would absolutely love these.
+       23m ago
+     * TechCrunch
+
+Spade digs into credit card fraud detection intelligence following new
+capital raise
+
+       With billions of credit card transactions processed daily, there is
+       opportunity for fraudulent activity, or perceived fraudulent
+       activity, to slip in. Spade’s co-founders Oban MacTavish, Tess
+       Bloch and Cooper Hart believe much of the fraud can be eliminated
+       if card issuers have access to real-time transaction intelligence.
+       When we last reported on Spade earlier this year, the company
+       raised $5 million to decipher the string of numbers and letters
+       that card issuers use to authorize transactions in seconds.
+       5h ago
+     * Engadget
+
+Meta faces another lawsuit over child safety
+
+       The New Mexico attorney general's office says it set up dummy kids
+       accounts on Instagram and Facebook According to a lawsuit, these
+       accounts were barraged by inappropriate sexual content and
+       requests.
+       2h ago
+     * TechCrunch
+
+Millions of patient scans and health records spilling online thanks to
+decades-old protocol bug
+
+       Thousands of exposed servers are spilling the medical records and
+       personal health information of millions of patients due to security
+       weaknesses in a decades-old industry standard designed for storing
+       and sharing medical images, researchers have warned. This standard,
+       known as Digital Imaging and Communications in Medicine, or DICOM
+       for short, is the internationally recognized format for medical
+       imaging. DICOM is used as the file format for CT scans and X-ray
+       images to ensure interoperability between different imaging systems
+       and software.
+       3h ago
+     * Yahoo Life Shopping
+
+Updated daily: These are the absolute best deals we found at Amazon today
+
+       We found AirPods for under $100, a Fire TV for a mere $65, a
+       15-piece knife set slashed by over 60% and so much more.
+       3h ago
+     * TechCrunch
+
+Google unveils AlphaCode 2, powered by Gemini
+
+       Alongside its Gemini generative AI model, Google this morning took
+       the wraps off of AlphaCode 2, an improved version of the
+       code-generating AlphaCode introduced by Google's DeepMind lab
+       roughly a year ago. AlphaCode 2 is in fact powered by Gemini, or at
+       least some variant of it (Gemini Pro) fine-tuned on coding contest
+       data. In a subset of programming competitions hosted on Codeforces,
+       a platform for programming contests, AlphaCode 2 -- coding in
+       languages spanning Python, Java, C++ and Go -- performed better
+       than an estimated 85% of competitors on average, according to
+       Google.
+       3h ago
+     * Yahoo Personal Finance
+
+How to get a business credit card in 4 steps
+
+       Business credit cards offer business owners access to credit,
+       funds, rewards, and exclusive perks. Here’s how to get a business
+       credit card in 4 steps.
+       3h ago
+     * TechCrunch
+
+Bluesky says it will allow users to opt out of the public web interface after
+backlash
+
+       Bluesky is changing course by allowing users to opt out of a change
+       that would expose their posts to the public web. Last month, the
+       company announced its decentralized alternative to Twitter/X would
+       soon open up a public web interface allowing anyone to view the
+       posts on its platform, even if they didn't have an invite to the
+       app, which remains in a closed beta. In a post on Wednesday,
+       Bluesky announced its plans to open a public web interface have
+       been pushed back -- a move that's likely due to the user feedback
+       on the issue.
+       3h ago
+     * TechCrunch
+
+Google's AI chatbot Bard gets a big upgrade with Gemini, Google's next-gen AI
+model
+
+       Google Bard, the company's generative AI chatbot and ChatGPT rival,
+       is getting an update today that the company claims will
+       significantly enhance its capabilities. The company says Bard will
+       now be powered by Gemini, Google's newest and most advanced AI
+       model, giving the chatbot more advanced reasoning, planning,
+       understanding and other capabilities. Initially, Bard will be
+       upgraded with a specifically tuned version of Gemini Pro.
+       3h ago
+     * TechCrunch
+
+X now lets users broadcast community posts to all followers
+
+       X, formerly Twitter, is rolling out a new option to let users share
+       their community posts with all followers. Users who want to
+       broadcast a community post can check the "Also send to followers"
+       option while posting in a community. When you post to a community,
+       you can now also ‘share the post with your followers’.
+       7h ago
+     * TechCrunch
+
+Google gives out offensive notebooks to Black summit attendees
+
+       A source sent me a photo of a peculiar notebook received by someone
+       who attended Google's K&I Black Summit in August but only recently
+       looked through the merchandise from the event. On the inside of the
+       notebook, however, it reads verbatim, “I was just cotton the
+       moment, but I came back to take your notes.” The notebook is funny
+       because it’s one of those things that, if given to a crowd of any
+       other race, the slogan inside would have meant relatively nothing.
+       19h ago
+     * Yahoo Life Shopping
+
+This No. 1 bestselling car gadget increases fuel efficiency — and it's down
+to a mere $13
+
+       'Saved my tires': Almost 45,000 fans rely on this gauge to get the
+       proper pressure.
+       21h ago
+     * Yahoo Life Shopping
+
+Turn your Apple Watch into a vintage computer with this $13 charging stand:
+'My inner geek is happy!'
+
+       How else can you think to fit a Mac into a stocking?
+       20h ago
+     * Yahoo Life
+
+We've found the secret to a fresh-smelling car — and it's not a cardboard
+paper tree
+
+       Air out your auto with a cool wooden freshener from Drift,
+       available in three invigorating scents: Amber, Grove and Teak.
+       21h ago
+     * Yahoo Life
+
+Jodie Sweetin says being a mom of teens is like being 'the bumper rails at
+the bowling alley'
+
+       The former "Full House" star is learning to let her daughters enjoy
+       more independence.
+       21h ago
+     * Yahoo Sports
+
+Fantasy Football Week 14 Running Back Rankings
+
+       Check out our fantasy football running back rankings for Week 14 of
+       the 2023 NFL season!
+       21h ago
        (BUTTON) More Stories
 
    Yahoo news

@@ -30,7 +30,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -67,6 +66,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -97,9 +97,9 @@ ne voulait pas « une série de propagande »
      * Envoyer par Mail
      * (BUTTON) Sauvegarder l'article
 
-   Le Mipcom, marché international de l'audiovisuel, se tient jusqu'à
+   Le Mipcom, marché international de l'audiovisuel, se tient jusqu'�
    jeudi à Cannes.
-   Le Mipcom, marché international de l'audiovisuel, se tient jusqu'à
+   Le Mipcom, marché international de l'audiovisuel, se tient jusqu'�
    jeudi à Cannes. — Syspeo / Sipa
 
    Rappeler aux téléspectateurs du monde entier que « la guerre en Ukraine

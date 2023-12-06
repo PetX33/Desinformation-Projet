@@ -1,9 +1,9 @@
    #alternate alternate National » Feed National » Politics Feed
 
-     * Israel-Hamas War
-     * Artificial Hips
-     * John Mayer
-     * Deadly Tiger Attack
+     * Texas Rampage
+     * Warming Arctic
+     * Taylor Swift
+     * GOP Debate
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -24,24 +24,23 @@
                o Essentials
           +
                o
-                    # Supreme Court wary of repercussions of case that
-                      could upend tax code
-                    # College presidents face Congress over antisemitism
-                      on campuses
-                    # U.S. military releases names of crew members who
-                      died in Osprey crash
-                    # Democrats push forward with Ukraine, Israel aid amid
-                      border funding dispute
-                    # Tuberville to drop hold on all military nominations
-                      except for 4-star officers
-                    # U.S. promises aid, field hospital in Gaza as
-                      Israel-Hamas war expands
-                    # Patrick McHenry, former temporary House speaker,
-                      will not seek reelection
-                    # Grand Theft Auto VI trailer: 7 things we learned
-                      from the teaser
-                    # 1958's "Rockin' Around the Christmas Tree" tops
-                      Billboard chart for first time
+                    # U.S. charges Russians with war crimes for allegedly
+                      torturing American in Ukraine
+                    # Kevin McCarthy announces he will retire at the end
+                      of December
+                    # Biden urges Congress to pass Ukraine funding now:
+                      "This cannot wait"
+                    # Trump says he would be a dictator only on "Day One"
+                      if he wins a second term
+                    # Attacks in 2 Texas cities leave 6 dead, 2 officers
+                      wounded; suspect held
+                    # Norman Lear, legendary TV producer, dies at age 101
+                    # Four GOP candidates on stage today for fourth
+                      presidential debate
+                    # 14th Amendment challenge to Trump's eligibility
+                      heads to Colorado's top court
+                    # Woman sentenced to fast-food job after hurling food
+                      at Chipotle worker
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -200,22 +199,22 @@ tactics, new report says
 
 Trending News
 
-   US-JUSTICE-ETHICS-SUPREME COURT-POLITICS
-   Supreme Court wary of repercussions of case that could upend tax code
-   Senate Leadership Speaks After Weekly Policy Luncheons
-   Tuberville to drop hold on all military nominations except for
-   four-star officers
-   House Lawmakers Work On Continuing Resolution To Fund The Government
-   Patrick McHenry, former temporary House speaker, will not seek
-   reelection
-   Former President Donald Trump's New York Civil Fraud Trial
-   Trump seeks "urgent review" of gag order ruling in New York civil fraud
-   case
-   Senate Majority Leader Sen. Chuck Schumer speaks to media after a
-   Senate Democratic policy luncheon on Tuesday, Dec. 5, 2023, on Capitol
-   Hill in Washington.
-   Democrats push forward with Ukraine, Israel aid amid border funding
-   dispute
+   U.S. Attorney General Merrick Garland speaks at the U.S. Department of
+   Justice on Dec. 4, 2023.
+   U.S. charges Russians with war crimes for allegedly torturing American
+   in Ukraine
+   Donald Trump Campaigns For The Republican Presidential Nomination In
+   Iowa
+   Trump says he would be a dictator only on "Day One" if he wins a second
+   term
+   The New York Times Hosts Its Annual DealBook Summit
+   Kevin McCarthy announces he will retire at the end of December
+   Donald Trump Campaigns For The Republican Presidential Nomination In
+   Iowa
+   14th Amendment challenge to Trump's eligibility heads to Colorado
+   Supreme Court
+   screenshot-2023-12-05-at-5-27-02-pm.png
+   Four GOP candidates on stage today for fourth presidential debate
 
    First published on September 28, 2023 / 8:28 PM EDT
 
@@ -229,14 +228,14 @@ Trending News
 
 More from CBS News
 
+Russia rejected "significant" deal for Americans' release, U.S. says
+
 Ex-U.S. ambassador arrested, accused of serving as agent of Cuba
 
 Ukraine aid will run out by end of the year, White House says
 
-Tuberville to drop hold on all military nominations except for four-star
-officers
-
-Democrats push forward with Ukraine, Israel aid amid border funding dispute
+Special counsel previews trial roadmap in federal 2020 election case against
+Trump
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy

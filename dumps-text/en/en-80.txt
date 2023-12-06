@@ -379,29 +379,22 @@
                o MMA
                o Yahoo Sports AM
           + Editions
-               o USEnglish
-               o US y LATAMEspañol
-               o AustraliaEnglish
-               o CanadaEnglish
-               o CanadaFrançais
-               o DeutschlandDeutsch
-               o 香港繁中
-               o MalaysiaEnglish
-               o SingaporeEnglish
-               o 台灣繁中
-               o UKEnglish
+          + USEnglish
+          + US y LATAMEspañol
+          + AustraliaEnglish
+          + CanadaEnglish
+          + CanadaFrançais
+          + DeutschlandDeutsch
+          + 香港繁中
+          + MalaysiaEnglish
+          + SingaporeEnglish
+          + 台灣繁中
+          + UKEnglish
 
    Mail
    Sign in
 
    Advertisement
-
-   Breaking News:
-
-Tuberville drops holds on most military promotions
-
-   The Republican senator's blockade was over a dispute about a Pentagon
-   abortion policy.
 
    Close this content
    The Telegraph The Telegraph
@@ -521,189 +514,179 @@ Chernobyl vodka a ‘strange propaganda exercise’, says victims’ charity
    Recommended Stories
      * Engadget
 
-The UK could require facial scans or photo IDs to view online porn
+Honda will reveal a new EV series at CES 2024
 
-       Ofcom has published a draft of age-restriction guidelines for
-       online services that host explicit sexual content in the UK. The
-       not yet finalized recommendations are a step toward cementing
-       enforcement for the recently passed Online Safety Act, which
-       requires sites and apps to prevent children from easily accessing
-       adult content.
-       3h ago
-     * Yahoo Finance
-
-Amazon looks to AI, third-party marketplace to grow its cloud business
-
-       The performance of Amazon Web Services will be key to the tech
-       giant's growth in 2024.
-       49m ago
-     * Yahoo Life Shopping
-
-Get DeWalt's No. 1 bestselling drill for just $99 (that's 45% off!), plus
-other DeWalt deals
-
-       Score top-of-the-line fix-it gear at rock-bottom prices, just in
-       time for cold-weather DIY projects.
-       43m ago
-     * Yahoo Finance
-
-Tesla Cybertruck: Survey finds that two-thirds of respondents wouldn't buy it
-
-       A new survey finds most people would not buy Tesla’s Cybertruck.
-       57m ago
-     * Yahoo Sports
-
-Fantasy Football Week 14 Flex Rankings
-
-       Check out our fantasy football FLEX rankings for Week 14 of the
-       2023 NFL season!
-       53m ago
-     * Yahoo Sports
-
-The real NFL MVP, AFC playoff race predictions with Tony Calatayud | The
-Exempt List
-
-       Charles McDonald is joined by Tony Calatayud of the Dan LeBetard
-       Show to dive into their takeaways from Week 13 and attempt to get
-       to the bottom of the some of the biggest questions around the NFL
-       this week. Charles and Tony start things off with some funny
-       storylines from the weekend, including Zach Wilson's reluctance to
-       start again for the New York Jets and the Philadelphia Eagles head
-       of security getting himself and Dre Greenlaw ejected from Sunday's
-       game. Next, the duo dive into the field of contenders for MVP in an
-       especially weird year. While Brock Purdy is the odds-on favorite
-       currently, neither agree he truly deserves the award (and neither
-       does Jalen Hurts). Both agree Tyreek Hill is the most deserving,
-       but can a non-quarterback win the MVP in 2023? Charles also
-       believes Indianapolis Colts head coach Shane Steichen is the most
-       deserving of the Coach of the Year award currently. Later, Charles
-       and Tony take a look at the AFC playoff race and decide who they
-       have more trust in between the Jacksonville Jaguars and Kansas City
-       Chiefs coming off bad losses, and who they'd be more scared to face
-       in the playoffs between the Baltimore Ravens and Miami Dolphins.
-       2h ago
-     * Yahoo Sports
-
-Fantasy Football Week 13 Bad Beats: Getting Chased on Monday night
-
-       There are few things that hurt like a tough defeat in fantasy.
-       Jorge Martin shares the pain from several late heartbreakers in
-       Week 13.
-       1h ago
+       You won't have to wait too much longer to see the next electric
+       vehicle from Honda. The automaker plans to show off a new EV series
+       at CES in January.
+       5m ago
      * TechCrunch
 
-X is now licensed for payment processing in a dozen US states
+US senator warns governments are spying on Apple and Google users via push
+notifications
 
-       Elon Musk is moving forward with his plans to turn the company
-       formerly known as Twitter, now called X, into an "everything app"
-       that includes its own payments system. The company in late November
-       was granted three additional money transmitter licenses in the U.S.
-       states of South Dakota (on Nov. 27), Kansas (on Nov. 28), and
-       Wyoming (on Nov. 30), bringing the total number of states where the
-       company is allowed to engage in money transfers to twelve. The
-       other states where the company had previously been granted a money
-       transmitter license include Arizona, Georgia, Iowa, Maryland,
-       Michigan, Mississippi, Missouri, New Hampshire, and Rhode Island.
+       U.S. senator Ron Wyden (D-OR) has warned in a letter to the Justice
+       Department that unidentified governments are spying on Apple and
+       Google phone users through their push notifications. The letter
+       says his office received a tip last year that government agencies
+       in foreign countries were "demanding" push notification records
+       from the tech giants. Push notifications are the pop-up messages
+       that appear on your lock screen and home screen to alert you about
+       new messages, updates, breaking news and other app updates.
        2h ago
-     * Yahoo Sports
+     * Engadget
 
-Jets reportedly waiving Tim Boyle, signing Brett Rypien as quarterback
-shakeup continues
+Apple and Google are probably spying on your push notifications
 
-       Boyle is done after throwing for a total of 327 yards, three
-       interceptions, and one touchdown, while being sacked eight times in
-       two games.
+       Push notifications, the dings you get from apps calling your
+       attention back to your phone, may be handed over from a company to
+       government services if asked. But it appears the Department of
+       Justice won't let companies come clean about the practice.
        3h ago
-     * Yahoo TV
+     * Yahoo Personal Finance
 
-Where to watch 'A Charlie Brown Christmas'? How to stream your favorite
-'Peanuts' holiday specials.
+The best ways to pay off credit card debt
 
-       Charlie Brown won't let commercialism ruin his Christmas — and
-       neither should you!
-       4h ago
+       Credit card debt can be a significant financial burden, and if you
+       have a sizable balance, trying to pay it down can be stressful.
+       Here are the best ways to pay off credit card debt.
+       8m ago
      * Yahoo Life Shopping
 
-'Excellent comfort': These fan-favorite JBL headphones are just $25 — a
-ridiculous 50% off
+Aqara Smart Lock U100 review: Look, Ma, my iPhone can unlock my front door!
 
-       The cushy cans will please your ears — and the ears of those on
-       your holiday list.
+       And so can my Apple Watch, but the U100 is hampered by some real
+       setup and usability quirks.
+       2h ago
+     * Yahoo Life Shopping
+
+Updated daily: These are the absolute best deals we found at Amazon today
+
+       We found AirPods for under $100, a Fire TV for a mere $65, a
+       15-piece knife set slashed by over 60% and so much more.
+       3h ago
+     * Yahoo Finance
+
+Stock market news today: Stocks little changed as jobs market shows more
+signs of softening
+
+       The latest labor market data revealed a slowing jobs market
+       furthering investor hopes for a soft landing.
+       2h ago
+     * Yahoo Finance
+
+Tax credits for Tesla Model 3 and other EVs slashed starting next year
+
+       New rules proposed by the Department of Energy may mean a reduced,
+       or even no, federal tax credit for electric vehicles made in North
+       America.
+       3h ago
+     * Yahoo Sports
+
+Why heart conditions are no longer career enders for Bronny James, many other
+elite athletes
+
+       Five months after going into cardiac arrest, Bronny James is
+       preparing to return to the basketball court. A decade ago, his
+       basketball career might have been over. So what changed?
        3h ago
      * Engadget
 
-Multiple game developers announce layoffs, including EA-owned Codemasters
+GTA 6, The Game Awards and the great indie debate | This week's gaming news
 
-       Multiple game developers have announced layoffs in a year filled
-       with them. Tinybuild, Codemasters and New World Interactive are all
-       reducing their workforces.
+       After a slow few weeks in the world of video game marketing, things
+       are starting to pick up. The past week has given us a first look at
+       the new Fallout TV show, a few release dates and a trailer for a
+       little game called Grand Theft Auto VI — and the Game Awards are
+       still to come. What good timing for us to launch a weekly video
+       game show to dig into the news.
        3h ago
-     * In The Know by Yahoo
+     * Autoblog
 
-Here’s how to make your hair grow longer, according to an expert
+Junkyard Gem: 1997 Ford Probe
 
-       Pretty soon you'll be tossing your shiny hair like a shampoo
-       commercial goddess. The post Here’s how to make your hair grow
-       longer, according to an expert appeared first on In The Know.
+       A 1997 Ford Probe in a California wrecking yard.
        4h ago
-     * Yahoo Life Shopping
+     * Yahoo Sports
 
-These TikTok-famous toilet seat lifters will 'save your marriage' — and
-they're just $6 a pop
+Middle Tennessee hires former Vanderbilt coach Derek Mason
 
-       Your holiday houseguests will appreciate them too.
+       Vanderbilt was 27-55 in Mason's time with the team.
        3h ago
      * Yahoo Finance
 
-Drone startup Anduril: Meeting the threats of today — and tomorrow
+Google debuts powerful Gemini generative AI model in strike at OpenAI,
+Microsoft
 
-       Since early October, Islamic State and Iran-backed militias have
-       launched drone attacks against American forces in Iraq and
-       Syria.Palmer Luckey, whose startup has developed a new weapon to
-       counter these threats, says he can help.
+       Google, on Wednesday, debuted a new AI model called Gemini. It's
+       designed to go up against OpenAI's GPT-4.
        3h ago
      * TechCrunch
 
-Another blow for self-driving trucks as former industry leader abandons the
-US
+Google announces the Cloud TPU v5p, its most powerful AI accelerator yet
 
-       The publicly traded company said in a regulatory filing Monday that
-       it's laying off the majority of its U.S. workforce and selling
-       assets here as it exits the country for Asia. About 150 U.S.
-       workers, or 75% of staff in the country, will be laid off.
-       5h ago
-     * Yahoo Life
+       Google today announced the launch of its new Gemini large language
+       model (LLM) and with that, the company also launched its new Cloud
+       TPU v5p, an updated version of its Cloud TPU v5e, which launched
+       into general availability earlier this year. A v5p pod consists of
+       a total of 8,960 chips and is backed by Google's fastest
+       interconnect yet, with up to 4,800 Gpbs per chip. It's no surprise
+       that Google promises that these chips are significantly faster than
+       the v4 TPUs.
+       3h ago
+     * Yahoo Finance
 
-Ina Garten's favorite olive oil is finally back in stock at Amazon — and it
-makes a great foodie gift
+McDonald's plans record restaurant expansion, boost in loyalty program
 
-       For decades, the Barefoot Contessa has entrusted her dishes to
-       Cali's own Olio Santo.
-       5h ago
-     * Engadget
-
-23andMe hack now estimated to affect over half of customers
-
-       A hack that affected 23andMe back in October is estimated to have
-       exposed significantly more profiles than previously reported.
+       McDonald's is leaning into growing its restaurants, along its
+       delivery and digital business.
        4h ago
-     * Yahoo Life Shopping
-
-We can't believe these comfy boots aren't Uggs — get a pair for as little as
-$40
-
-       Sink your tootsies into the toasty satisfaction of shearling boots
-       that won’t bust your budget.
-       5h ago
      * TechCrunch
 
-Git platform AllSpice now curries favor with enterprises
+OurSky lands $9.5M seed to build out developer platform for space data
 
-       At that time, co-founders Valentina Ratner and Kyle Dumont wanted
-       to build a developer operations ecosystem for hardware development.
-       Actions is one of the newest tools for continuous integration and
-       continuous deployment.
-       7h ago
+       The company announced that it closed $9.5 million in seed funding
+       led by Upfront Ventures alongside Oceans Ventures, Venrex
+       Investment Management, Marlinspike Partners, and Embedded Ventures,
+       to further accelerate deployment of scopes and the developer
+       platform. That’s really hard to do.
+       4h ago
+     * Autoblog
+
+Hoonigan Electrikhana Two, Ken Block's final video, released posthumously
+
+       Hoonigan released Electrikhana Two, the last video starring Ken
+       Block, which was shot in Mexico City and showcases a one-off
+       electric Audi.
+       4h ago
+     * TechCrunch
+
+Titan AI leverages generative AI to streamline mobile game development
+
+       Generative AI is attracting a significant level of investment,
+       including in the gaming space. Titan AI, a new mobile games studio,
+       raised over $500,000 in pre-seed funding led by Berkeley SkyDeck.
+       Titan AI joins several other generative AI gaming startups that aim
+       to reduce the cost and speed of creating 2D and 3D content for
+       games.
+       5h ago
+     * Yahoo Sports
+
+Ekeler's Edge: Can non-QB win MVP? + Ranking top 4 RBs for fantasy playoffs
+
+       It's another jam packed episode of 'Ekeler's Edge' with the L.A.
+       Chargers running back and Matt Harmon. The two recap the Chargers
+       riveting (hint of sarcasm) 6-0 win over the New England Patriots,
+       discuss the MVP race and provide their top four RBs for the fantasy
+       postseason.
+       13h ago
+     * Engadget
+
+iOS 17.2 will enable Qi2 next-gen wireless charging on iPhone 13 and 14
+
+       iPhone 13 and 14 will support Qi2 wireless charging, courtesy of
+       iOS 17.2 update.
+       14h ago
        (BUTTON) More Stories
 
    Yahoo news

@@ -29,7 +29,6 @@
      * Le direct
      * Jeux
      * Services
-     * Journal numérique
 
    (BUTTON) Menu complet
    Retour à l’accueil
@@ -62,6 +61,7 @@
      * COP28
      * Guerre Hamas-Israël
      * Guerre en Ukraine
+     * Sorties ciné
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -207,7 +207,7 @@ La vidéo enfreint-elle les règles de YouTube ?
 
 20 secondes de contexte
 
-   La rédaction de 20 Minutes a contacté Google et mettra cet article à
+   La rédaction de 20 Minutes a contacté Google et mettra cet article �
    jour en fonction des informations qui seront communiquées.
      * Israël
      * Conflit israélo-palestinien

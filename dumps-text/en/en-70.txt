@@ -306,18 +306,17 @@ China lobs tech demo into orbit for People's Republic version of Starlink
    Another mega-constellation incoming
    Networks24 Nov 2023 | 3
 
-Surviving a cyberattack? It ainât what you store, itâs the way you
-restore it
+DBaaS takes the trouble out of cloud databases
 
-   ExaGrid explains why backup and storage tiers can prevent cyber
-   security tears
+   How open-source databases operating in the cloud can deliver
+   performance, flexibility, scalability and cost savings
    Sponsored Feature
 
 China's Loongson debuts processor that 'matches Intel silicon circa 2020'
 
    Best not to dismiss it, as Asus looks to be onboard and advances are
    promised
-   On-Prem30 Nov 2023 | 35
+   On-Prem30 Nov 2023 | 36
 
 Nvidiaâs China-market H20 chips hit another speed bump
 
@@ -342,16 +341,16 @@ Banned US chipmaking equipment still ending up in China, says report
    Plus: US execs line up to dine with President Xi
    Systems15 Nov 2023 | 6
 
-Cerebras CEO puts Nvidia on blast for 'arming' China with top-tier GPUs
+China gamifies censorship and surveillance with national internet law quiz
 
-   SC23 Calls biz rival 'un-American' for weaving around chip export ban
-   AI + ML16 Nov 2023 | 5
+   I'm not a regular government, I'm a cool government
+   Legal5 Dec 2023 | 9
 
-Is America's chip blockade working against China? So far, our survey says: No
+UK government denies China/Russia nuke plant hack claim
 
-   Kettle Middle Kingdom can get its hands on hardware now â and still
-   make better stuff later
-   Public Sector18 Nov 2023 | 30
+   Report suggests Sellafield compromised since 2015, response seems
+   worryingly ignorant of Stuxnet
+   Security5 Dec 2023 | 25
 
 China's regulator paused VMware purchase probe before desired close date
 

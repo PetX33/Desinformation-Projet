@@ -131,14 +131,15 @@
           + Bourse
           + International
           + Politique
-       thermomètre, climat, température
-       Climat : l’Accord de Paris est-il déjà mort ?
-       Bruno Le Maire Bill Gates
-       Climat : Bercy chiffre le montant colossal d'investissements à 110
-       milliards d'euros par an à partir de 2030
-       Un drone russe vu a kiev
-       Deux entreprises finlandaises auraient fait entrer illégalement
-       3.500 drones en Russie 3
+       Von der leyen en azerbaidjan en vue de sceller un accord sur le gaz
+       Relations commerciales : sommet électrique entre Pékin et Bruxelles
+       La banquise arctique a atteint sa deuxieme superficie la plus
+       faible
+       Rosatom : la Russie à la conquête de l’Arctique avec son nouveau
+       réacteur nucléaire de brise-glace
+       Maduro
+       Ambiance de guerre entre le Guyana et le Venezuela au sujet de
+       l'Essequibo et ses énormes réserves de pétrole 1
      * Entreprises & Finance
           + Industrie
                o Automobile
@@ -160,13 +161,15 @@
                o Web TV
                o L'actualité
                o La Tribune de la COP21
-       IRSN
-       Réforme de la sûreté nucléaire : nouvelle grève en vue à l'IRSN
-       Manifestations d'agriculteurs
-       Agriculture : les raisons de la colère
-       inveho
-       Aidé par les politiques pro-ferroviaires, Ermewa poursuit sa
-       croissance loin de la SNCF
+       Le drapeau national chinois vu a pekin, en chine
+       Nucléaire: la Chine met en service sa première centrale dotée de
+       réacteurs du futur
+       inondations
+       Risques climatiques : les assureurs mettent la pression pour faire
+       bouger les pouvoirs publics
+       La ville de riyad, en arabie saoudite
+       Moyen-Orient : les finances de l'Arabie saoudite passeront dans le
+       rouge en 2023 et 2024 1
      * Tech
           + Médias
           + Publicité
@@ -178,15 +181,15 @@
           + Start-up
           + French Tech
           + Mobilités : cap 2024
-       Laure de la Raudière
-       Télécoms : Bruxelles critique vivement la régulation de l'Arcep sur
-       le tarif du dégroupage
-       Un logo d'ericsson a l'exterieur des bureaux de l'entreprise a
-       kanata, ontario, canada
-       Mobile : Ericsson inflige une sévère défaite à Nokia aux Etats-Unis
-       Aqemia Maximilien Levesque
-       Nouveaux médicaments contre le cancer : Sanofi adopte la
-       technologie révolutionnaire de la deeptech française Aqemia
+       Le logo de l'entreprise google
+       Coup de tonnerre dans l'IA : Google présente Gemini, un assistant
+       capable de « comprendre le monde autour de nous »
+       Un logo de la societe meta
+       IA générative : Meta et IBM lancent l'AI Alliance, une riposte
+       économique et éthique à Microsoft et Google
+       Photo d'archives du logo d'ericsson a son siege social a stockholm
+       Mobile : le contrat historique d'Ericsson aux Etats-Unis plonge
+       Nokia dans la tourmente
      * Idées
           + Tribunes
           + Éditos
@@ -202,14 +205,14 @@
                o Vu de Bruxelles
           + Podcast - Les Héritières
           + Engage-moi
-       Lithium Chili
-       Loi européenne sur les métaux critiques : moins de dépendance, mais
-       des questions en suspens 4
-       Cédric Baecher et Maher Chebbo
-       « OUI, il faut aller à la COP28 ! » 1
-       family
-       Et si l'engagement était la formule magique des entreprises
-       familiales ? 2
+       ooo
+       Précarité menstruelle : aller plus loin, mais jusqu'où ? 1
+       La cop21 adopte l'accord de paris sur le climat
+       À quoi servent (vraiment) les COP ? Une brève histoire de la
+       négociation climatique 1
+       uber eats
+       Grève des livreurs Uber Eats : le dialogue social dans l'impasse ?
+       2
      * Culture / Lifestyle
      * Régions
           + Auvergne-Rhône-Alpes
@@ -229,6 +232,10 @@
           + Région Sud - Nice
           + Smart cities
                o La Tribune de Carlos Moreno
+       pesticides, épandage, tracteur, agriculteur, population, pollution
+       chimique, champ
+       Agro-écologie : pourquoi les aides environnementales cristallisent
+       la grogne des exploitants bretons
        Pays de la Loire : Du carburant d’aviation durable à l’aéroport
        Saint-Nazaire Montoir
        Décarbonation : du carburant d’aviation durable à l’aéroport
@@ -237,8 +244,6 @@
        susceptible d’évolutions
        Nouveaux réacteurs nucléaires à Gravelines : le calendrier des
        travaux se précise
-       femmes industrie
-       Hauts-de-France : 37.000 entreprises à vendre d'ici à cinq ans
      * La Tribune Dimanche
           + La Tribune Dimanche n°9 - 3 décembre 2023
           + La Tribune Dimanche n°8 - 26 novembre 2023
@@ -254,11 +259,11 @@
      * Régions
      * La Tribune Dimanche
 
-     * CAC 40 7 386,99 PTS +0,74%
-     * + FORTES HAUSSES CAC 40 BNP PARIBAS-A- +2,21% LVMH +2,08%
-     * + FORTES BAISSES CAC 40 ALSTOM -1,93% THALES -0,88%
-     * DOW JONES -0,13% NASDAQ 100 +0,15% EURONEXT 100 +0,48%
-     * Or -2,10% OAT 10 ans -0,08% Pétrole Brent -5,25%
+     * CAC 40 7 435,99 PTS +0,66%
+     * + FORTES HAUSSES CAC 40 RENAULT +5,88% WORLDLINE +5,06%
+     * + FORTES BAISSES CAC 40 TELEPERFORMANCE -1,75% TOTALENERGIES -1,17%
+     * DOW JONES +0,07% NASDAQ 100 -0,16% EURONEXT 100 +0,47%
+     * Or -0,10% OAT 10 ans -4,19% Pétrole Brent -5,25%
 
 
 
@@ -268,7 +273,7 @@
 
                                     Tribunes
 
- « Sharp power » et désinformation : nouvelles armes de déstabilisation des
+   « Sharp power » et désinformation : nouvelles armes de déstabilisation des
                                   démocraties
 
    OPINION. Le « Sharp power », la nouvelle arme de désinformation massive
@@ -345,7 +350,7 @@ Le sharp power menace la stabilité des démocraties libérales
 
    La mise en application des régulations est difficile car l'espace
    numérique ne connaît pas de frontière. La législation est différente
-   pour chaque pays et la régulation peut être perçue comme une atteinte à
+   pour chaque pays et la régulation peut être perçue comme une atteinte �
    la liberté d'expression. Le pouvoir arbitraire des entreprises
    technologiques est confronté sur des marchés étrangers à des régimes
    autoritaires et à des choix entre opportunités économiques et pressions
@@ -611,7 +616,7 @@ Réforme des retraites : l'exemple de l'absence de diplomatie publique
    3
 
    revue T Le gouvernement veut libéraliser le marché du travail pour
-   atteindre le plein-emploi et rebooster l’économie (33)
+   atteindre le plein-emploi et rebooster l’économie (34)
      __________________________________________________________________
 
    4

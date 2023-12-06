@@ -12,18 +12,19 @@
    Regarder le direct Regarder les JT en direct Regarder votre JT
    personnalisé
    Directs
+     * Attaque terroriste à Paris
      * Guerre Israël-Hamas
      * Guerre en Ukraine
-     * Attaque terroriste à Paris
      * COP 28 : la conférence pour le climat à Dubaï
 
    [X]
    Dans l’actualité en ce moment
+     * Ukraine : plus de 600 jours de guerre
      * Israël et le Hamas en guerre
-     * Un mort et deux blessés dans une attaque au couteau à Paris
-     * Réussir l'éducation de ses enfants
      * Monique Olivier, l'ex-épouse de Michel Fourniret, jugée aux assises
-     * COP28 : l'action pour le climat en quête d'un nouvel élan
+     * Un mort et deux blessés dans une attaque au couteau à Paris
+     * Tempêtes, crues exceptionnelles, inondations… La France face à des
+       intempéries en série
        Tous les sujets
 
    [X]
@@ -57,30 +58,36 @@
    [ ]
    Replay
      * JT TF1
-          + Le 13h
-          + Le 20h
-          + Le WE
-     * Revoir LCI
-          + Le 6-9 avec Jean-Baptiste Boursier
-          + L'invité d'Adrien Gindre
-          + Le Temps de l'Info
-          + LCI Midi
-          + Le Club
-          + 24H Pujadas
-          + Un Oeil sur le Monde
-          + Brunet, Broussouloux & CIE
-          + Le 20h de Darius Rochebin
-          + 22h-minuit Darius Rochebin avec Alexia Mayer
-          + Les Matins LCI - Week-end
-          + Impact Positif
-          + En toute franchise
-          + 18H Darius Rochebin
-          + L’évènement du dimanche LCI
-          + Vis leurs vies
-          + Fourest en liberté
-     * Magazines TF1
-          + Sept à huit
-          + Grands Reportages
+
+     * Le 13h
+     * Le 20h
+     * Le WE
+
+     Revoir LCI
+     * Le 6-9 avec Jean-Baptiste Boursier
+     * L'invité d'Adrien Gindre
+     * Le Temps de l'Info
+     * LCI Midi
+     * Le Club
+     * 24H Pujadas
+     * Un Oeil sur le Monde
+     * Brunet, Broussouloux & CIE
+     * Le 20h de Darius Rochebin
+     * 22h-minuit Darius Rochebin avec Alexia Mayer
+     * Les Matins LCI - Week-end
+     * Impact Positif
+     * En toute franchise
+     * 18H Darius Rochebin
+     * L’évènement du dimanche LCI
+     * Vis leurs vies
+     * Fourest en liberté
+
+
+
+   Magazines TF1
+
+     * Sept à huit
+     * Grands Reportages
 
    [ ]
    Nos dossiers
@@ -106,11 +113,12 @@
    [ ]
    Jeux
      * Jeux
-          + Solitaire
-          + Mots-fléchés
-          + Puzzle
-          + Mots-croisés
-          + Sudoku
+
+     * Solitaire
+     * Mots-fléchés
+     * Puzzle
+     * Mots-croisés
+     * Sudoku
 
    [ ]
    Sites du groupe
@@ -125,6 +133,7 @@
    (BUTTON) Gérer les options d'affichage ADAPTEZ L'AFFICHAGE
    Télécharger l'application TF1 info
    Logo Apple Store Logo PlayStore
+
    Verif'
 
 Après l'Ukraine, la campagne de désinformation russe "Doppelgänger" s'empare
@@ -134,6 +143,7 @@ du conflit entre Israël et Hamas
    Publié le 16 novembre 2023 à 17h37
 
    Source : TF1 Info
+
    Personnalisez votre expérience TF1 Infoet créez votre JT rien que pour
    vous.
 
@@ -145,10 +155,10 @@ du conflit entre Israël et Hamas
    manœuvres sont aujourd'hui étendues au conflit entre Israël et le
    Hamas.
 
-   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore à
+   En Allemagne, le terme "Doppelgänger" fait référence dans le folklore �
    lʼidée dʼun double maléfique. Mais cʼest aussi le nom donné à une vaste
    campagne de désinformation, menée par la Russie depuis 2022. À
-   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant à
+   lʼorigine, elle se focalisait sur la guerre en Ukraine, cherchant �
    déstabiliser les pays occidentaux, mais nous observons depuis plusieurs
    semaines quʼelle tente dʼinstrumentaliser le conflit entre Israël et le
    Hamas.
@@ -205,7 +215,7 @@ Le conflit Israël / Hamas à son tour instrumentalisé
    des murs de Paris et dʼÎle-de-France ont été très largement
    repartagées. Le Quai dʼOrsay a rapidement réagi et imputé "avec un haut
    degré de confiance" ces relais massifs au réseau Doppelgänger. Les
-   nombreux comptes qui lui ont été associés ont été les premiers à
+   nombreux comptes qui lui ont été associés ont été les premiers �
    partager ces clichés, a fait savoir Viginum, l’organisme français de
    lutte en charge de la lutte contre les opérations d’influence.
 
@@ -270,21 +280,20 @@ Un lien avéré avec la Russie
      * Sujets de société"FAKE NEWS !" : un voyage en post-vérité
 
    [ ]
-     * EN DIRECT - Attaque à Paris : "Je n'ai plus de fils", face aux
-       enquêteurs, la mère du terroriste ne veut plus prononcer son prénom
+     * EN DIRECT - Attaque à Paris : la garde à vue d'Armand R. a été
+       levée, le suspect présenté à un juge
        Publié le 2 décembre 2023 à 22h48
      * EN DIRECT - Ukraine : la fin de l'aide américaine à Kiev "permettra
        à Poutine de l'emporter", alerte la Maison Blanche
+       Publié le 4 décembre 2023 à 6h45
+     * EN DIRECT - Guerre en Ukraine : Kiev revendique des attaques de
+       drones en Crimée annexée
        Publié hier à 6h45
+     * Procès de Monique Olivier : "J'ai assisté à tant d'horreurs..."
+       Publié hier à 9h01
      * VIDÉO - "À devenir dingue" : elle dénonce les bruits de
        l'agriculteur voisin, il l'accuse de "harcèlement"
-       Publié hier à 16h52
-     * REPORTAGE - "Je n'irai plus à Paris" : des touristes sous le choc
-       après l'attaque au couteau près de la tour Eiffel
-       Publié le 3 décembre 2023 à 14h46
-     * Ce que l'on sait de l'attaque au couteau et au marteau qui a fait
-       un mort et deux blessés à Paris
-       Publié le 3 décembre 2023 à 0h57
+       Publié le 4 décembre 2023 à 16h52
      * Cinq infos à connaître avant d'adopter un labrador
        Publié le 3 décembre 2023 à 13h00
      * Guerre Israël-Hamas : sur Twitter, la désinformation bat son plein
@@ -309,124 +318,126 @@ Un lien avéré avec la Russie
      * 1
        VIDÉO - "À devenir dingue" : elle dénonce les bruits de
        l'agriculteur voisin, il l'accuse de "harcèlement"
-       Publié hier à 16h52
+       Publié le 4 décembre 2023 à 16h52
      * 2
        Santé mentale : trois habitudes finlandaises à suivre pour être
        heureux
        Publié le 2 décembre 2023 à 20h00
      * 3
-       VIDÉO - Villejuif : un petit avion atterrit en urgence en pleine
-       ville, les trois occupants blessés
-       Publié hier à 19h23
+       Procès de Monique Olivier : "J'ai assisté à tant d'horreurs..."
+       Publié hier à 9h01
      * 4
-       Virée par son agent après ses propos contre la communauté juive,
-       Susan Sarandon fait son mea culpa
-       Publié hier à 13h01
+       VIDÉO - Maisons menacées par l'érosion : en Bretagne, ces maires
+       qui renoncent à lutter
+       Publié hier à 16h38
      * 5
-       En Espagne et en Italie, vaste coup de filet chez des
-       trafiquants... d'huile d'olive
-       Publié hier à 15h32
-     * 6
-       "Tout est détruit" : après l’impressionnante coulée de boue, les
-       habitants de Guillestre sidérés par l’ampleur des dégâts
-       Publié le 3 décembre 2023 à 16h02
-     * 7
-       Attaque de Jean-Luc Mélenchon : la mise au point de Ruth Elkrief
-       sur LCI
-       Publié hier à 20h42
-     * 8
        Rappel produit : gare à la présence de larves dans ces paquets de
        riz vendus dans les magasins Carrefour
-       Publié hier à 15h46
-     * 9
-       VIDÉO - "Il se dirigeait franchement vers le sol" : à Villejuif, un
-       avion se pose miraculeusement en pleine ville
-       Publié hier à 22h15
-     * 10
-       Des chats désormais envoyés sur le front aux côtés des soldats
-       ukrainiens ?
-       Publié hier à 16h37
-       Voir plus d'actualités
-
-     * 1
-       Météo du 5 décembre 2023 : Prévisions météo à 20h53
-       Publié aujourd'hui à 21h01
-     * 2
-       Virus de l'hiver : ces fausses bonnes idées pour renforcer ses
-       défenses immunitaires
-       Publié aujourd'hui à 20h45
-     * 3
-       EN DIRECT - Guerre Israël-Hamas : 80 soldats israéliens tués depuis
-       le début de l'offensive à Gaza, selon l'armée
-       Publié aujourd'hui à 20h45
-     * 4
-       Le 20 heures du mardi 5 décembre 2023
-       Publié aujourd'hui à 20h42
-     * 5
-       Mort d'un supporter du FC Nantes : le chauffeur VTC nie avoir eu
-       "l'intention" de tuer
-       Publié aujourd'hui à 20h33
+       Publié le 4 décembre 2023 à 15h46
      * 6
-       Une retraitée sérieusement blessée par un sanglier dans son jardin
-       en Indre-et-Loire
-       Publié aujourd'hui à 20h26
+       EN DIRECT - Procès de Monique Olivier : après avoir entendu les
+       parents d'Estelle Mouzin, l'accusée "demande pardon aux familles"
+       Publié aujourd'hui à 8h53
      * 7
-       JO de Paris 2024 : le monde olympique réclame l'admission des
-       athlètes russes "le plus tôt possible"
-       Publié aujourd'hui à 20h19
-     * 8
-       Du "Gorafi" à "Quotidien", rien ne résiste à Pablo Mira
-       Publié aujourd'hui à 19h25
-     * 9
-       VIDÉO - Conflit Israël-Hamas : Gilles Lellouche fustige "la
-       possibilité de dire le pire"
-       Publié aujourd'hui à 19h21
-     * 10
-       Cas de botulisme à Bordeaux : le patron du restaurant mis en cause
-       placé en garde à vue
-       Publié aujourd'hui à 19h15
-       Voir plus d'actualités
-
-     * 1
-       En Espagne et en Italie, vaste coup de filet chez des
-       trafiquants... d'huile d'olive
-       Publié hier à 15h32
-     * 2
        EN DIRECT - Guerre en Ukraine : Kiev revendique des attaques de
        drones en Crimée annexée
+       Publié hier à 6h45
+     * 8
+       EN DIRECT - Guerre en Ukraine : Kiev revendique l'assassinat d'un
+       politicien ukrainien prorusse près de Moscou
        Publié aujourd'hui à 6h45
+     * 9
+       Aujourd'hui dans 24H Pujadas : Gaza - Inonder les tunnels : le plan
+       d'Israël dévoilé
+       Publié hier à 17h38
+     * 10
+       Les erreurs courantes à éviter quand on nourrit les oiseaux en
+       hiver
+       Publié hier à 13h00
+       Voir plus d'actualités
+
+     * 1
+       Cas de Botulisme à Bordeaux : ce qu'a dit le patron du Tchin-Tchin
+       Wine bar en garde à vue
+       Publié aujourd'hui à 19h12
+     * 2
+       EN DIRECT - Attaque à Paris : Armand R. mis en examen pour
+       "assassinat en relation avec une entreprise terroriste"
+       Publié aujourd'hui à 19h05
      * 3
-       L'ambassadeur américain était un espion : Victor Manuel Rocha
-       travaillait secrètement pour Cuba depuis 40 ans
-       Publié aujourd'hui à 14h01
+       Maisons fissurées : les bons gestes pour prévenir les risques et
+       protéger sa maison
+       Publié aujourd'hui à 19h00
      * 4
-       EN DIRECT - Guerre Israël-Hamas : 80 soldats israéliens tués depuis
-       le début de l'offensive à Gaza, selon l'armée
+       AVANT/APRÈS - "GTA VI" : 20 ans plus tard, la ville fictive de
+       "Vice City" n'a plus rien à voir
+       Publié aujourd'hui à 18h55
+     * 5
+       Qui est Alexis Manenti, flic borderline dans "Les Misérables" de
+       Ladj Ly ?
+       Publié aujourd'hui à 18h45
+     * 6
+       EN DIRECT - Guerre Israël-Hamas : la France annonce 600 tonnes
+       d'aide alimentaire supplémentaire pour Gaza
+       Publié aujourd'hui à 18h33
+     * 7
+       Agrivoltaïsme : voici les règles qui vont encadrer le déploiement
+       de panneaux dans les champs
+       Publié aujourd'hui à 18h28
+     * 8
+       Les habitants des HLM vont pouvoir utiliser le chèque énergie pour
+       payer leur chauffage
+       Publié aujourd'hui à 18h19
+     * 9
+       L'Ukraine a-t-elle réellement "donné 400 km² de terres agricoles" �
+       Soros pour enfouir des déchets dangereux ?
+       Publié aujourd'hui à 18h16
+     * 10
+       "Un traître" : Kiev revendique la "liquidation" d'un Ukrainien
+       prorusse à Moscou
+       Publié aujourd'hui à 18h15
+       Voir plus d'actualités
+
+     * 1
+       EN DIRECT - Guerre en Ukraine : Kiev revendique l'assassinat d'un
+       politicien ukrainien prorusse près de Moscou
+       Publié aujourd'hui à 6h45
+     * 2
+       Jeux Olympiques 2024 : cette vidéo montre des coraux détruits par
+       le chantier de la tour des juges à Tahiti
+       Publié hier à 18h50
+     * 3
+       Guerre en Ukraine : après son faux bond au Congrès américain,
+       Volodymyr Zelensky attendu à une réunion du G7
+       Publié aujourd'hui à 11h20
+     * 4
+       EN DIRECT - Guerre Israël-Hamas : la France annonce 600 tonnes
+       d'aide alimentaire supplémentaire pour Gaza
        Publié aujourd'hui à 6h00
      * 5
-       Des chats désormais envoyés sur le front aux côtés des soldats
-       ukrainiens ?
-       Publié hier à 16h37
+       En Espagne et en Italie, vaste coup de filet chez des
+       trafiquants... d'huile d'olive
+       Publié le 4 décembre 2023 à 15h32
      * 6
-       "Dommage collatéral" ? La polémique enfle en Israël après la mort
-       d'un civil, pris pour un assaillant lors d'un attentat
-       Publié aujourd'hui à 15h46
+       Un chauffeur de taxi arrêté par la police pour avoir... tué un
+       pigeon au Japon
+       Publié aujourd'hui à 12h19
      * 7
+       EN DIRECT - Guerre en Ukraine : Kiev revendique des attaques de
+       drones en Crimée annexée
+       Publié hier à 6h45
+     * 8
        Une adolescente découvre une caméra dans les toilettes d'un avion,
        ses parents poursuivent American Airlines
        Publié le 2 décembre 2023 à 13h33
-     * 8
-       VIDÉO - Crimée : deux femmes auraient empoisonné des soldats russes
-       avec de la vodka
-       Publié hier à 12h35
      * 9
-       Guerre en Ukraine : les États-Unis bientôt "à court d'argent" pour
-       leur soutien militaire ?
-       Publié hier à 16h15
-     * 10
        Des navires israéliens attaqués en mer Rouge par les rebelles
        Houthis, un destroyer américain riposte
-       Publié hier à 8h09
+       Publié le 4 décembre 2023 à 8h09
+     * 10
+       L'ambassadeur américain était un espion : Victor Manuel Rocha
+       travaillait secrètement pour Cuba depuis 40 ans
+       Publié hier à 14h01
        Voir plus d'actualités
 
      * Police, justice et faits diversUn mort et deux blessés dans une
@@ -439,6 +450,7 @@ Un lien avéré avec la Russie
 
    Accueil-International-Après l'Ukraine, la campagne de désinformation
    russe "Doppelgänger" s'empare du conflit entre Israël et Hamas
+
    Mentions légalesConditions générales d'utilisationPolitique de
    protection des données du service TF1 InfoNous contacterExercez vos
    droitsPolitique cookiesLa médiatrice vous répondTous les tagsEspace

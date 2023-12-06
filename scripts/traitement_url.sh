@@ -54,14 +54,21 @@ echo "<html>
 		<meta charset=\"UTF-8\"/>
 		<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">
 		<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-		<title>Tableau des URLS</title>
+		<title>Tableau des URLS $basename</title>
+		<link rel=\"stylesheet\" href=\"../html_css/style.css\">
+		<link rel=\"icon\" type=\"image/png\" href=\"../images/logo.png\">
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 	</head>
-	<body class="has-navbar-fixed-top">
-		<nav class=\"navbar is-light is-fixed-top\"><div class=\"navbar-menu\"><div class=\"navbar-start\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./index.html#introduction\">Introduction</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./index.html#analyse\">Analyse</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./scripts.html\">Scripts</a></div><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\">Tableaux</a><div class=\"navbar-dropdown\"><a class=\"navbar-item\" href=\"tableau_fr.html\">Français</a><a class=\"navbar-item\" href=\"tableau_en.html\">Anglais</a><a class=\"navbar-item\" href=\"tableau_zh.html\">Chinois</a></div></div></div><div class=\"navbar-end\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./index.html#aPropos\">À propos</a></div><div class=\"navbar-item\"><a href=\"https://github.com/PetX33/Desinformation-Projet\"><img src=\"./images/github_logo.png\" alt=\"Github\"></a></div></div></div></nav>" > "$fichier_tableau"
+	<body class=\"has-navbar-fixed-top\">
+	<nav class=\"navbar is-light\" role=\"navigation\" aria-label=\"main navigation\">
+    	<div class=\"collapse navbar-collapse\" id=\"navbarResponsive\"><div class=\"logo\"><a href=\"index.html\"><img src=\"../images/logo.png\" width=\"auto\"></a></div><div class=\"navbar-menu\"><div class=\"navbar-start\"><a class=\"navbar-item\" href=\"../html_css/intro.html\">Introduction</a><a class=\"navbar-item\" href=\"./script.html\">Scripts</a><a class=\"navbar-item\" href=\"./analyse.html\">Analyse</a><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\">Tableaux</a><div class="navbar-dropdown"><a class=\"navbar-item sub\" href=\"../tableaux/tableau_fr.html\">Français</a><a class=\"navbar-item sub\" href=\"../tableaux/tableau_en.html\">Anglais</a><a class=\"navbar-item sub\" href=\"../tableaux/tableau_zh.html\">Chinois</a></div></div></div></div>
+		<div class=\"navbar-end\"><div class=\"navbar-item has-dropdown is-hoverable\"><a class=\"navbar-item\" href=\"./equipe.html\">À propos</a></div><div class=\"navbar-item\"><a href=\"https://github.com/PetX33/Desinformation-Projet\"><img src=\"../images/github_blanc.png\" alt=\"Github\"></a></div></div></div></nav>" > "$fichier_tableau" 
 
 echo "		<h1 class=\"title\" style=\"text-align: center; \">Tableau des URLs $basename</h1>
-		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\" style=\"margin: 10px\">
-			<thead style=\"background-color: #428CB5;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
+		<table class=\"table is-bordered is-bordered is-striped is-narrow is-hoverable\">
+			<thead style=\"background-color: #428cb5;\"><tr><th style=\" color: #ffffff\">ligne</th><th style=\" color: #ffffff\">code HTTP</th><th style=\" color: #ffffff; text-align: center;\">URL</th><th style=\" color: #ffffff\">encodage</th><th style=\" color: #ffffff\">HTML</th><th style=\" color: #ffffff\">dump</th><th style=\" color: #ffffff\">occurrences</th><th style=\" color: #ffffff\">contextes</th><th style=\" color: #ffffff\">concordances</th></thead>" >> "$fichier_tableau"
 
 # If language is Chinese, set the environment language to C for correct character handling
 if [ "$lang" = "zh" ]
@@ -75,7 +82,7 @@ then
 		code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 		
 		# Charset detection and handling
-		charset=$(curl -Ls $URL -D -o  "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
+		charset=$(curl -Ls $URL -D -o "./aspirations/$lang/$basename-$lineno.html" | grep -Eo "charset=(\w|-)+" | tail -n 1 | cut -d= -f2)
 
 		# Process the URL's contents and save them in different formats
 		if [ "$code" -eq 200 ]; then
@@ -147,6 +154,9 @@ then
 
 	# Finish the HTML output
 	echo "		</table>
+				<footer>
+					<p>© 2023/2024 - Projet Propagande et Désinformation - MA Zhiya • PENG Yuanlong • QUENNEHEN Perrine</p>
+				</footer>
 		</body>
 	</html>" >> "$fichier_tableau"
 
@@ -212,17 +222,18 @@ then
 		sh ./scripts/concordancier.sh $lang "./dumps-text/$lang/$basename-$lineno.txt" $mot > "./concordances/$lang/$basename-$lineno.html"
 		
 		# Add a row to the HTML table for each URL
-		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="./aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="./dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="./contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="./concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
+		echo "			<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td><a href="../aspirations/$lang/$basename-$lineno.html">html</a></td><td><a href="../dumps-text/$lang/$basename-$lineno.txt">text</a></td><td>$compte</td><td><a href="../contextes/$lang/$basename-$lineno.txt">contexte</a></td><td><a href="../concordances/$lang/$basename-$lineno.html">concordances</a></td></tr>" >> "$fichier_tableau"
 
     	lineno=$((lineno + 1))
 	done < "$fichier_urls"
 
 	# Finish the HTML output
 	echo "		</table>
+				<footer>
+       				<p>© 2023/2024 - Projet Propagande et Désinformation - MA Zhiya • PENG Yuanlong • QUENNEHEN Perrine</p>
+    			</footer>
 		</body>
 	</html>" >> "$fichier_tableau"
-
-	echo "motif : $mot"
 
 else
 	while read -r URL;
@@ -291,9 +302,11 @@ else
 
 	# Finish the HTML output
 	echo "		</table>
+
+			<footer>
+				<p>© 2023/2024 - Projet Propagande et Désinformation - MA Zhiya • PENG Yuanlong • QUENNEHEN Perrine</p>
+			</footer>
 		</body>
 	</html>" >> "$fichier_tableau"
-
-	echo "motif : $mot"
 fi
 

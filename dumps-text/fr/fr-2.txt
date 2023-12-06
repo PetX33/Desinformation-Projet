@@ -192,7 +192,7 @@ Pourquoi tant de désinformation sur la guerre Israël-Hamas sur X ?
 
 Le surgissement de la vérité à travers le chaos : mission impossible ?
 
-   Alors que la guerre Israël-Hamas s’embrase, la demande d’informations à
+   Alors que la guerre Israël-Hamas s’embrase, la demande d’informations �
    ce sujet est plus forte que l’offre. Conséquence : cela crée un espace
    d’opportunités pour plusieurs acteurs cherchant une notoriété politique
    et/ou des gains financiers grâce à la désinformation.
@@ -223,7 +223,7 @@ Le surgissement de la vérité à travers le chaos : mission impossible ?
 Vous souhaitez être informé en temps réel ?
 
      * Nom*
-       ____________________ Prénom ____________________ Nom
+       ____________________ Prénom_____________________ Nom
      * E-mail*
        ____________________
      * RGPD*
@@ -248,6 +248,13 @@ Vous souhaitez être informé en temps réel ?
      * Transformation numérique
 
    Sécurité et stabilité du cyberespace
+   Messagerie instantanée : Matignon veut imposer Olvid au gouvernement
+   05 décembre 2023
+
+Messagerie instantanée : Matignon veut imposer Olvid au gouvernement
+
+   Les ministres, les secrétaires d’État et leurs cabinets vont devoir
+   abandonner WhatsApp, Signal et Telegram.
    Sécuriser et réguler l’espace numérique : un des travaux d’Hercule ?
    05 décembre 2023
 
@@ -290,14 +297,6 @@ Les évolutions des postures cyber : comment la Chine, la Russie, les
    Certaines avancées technologiques sont si importantes qu’elles
    fracturent notre compréhension du monde. Les experts et les décideurs
    politiques commencent à disséquer, même si c’est parfois ...
-   États-Unis : la SEC attaque SolarWinds en justice
-   06 novembre 2023
-
-États-Unis : la SEC attaque SolarWinds en justice
-
-   Le gendarme boursier américain accuse l’entreprise, victime en 2020
-   d’une cyberattaque aux graves conséquences, de négligence en matière de
-   cybersécurité.
    Cyber sécurité industrielle
    Le Canada veut renforcer la cyberdéfense de son secteur énergétique
    04 décembre 2023
@@ -386,9 +385,16 @@ Le département du Loiret victime d’une cyberattaque
 
 Qui a débranché le botnet Mozi ?
 
-   Un mystérieux kill switch a mis fin au réseau de machines zombies, à
+   Un mystérieux kill switch a mis fin au réseau de machines zombies, �
    l’été 2023.
    Souveraineté numérique
+   Union européenne : pas de compromis en vue sur l’AI Act
+   05 décembre 2023
+
+Union européenne : pas de compromis en vue sur l’AI Act
+
+   La France et l’Allemagne refusent des règles trop contraignantes qui
+   pourraient freiner leurs start-ups.
    Cloud : l’Union européenne réduit légèrement ses critères de
    souveraineté
    04 décembre 2023
@@ -432,15 +438,6 @@ NIS2 en ligne de mire : les entreprises doivent se préparer
    Cette nouvelle directive européenne vise à renforcer la cybersécurité
    en Europe. Elle est appelée à remplacer la directive NIS1, dont les
    exigences ne suffisent plus à améliorer la ...
-   IA : la France, l’Allemagne et l’Italie veulent renforcer l’autonomie
-   stratégique de l’UE
-   03 novembre 2023
-
-IA : la France, l’Allemagne et l’Italie veulent renforcer l’autonomie
-stratégique de l’UE
-
-   Les ministres de l’Économie des trois États membres souhaitent soutenir
-   le développement des entreprises européennes les plus innovantes.
    Identité numérique & KYC
    Windows Hello : des failles dans l’authentification par empreinte
    digitale
@@ -488,6 +485,13 @@ Des vols de crypto-monnaies liés au piratage de LastPass ?
    Les 150 victimes différentes n’avaient qu’un point commun : avoir
    enregistré la clé de leur portefeuille crypto sur LastPass.
    Lutte anti-fraude
+   Fuite de données : Okta admet que tous ses clients sont touchés
+   05 décembre 2023
+
+Fuite de données : Okta admet que tous ses clients sont touchés
+
+   Une cyberattaque avait frappé le gestionnaire de l’identité et des
+   accès, en septembre 2023.
    Des sites frauduleux se font passer pour celui de Garmin France
    29 septembre 2023
 
@@ -522,14 +526,14 @@ Arnaques en ligne : coup de filet d’Interpol en Afrique de l’Ouest
 
    Les forces de l’ordre ont arrêté une centaine de suspects et saisi plus
    de 2 millions d’euros
-   50 millions de dollars en crypto-monnaie dérobés sur Curve
-   04 août 2023
-
-50 millions de dollars en crypto-monnaie dérobés sur Curve
-
-   Des hackers white hat feraient partie des attaquants de cette
-   plateforme de finance décentralisée.
    Sécurité opérationnelle
+   Post-quantique : CryptoNext Security lève 11 millions d’euros
+   06 décembre 2023
+
+Post-quantique : CryptoNext Security lève 11 millions d’euros
+
+   La start-up française veut renforcer son leadership dans la migration
+   des SI vers un chiffrement résistant aux attaques quantiques
    Compliance cyber : de nouvelles technologies s’imposent
    04 décembre 2023
 
@@ -573,15 +577,15 @@ L’obsolescence IT avec les mots de tous les jours
    Cela fait plusieurs fois que je tombe sur des collègues et confrères
    qui sont confrontés à la difficulté suivante : expliquer à un décideur
    ce qu’est l’obsolescence informatique et ce que ...
-   Le Campus Cyber présente ses recommandations pour les TPE/PME
-   09 novembre 2023
-
-Le Campus Cyber présente ses recommandations pour les TPE/PME
-
-   Son rapport fixe trois priorités : rendre plus lisibles les diagnostics
-   cyber, simplifier l’accès des entreprises aux acteurs de la
-   cybersécurité et sensibiliser au risque cyber.
    Cyber risques
+   L’IA générative se développe en entreprise sans cadre d’utilisation
+   clair
+   05 décembre 2023
+
+L’IA générative se développe en entreprise sans cadre d’utilisation clair
+
+   58 % des salariés français qui utilisent l’IA générative pour leur
+   travail le font sans autorisation formelle de leur employeur.
    Cybersécurité des PME/ETI : oubliez tout ce que vous savez !
    30 novembre 2023
 
@@ -625,16 +629,17 @@ IA
 
    Ce programme de recherche veut éviter que les LLM ne distordent les
    processus démocratiques, en particulier les élections.
-   Intelligence artificielle : le monde prend conscience de ses risques
-   15 novembre 2023
-
-Intelligence artificielle : le monde prend conscience de ses risques
-
-   Par Louis Nauges
-   Nous venons de vivre une semaine intense dans le « monde » de
-   l’intelligence artificielle (IA). En quelques jours, de prestigieuses
-   organisations ont publié cinq documents abordant tous le ...
    Transformation numérique
+   La veille stratégique confrontée à l’IA générative : au-delà des
+   craintes
+   06 décembre 2023
+
+La veille stratégique confrontée à l’IA générative : au-delà des craintes
+
+   Par Arnaud Marquant, directeur des opérations chez KB Crawl
+   L’IA générative qui se déploie actuellement dans le secteur de la
+   veille stratégique suscite certaines craintes. Celles-ci peuvent être
+   dépassées en effectuant de la pédagogie auprès des ...
    Atos : Daniel Křetínský ne devrait pas entrer au capital d’Eviden
    04 décembre 2023
 
@@ -678,16 +683,6 @@ Comment l’IA bouscule la propriété intellectuelle
    Le 3 août 2023, le New York Times a modifié les mentions légales de son
    site internet. Le quotidien américain exige désormais un consentement
    écrit de sa part pour qu’une IA puisse ...
-   [Forum InCyber Montréal 2023] IA générative : réimaginer les droits
-   d’auteur
-   22 novembre 2023
-
-[Forum InCyber Montréal 2023] IA générative : réimaginer les droits d’auteur
-
-   Par Marion Lefebvre
-   L’accès généralisé à l’intelligence artificielle générative bouleverse
-   notre façon de travailler et de créer. Cependant, l’utilisation
-   croissante de cette nouvelle technologie a vite ...
 
    InCyber
      * Linkedin
@@ -737,7 +732,7 @@ Comment l’IA bouscule la propriété intellectuelle
    spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
    le seul but d’effectuer la transmission d’une communication sur un
    réseau de communications électroniques.
-   Préférences [ ] Préférences
+   Préférence[ ]_] Préférences
    Le stockage ou l’accès technique est nécessaire dans la finalité
    d’intérêt légitime de stocker des préférences qui ne sont pas demandées
    par l’abonné ou l’utilisateur.
