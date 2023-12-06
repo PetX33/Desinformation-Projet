@@ -121,11 +121,11 @@ then
 		# Segment the text dump with the Chinese tokenizer thulac
 		dumptok=$(python3 ./scripts/tokenize_chinese.py "./dumps-text/$lang/$basename-$lineno.txt")
 
+		# Remove spaces between 虚假 and 信息 and 政治 and 宣传
 		dumptok=$(echo "$dumptok" | sed -e 's/虚假 信息/虚假信息/g' -e 's/政治 宣传/政治宣传/g')
 
 		# Crushed the text dump with the Chinese tokenizer thulac
 		echo "$dumptok" > "./dumps-text/$lang/$basename-$lineno.txt"
-		
 
 		# Count occurrences of the keyword in the text dump
 		compte=$(grep -E -i -o "$mot" "./dumps-text/$lang/$basename-$lineno.txt" | wc -l)

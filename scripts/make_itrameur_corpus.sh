@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 # Execute this script from the root of the project using: sh ./scripts/make_itrameur_corpus.sh <folder> <language>
-# To concatenate files juste use the cat command in terminal : cat dumps-text-*.txt > dumps.txt or cat contextes-*.txt > contextes.txt
+# To concatenate files juste use the cat command in terminal in the itrameur folder : cat dumps-text-*.txt > dumps.txt or cat contextes-*.txt > contextes.txt
+
 # Check if exactly two arguments are provided
 if [ $# -ne 2 ]
 then
@@ -11,6 +12,7 @@ fi
 
 # Assigning first argument to 'folder' (expected to be 'dumps-text' or 'contextes')
 folder=$1
+
 # Assigning second argument to 'basename' (language code like 'en', 'fr', 'zh')
 basename=$2
 
