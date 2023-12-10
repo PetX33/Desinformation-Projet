@@ -173,12 +173,12 @@ body.has-navbar-fixed-top, html.has-navbar-fixed-top {
     font-weight: bold;
     color: #428CB5;
     padding-left: 100px;
-
 }
 
 .definition {
     padding-left : 150px;
 }
+
 .texte_code{
     padding-right: 200px; 
     width:85%
