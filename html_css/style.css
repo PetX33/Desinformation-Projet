@@ -137,10 +137,12 @@ h1.intro {
     color: #428CB5;
     font-size: 50px;
     padding-bottom: 50px;
+    text-align: justify;
     }
 
 .block{
-    margin: auto;
+    margin: 30px;
+    text-align: justify;
 }
 
 /* Adjust button colors */
@@ -161,20 +163,25 @@ body.has-navbar-fixed-top, html.has-navbar-fixed-top {
     padding-top: 30px;
 }
 
-.columnis-one-fifth .intro{
-    margin-right: 300px;
-}
 
 .texte_block{
-    padding-left: 250px;
     padding-right: 200px; 
     width:85%
 }
 
+.terme{
+    font-weight: bold;
+    color: #428CB5;
+    padding-left: 100px;
+
+}
+
+.definition {
+    padding-left : 150px;
+}
 .texte_code{
-    padding-left: 300px;
-    padding-right: 100px;
-    width: 990px;
+    padding-right: 200px; 
+    width:85%
 }
 
 .nav_int{
@@ -268,6 +275,7 @@ body.has-navbar-fixed-top, html.has-navbar-fixed-top {
     margin-right: 30px;
 }
 
+
 pre code {
     background-color: transparent;
     color: currentColor;
@@ -286,10 +294,11 @@ pre code {
 
 .scrollable {
     max-height: 900px; /* ou toute autre hauteur appropriée */
-    max-width: 800px;
+    max-width: 900px;
     overflow: auto; /* active le défilement si nécessaire */
     white-space: pre-wrap; /* optionnel, pour la césure des longues lignes */
     word-wrap: break-word; /* optionnel, pour la césure des mots */
+    margin: auto;
 }
 
 .green { color: green; }
@@ -298,3 +307,10 @@ pre code {
 .blue { color: blue; }
 .grey { color: grey; }
 .purple { color: purple; }
+
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 0.5em;
+    color: #514e4f;
+}
