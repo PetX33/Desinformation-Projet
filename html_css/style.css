@@ -28,6 +28,7 @@ h1.titre{
     font-size: 40px;
     -webkit-text-stroke: 1px #282828;
     text-shadow: 0px 4px 4px black;
+    font-variant: small-caps;
 }
 
 .logo{
@@ -138,6 +139,7 @@ h1.intro {
     font-size: 50px;
     padding-bottom: 50px;
     text-align: justify;
+    font-variant: small-caps;
     }
 
 .block{
@@ -313,4 +315,11 @@ h2 {
     font-size: 35px;
     margin-bottom: 0.5em;
     color: #514e4f;
+}
+
+.lien {
+    color: #428CB5;
+    text-shadow: 0px 4px 4px #fefbed;
+    -webkit-text-stroke: 1px #282828;
+    font-variant: small-caps;
 }
