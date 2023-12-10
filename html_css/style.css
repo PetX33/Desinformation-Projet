@@ -236,6 +236,22 @@ body.has-navbar-fixed-top, html.has-navbar-fixed-top {
     }
 }
 
+@media (min-width: 951px){
+    .background{
+        width: 100vw; /* 100% de la largeur de la fenêtre du navigateur */
+        height: 100vh;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 750px){
+    .background{
+        width: 100vw; /* 100% de la largeur de la fenêtre du navigateur */
+        height: 100vh;
+        object-fit: cover;
+    }
+}
+
 .img-fluid {
     max-width: 100%;
     height: auto;
