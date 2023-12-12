@@ -14,3 +14,7 @@
 **29/11**
 
 - Nous avons travailler sur les scripts permettant d'obtenir les dumps et contextes concaténés. Pour le français et l'anglais nous n'avons rencontrés aucune difficultés, cependant pour le chinois c'est autre chose, au départ lorsque l'on utilisait pas les dumps tokeniser, il n'y avait pas de problème pour obtenir les fichiers concordances.txt, mais après en utilisant les dumps tokenisés, nous avons d'abord du modifier la ligne de code permettant de retrouver le motif recherché dans le corpus car il ne trouvais rien, on a donc cherché et trouvé qu'il fallait utiliser LANG=zh_CN.UTF-8 avant ggrep (ou grep si sous linux) -P et utilisait \p{Han} dans l'expression régulière, pareil pour le sed qui permet de mettre chaque partie dans la bonne colonne, sur linux ça fonctionnait bien, mais pas sur mac, donc après plusieurs heures de recherche nous avons trouvé qu'il fallait rajouter un g devant sed et installer gnu-sed pour que ça fonctionne. 
+
+**06/12**
+
+- Nous avons fait des mises à jour sur le site en y incluant les pages "équipe.html", "scripts.html", "intro.html" et "analyse.html". Nous avons également généré les nuages de mots. Nous avons rencontré quelques difficultés pour l'utilisation de --mask, en effet le fond noir et la forme blanche ne fonctionnait pas, contrairement à ce qui était indiqué, mais il fallait une image avec les couleurs inversés, fond blanc, forme noir.
