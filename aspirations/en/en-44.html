@@ -2,17 +2,22 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="no-js">
 <head>
-<link href="/Content/responsive/VOA/en-US/VOA-en-US.css?&amp;av=0.1.0.0&amp;cb=270" rel="stylesheet"/>
+<link href="/Content/responsive/VOA/en-US/VOA-en-US.css?&amp;av=0.1.0.0&amp;cb=272" rel="stylesheet"/>
 <script src="//tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js"></script> <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
 <script type="text/javascript">
 //a general 'js' detection, must be on top level in <head>, due to CSS performance
 document.documentElement.className = "js";
-var cacheBuster = "270";
+var cacheBuster = "272";
 var appBaseUrl = "/";
 var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
 var isLoggingEnabled = false;
 var isPreviewPage = false;
 var isLivePreviewPage = false;
+if (!isPreviewPage) {
+window.RFE = window.RFE || {};
+window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+window.history.replaceState(null, '', window.location.href.replace(new RegExp('[\&\?]nocache=1'), ''));
+}
 var pwaEnabled = false;
 var swCacheDisabled;
 </script>
@@ -44,8 +49,8 @@ var swCacheDisabled;
 <meta content="https://gdb.voanews.com/01000000-0aff-0242-b206-08dbd6384e59_w1200_r1.png" name="twitter:image" />
 <meta content="Footage shows IS-affiliate Maute group attacking a church in the Philippines during the 2017 Siege of Marawi. " name="twitter:description" />
 <script type="application/ld+json">{"claimReviewed":"“#HamasTerrorists destroying a Baptist Church in #Gaza city and kicking the statue of Jesus, is this their fight to reclaim their land or is it Jihad against every other religion in this world, ask yourselves !!”","itemReviewed":{"author":{"@type":"Person","name":"MithilaWaala"},"datePublished":"2023-10-26 19:51:27Z","dateModified":"0001-01-01 00:00:00Z","@type":"CreativeWork","mainEntityOfPage":" https://twitter.com/MithilaWaala/status/1716458761571971230","image":"https://gdb.voanews.com/01000000-0aff-0242-24d2-08dbd637f62b_w1080_h608.png","name":"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza "},"reviewRating":{"@type":"rating","ratingValue":1,"bestRating":5,"worstRating":1,"alternateName":"False "},"headline":"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ","inLanguage":"en-US","keywords":"Fact Checks","author":{"@type":"Organization","name":"Voice of America"},"datePublished":"2023-10-26 19:51:27Z","dateModified":"2023-10-26 19:51:27Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.voanews.com/Content/responsive/VOA/en-US/img/logo.png"},"@type":"Organization","url":"https://www.voanews.com","sameAs":["https://www.facebook.com/VOANews","https://twitter.com/voanews","https://www.youtube.com/user/VOAvideo","https://www.instagram.com/voanews/"],"name":"Voice of America (VOA News)","alternateName":""},"@context":"https://schema.org","@type":"ClaimReview","mainEntityOfPage":"https://www.voanews.com/a/fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza/7328598.html","url":"https://www.voanews.com/a/fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza/7328598.html","description":"Footage shows IS-affiliate Maute group attacking a church in the Philippines during the 2017 Siege of Marawi. ","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/01000000-0aff-0242-b206-08dbd6384e59_w1080_h608.png"},"name":"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza "}</script>
-<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=270"></script>
-<script src="/Scripts/responsive/loader.b?v=R3LR59bI_QYIvBT1Uo8ClLBpzI0pAdZYweFWJofnu6U1?&amp;av=0.1.0.0&amp;cb=270"></script>
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=272"></script>
+<script src="/Scripts/responsive/loader.b?v=R3LR59bI_QYIvBT1Uo8ClLBpzI0pAdZYweFWJofnu6U1?&amp;av=0.1.0.0&amp;cb=272"></script>
 <link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg" />
 <link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
 <link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png" />
@@ -71,7 +76,7 @@ if (renderGtm === "true") {
 </script>
 <!--Analytics tag js version start-->
 <script type="text/javascript" data-cookiecategory="analytics">
-var utag_data={entity:"VOA",pangea_version:"8.27.0.0.270",language:"English",language_service:"VOA English",short_language_service:"ENG",property_id:"461",platform:"responsive",platform_short:"R",runs_js:"Yes",page_title:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",page_type:"factcheck",page_name:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",short_headline:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows H...",long_headline:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",headline:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",content_type:"article",subcontent_type:"factcheck",enviro_type:"prod",url:"https://www.voanews.com/a/fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza/7328598.html",domain:"www.voanews.com",pub_year:"2023",pub_month:"10",pub_day:"26",pub_hour:"19",pub_minute:"51",pub_weekday:"Thursday",dateline:"",byline:"Polygraph.info",categories:"fact-checks",tags:"",slug:"fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza",section:"fact checks",english_section:"fact-checks",article_uid:"7328598"};
+var utag_data={entity:"VOA",pangea_version:"8.28.0.0.272",language:"English",language_service:"VOA English",short_language_service:"ENG",property_id:"461",platform:"responsive",platform_short:"R",runs_js:"Yes",page_title:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",page_type:"factcheck",page_name:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",short_headline:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows H...",long_headline:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",headline:"X Users Falsely Claim Video of 2017 Attack on Philippines Church Shows Hamas Attack in Gaza ",content_type:"article",subcontent_type:"factcheck",enviro_type:"prod",url:"https://www.voanews.com/a/fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza/7328598.html",domain:"www.voanews.com",pub_year:"2023",pub_month:"10",pub_day:"26",pub_hour:"19",pub_minute:"51",pub_weekday:"Thursday",dateline:"",byline:"Polygraph.info",categories:"fact-checks",tags:"",slug:"fact-check-x-users-falsely-claim-video-of-2017-attack-on-philippines-church-shows-hamas-attack-in-gaza",section:"fact checks",english_section:"fact-checks",article_uid:"7328598"};
 if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
 var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
 if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
@@ -93,7 +98,7 @@ utag_data.platform_short = "R";
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
-<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoaenglish-bbgprod-bbgentityvoa-bbgunitvoaenglish/1/G.4--NS/732509352?pageName=voa%3aeng%3ar%3afactcheck%3ax%20users%20falsely%20claim%20video%20of%202017%20attack%20on%20philippines%20church%20shows%20hamas%20attack%20in%20gaza%20&amp;c6=x%20users%20falsely%20claim%20video%20of%202017%20attack%20on%20philippines%20church%20shows%20hamas%20attack%20in%20gaza%20&amp;pangea_version=8.27.0.0.270&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=x%20users%20falsely%20claim%20video%20of%202017%20attack%20on%20philippines%20church%20shows%20hamas%20attack%20in%20gaza%20&amp;v7=D=c7&amp;c16=voa%20english&amp;v16=D=c16&amp;c5=fact-checks&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=7328598&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoaenglish-bbgprod-bbgentityvoa-bbgunitvoaenglish/1/G.4--NS/218603399?pageName=voa%3aeng%3ar%3afactcheck%3ax%20users%20falsely%20claim%20video%20of%202017%20attack%20on%20philippines%20church%20shows%20hamas%20attack%20in%20gaza%20&amp;c6=x%20users%20falsely%20claim%20video%20of%202017%20attack%20on%20philippines%20church%20shows%20hamas%20attack%20in%20gaza%20&amp;pangea_version=8.28.0.0.272&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=x%20users%20falsely%20claim%20video%20of%202017%20attack%20on%20philippines%20church%20shows%20hamas%20attack%20in%20gaza%20&amp;v7=D=c7&amp;c16=voa%20english&amp;v16=D=c16&amp;c5=fact-checks&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=7328598&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -240,9 +245,6 @@ World
 </li>
 <li class="main-nav__item">
 <a class="main-nav__item-name main-nav__item-name--link" href="/press-freedom" title="Press Freedom" data-item-name="press-freedom" >Press Freedom</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/7783.html" title="COVID-19 Pandemic" data-item-name="covid-19-pandemic" >COVID-19 Pandemic</a>
 </li>
 <li class="main-nav__item">
 <a class="main-nav__item-name main-nav__item-name--link" href="/china" title="China" data-item-name="voa-news-china" >China</a>
@@ -442,7 +444,7 @@ class="btn btn--rounded btn-email ">
 <span class="share__count share__count--email share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item share__item--sharing-more">
-<a title="toggle more sharing options" class="btn btn--rounded btn--show-more hidden">
+<a title="More options" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
 <span class="ico ico--rounded ico-ellipsis ico--l"></span>
 </a>
 </li>
@@ -490,7 +492,7 @@ class="btn btn--rounded btn-email ">
 </a>
 </li>
 <li class="share__item share__item--sharing-more">
-<a title="toggle more sharing options" class="btn btn--rounded btn--show-more hidden">
+<a title="More options" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
 <span class="ico ico--rounded ico-ellipsis ico--s"></span>
 </a>
 </li>
@@ -517,7 +519,7 @@ class="btn btn--rounded btn-email ">
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/01000000-0aff-0242-24d2-08dbd637f62b_w100_r5.png" alt="MithilaWaala" class="avatar rounded" />
 </noscript>
-<img alt="MithilaWaala" class="avatar rounded" data-src="https://gdb.voanews.com/01000000-0aff-0242-24d2-08dbd637f62b_w66_r5.png" src="" />
+<img alt="MithilaWaala" src="" class="avatar rounded" data-src="https://gdb.voanews.com/01000000-0aff-0242-24d2-08dbd637f62b_w66_r5.png" />
 </div>
 </div>
 <div>
@@ -951,7 +953,7 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 }
 }
 </script>
-<script src="/conf.js?x=270" type="text/javascript"></script>
+<script src="/conf.js?x=272" type="text/javascript"></script>
 <div class="responsive-indicator">
 <div class="visible-xs-block">XS</div>
 <div class="visible-sm-block">SM</div>
