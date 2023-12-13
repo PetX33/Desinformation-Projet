@@ -135,6 +135,15 @@ Vous souhaitez être informé en temps réel ?
 
 
    Sécurité et stabilité du cyberespace
+   Apple et Google communiquent aux gouvernements des informations sur les
+   notifications mobiles
+   11 décembre 2023
+
+Apple et Google communiquent aux gouvernements des informations sur les
+notifications mobiles
+
+   Un sénateur américain a révélé cette pratique, provoquant une mise �
+   jour du rapport de transparence des deux géants américains.
    Messagerie instantanée : Matignon veut imposer Olvid au gouvernement
    05 décembre 2023
 
@@ -173,17 +182,6 @@ Ukraine : le chef du service de cybersécurité accusé de corruption
 La France veut un accord sur la prolifération des logiciels cyber offensifs
 
    Paris et Londres entendent mieux réguler l’exportation de ces outils.
-   Les évolutions des postures cyber : comment la Chine, la Russie, les
-   États-Unis et l’Union européenne voient le monde
-   08 novembre 2023
-
-Les évolutions des postures cyber : comment la Chine, la Russie, les
-États-Unis et l’Union européenne voient le monde
-
-   Par Rayna Stamboliyska
-   Certaines avancées technologiques sont si importantes qu’elles
-   fracturent notre compréhension du monde. Les experts et les décideurs
-   politiques commencent à disséquer, même si c’est parfois ...
    Cyber sécurité industrielle
    Le Canada veut renforcer la cyberdéfense de son secteur énergétique
    04 décembre 2023
@@ -228,6 +226,20 @@ Siemens lance un outil d’analyse de la cybersécurité industrielle
    Il permet d’éprouver, pendant les phases de maintenance, la robustesse
    de l’environnement IT/OT d’une organisation.
    Cyber criminalité
+   La fuite de données de 23andMe concerne 6,9 millions de clients
+   12 décembre 2023
+
+La fuite de données de 23andMe concerne 6,9 millions de clients
+
+   Le spécialiste du test ADN à des fins génétiques affirmait à l’origine
+   que la compromission ne concernait que 14 000 comptes.
+   France : vol de données au Service national universel
+   12 décembre 2023
+
+France : vol de données au Service national universel
+
+   Les informations personnelles de dizaines de milliers de volontaires
+   sont en vente pour 50 dollars.
    Nouveau coup de filet contre le gang de rançongiciel responsable du
    piratage d’Altran
    04 décembre 2023
@@ -261,20 +273,22 @@ Des infostealers ciblent les gamers francophones
    L’attaque contre Shadow faisait partie d’une opération plus large,
    menée notamment par les deux administrateurs francophones du stealer
    Epsilon.
-   Le département du Loiret victime d’une cyberattaque
-   13 novembre 2023
-
-Le département du Loiret victime d’une cyberattaque
-
-   La collectivité n’aurait toutefois détecté aucune fuite de données.
-   Qui a débranché le botnet Mozi ?
-   13 novembre 2023
-
-Qui a débranché le botnet Mozi ?
-
-   Un mystérieux kill switch a mis fin au réseau de machines zombies, �
-   l’été 2023.
    Souveraineté numérique
+   L’Union européenne valide l’AI Act
+   11 décembre 2023
+
+L’Union européenne valide l’AI Act
+
+   Les représentants du Parlement européen et des États-membres se sont
+   accordés sur un compromis, jugé « historique » par Thierry Breton.
+   Parlement et Conseil européens s’accordent sur le Cyber Resilience Act
+   11 décembre 2023
+
+Parlement et Conseil européens s’accordent sur le Cyber Resilience Act
+
+   La finalisation de cette proposition législative européenne sur la
+   sécurité des objets connectés devrait intervenir dans les semaines qui
+   viennent.
    vers un cadre réglementaire mondial sur la protection des données ?
    08 décembre 2023
 
@@ -308,24 +322,16 @@ La sécurité sociale britannique confie ses données de santé à Palantir
    Les défenseurs de la vie privée contestent le choix de la société
    américaine, connue pour ses liens avec des services militaires et de
    renseignement.
-   TikTok : une application sous haute surveillance
-   16 novembre 2023
-
-TikTok : une application sous haute surveillance
-
-   Par Fabrice Deblock
-   Le réseau social chinois est dans le viseur des autorités américaines
-   et européennes qui cherchent à savoir précisément comment les données
-   de leurs ressortissants sont utilisées. Ce ...
-   Apple : iMessage doit-il se soumettre au DMA ?
-   13 novembre 2023
-
-Apple : iMessage doit-il se soumettre au DMA ?
-
-   Google et quatre opérateurs téléphoniques veulent que la messagerie
-   instantanée d’Apple respecte les contraintes imposées aux
-   « gatekeepers » en terme d’interopérabilité.
    Identité numérique & KYC
+   Portefeuille d’identité numérique européen : test à grande échelle au
+   Luxembourg
+   11 décembre 2023
+
+Portefeuille d’identité numérique européen : test à grande échelle au
+Luxembourg
+
+   Le consortium Potential et les autorités luxembourgeoise vont éprouver
+   quatre cas d’usage de l’EUDIW.
    Windows Hello : des failles dans l’authentification par empreinte
    digitale
    29 novembre 2023
@@ -364,14 +370,14 @@ L’Assemblée nationale valide l’identité numérique pour tous en 2027
 
    Tous les amendements sur la levée de l’anonymat en ligne ont toutefois
    été retirés du texte.
-   Des vols de crypto-monnaies liés au piratage de LastPass ?
-   13 septembre 2023
-
-Des vols de crypto-monnaies liés au piratage de LastPass ?
-
-   Les 150 victimes différentes n’avaient qu’un point commun : avoir
-   enregistré la clé de leur portefeuille crypto sur LastPass.
    Lutte anti-fraude
+   Noms de domaine : l’ICANN lance un service de demande d’informations
+   12 décembre 2023
+
+Noms de domaine : l’ICANN lance un service de demande d’informations
+
+   Il permettra de consulter les données des hébergeurs, notamment dans le
+   cadre d’enquêtes judiciaires.
    Fuite de données : Okta admet que tous ses clients sont touchés
    05 décembre 2023
 
@@ -406,14 +412,31 @@ Messenger appliquera bientôt le chiffrement de bout en bout par défaut
 
    Cette évolution était attendue depuis des années et se trouve au cœur
    d’une controverse sur un avortement illégal au Nebraska.
-   Arnaques en ligne : coup de filet d’Interpol en Afrique de l’Ouest
-   16 août 2023
-
-Arnaques en ligne : coup de filet d’Interpol en Afrique de l’Ouest
-
-   Les forces de l’ordre ont arrêté une centaine de suspects et saisi plus
-   de 2 millions d’euros
    Sécurité opérationnelle
+   Piloter sa conformité IT : les bonnes pratiques
+   13 décembre 2023
+
+Piloter sa conformité IT : les bonnes pratiques
+
+   Par Fabrice Deblock
+   Pour certaines entreprises, la multiplication des textes réglementaires
+   liés à la conformité informatique peut être vécue comme une contrainte
+   difficile à gérer. Mais grâce à de la ...
+   Lancement officiel du dispositif « Cyber PME »
+   12 décembre 2023
+
+Lancement officiel du dispositif « Cyber PME »
+
+   Ce programme d’accompagnement des PME et des ETI suit le modèle des
+   « parcours cyber » de l’Anssi pour les collectivités et les
+   établissements de santé.
+   Thales boucle le rachat d’Imperva en avance
+   11 décembre 2023
+
+Thales boucle le rachat d’Imperva en avance
+
+   Cette acquisition fait du groupe français « l’un des cinq leaders
+   mondiaux » de la cybersécurité.
    Post-quantique : CryptoNext Security lève 11 millions d’euros
    06 décembre 2023
 
@@ -441,30 +464,16 @@ cybercrise n’est qu’une extension plus récente »
    Directrice générale de EH&A Consulting, cabinet spécialisé en
    communication sensible et gestion de crise pour des groupes du CAC 40
    et des acteurs internationaux, Emmanuelle Hervé intervient ...
-   L’Anssi ouvre une antenne à Rennes
-   23 novembre 2023
-
-L’Anssi ouvre une antenne à Rennes
-
-   L’agence entend profiter des synergies avec l’écosystème cyber de la
-   ville et de la région Bretagne.
-   France : lancement d’une campagne de sensibilisation aux métiers cyber
-   16 novembre 2023
-
-France : lancement d’une campagne de sensibilisation aux métiers cyber
-
-   Baptisée « DemainSpécialisteCyber », elle vise les élèves de collège et
-   de lycée.
-   L’obsolescence IT avec les mots de tous les jours
-   10 novembre 2023
-
-L’obsolescence IT avec les mots de tous les jours
-
-   Par Cédric Cartau
-   Cela fait plusieurs fois que je tombe sur des collègues et confrères
-   qui sont confrontés à la difficulté suivante : expliquer à un décideur
-   ce qu’est l’obsolescence informatique et ce que ...
    Cyber risques
+   Atos : quelles conséquences sur la cybersécurité des JO 2024 ?
+   11 décembre 2023
+
+Atos : quelles conséquences sur la cybersécurité des JO 2024 ?
+
+   Par Stanislas Tarnowski
+   Atos, l’un des acteurs majeurs de la cybersécurité des JO, est dans la
+   tourmente. Sa scission se fera-t-elle avant le début des épreuves ?
+   Cette incertitude et les polémiques autour de cette ...
    L’IA générative se développe en entreprise sans cadre d’utilisation
    clair
    05 décembre 2023
@@ -507,15 +516,6 @@ Cybersécurité : en France et en Suisse, les PME restent fragiles
    Bien qu’elles représentent l’essentiel du tissu économique en France et
    en Suisse, les PME sont très exposées aux cybermenaces. Un double
    risque à la fois pour l’économie et l’emploi ...
-   Une initiative française veut lutter contre les biais antidémocratiques
-   des IA
-   16 novembre 2023
-
-Une initiative française veut lutter contre les biais antidémocratiques des
-IA
-
-   Ce programme de recherche veut éviter que les LLM ne distordent les
-   processus démocratiques, en particulier les élections.
    Transformation numérique
    La veille stratégique confrontée à l’IA générative : au-delà des
    craintes
