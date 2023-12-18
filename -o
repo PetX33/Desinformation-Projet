@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Date: Wed, 13 Dec 2023 09:06:22 GMT
-Content-Type: text/html
-Transfer-Encoding: chunked
-Connection: keep-alive
-Expires: Wed, 13 Dec 2023 19:06:22 GMT
-Cache-Control: max-age=36000
-X-Ser: BC96_dx-lt-yd-hunan-changsha-12-cache-5, BC235_yd-obgp-guangdong-shenzhen-12-cache-2, BC36_US-Michigan-chieago-1-cache-1, BC231_FR-Paris-Paris-3-cache-1
-
