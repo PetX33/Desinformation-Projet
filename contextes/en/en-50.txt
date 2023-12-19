@@ -1,0 +1,69 @@
+   AI and the US electionUS politics
+   Interview
+
+‘An evolution in propaganda’: a digital expert on AI influence in elections
+
+   Nick Robins-Early
+
+--
+
+   Thu 20 Jul 2023 16.00 CESTLast modified on Sat 28 Oct 2023 13.15 CEST
+
+   Every election presents an opportunity for disinformation to find its
+   way into the public discourse. But as the 2024 US presidential race
+   begins to take shape, the growth of artificial intelligence (AI)
+   technology threatens to give propagandists powerful new tools to ply
+--
+
+   Generative AI models that are able to create unique content from simple
+   prompts are already being deployed for political purposes, taking
+   disinformation campaigns into strange new places. Campaigns have
+   circulated fake images and audio targeting other candidates, including
+   an AI-generated campaign ad attacking Joe Biden and deepfake videos
+   mimicking real-life news footage.
+   Disinformation reimagined: how AI could erode democracy in the 2024 US
+   elections
+   Read more
+
+--
+   in AI influence campaigns and how society is catching up to a new,
+   artificially created reality.
+
+   Concern around AI and its potential for disinformation has been around
+   for a while. What has changed that makes this threat more urgent?
+
+   When people became aware of deepfakes – which usually refers to
+--
+     With generative AI it is now effortless to generate highly
+     personalized content and to automate its dissemination
+
+   How do you think large language models can change political propaganda?
+
+   I want to caveat that describing what is tactically possible is not the
+   same thing as me saying the sky is falling. I’m not a doomer about this
+   technology. But I do think that we should understand generative AI in
+   the context of what it makes possible. It increases the number of
+   people who can create political propaganda or content. It decreases the
+   cost to do it. That’s not to say necessarily that they will, and so I
+   think we want to maintain that differentiation between this is the
+   tactic that a new technology enables versus that this is going to swing
+--
+   inaccurate content, has a muddying effect on information and trust.
+
+   It’s the scale that makes it really different. People have always been
+   able to create propaganda, and I think it’s very important to emphasize
+   that. There is an entire industry of people whose job it is to create
+   messages for campaigns and then figure out how to get them out into the
+   world. We’ve just changed the speed and the scale and the cost to do
+   that. It’s just an evolution in propaganda.
+
+     Where we’ve gone with generative AI is the fabrication of a complete
+     unreality, where nothing about the image is what it seems
+--
+   what they amplify and curate.
+
+   What’s the media or the public getting wrong about AI and
+   disinformation?
+
+   One of the real challenges is that people are going to believe what
+   they see if it conforms to what they want to believe. In a world of

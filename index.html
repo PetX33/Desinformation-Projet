@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projet Propagande et Désinformation</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Bulma CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.1/css/bulma.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./html_css/style.css">
+    <link rel="icon" type="image/png" href="./images/logo.png">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+        
+        <!-- Bouton Hamburger -->
+        <button class="navbar-toggler btn btn-outline-light" type="button" data-toggle="collapse" data-target="#navbarResponsive2" aria-controls="navbarResponsive2" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Contenu du menu -->
+        <div class="collapse" id="navbarResponsive2">
+            <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                <li class="nav-item"><a class="nav-link" href="./html_css/intro.html">Introduction</a></li>
+                <li class="nav-item"><a class="nav-link" href="./html_css/script.html">Scripts</a></li>
+                <li class="nav-item"><a class="nav-link" href="./html_css/analyse.html">Analyse</a></li>
+                <!-- Menu déroulant pour Tableaux -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Tableaux
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="./tableaux/tableau_fr.html">Français</a>
+                        <a class="dropdown-item" href="./tableaux/tableau_en.html">Anglais</a>
+                        <a class="dropdown-item" href="./tableaux/tableau_zh.html">Chinois</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+
+
+        <!-- Contenu du menu -->
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <div class="logo">
+                <a href="./index.html">
+                    <img src="./images/logo.png" width="auto">
+                </a>
+            </div>
+            <div class="navbar-menu">
+                <div class="navbar-start">
+                    <a class="navbar-item" href="./html_css/intro.html">Introduction</a>
+                    <a class="navbar-item" href="./html_css/script.html">Scripts</a>
+                    <a class="navbar-item" href="./html_css/analyse.html">Analyse</a>
+                    <div class="navbar-item has-dropdown is-hoverable">
+                        <a class="navbar-item">Tableaux</a>
+                        <div class="navbar-dropdown">
+                            <a class="navbar-item sub" href="./tableaux/tableau_fr.html">
+                                Français
+                            </a>
+                            <a class="navbar-item sub" href="./tableaux/tableau_en.html">
+                                Anglais
+                            </a>
+                            <a class="navbar-item sub" href="./tableaux/tableau_zh.html">
+                                Chinois
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="navbar-end">
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-item" href="./html_css/equipe.html">À propos</a>
+                </div>
+                <div class="navbar-item">
+                    <a href="https://github.com/PetX33/Desinformation-Projet">
+                        <img src="./images/github_blanc.png" alt="Github">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="background" style="background-image: url('images/background.png'); display: block;">
+        <div>
+            <h1 class="projet titre" style="width: 100%; text-align: center;">Désinformation & Propagande</h1>
+            <h1 class="projet titre" style="width: 100%; text-align: center; padding-left:50px"><a href="./html_css/intro.html" class="lien">introduction</a></h1>
+        </div>
+    </main>
+
+    <footer style="padding: 0; background-color: #514e4f; color: white;">
+        <p>© 2023/2024 - Projet Propagande et Désinformation - MA Zhiya • PENG Yuanlong • QUENNEHEN Perrine</p>
+    </footer>
+<script src="./html_css/script.js"></script>
+</body>
+</html>
