@@ -339,3 +339,8 @@ h2 {
     -webkit-text-stroke: 1px #282828;
     font-variant: small-caps;
 }
+
+p {
+    text-align: justify;
+    margin-bottom: 10px;
+}
