@@ -18,3 +18,12 @@
 **06/12**
 
 - Nous avons fait des mises à jour sur le site en y incluant les pages "équipe.html", "scripts.html", "intro.html" et "analyse.html". Nous avons également généré les nuages de mots. Nous avons rencontré quelques difficultés pour l'utilisation de --mask, en effet le fond noir et la forme blanche ne fonctionnait pas, contrairement à ce qui était indiqué, mais il fallait une image avec les couleurs inversés, fond blanc, forme noir.
+
+**18/12**
+
+- Ajout de l'analyses pour l'anglais (coocurrences (itrameur), nuage de mots) ainsi que différentes pages html.
+
+**01/01**
+
+- Ajout des analyses pour le français et le chinois, ainsi que la présentation de l'équipe
+- Finalisation du site
