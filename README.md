@@ -10,6 +10,6 @@ Membres du groupe :
 
 - Quennehen Perrine, Inalco, anglais
 
-Page web du projet : https://PetX33.github.io/Desinformation-Projet
+Page web du projet : https://petx33.github.io/Desinformation_Propagande-Projet/
 
 
