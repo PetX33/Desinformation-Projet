@@ -303,6 +303,9 @@ body.has-navbar-fixed-top, html.has-navbar-fixed-top {
     margin-right: 30px;
 }
 
+pre {
+    white-space: pre-wrap;;
+}
 
 pre code {
     background-color: transparent;
@@ -322,7 +325,7 @@ pre code {
 
 .scrollable {
     max-height: 900px; /* ou toute autre hauteur appropriée */
-    max-width: 800px;
+    max-width: 950px;
     overflow: auto; /* active le défilement si nécessaire */
     white-space: pre-wrap; /* optionnel, pour la césure des longues lignes */
     word-wrap: break-word; /* optionnel, pour la césure des mots */

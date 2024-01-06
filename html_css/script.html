@@ -588,7 +588,7 @@
                             </div>
                             <h2 class="title has-text-centered" id="Nuage" style="color:#428CB5">4. Nuage de Mots</h2>
                             <p>Ces programmes permettent de générer un nuage de mot pour chacune des langues.</p>
-                            <br><h6 id="anglais">Pour l'anglais</h6>
+                            <br><h6 id="anglais">Pour l'anglais</h6><br>
                             <div class="scrollable">
 <pre><code>
 <span><span class="blue">from</span> os <span class="blue">import</span> path</span>
@@ -644,7 +644,7 @@
 <span>plt.show()</span>
 </code></pre>
                             </div>
-                            <br><h6 id="chinois">Pour le chinois</h6>
+                            <br><h6 id="chinois">Pour le chinois</h6><br>
                             <div class="scrollable">
 <pre><code>
 <span><span class="blue">from</span> os <span class="blue">import</span> path</span>
@@ -696,7 +696,7 @@
 <span><span class="green"># Create a WordCloud instance with adjusted settings</span></span>
 <span>wc = WordCloud(background_color="white", max_words=<span class="purple">100</span>, mask=<span class="purple">china_mask</span>,</span>
 <span>               stopwords=<span class="purple">stopwords_zh</span>, contour_width=<span class="purple">1</span>, contour_color='steelblue',</span>
-<span>               scale=<span class="purple">3</span>, font_path=<span class="orange">"/System/Library/Fonts/PingFang.ttc"</span>)  # Specify the path to a Chinese font</span>
+<span>               scale=<span class="purple">3</span>, font_path=<span class="orange">"/System/Library/Fonts/PingFang.ttc"</span>)  <span class="green"># Specify the path to a Chinese font</span></span>
 <span>&nbsp;</span>
 <span><span class="green"># Generate word cloud</span></span>
 <span>wc.generate(all_text)</span>
@@ -714,7 +714,7 @@
 </code></pre>
                             </div>
 
-                            <br><h6 id="français">Pour le français</h6>
+                            <br><h6 id="français">Pour le français</h6><br>
                             <div class="scrollable">
 <pre><code>
 <span><span class="blue">from</span> os <span class="blue">import</span> path</span>
