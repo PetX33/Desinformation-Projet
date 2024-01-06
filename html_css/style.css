@@ -41,6 +41,7 @@ h1.titre{
 .section {
     display: table-cell;
     background-color: white;
+    padding: 3rem 3rem;
 }
 
 .corps {
@@ -60,6 +61,11 @@ h1.titre{
 .navbar.is-light {
     background-color: #514e4f;
     color: #4a4a4a;
+}
+
+ol li {
+    text-align: justify;
+    list-style-type: lower-alpha;
 }
 
 /* CSS variables for color scheme based on the logo */
@@ -104,6 +110,10 @@ a.navbar-item:hover {
 
 .nav-link{
     color:#d8d5d6;
+}
+
+a.nav-link.menu {
+    font-size: 16px;
 }
 
 .sub {
